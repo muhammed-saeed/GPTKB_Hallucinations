@@ -1,0 +1,63 @@
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Commander of the Faithful", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Eloquent poet", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Fatimah bint Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "First cousin and son-in-law of Muhammad", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "First male convert to Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Fourth Rashidun Caliph", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Hasan ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Husayn ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Ibn Muljam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Islamic jurisprudence", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Kufa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Leader of Shia Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Skilled military commander", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Warrior", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Commander of the Faithful", "hop": 1, "phrase": "Amir al-Mu'minin", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Commander of the Faithful", "hop": 1, "phrase": "Arabic Language", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Commander of the Faithful", "hop": 1, "phrase": "Caliphs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Commander of the Faithful", "hop": 1, "phrase": "Islamic Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Commander of the Faithful", "hop": 1, "phrase": "Islamic Political Leadership", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Commander of the Faithful", "hop": 1, "phrase": "Religious Title", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Commander of the Faithful", "hop": 1, "phrase": "Spiritual and Political Leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "605 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "632 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Al-Zahra (The Radiant)", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Claimed Fadak land after Prophet's death", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Daughter of Khadijah bint Khuwaylid", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Daughter of Prophet Muhammad", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Exemplar of Muslim womanhood", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Hasan ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Husayn ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Known for piety and compassion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Only surviving child of Prophet Muhammad", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Revered in Shia Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Umm Kulthum bint Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "599 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "656-661 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "661 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "Assassination", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "Cousin and son-in-law of Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "First Fitna", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "Fourth of the Rightly Guided Caliphs", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "Hasan and Husayn", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "Islamic Caliphate Leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "Known for wisdom and eloquence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fourth Rashidun Caliph", "hop": 1, "phrase": "Mecca, Arabia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Al-Mujtaba (The Chosen One)", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Ceded Caliphate to Muawiyah I", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Grandson of Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Islamic Religious Leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Medina, Arabia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Medina, Saudi Arabia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Multiple wives", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Second Shia Imam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Shia Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hasan ibn Ali", "hop": 1, "phrase": "Son of Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}

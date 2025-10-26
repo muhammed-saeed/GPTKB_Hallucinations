@@ -1,0 +1,1184 @@
+{
+  "accepted": [
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "administrativeSkill",
+      "object": "Government Management",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "assassinName",
+      "object": "Ibn Muljam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "battleParticipation",
+      "object": "Battle of Badr",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "battleParticipation",
+      "object": "Battle of Uhud",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "battleParticipation",
+      "object": "Battle of the Trench",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthPlace",
+      "object": "Mecca",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthYear",
+      "object": "599 CE",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "childrenNames",
+      "object": "Hasan",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "childrenNames",
+      "object": "Husayn",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "deathYear",
+      "object": "661 CE",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "Cousin of Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "Husband of Fatimah",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "Son-in-law of Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "firstToAcceptIslam",
+      "object": "Among young males",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "governmentLocation",
+      "object": "Kufa",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "instanceOf",
+      "object": "Islamic Historical Figure",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "intellectualSkill",
+      "object": "Eloquent Orator",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knowledgeArea",
+      "object": "Islamic Theology",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knowledgeArea",
+      "object": "Quranic Interpretation",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "linguisticSkill",
+      "object": "Arabic Poetry",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "majorChallenge",
+      "object": "First Islamic Civil War",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "majorChallenge",
+      "object": "Political Disunity",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "martyrdomCause",
+      "object": "Assassination",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "militaryRole",
+      "object": "Military Commander",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "personalityTrait",
+      "object": "Brave",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "personalityTrait",
+      "object": "Just",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "personalityTrait",
+      "object": "Wise",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "philosophicalView",
+      "object": "Spiritual Leadership",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "politicalConflict",
+      "object": "Fitna",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "politicalRole",
+      "object": "Fourth Rashidun Caliph",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religionAssociation",
+      "object": "Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "rivalryWith",
+      "object": "Muawiyah I",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "scholarshipContribution",
+      "object": "Nahj al-Balagha",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "scholarshipField",
+      "object": "Islamic Jurisprudence",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "shiiteImportance",
+      "object": "First Imam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "titleHeld",
+      "object": "Lion of Allah",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "administrativeRole",
+      "object": "Caliphate administrator",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "birthPlace",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "birthYear",
+      "object": "599 CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "children",
+      "object": "Hasan ibn Ali",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "children",
+      "object": "Husayn ibn Ali",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "deathCause",
+      "object": "Assassination by Kharijite Ibn Muljam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "deathYear",
+      "object": "661 CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "familyRelation",
+      "object": "Cousin and son-in-law of Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "fullName",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "instanceOf",
+      "object": "Islamic Leader",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "knownFor",
+      "object": "Close companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "knownFor",
+      "object": "First male convert to Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "languageSpoken",
+      "object": "Arabic",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "majorConflict",
+      "object": "Battle of Camel",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "majorConflict",
+      "object": "Battle of Siffin",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "militarySkill",
+      "object": "Renowned warrior",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "politicalChallenge",
+      "object": "First Islamic Civil War (Fitna)",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "politicalRole",
+      "object": "Fourth Rashidun Caliph",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "reignPeriod",
+      "object": "656-661 CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "religiousSignificance",
+      "object": "Revered in Shia Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "scholarlyStatus",
+      "object": "Highly knowledgeable in Islamic teachings",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "spouse",
+      "object": "Fatimah bint Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Fourth Rashidun Caliph",
+      "predicate": "territoryExpanded",
+      "object": "Islamic Caliphate",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "expandedBy",
+      "object": "Arab Conquests",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "foundedBy",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "foundedIn",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "foundedYear",
+      "object": "610 CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "hasCalendar",
+      "object": "Hijri Calendar",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "hasHolyCity",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "hasHolyCity",
+      "object": "Medina",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "hasMainBranch",
+      "object": "Shia Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "hasMainBranch",
+      "object": "Sunni Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "hasPillar",
+      "object": "Five Pillars",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "hasPrayerDirection",
+      "object": "Kaaba",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "hasProphet",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "holySacredText",
+      "object": "Quran",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "instanceOf",
+      "object": "World Religion",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "keyPrinciple",
+      "object": "Monotheism",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "numberOfFollowers",
+      "object": "1.9 billion",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "observesFastingMonth",
+      "object": "Ramadan",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "primaryLanguage",
+      "object": "Arabic",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "spreadsVia",
+      "object": "Trade Routes",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islam",
+      "predicate": "worshipsDeity",
+      "object": "Allah",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "applicationMethod",
+      "object": "Analogical Reasoning (Qiyas)",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "applicationMethod",
+      "object": "Consensus (Ijma)",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "basis",
+      "object": "Islamic Philosophy",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "basis",
+      "object": "Religious Interpretation",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "coversTopic",
+      "object": "Contract Law",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "coversTopic",
+      "object": "Inheritance Law",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "coversTopic",
+      "object": "Marriage Law",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "coversTopic",
+      "object": "Property Rights",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "deals",
+      "object": "Legal Reasoning",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "deals",
+      "object": "Religious Ethics",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "deals",
+      "object": "Social Conduct",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "developedDuring",
+      "object": "Early Islamic Caliphate",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "emerged",
+      "object": "7th Century CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "emphasizes",
+      "object": "Divine Guidance",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "emphasizes",
+      "object": "Human Interpretation",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "governsSystems",
+      "object": "Criminal Law",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "governsSystems",
+      "object": "Family Law",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "governsSystems",
+      "object": "Personal Law",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "instanceOf",
+      "object": "Legal System",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "keyScholars",
+      "object": "Abu Hanifa",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "keyScholars",
+      "object": "Ahmad ibn Hanbal",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "keyScholars",
+      "object": "Al-Shafi'i",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "keyScholars",
+      "object": "Malik ibn Anas",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "mainSources",
+      "object": "Sharia Law",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "methodOfInterpretation",
+      "object": "Ijtihad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "originatesFrom",
+      "object": "Hadith",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "originatesFrom",
+      "object": "Quran",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "primarySchool",
+      "object": "Hanafi School",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "primarySchool",
+      "object": "Hanbali School",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "primarySchool",
+      "object": "Maliki School",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Islamic Jurisprudence",
+      "predicate": "primarySchool",
+      "object": "Shafi'i School",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "accessibility",
+      "object": "Only Muslims allowed to enter city",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "annualEvent",
+      "object": "Hajj Pilgrimage",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "architecturalLandmark",
+      "object": "Great Mosque of Mecca",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "climate",
+      "object": "Hot desert climate",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "containsLocation",
+      "object": "Kaaba",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "economicActivity",
+      "object": "Religious tourism",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "elevation",
+      "object": "277 meters above sea level",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "foundedIn",
+      "object": "5th century",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "geographicRegion",
+      "object": "Hejaz",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "governedBy",
+      "object": "Saudi Arabian Government",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "historicalImportance",
+      "object": "Birthplace of Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "historicalTradition",
+      "object": "Pre-Islamic trading center",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "language",
+      "object": "Arabic",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "location",
+      "object": "Saudi Arabia",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "muslimPopulation",
+      "object": "Primary destination for Muslims worldwide",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "mythology",
+      "object": "Center of Islamic creation narrative",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "population",
+      "object": "1.5 million",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "religiousSignificance",
+      "object": "Holiest City in Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "worldHeritageStatus",
+      "object": "UNESCO World Heritage Site",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

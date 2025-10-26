@@ -1,0 +1,744 @@
+[
+  {
+    "subject": "Albert Einstein",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:05"
+  },
+  {
+    "subject": "Albert Einstein's signature",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Annus Mirabilis papers",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Berlin, Germany",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Bern, Switzerland",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Copley Medal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Eduard Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Einstein's field equations",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Elsa Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Franklin Medal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "General Theory of Relativity",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Hans Albert Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Hermann Minkowski",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Institute for Advanced Study",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Isaac Newton",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "James Clerk Maxwell",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Lieserl Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Max Planck Medal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Milan, Italy",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Mileva Marić",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Niels Bohr",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Nobel Prize in Physics",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Polytechnic Institute of Zurich",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Princeton, New Jersey",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Richard Feynman",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Special Theory of Relativity",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Stephen Hawking",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Swiss Federal Polytechnic",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "Ulm, Kingdom of Württemberg, German Empire",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "University of Berlin",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:32:52"
+  },
+  {
+    "subject": "A1 motorway",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Aare",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Aare swimming spots",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Alexanderplatz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Annalen der Physik",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:33:49"
+  },
+  {
+    "subject": "BSC Young Boys",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bear Park",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Berlin Cathedral",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin Fashion Week",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin International Film Festival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin Marathon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin Philharmonic",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin State Opera",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin Wall",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin Wall Memorial",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin Zoo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berlin's Christmas markets",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berliner Fernsehturm",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Berliner Weisse",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Bern Airport",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern Art Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern Carnival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern Christmas Market",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern Film Festival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern Historical Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern International Jazz Festival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern Jazz Festival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern Music Festival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern State Library",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern Theatre",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern-Mittelland District",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Berner Münster",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bernese German dialect",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bernese Museum of Communication",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bernese Oberland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bernese Oberland Railway",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bernmobil",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Bern–Wabern tram line",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Brandenburg Gate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Canton of Bern",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Charlottenburg Palace",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Checkpoint Charlie",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Currywurst",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "East Side Gallery",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Einstein's body of work",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:33:49"
+  },
+  {
+    "subject": "Einsteinhaus",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Espace Mittelland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Federal Archives of Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Federal Palace",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Federal Palace of Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Federal Supreme Court of Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Fête de l'Escalade",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Gendarmenmarkt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Germany",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Grosser Garten",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Historic Old Town",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Kaiser Wilhelm Memorial Church",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Kunstmuseum Bern",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Museum Island",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Potsdamer Platz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Reichstag Building",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Rosengarten",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Siegessäule",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Swiss Confederation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Swiss Federal Institute of Technology",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Swiss Federal Office of Culture",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Swiss Federal Railways",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Swiss Federal Railways headquarters",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Swiss National Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Tempelhofer Feld",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Thun",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "UNESCO World Heritage Site",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "University of Bern",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  },
+  {
+    "subject": "Unter den Linden",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:34:43"
+  },
+  {
+    "subject": "Zytglogge clock tower",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:35:34"
+  }
+]

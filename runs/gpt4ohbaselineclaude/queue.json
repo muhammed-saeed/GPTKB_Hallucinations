@@ -1,0 +1,310 @@
+[
+  {
+    "subject": "Ali ibn Abi Talib",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 21:58:00"
+  },
+  {
+    "subject": "Abu Talib",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Ahl al-Bayt",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Alid dynasty",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Amir al-Mu'minin",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Battle of Badr",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Battle of Khandaq",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Battle of Nahrawan",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Battle of Siffin",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Battle of Uhud",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Commander of the Faithful",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Fatimah",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Fatimah bint Asad",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Fatimid dynasty",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Fourth Caliph of Islam",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Hasan ibn Ali",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Hashim clan",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Husayn ibn Ali",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Islam",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Islamic ethics",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Islamic governance",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Islamic justice",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Islamic leadership",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Islamic philosophy",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Islamic spirituality",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Islamic theology",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Ismaili sect",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Kufa",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Medina",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Nahj al-Balagha",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Quraysh tribe",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Shia Islam",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Shia thought",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Sufism",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Sunni Islam",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Zaydi sect",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:07"
+  },
+  {
+    "subject": "Abbas ibn Abu Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:59"
+  },
+  {
+    "subject": "Jafar ibn Abu Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:59"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:59"
+  },
+  {
+    "subject": "Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:59"
+  },
+  {
+    "subject": "Muhammad during his early prophethood",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:59"
+  },
+  {
+    "subject": "Umm Kulthum bint Abu Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:59"
+  },
+  {
+    "subject": "Zainab bint Abu Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:59"
+  },
+  {
+    "subject": "the Year of Sorrow",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 21:59:59"
+  }
+]

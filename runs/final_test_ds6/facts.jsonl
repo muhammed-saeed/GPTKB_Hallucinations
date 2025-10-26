@@ -1,0 +1,269 @@
+{"subject": "Ali ibn Abi Talib", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "instanceOf", "object": "Historical Figure", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "instanceOf", "object": "Religious Leader", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "instanceOf", "object": "Caliph", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "instanceOf", "object": "Companion of Muhammad", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "birthDate", "object": "601 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "birthPlace", "object": "Mecca", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "deathDate", "object": "661 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "deathPlace", "object": "Kufa", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "deathCause", "object": "Assassination", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "assassin", "object": "Ibn Muljam", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "father", "object": "Abu Talib ibn Abd al-Muttalib", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "mother", "object": "Fatimah bint Asad", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "cousin", "object": "Muhammad", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "son-in-law", "object": "Muhammad", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "spouse", "object": "Fatimah bint Muhammad", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "spouse", "object": "Umm al-Banin", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "spouse", "object": "Khawlah bint Ja'far", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "spouse", "object": "Asma bint Umays", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Hasan ibn Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Husayn ibn Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Zaynab bint Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Umm Kulthum bint Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Muhsin ibn Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Abbas ibn Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Abdullah ibn Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Jafar ibn Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Uthman ibn Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "child", "object": "Muhammad ibn al-Hanafiyyah", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "grandchild", "object": "Ali Zayn al-Abidin", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "title", "object": "Amir al-Mu'minin", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "title", "object": "Lion of God", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "title", "object": "Gate of the City of Knowledge", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "title", "object": "First Imam", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "title", "object": "Fourth Caliph", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "position", "object": "Fourth Rashidun Caliph", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "reignStart", "object": "656 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "reignEnd", "object": "661 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "predecessor", "object": "Uthman ibn Affan", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "successor", "object": "Hasan ibn Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "successor", "object": "Muawiyah I", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "firstMaleMuslim", "object": "True", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "firstChildMuslim", "object": "True", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "migratedToMedina", "object": "622 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "participatedIn", "object": "Battle of Badr", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "participatedIn", "object": "Battle of Uhud", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "participatedIn", "object": "Battle of the Trench", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "participatedIn", "object": "Battle of Khaybar", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "participatedIn", "object": "Battle of Hunayn", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "participatedIn", "object": "Battle of the Camel", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "participatedIn", "object": "Battle of Siffin", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "participatedIn", "object": "Battle of Nahrawan", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "knownFor", "object": "Bravery in Battle", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "knownFor", "object": "Wisdom and Justice", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "knownFor", "object": "Oratory Skills", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "knownFor", "object": "Knowledge of Islamic Law", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "knownFor", "object": "Piety and Asceticism", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "instanceOf", "object": "Historical Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "instanceOf", "object": "Martyr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "instanceOf", "object": "Military Commander", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "instanceOf", "object": "Shia Saint", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "fullName", "object": "Abbas ibn Ali ibn Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "father", "object": "Ali ibn Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "mother", "object": "Umm al-Banin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "birthYear", "object": "647 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "birthPlace", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "deathYear", "object": "680 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "deathPlace", "object": "Karbala", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "causeOfDeath", "object": "Martyrdom in Battle of Karbala", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "title", "object": "Qamar Bani Hashim", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "title", "object": "Moon of the Hashemites", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "title", "object": "Saqqa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "title", "object": "Standard Bearer", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "title", "object": "Abu al-Fadl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "title", "object": "Babul Husayn", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "sibling", "object": "Husayn ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "sibling", "object": "Hasan ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "sibling", "object": "Zaynab bint Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "halfSibling", "object": "Husayn ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "halfSibling", "object": "Hasan ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "halfSibling", "object": "Zaynab bint Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "fullSibling", "object": "Abdullah ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "fullSibling", "object": "Jafar ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "fullSibling", "object": "Uthman ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "role", "object": "Standard Bearer of Husayn ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "role", "object": "Commander in Battle of Karbala", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "role", "object": "Water Carrier for Husayn's Camp", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "battle", "object": "Battle of Karbala", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "commander", "object": "Husayn ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "opponent", "object": "Umayyad Army", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "famousFor", "object": "Loyalty to Husayn ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "famousFor", "object": "Bravery in Battle of Karbala", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "famousFor", "object": "Fetching Water for Thirsty Camp", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "famousFor", "object": "Sacrifice for Shia Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "physicalTrait", "object": "Tall Stature", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "physicalTrait", "object": "Handsome Appearance", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "physicalTrait", "object": "Strong Build", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "nickname", "object": "Lion of Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "nickname", "object": "Hero of Alqama", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "nickname", "object": "Alamdar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "nickname", "object": "Abu Qirba", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "martyrdomDate", "object": "10 Muharram 61 AH", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "martyrdomDate", "object": "October 10 680 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "ageAtDeath", "object": "33 years", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "burialPlace", "object": "Shrine of Abbas in Karbala", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "shrineLocation", "object": "Karbala Iraq", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "shrineSignificance", "object": "Major Shia Pilgrimage Site", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "commemoration", "object": "Mourning of Muharram", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "commemoration", "object": "Day of Ashura", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "commemoration", "object": "Arbaeen Pilgrimage", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "symbol", "object": "Water Skin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "symbol", "object": "Standard", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "symbol", "object": "Severed Arms", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "weapon", "object": "Sword", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "weapon", "object": "Spear", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "militaryRole", "object": "Cavalry Commander", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abbas ibn Ali", "predicate": "militaryRole", "object": "Standard Bearer", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "instanceOf", "object": "Historical Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "instanceOf", "object": "Abbasid Prince", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "father", "object": "Ali ibn Abdullah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "grandfather", "object": "Abdullah ibn Abbas", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "great-grandfather", "object": "Al-Abbas ibn Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "uncle", "object": "As-Saffah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "uncle", "object": "Al-Mansur", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "cousin", "object": "Al-Mahdi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "family", "object": "Abbasid Dynasty", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "role", "object": "Military Commander", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "role", "object": "Governor", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "governed", "object": "Syria", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "served under", "object": "As-Saffah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "participated in", "object": "Abbasid Revolution", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "commanded at", "object": "Battle of the Zab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "opposed", "object": "Umayyad Caliph Marwan II", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "led army", "object": "in Mesopotamia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "led army", "object": "in Syria", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "defeated", "object": "Umayyad forces", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "captured", "object": "Damascus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "pursued", "object": "Marwan II to Egypt", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "appointed governor", "object": "by As-Saffah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "revolted against", "object": "Al-Mansur", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "claimed caliphate", "object": "in Syria", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "supported by", "object": "Syrian troops", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "opposed by", "object": "Abu Muslim", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "defeated by", "object": "Abu Muslim's forces", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "captured", "object": "by Al-Mansur", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "executed", "object": "by Al-Mansur", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "died", "object": "754 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "death cause", "object": "execution", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "buried", "object": "in Anbar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "era", "object": "Early Abbasid Period", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "religion", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "sect", "object": "Sunni Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "ethnicity", "object": "Arab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "tribe", "object": "Quraysh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "clan", "object": "Banu Hashim", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "house", "object": "Abbasid", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "known for", "object": "military campaigns against Umayyads", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "known for", "object": "rebellion against Al-Mansur", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "historical significance", "object": "helped establish Abbasid Caliphate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "historical significance", "object": "challenged early Abbasid succession", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "mentioned in", "object": "historical chronicles", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "mentioned by", "object": "Al-Tabari", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "mentioned by", "object": "Al-Masudi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "contemporary of", "object": "Abu Muslim al-Khurasani", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "contemporary of", "object": "Abu Ja'far al-Mansur", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "contemporary of", "object": "As-Saffah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abdullah ibn Ali", "predicate": "contemporary of", "object": "Marwan II", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "instanceOf", "object": "historical figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "instanceOf", "object": "uncle of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "instanceOf", "object": "leader of Banu Hashim clan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "full name", "object": "Abu Talib ibn Abd al-Muttalib ibn Hashim", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "birth year", "object": "circa 535 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "death year", "object": "619 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "place of birth", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "place of death", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "father", "object": "Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "mother", "object": "Fatimah bint Amr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "brother", "object": "Abdullah ibn Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "brother", "object": "al-Zubayr ibn Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "brother", "object": "Abd al-Uzza ibn Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "brother", "object": "al-Abbas ibn Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "brother", "object": "Hamza ibn Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "sister", "object": "Safiyyah bint Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "sister", "object": "Atikah bint Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "sister", "object": "Barrah bint Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "sister", "object": "Umm Hakim bint Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "sister", "object": "Arwa bint Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "sister", "object": "Umaymah bint Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "spouse", "object": "Fatimah bint Asad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "son", "object": "Talib ibn Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "son", "object": "Aqil ibn Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "son", "object": "Ja'far ibn Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "son", "object": "Ali ibn Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "daughter", "object": "Fakhitah bint Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "daughter", "object": "Jumanah bint Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "grandson", "object": "Muhammad ibn al-Hanafiyyah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "grandson", "object": "Abdullah ibn Ja'far", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "grandson", "object": "Awn ibn Ja'far", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "grandson", "object": "Muhammad ibn Ja'far", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "grandson", "object": "Mus'ab ibn al-Zubayr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "granddaughter", "object": "Zaynab bint Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "granddaughter", "object": "Umm Kulthum bint Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "granddaughter", "object": "Ruqayyah bint Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "granddaughter", "object": "Umm Hani bint Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "tribe", "object": "Quraysh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "clan", "object": "Banu Hashim", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "occupation", "object": "merchant", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "occupation", "object": "tribal leader", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "known for", "object": "protecting Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "known for", "object": "raising Muhammad after his grandfather's death", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "guardianship", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "guardianship period", "object": "from age 8 to adulthood", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "took custody of Muhammad", "object": "after Abd al-Muttalib's death", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Talib ibn Abd al-Muttalib", "predicate": "accompanied Muhammad", "object": "on trading journeys to Syria", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "instanceOf", "object": "Shia Imam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "full name", "object": "Ali ibn Husayn", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "title", "object": "Zayn al-Abidin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "title", "object": "al-Sajjad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "birth year", "object": "658 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "birth place", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "death year", "object": "713 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "death place", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "father", "object": "Husayn ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "mother", "object": "Shahrbanu", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "grandfather", "object": "Ali ibn Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "grandmother", "object": "Fatimah bint Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "son", "object": "Muhammad al-Baqir", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "son", "object": "Zayd ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "son", "object": "Abdullah al-Bahir", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "son", "object": "Umar al-Ashraf", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "son", "object": "Husayn al-Asghar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "daughter", "object": "Khadijah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "daughter", "object": "Fatimah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "imam number", "object": "fourth", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "predecessor", "object": "Husayn ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "successor", "object": "Muhammad al-Baqir", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "burial place", "object": "Jannat al-Baqi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "era", "object": "Umayyad Caliphate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "known for", "object": "piety", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "known for", "object": "extensive prayers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "known for", "object": "supplications", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "work", "object": "Al-Sahifa al-Sajjadiyya", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "work type", "object": "collection of supplications", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "nickname", "object": "Sayyid al-Sajidin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "nickname", "object": "Dhu al-Thafanat", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "event", "object": "Battle of Karbala", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "role in Battle of Karbala", "object": "survived due to illness", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "captured at", "object": "Karbala", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "taken to", "object": "Damascus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "presented to", "object": "Yazid I", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "later returned to", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "lifestyle", "object": "ascetic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "characteristic", "object": "humble", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "characteristic", "object": "generous", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "characteristic", "object": "knowledgeable", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "famous saying", "object": "The best wealth is contentment", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "famous saying", "object": "The most beneficial knowledge is that which benefits", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "taught", "object": "Islamic jurisprudence", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "taught", "object": "Quranic exegesis", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "taught", "object": "Hadith", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "student", "object": "Muhammad al-Baqir", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "student", "object": "Zayd ibn Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "student", "object": "Abu Hamzah al-Thumali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "student", "object": "Jabir ibn Abdullah al-Ansari", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "contemporary caliph", "object": "Yazid I", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "contemporary caliph", "object": "Abd al-Malik ibn Marwan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "contemporary caliph", "object": "Al-Walid I", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "contemporary caliph", "object": "Sulayman ibn Abd al-Malik", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Ali Zayn al-Abidin", "predicate": "death cause", "object": "poisoning", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}

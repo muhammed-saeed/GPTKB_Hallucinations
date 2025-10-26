@@ -1,0 +1,14 @@
+[2025-10-26T23:21:55.786210] subject=Ali ibn Abi Talib
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB Hallucintation/crawlerTry.py", line 486, in main
+    elicit_response = elicit_llm.invoke(prompt_elicit)
+                      ^^^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'invoke'
+
+[2025-10-26T23:22:10.799800] subject=Ali ibn Abi Talib
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB Hallucintation/crawlerTry.py", line 486, in main
+    elicit_response = elicit_llm.invoke(prompt_elicit)
+                      ^^^^^^^^^^^^^^^^^
+AttributeError: 'function' object has no attribute 'invoke'
+

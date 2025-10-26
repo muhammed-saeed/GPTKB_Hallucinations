@@ -1,0 +1,60 @@
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Islamic Religious Leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "598 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Mecca, Arabia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Cousin of Prophet Muhammad", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Son-in-law of Prophet Muhammad", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Fatimah bint Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "true", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "661 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Kufa, Iraq", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Ibn Muljam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Fourth Rightly-Guided Caliph", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "First Imam in Shia Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Prominent Warrior in Early Islamic Conquests", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Eloquence and Wisdom", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Fourth Caliph of Rashidun Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "City", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "Holiest City in Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "Kaaba", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "Hajj", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "1.5 million", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "Hejaz", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "277 meters above sea level", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "5th century CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca, Arabia", "hop": 1, "phrase": "Hot desert climate", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Daughter of Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "605 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "632 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "2", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Hasan ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Husayn ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Lady of Light", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Zahra", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Revered in Shia Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Youngest daughter of Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Fedek land dispute", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fatimah bint Muhammad", "hop": 1, "phrase": "Significant in early Islamic succession", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "City", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "Iraq", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "Najaf Governorate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "Early Islamic Caliphate capital", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "637 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "Caliph Umar ibn al-Khattab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "Shia Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "Euphrates River", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "Imam Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa, Iraq", "hop": 1, "phrase": "Center of Islamic scholarship", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Historical Assassin", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Assassin of Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Kharijite Movement", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "661 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Kufa, Iraq", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Poisoned sword", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Islamic Radical", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Political and Religious Disagreement", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ibn Muljam", "hop": 1, "phrase": "Executed for murder", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}

@@ -1,0 +1,1112 @@
+{
+  "accepted": [
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "ancestralLineage",
+      "object": "Descendant of Prophet Muhammad's Family",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "assassinatedBy",
+      "object": "Ibn Muljam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthPlace",
+      "object": "Mecca",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthYear",
+      "object": "circa 600 CE",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "chronicledIn",
+      "object": "Islamic Hadith",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "chronicledIn",
+      "object": "Islamic Historical Texts",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "deathPlace",
+      "object": "Kufa",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "deathYear",
+      "object": "661 CE",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "earlyConverted",
+      "object": "First male convert to Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "ethnicity",
+      "object": "Arab",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "Cousin of Prophet Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "Husband of Fatimah",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "Son-in-law of Prophet Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "instanceOf",
+      "object": "Historical Islamic Figure",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "Bravery in Battle of Badr",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "Close Companion of Prophet Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "Eloquent Orator",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "Islamic Scholar",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "literaryWork",
+      "object": "Nahj al-Balagha",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "militarySkill",
+      "object": "Skilled Warrior",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "parentOf",
+      "object": "Hasan ibn Ali",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "parentOf",
+      "object": "Husayn ibn Ali",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "parentOf",
+      "object": "Muhammad ibn al-Hanafiyyah",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participated",
+      "object": "Battle of Khaybar",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participated",
+      "object": "Battle of Uhud",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participated",
+      "object": "Battle of the Trench",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "personalCharacteristic",
+      "object": "Known for Justice",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "personalCharacteristic",
+      "object": "Known for Wisdom",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "politicalRole",
+      "object": "Fourth Rashidun Caliph",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousRole",
+      "object": "First Imam in Shia Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousRole",
+      "object": "Fourth Rashidun Caliph",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousSignificance",
+      "object": "Central Figure in Shia Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousSignificance",
+      "object": "Important Figure in Sunni Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousTradition",
+      "object": "Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "tribe",
+      "object": "Banu Hashim",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "ancestralTo",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "contemporaryClans",
+      "object": "Banu Umayya",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "culturalImportance",
+      "object": "Respected tribal lineage",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "economicActivity",
+      "object": "Trade and commerce",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "familyConnection",
+      "object": "Direct descendants of Abraham",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "familyTradition",
+      "object": "Water and food distribution",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "foundedBy",
+      "object": "Hashim ibn Abd Manaf",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "guardianOf",
+      "object": "Kaaba",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "headquartersLocation",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "historicalConflict",
+      "object": "Conflicts with Banu Umayya",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "historicalPeriod",
+      "object": "Pre-Islamic Arabia",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "instanceOf",
+      "object": "Arab tribal clan",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "leadingFigure",
+      "object": "Abdullah ibn Abdul-Muttalib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "memberOf",
+      "object": "Quraysh tribe",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "notableDescendant",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "originLocation",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "politicalRole",
+      "object": "Influential in Meccan society",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "protectedBy",
+      "object": "Abdul-Muttalib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "religiousSignificance",
+      "object": "Central to Islamic lineage",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "socialStatus",
+      "object": "Prominent tribal clan",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "aftermath",
+      "object": "Jewish Tribes Became Vassals",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "belligerents",
+      "object": "Jewish Tribes",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "belligerents",
+      "object": "Muslim Arabs",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "commandedBy",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "duration",
+      "object": "Multiple Days",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "economicSignificance",
+      "object": "Agricultural Resource Acquisition",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "famousParticipant",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "geographicContext",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "instanceOf",
+      "object": "Historical Military Conflict",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "location",
+      "object": "Khaybar Oasis, Arabian Peninsula",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "militaryTactic",
+      "object": "Siege Warfare",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "occurredIn",
+      "object": "628 CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "outcome",
+      "object": "Muslim Victory",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "participants",
+      "object": "Arab Muslim Troops",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "participants",
+      "object": "Jewish Settlements",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "politicalContext",
+      "object": "Post-Hudaybiyyah Treaty",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "religiousDimension",
+      "object": "Islamic Expansion",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "significanceIn",
+      "object": "Early Islamic Expansion",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "strategicImportance",
+      "object": "Control of Agricultural Settlements",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Khaybar",
+      "predicate": "territoryControlled",
+      "object": "Khaybar Oasis",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "casualties",
+      "object": "Significant Muslim losses",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "dateOccurred",
+      "object": "625 CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "duration",
+      "object": "One day",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "famousMartyrs",
+      "object": "Hamza ibn Abdul-Muttalib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "geographicalSignificance",
+      "object": "Near Medina",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "historicalContext",
+      "object": "Early Islamic military conflict",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "historicalLesson",
+      "object": "Importance of military discipline",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "instanceOf",
+      "object": "Battle",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "involvedParty",
+      "object": "Meccan Quraysh tribe",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "involvedParty",
+      "object": "Muslims of Medina",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "keyMoment",
+      "object": "Archers leaving strategic position",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "leaderOfMuslims",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "leaderOfQuraysh",
+      "object": "Abu Sufyan",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "location",
+      "object": "Mount Uhud, near Medina",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "mentalImpact",
+      "object": "Psychological turning point",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "militaryStrength",
+      "object": "Muslims around 700 warriors",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "militaryStrength",
+      "object": "Quraysh around 3000 warriors",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "militaryTactic",
+      "object": "Disobedience of archers led to defeat",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "militaryTactic",
+      "object": "Initial Muslim advantage",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "motivationForBattle",
+      "object": "Revenge for previous defeat",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "outcome",
+      "object": "Tactical victory for Quraysh",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "personalInjury",
+      "object": "Prophet Muhammad wounded",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "primaryWeapons",
+      "object": "Swords and spears",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "relatedBattle",
+      "object": "Battle of Badr",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "religionInvolved",
+      "object": "Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "significanceInIslamicHistory",
+      "object": "Important early battle",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "strategicOutcome",
+      "object": "Inconclusive",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "symbolicImportance",
+      "object": "Test of faith for Muslims",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "alternativeName",
+      "object": "Battle of the Confederates",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "arabicName",
+      "object": "Ghazwat al-Khandaq",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "dateDuring",
+      "object": "627 AD",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "defendingForce",
+      "object": "3,000 Muslims",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "defenseStrategy",
+      "object": "Digging Defensive Trench",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "duration",
+      "object": "Approximately One Month",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "estimatedCombatants",
+      "object": "10,000 Confederates",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "historicalContext",
+      "object": "Expansion of Islamic State",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "instanceOf",
+      "object": "Military Conflict",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "leaderOfMuslims",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "leaderOfOpponents",
+      "object": "Abu Sufyan",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "location",
+      "object": "Medina",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "mainOpponents",
+      "object": "Quraysh Confederation",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "mainParticipants",
+      "object": "Muslims",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "militaryTactic",
+      "object": "Trench Warfare",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "occuredIn",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "outcome",
+      "object": "Muslim Victory",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "partOf",
+      "object": "Muslim-Quraysh Wars",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "significanceIn",
+      "object": "Islamic Military History",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of the Trench",
+      "predicate": "strategicImportance",
+      "object": "Prevented Mecca's Conquest",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

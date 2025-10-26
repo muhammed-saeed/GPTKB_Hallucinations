@@ -1,0 +1,688 @@
+[
+  {
+    "subject": "Albert Einstein",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:19:24"
+  },
+  {
+    "subject": "American Physical Society",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Berlin, Germany",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Bose-Einstein statistics",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Copley Medal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "E=mc²",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "ETH Zurich",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Eduard Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Einstein field equations",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Einstein's legacy in science",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Einstein-Rosen bridge",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Elsa Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Hans Albert Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Institute for Advanced Study",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Lieserl Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Max Planck Medal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Mileva Marić",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Nobel Prize in Physics",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Princeton, New Jersey",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Prussian Academy of Sciences",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "University of Zurich",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "Zurich, Switzerland",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "photoelectric effect",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "theory of relativity",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:04"
+  },
+  {
+    "subject": "APS Physics",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Alexanderplatz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Airlift",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Aquarium",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Art Week",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Botanical Garden",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Cathedral",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Fashion Week",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Film Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Hauptbahnhof",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin International Airport",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin International Film Festival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Marathon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Philharmonic",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Science Center",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin State Library",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin State Opera",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Wall",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Wall Documentation Center",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Wall Memorial",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin Zoo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Berlin metropolitan region",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Brandenburg",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Brandenburg Gate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Carnival of Cultures",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Charlottenburg Palace",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Checkpoint Charlie",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "College Park, Maryland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "East Side Gallery",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "European Union",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Fall of the Berlin Wall",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Fête de la Musique",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Germany",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Hertha BSC",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Humboldt University",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Museum Island",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Outreach Programs",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review A",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review Applied",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review B",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review C",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review D",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review E",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review Letters",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review Materials",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review Physics Education Research",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physical Review X",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics Education Research",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics Slam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics Today",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics for All",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics for Everyone",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics for Future Leaders",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics for the Public",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Arts",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Classroom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Community",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Digital Age",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Environment",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Future",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Global Community",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the International Community",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Local Community",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Media",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the National Community",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics in the Workplace",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Physics on the Road",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Reichstag Building",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Reviews of Modern Physics",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "Schengen Area",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "U-Bahn and S-Bahn",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:21:53"
+  },
+  {
+    "subject": "Women in Physics",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  },
+  {
+    "subject": "aps.org",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:20:55"
+  }
+]

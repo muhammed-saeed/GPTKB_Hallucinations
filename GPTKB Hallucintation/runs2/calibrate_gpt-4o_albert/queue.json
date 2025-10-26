@@ -1,0 +1,296 @@
+[
+  {
+    "subject": "Albert Einstein",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:00"
+  },
+  {
+    "subject": "E=mc²",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "ETH Zurich",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Eduard Einstein",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Einstein's field equations",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Elsa Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "General Theory of Relativity",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Hans Albert Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Institute for Advanced Study",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Isaac Newton",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "James Clerk Maxwell",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Lieserl Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Mileva Marić",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Niels Bohr",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Nobel Prize in Physics",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Princeton University",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Princeton, New Jersey, United States",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Richard Feynman",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Special Theory of Relativity",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Ulm, Kingdom of Württemberg, German Empire",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "University of Berlin",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "photoelectric effect",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "theory of relativity",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:38:53"
+  },
+  {
+    "subject": "Annalen der Physik",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:39:18"
+  },
+  {
+    "subject": "Bern, Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Carl Jung",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Küsnacht Cemetery",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Küsnacht, Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Margarita Einstein",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Michaela Einstein",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Sigmund Freud",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Swiss Medical Association",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Thomas Einstein",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "University of Zurich",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "Zurich, Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:24"
+  },
+  {
+    "subject": "general relativity",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:44"
+  },
+  {
+    "subject": "gravitational lensing",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:44"
+  },
+  {
+    "subject": "special relativity",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:39:18"
+  },
+  {
+    "subject": "the principle of equivalence",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:44"
+  },
+  {
+    "subject": "the standard model of cosmology",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:44"
+  },
+  {
+    "subject": "the stress-energy tensor",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:44"
+  },
+  {
+    "subject": "time dilation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:40:44"
+  }
+]

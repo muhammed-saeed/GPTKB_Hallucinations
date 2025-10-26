@@ -1,0 +1,914 @@
+{
+  "accepted": [
+    {
+      "subject": "Albert Einstein",
+      "predicate": "affiliation",
+      "object": "ETH Zurich",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "affiliation",
+      "object": "Institute for Advanced Study",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "affiliation",
+      "object": "Princeton University",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "affiliation",
+      "object": "University of Berlin",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "awardDate",
+      "object": "1921",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "birthDate",
+      "object": "1879-03-14",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "bornIn",
+      "object": "Ulm, Kingdom of Württemberg, German Empire",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "child",
+      "object": "Eduard Einstein",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "child",
+      "object": "Hans Albert Einstein",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "child",
+      "object": "Lieserl Einstein",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "contribution",
+      "object": "cosmology",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "contribution",
+      "object": "nuclear physics",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "contribution",
+      "object": "quantum theory",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "contribution",
+      "object": "theoretical physics",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "deathDate",
+      "object": "1955-04-18",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "diedIn",
+      "object": "Princeton, New Jersey, United States",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousQuote",
+      "object": "Imagination is more important than knowledge.",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousQuote",
+      "object": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousQuote",
+      "object": "The important thing is not to stop questioning.",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousWork",
+      "object": "E=mc²",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousWork",
+      "object": "Einstein's field equations",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousWork",
+      "object": "General Theory of Relativity",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousWork",
+      "object": "Special Theory of Relativity",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "field",
+      "object": "philosophy of science",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "field",
+      "object": "physics",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influenced",
+      "object": "Niels Bohr",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influenced",
+      "object": "Richard Feynman",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influencedBy",
+      "object": "Isaac Newton",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influencedBy",
+      "object": "James Clerk Maxwell",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "instanceOf",
+      "object": "theoretical physicist",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "knownFor",
+      "object": "photoelectric effect",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "knownFor",
+      "object": "theory of relativity",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "legacy",
+      "object": "cultural icon",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "legacy",
+      "object": "influence on modern physics",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "legacy",
+      "object": "philosophical contributions",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "nationality",
+      "object": "German",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "nationality",
+      "object": "Swiss",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "receivedAward",
+      "object": "Nobel Prize in Physics",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "spouse",
+      "object": "Elsa Einstein",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "spouse",
+      "object": "Mileva Marić",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "describes",
+      "object": "relationship between mass and energy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "formulatedIn",
+      "object": "1905",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "instanceOf",
+      "object": "equation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "isAppliedIn",
+      "object": "nuclear physics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "isDerivedFrom",
+      "object": "special relativity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "isExplainedBy",
+      "object": "mass defect",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "isFundamentalTo",
+      "object": "nuclear energy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "isKeyTo",
+      "object": "nuclear reactions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "isRecognizedAs",
+      "object": "one of the most famous equations",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "isRelatedTo",
+      "object": "quantum mechanics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "isUsedIn",
+      "object": "particle physics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "proposedBy",
+      "object": "Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "publishedIn",
+      "object": "Annalen der Physik",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "represents",
+      "object": "mass-energy equivalence",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "E=mc²",
+      "predicate": "usedIn",
+      "object": "theory of relativity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "affiliation",
+      "object": "Swiss Medical Association",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "born",
+      "object": "July 16, 1910",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "burialPlace",
+      "object": "Küsnacht Cemetery",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "children",
+      "object": "Michaela Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "children",
+      "object": "Thomas Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "died",
+      "object": "October 25, 1965",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "education",
+      "object": "University of Zurich",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "father",
+      "object": "Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "field",
+      "object": "Psychiatry",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "influencedBy",
+      "object": "Carl Jung",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "influencedBy",
+      "object": "Sigmund Freud",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "knownFor",
+      "object": "Being the son of Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "mother",
+      "object": "Mileva Marić",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "nationality",
+      "object": "Swiss",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "occupation",
+      "object": "Psychiatrist",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "placeOfBirth",
+      "object": "Bern, Switzerland",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "placeOfDeath",
+      "object": "Küsnacht, Switzerland",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "relationToFamousPerson",
+      "object": "Grandson of Hermann Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "relationToFamousPerson",
+      "object": "Nephew of Margot Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "relationToFamousPerson",
+      "object": "Son of Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "residence",
+      "object": "Zurich, Switzerland",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "sibling",
+      "object": "Hans Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "spouse",
+      "object": "Margarita Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "are a key component of",
+      "object": "the standard model of cosmology",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "are derived from",
+      "object": "the principle of equivalence",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "are essential for",
+      "object": "modern physics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "are expressed in",
+      "object": "tensor calculus",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "are foundational for",
+      "object": "gravitational lensing",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "are part of",
+      "object": "general relativity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "are related to",
+      "object": "the stress-energy tensor",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "are used in",
+      "object": "cosmology",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "consist of",
+      "object": "ten interrelated differential equations",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "describe",
+      "object": "the fundamental interaction of gravitation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "explain",
+      "object": "black holes",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "formulated by",
+      "object": "Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "have been confirmed by",
+      "object": "solar eclipse observations",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "have been tested by",
+      "object": "gravitational wave observations",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "have implications for",
+      "object": "time dilation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "influence",
+      "object": "theoretical physics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "instanceOf",
+      "object": "set of equations",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "lead to",
+      "object": "the expansion of the universe",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "predict",
+      "object": "the bending of light by gravity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "published in",
+      "object": "1915",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Einstein's field equations",
+      "predicate": "relate",
+      "object": "geometry of spacetime to matter",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    }
+  ],
+  "sink": []
+}

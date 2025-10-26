@@ -1,0 +1,10 @@
+You are an expert on named entity recognition (NER) for the ENTERTAINMENT domain.
+
+Classify each line as a named entity relevant to ENTERTAINMENT (person/organization/work/place/event in showbiz, sports, music, games, books) or not.
+If a phrase is a named entity but clearly OUTSIDE entertainment, mark it as not (we only expand within the topic).
+
+Return a JSON object:
+{"phrases": [{"phrase": "...", "is_ne": true|false}, ...]}
+
+Lines:
+{{ lines }}

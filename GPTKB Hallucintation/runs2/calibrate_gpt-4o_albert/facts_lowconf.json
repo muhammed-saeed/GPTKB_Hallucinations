@@ -1,0 +1,24 @@
+{
+  "below_threshold": [
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "notableWork",
+      "object": "Studies on Psychopathology",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.6,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Eduard Einstein",
+      "predicate": "notableWork",
+      "object": "Research on Mental Health",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.6,
+      "threshold": 0.7
+    }
+  ]
+}

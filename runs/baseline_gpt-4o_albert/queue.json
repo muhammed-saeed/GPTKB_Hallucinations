@@ -1,0 +1,331 @@
+[
+  {
+    "subject": "Albert Einstein",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:48:27"
+  },
+  {
+    "subject": "Albert Einstein's signature",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Annus Mirabilis papers",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Copley Medal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Eduard Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Einstein's field equations",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Elsa Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Franklin Medal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "General Theory of Relativity",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Hans Albert Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Hermann Minkowski",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Institute for Advanced Study",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Isaac Newton",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "James Clerk Maxwell",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Lieserl Einstein",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Max Planck Medal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Mileva Marić",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Niels Bohr",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Nobel Prize in Physics",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Polytechnic Institute of Zurich",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Princeton, New Jersey",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Richard Feynman",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Special Theory of Relativity",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Stephen Hawking",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Swiss Federal Polytechnic",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Ulm, Kingdom of Württemberg, German Empire",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "University of Berlin",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:49:23"
+  },
+  {
+    "subject": "Annalen der Physik",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "Brownian motion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "Einstein Year 2005",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "Einstein's cosmological constant",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:52:22"
+  },
+  {
+    "subject": "Einstein's famous equation E=mc²",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:53:41"
+  },
+  {
+    "subject": "Einstein's legacy",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "GPS technology",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:52:22"
+  },
+  {
+    "subject": "Newton's law of universal gravitation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:52:22"
+  },
+  {
+    "subject": "On the Electrodynamics of Moving Bodies",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "astrophysics",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:52:22"
+  },
+  {
+    "subject": "black holes",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:52:22"
+  },
+  {
+    "subject": "general relativity",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "photoelectric effect",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "quantum mechanics",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:52:22"
+  },
+  {
+    "subject": "quantum theory",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "special relativity",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "the annus mirabilis of Einstein",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  },
+  {
+    "subject": "the twin paradox",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:53:41"
+  },
+  {
+    "subject": "theoretical astrophysics",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:52:22"
+  },
+  {
+    "subject": "theory of relativity",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:50:59"
+  }
+]

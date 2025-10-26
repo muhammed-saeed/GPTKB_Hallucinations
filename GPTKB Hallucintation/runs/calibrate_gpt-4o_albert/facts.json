@@ -1,0 +1,1004 @@
+{
+  "accepted": [
+    {
+      "subject": "Albert Einstein",
+      "predicate": "Nobel Prize in Physics",
+      "object": "1921",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "affiliation",
+      "object": "Institute for Advanced Study",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "affiliation",
+      "object": "Princeton University",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "awards",
+      "object": "Copley Medal",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "awards",
+      "object": "Franklin Medal",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "awards",
+      "object": "Max Planck Medal",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "awards",
+      "object": "Royal Society Fellow",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "birthDate",
+      "object": "1879-03-14",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "bornIn",
+      "object": "Ulm, Kingdom of Württemberg, German Empire",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "children",
+      "object": "Eduard Einstein",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "children",
+      "object": "Hans Albert Einstein",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "children",
+      "object": "Lieserl Einstein",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "deathDate",
+      "object": "1955-04-18",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "diedIn",
+      "object": "Princeton, New Jersey, United States",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "education",
+      "object": "ETH Zurich",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "education",
+      "object": "University of Zurich",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousFor",
+      "object": "Brownian motion",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousFor",
+      "object": "E=mc²",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousFor",
+      "object": "general relativity",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "famousFor",
+      "object": "special relativity",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "field",
+      "object": "philosophy of science",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "field",
+      "object": "physics",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influenced",
+      "object": "Niels Bohr",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influenced",
+      "object": "Richard Feynman",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influenced",
+      "object": "Stephen Hawking",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influencedBy",
+      "object": "Hermann Minkowski",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influencedBy",
+      "object": "Isaac Newton",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "influencedBy",
+      "object": "James Clerk Maxwell",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "instanceOf",
+      "object": "theoretical physicist",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "knownFor",
+      "object": "photoelectric effect",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "knownFor",
+      "object": "theory of relativity",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "nationality",
+      "object": "German",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "nationality",
+      "object": "Swiss",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "quote",
+      "object": "A person who never made a mistake never tried anything new.",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "quote",
+      "object": "Imagination is more important than knowledge.",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "quote",
+      "object": "Life is like riding a bicycle. To keep your balance, you must keep moving.",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "quote",
+      "object": "The important thing is not to stop questioning. Curiosity has its own reason for existence.",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "residence",
+      "object": "Princeton, New Jersey",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "spouse",
+      "object": "Elsa Einstein",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "spouse",
+      "object": "Mileva Marić",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "wrote",
+      "object": "Ideas and Opinions",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "wrote",
+      "object": "Relativity: The Special and the General Theory",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "wrote",
+      "object": "The Meaning of Relativity",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Albert Einstein",
+      "predicate": "wrote",
+      "object": "The World As I See It",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "birthDate",
+      "object": "1877-01-08",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "children",
+      "object": "Eduard Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "children",
+      "object": "Hans Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "deathDate",
+      "object": "1936-11-20",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "fullName",
+      "object": "Elsa Löwenthal",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "influenced",
+      "object": "Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "knownFor",
+      "object": "Marriage to Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "knownFor",
+      "object": "Support of Albert Einstein's work",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "nationality",
+      "object": "German",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "nationality",
+      "object": "Swiss",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "occupation",
+      "object": "Philanthropist",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "placeOfBirth",
+      "object": "Ulm, Germany",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "placeOfDeath",
+      "object": "Princeton, New Jersey, USA",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "relationship",
+      "object": "Cousin",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "residence",
+      "object": "Berlin, Germany",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "residence",
+      "object": "Princeton, New Jersey, USA",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "sibling",
+      "object": "Jakob Löwenthal",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "sibling",
+      "object": "Minnie Löwenthal",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Elsa Einstein",
+      "predicate": "spouse",
+      "object": "Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "academicAdvisor",
+      "object": "Heinrich Weber",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "almaMater",
+      "object": "University of Zurich",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "born",
+      "object": "December 19, 1875",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "children",
+      "object": "Eduard Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "children",
+      "object": "Hans Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "contribution",
+      "object": "mathematical calculations for relativity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "contribution",
+      "object": "supporting Einstein's work",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "deathPlace",
+      "object": "Zürich, Switzerland",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "died",
+      "object": "August 4, 1948",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "divorceDate",
+      "object": "February 14, 1919",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "education",
+      "object": "Doctorate in Physics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "field",
+      "object": "mathematics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "field",
+      "object": "physics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "influencedBy",
+      "object": "Hermann Minkowski",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "influencedBy",
+      "object": "Max Planck",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "instanceOf",
+      "object": "physicist",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "knownFor",
+      "object": "collaboration with Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "marriageDate",
+      "object": "January 6, 1903",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "nationality",
+      "object": "Serbian",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "notableWork",
+      "object": "Einstein's theory of relativity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "notableWork",
+      "object": "collaboration on scientific papers",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "residence",
+      "object": "Germany",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "residence",
+      "object": "Serbia",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "residence",
+      "object": "Switzerland",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mileva Marić",
+      "predicate": "spouse",
+      "object": "Albert Einstein",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "hasCulturalEvents",
+      "object": "Ulm Festival",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "hasEconomyBasedOn",
+      "object": "manufacturing and services",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "hasHistoricalEvents",
+      "object": "Battle of Ulm",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "hasHistoricalLandmarks",
+      "object": "Fishermen's Quarter",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "hasHistoricalSignificance",
+      "object": "important trade center",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "hasPopulation",
+      "object": "approximately 120,000",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "hasPublicTransport",
+      "object": "Ulm tramway",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "hasUniversity",
+      "object": "University of Ulm",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "instanceOf",
+      "object": "city",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isConnectedBy",
+      "object": "A8 Autobahn",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isHomeTo",
+      "object": "Ulm Cathedral",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isKnownFor",
+      "object": "Ulm Minster",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isKnownFor",
+      "object": "Ulm's Christmas Market",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isKnownFor",
+      "object": "scientific contributions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isLocatedNear",
+      "object": "Neu-Ulm",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isLocatedOn",
+      "object": "Danube River",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isPartOf",
+      "object": "Baden-Württemberg",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "isPartOf",
+      "object": "Ulm District",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "locatedIn",
+      "object": "German Empire",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "locatedIn",
+      "object": "Kingdom of Württemberg",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ulm",
+      "predicate": "wasFoundedIn",
+      "object": "before 850 AD",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    }
+  ],
+  "sink": []
+}

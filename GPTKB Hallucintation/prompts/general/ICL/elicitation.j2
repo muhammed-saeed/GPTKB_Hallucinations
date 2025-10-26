@@ -1,0 +1,27 @@
+You are a knowledge base construction expert.
+
+Here are examples of correct knowledge triples from different difficulty levels.
+
+### Easy examples:
+("Albert Einstein", "instanceOf", "physicist")
+("Albert Einstein", "educatedAt", "ETH Zurich")
+("Albert Einstein", "won", "Nobel Prize in Physics")
+
+### Medium examples:
+("Marie Curie", "discovered", "polonium")
+("Leonardo da Vinci", "created", "Mona Lisa")
+
+### Hard examples:
+("Alan Turing", "proposed", "Turing Test")
+("Noether’s theorem", "relates", "symmetries to conservation laws")
+
+Use these examples to model your responses.
+
+Now, given the subject below, produce a JSON list of (subject, predicate, object) triples:
+{
+  "triples": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: {{ seed }}
