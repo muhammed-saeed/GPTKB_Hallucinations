@@ -1,0 +1,2732 @@
+{
+  "accepted": [
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "actionInBattle",
+      "object": "fetched water for children",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "allegiance",
+      "object": "Ahl al-Bayt",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "associatedColor",
+      "object": "green",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "associatedFestival",
+      "object": "Muharram",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "associatedSymbol",
+      "object": "crescent moon",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "associatedWith",
+      "object": "Tazia",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "birthPlace",
+      "object": "Medina",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "birthYear",
+      "object": "647 CE",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "brother",
+      "object": "Abdullah ibn Ali",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "brother",
+      "object": "Jafar ibn Ali",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "brother",
+      "object": "Uthman ibn Ali",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "burialPlace",
+      "object": "Karbala",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "clan",
+      "object": "Quraysh",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "commemoratedIn",
+      "object": "Ashura processions",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "commemoration",
+      "object": "Tasua",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "companions",
+      "object": "72 martyrs of Karbala",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "comparedTo",
+      "object": "other Islamic heroes",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "culturalImpact",
+      "object": "inspired art",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "culturalImpact",
+      "object": "inspired poetry",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "culturalImpact",
+      "object": "inspired theater",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "culturalSignificance",
+      "object": "in Iran",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "culturalSignificance",
+      "object": "in Iraq",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "culturalSignificance",
+      "object": "in Lebanon",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "deathCause",
+      "object": "killed in battle",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "deathManner",
+      "object": "martyred",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "deathPlace",
+      "object": "Karbala",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "deathYear",
+      "object": "680 CE",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "depictedAs",
+      "object": "warrior with severed arms",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "depictedIn",
+      "object": "films about Karbala",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "depictedIn",
+      "object": "television series",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "descendants",
+      "object": "Abbasid lineage claims",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "describedAs",
+      "object": "brave",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "describedAs",
+      "object": "handsome",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "describedAs",
+      "object": "loyal",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "educationalImpact",
+      "object": "taught in madrasas",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "familyRole",
+      "object": "protector of sisters",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "famousAct",
+      "object": "protecting Euphrates access",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "famousQuoteAttributed",
+      "object": "loyalty declarations",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "father",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "feastDay",
+      "object": "10th Muharram",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "half-brother",
+      "object": "Hasan ibn Ali",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "half-brother",
+      "object": "Husayn ibn Ali",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "historicalContext",
+      "object": "succession crisis after Muawiya",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "historicalEra",
+      "object": "Umayyad Caliphate",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "historicalSource",
+      "object": "Kitab al-Irshad",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "historicalSource",
+      "object": "Tarikh al-Tabari",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "honoredAs",
+      "object": "martyr",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "in Folklore",
+      "object": "supernatural strength",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "inArt",
+      "object": "paintings of battle",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "influenceOn",
+      "object": "Shia rituals",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "injuries",
+      "object": "lost both arms",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "instanceOf",
+      "object": "human",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "internationalRecognition",
+      "object": "UNESCO heritage considerations",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "invokedFor",
+      "object": "courage",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "invokedFor",
+      "object": "protection",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "journeyTo",
+      "object": "Karbala from Medina",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "killedBy",
+      "object": "Yazid's army",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "knownFor",
+      "object": "Battle of Karbala",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "lastStand",
+      "object": "at Euphrates river",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "legacy",
+      "object": "symbol of loyalty",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "legacy",
+      "object": "symbol of sacrifice",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "literaryWork",
+      "object": "elegies",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "loyaltyTo",
+      "object": "Imam Husayn",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "mediaCoverage",
+      "object": "during Arbaeen",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "mentionedIn",
+      "object": "Maqtal al-Husayn",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "militaryRank",
+      "object": "commander",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "miraclesAttributed",
+      "object": "healing at shrine",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "modernDepiction",
+      "object": "in novels",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "modernDepiction",
+      "object": "in video games",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "mother",
+      "object": "Umm al-Banin",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "mount",
+      "object": "horse",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "nickname",
+      "object": "Abu al-Fadl",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "nickname",
+      "object": "Qamar Banu Hashim",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "notableEvent",
+      "object": "refused allegiance to Yazid",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "opponent",
+      "object": "Yazid I",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "patronOf",
+      "object": "warriors",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "patronOf",
+      "object": "water carriers",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "patronSaintOf",
+      "object": "orphans in some traditions",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "pilgrimageSite",
+      "object": "his shrine",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "politicalSignificance",
+      "object": "anti-tyranny symbol",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "prayersTo",
+      "object": "for intercession",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "refused",
+      "object": "safe passage from enemy",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "relatedFigure",
+      "object": "Sakina bint Husayn",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "relationToProphet",
+      "object": "grandson of Abdul Muttalib",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "roleInBattle",
+      "object": "standard-bearer",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "sect",
+      "object": "Shia",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "shrine",
+      "object": "Al-Abbas Shrine",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "shrineArchitecture",
+      "object": "gold dome",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "shrineLocation",
+      "object": "Karbala, Iraq",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "shrineVisitedBy",
+      "object": "millions annually",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "sister",
+      "object": "Zaynab bint Ali",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "son",
+      "object": "Ubaydullah ibn Abbas",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "symbol",
+      "object": "flag",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "symbol",
+      "object": "water skin",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "title",
+      "object": "Al-Abbas",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "tribe",
+      "object": "Banu Hashim",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "veneratedIn",
+      "object": "Shia Islam",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "vow",
+      "object": "to protect family",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "weapon",
+      "object": "sword",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "wounds",
+      "object": "arrow in eye",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abbas ibn Ali",
+      "predicate": "wounds",
+      "object": "club to head",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "accompanied",
+      "object": "Muhammad in Hijra",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "advisor to",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "age at death",
+      "object": "61",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "appointed",
+      "object": "Zayd ibn Thabit to compile Quran",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "birth year",
+      "object": "573 CE",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "bitten by",
+      "object": "snake in cave",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "born in",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "built",
+      "object": "mosque in Medina",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "buried in",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "buried next to",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "challenges faced",
+      "object": "internal rebellions",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "changed name to",
+      "object": "Abdullah after conversion",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "companion in",
+      "object": "hadith literature",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "compiled",
+      "object": "Quran",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contributed to",
+      "object": "early Islamic community",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "converted to",
+      "object": "Islam early",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "daughter",
+      "object": "Aisha",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "daughter",
+      "object": "Umm Kulthum bint Abi Bakr",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "death date",
+      "object": "22 August 634",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "death year",
+      "object": "634 CE",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "debated succession with",
+      "object": "Ansar",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "decisions impacted",
+      "object": "Sharia development",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "defeated",
+      "object": "Musaylima",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "died in",
+      "object": "Medina",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "diet",
+      "object": "basic food",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "donated",
+      "object": "all wealth to Tabuk expedition",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "elected at",
+      "object": "Saqifah",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "established",
+      "object": "caliphate",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "faced opposition from",
+      "object": "tribes refusing zakat",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "famous for",
+      "object": "truthfulness",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "father of",
+      "object": "Asma bint Abi Bakr",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fought in",
+      "object": "Battle of Badr",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fought in",
+      "object": "Battle of Uhud",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "freed",
+      "object": "Bilal ibn Rabah",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "full name",
+      "object": "Abdullah ibn Abi Quhafa",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "gave speech at",
+      "object": "Muhammad's death",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "general",
+      "object": "Ikrima ibn Abi Jahl",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "general",
+      "object": "Shurahbil ibn Hasana",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "hid in",
+      "object": "Cave of Thawr",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "historical significance",
+      "object": "transition from prophethood to caliphate",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "honored as",
+      "object": "one of the Ten Promised Paradise",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "humility",
+      "object": "milked goats for neighbors",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "illness",
+      "object": "fever",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "influence on",
+      "object": "Islamic jurisprudence",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "initiated",
+      "object": "conquests of Iraq",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "initiated",
+      "object": "conquests of Syria",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "instanceOf",
+      "object": "human",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "known as",
+      "object": "father of Aisha",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "known for",
+      "object": "generosity",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "known for",
+      "object": "piety",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "led",
+      "object": "Ridda Wars",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "led prayer",
+      "object": "during Muhammad's illness",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "legacy",
+      "object": "foundation of Islamic empire",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "lived in",
+      "object": "simple house",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "maintained",
+      "object": "unity of Muslim ummah",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "mentioned in",
+      "object": "Quran indirectly",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "military campaigns",
+      "object": "against Byzantine Empire",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "military campaigns",
+      "object": "against Sassanid Empire",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "narrated",
+      "object": "many hadiths",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "nominated successor",
+      "object": "Umar",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "occupation before Islam",
+      "object": "merchant",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "participated in",
+      "object": "Battle of the Trench",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "participated in",
+      "object": "Conquest of Mecca",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "participated in",
+      "object": "Treaty of Hudaybiyyah",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "participated in",
+      "object": "expedition of Tabuk",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "policy",
+      "object": "no salary for caliph",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "praised by",
+      "object": "Muhammad for faith",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "prayers",
+      "object": "led during caliphate",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "pre-Islamic name",
+      "object": "Abd al-Kaaba",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "protected",
+      "object": "Muhammad from pursuers",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "quote",
+      "object": "Whoever worshipped Muhammad, Muhammad is dead, but whoever worshipped God, God is alive",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "reign end",
+      "object": "634 CE",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "reign start",
+      "object": "632 CE",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "relationship with",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "role",
+      "object": "first Rashidun Caliph",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "role in",
+      "object": "succession crisis",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "role model for",
+      "object": "Muslim leaders",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "sent army under",
+      "object": "Khalid ibn al-Walid",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "shared cave with",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "simplicity",
+      "object": "lived modestly as caliph",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "son",
+      "object": "Abd al-Rahman ibn Abi Bakr",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "son",
+      "object": "Abdullah ibn Abi Bakr",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "son",
+      "object": "Muhammad ibn Abi Bakr",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "successor",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "successor to",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "supported by",
+      "object": "Umar and Abu Ubaidah",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "suppressed",
+      "object": "apostasy",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "title",
+      "object": "As-Siddiq",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "tomb in",
+      "object": "Prophet's Mosque",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "traveled with",
+      "object": "Muhammad to Medina",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "tribe",
+      "object": "Banu Taym",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "unified",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "venerated in",
+      "object": "Sunni Islam",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "victories in",
+      "object": "Yamama",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "was",
+      "object": "companion of Muhammad",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wealth",
+      "object": "used for Islamic cause",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wife",
+      "object": "Asma bint Umais",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wife",
+      "object": "Habibah bint Kharijah",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wife",
+      "object": "Qutaylah bint Abd al-Uzza",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wife",
+      "object": "Umm Ruman",
+      "hop": 1,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "acceptedCaliphateAfter",
+      "object": "Uthman's death",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "allowedDepictionIn",
+      "object": "Shia tradition",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "appointedBy",
+      "object": "Muhammad as successor at Ghadir Khumm",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "arbitrationWith",
+      "object": "Muawiyah at Siffin",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "assassinatedBy",
+      "object": "Ibn Muljam",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "associatedWith",
+      "object": "chivalry",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthYear",
+      "object": "approximately 600 CE",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "bornIn",
+      "object": "Mecca",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "branchOfIslam",
+      "object": "Shia",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "buriedIn",
+      "object": "Najaf",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "caliphNumber",
+      "object": "fourth",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "capitalDuringCaliphate",
+      "object": "Kufa",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "causeOfDeath",
+      "object": "assassination",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "commemoratedOn",
+      "object": "21 Ramadan",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "companionOf",
+      "object": "Prophet Muhammad",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "compilationAttributedTo",
+      "object": "Nahj al-Balagha",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "compiled",
+      "object": "a version of the Quran",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "consideredFirstImamBy",
+      "object": "Shia Muslims",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "consideredFourthCaliphBy",
+      "object": "Sunni Muslims",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "convertedToIslam",
+      "object": "as a child",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "cousinOf",
+      "object": "Muhammad",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "deathYear",
+      "object": "661 CE",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "defeated",
+      "object": "Marhab at Khaybar",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "depictedIn",
+      "object": "Islamic art",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "descendantsKnownAs",
+      "object": "Alids",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "diedIn",
+      "object": "Kufa",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "emphasized",
+      "object": "equality",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "emphasized",
+      "object": "social justice",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "event",
+      "object": "Ghadir Khumm",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "expertIn",
+      "object": "Islamic jurisprudence",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "expertIn",
+      "object": "Quran interpretation",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "facedRebellionFrom",
+      "object": "Talha and Zubayr",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "famousFor",
+      "object": "duel victories",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "father",
+      "object": "Abu Talib",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "fatherOf",
+      "object": "Abbas ibn Ali",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "fatherOf",
+      "object": "Hasan ibn Ali",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "fatherOf",
+      "object": "Husayn ibn Ali",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "fatherOf",
+      "object": "Zaynab bint Ali",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "festival",
+      "object": "Eid al-Ghadir",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "foughtAgainst",
+      "object": "Kharijites",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "hadChildren",
+      "object": "more than 10",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "influenced",
+      "object": "Islamic mysticism",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "influenced",
+      "object": "Islamic philosophy",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "instanceOf",
+      "object": "Imam in Shia Islam",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "instanceOf",
+      "object": "Muslim caliph",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "instanceOf",
+      "object": "human",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownAs",
+      "object": "gate of knowledge",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "bravery in battles",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "eloquence",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "generosity",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "justice",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "piety",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "wisdom",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "lettersIn",
+      "object": "Nahj al-Balagha",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "lifestyle",
+      "object": "ascetic",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "lineageContinuesThrough",
+      "object": "Twelve Imams",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "marriedTo",
+      "object": "Fatimah",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "mentionedIn",
+      "object": "Hadith literature",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "migratedTo",
+      "object": "Medina",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "mother",
+      "object": "Fatimah bint Asad",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "narrated",
+      "object": "many Hadiths",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "occupation",
+      "object": "merchant before caliphate",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "oneOfFirstConverts",
+      "object": "to Islam",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "opposedBy",
+      "object": "Aisha",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "opposedBy",
+      "object": "Muawiyah I",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "otherWives",
+      "object": "several after Fatimah",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participatedIn",
+      "object": "Battle of Badr",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participatedIn",
+      "object": "Battle of Khaybar",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participatedIn",
+      "object": "Battle of Nahrawan",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participatedIn",
+      "object": "Battle of Siffin",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participatedIn",
+      "object": "Battle of Uhud",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participatedIn",
+      "object": "Battle of the Camel",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participatedIn",
+      "object": "Battle of the Trench",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "participatedIn",
+      "object": "Treaty of Hudaybiyyah",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "patronSaintOf",
+      "object": "warriors",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "policy",
+      "object": "equal distribution of treasury",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "prohibitedDepictionIn",
+      "object": "Sunni tradition",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "protected",
+      "object": "Muhammad during Hijra",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "quotesCompiledIn",
+      "object": "Nahj al-Balagha",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "refusedToPledgeAllegianceTo",
+      "object": "Abu Bakr initially",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "reignEnd",
+      "object": "661 CE",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "reignStart",
+      "object": "656 CE",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "removed",
+      "object": "corrupt governors",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "roleModelFor",
+      "object": "Muslims",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "saidByMuhammad",
+      "object": "I am the city of knowledge and Ali is its gate",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "sermonsIn",
+      "object": "Nahj al-Balagha",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "servedAs",
+      "object": "governor of Yemen",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "shrine",
+      "object": "Imam Ali Mosque",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "skill",
+      "object": "calligraphy",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "sonInLawOf",
+      "object": "Muhammad",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "successorTo",
+      "object": "Uthman ibn Affan",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "swordName",
+      "object": "Zulfiqar",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "title",
+      "object": "Amir al-Mu'minin",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "title",
+      "object": "Asadullah",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "title",
+      "object": "Lion of God",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "usedSword",
+      "object": "Zulfiqar",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "veneratedBy",
+      "object": "Alevis",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "veneratedBy",
+      "object": "Sufis",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "wrote",
+      "object": "the text of Treaty of Hudaybiyyah",
+      "hop": 0,
+      "model": "xai/grok-4",
+      "strategy": "baseline",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

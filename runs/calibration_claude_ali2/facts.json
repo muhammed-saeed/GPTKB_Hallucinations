@@ -1,0 +1,311 @@
+{
+  "accepted": [
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "assassinatedBy",
+      "object": "Ibn Muljam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthPlace",
+      "object": "Mecca",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthYear",
+      "object": "599 CE",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "deathYear",
+      "object": "661 CE",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "Cousin of Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "Son-in-law of Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "Bravery in Battle of Badr",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "Bravery in early Islamic battles",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.91
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "language",
+      "object": "Arabic",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "lineage",
+      "object": "Banu Hashim tribe",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.93
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "maritalStatus",
+      "object": "Married to Fatimah",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "occupation",
+      "object": "Military Leader",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "politicalRole",
+      "object": "Leader of Muslim Community",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "relationship",
+      "object": "First cousin and son-in-law of Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousImportance",
+      "object": "Considered first Imam by Shia Muslims",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousRole",
+      "object": "First Imam in Shia Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousRole",
+      "object": "Fourth Caliph of Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "role",
+      "object": "Fourth Rashidun Caliph",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.97
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "scholarlyInterest",
+      "object": "Islamic Jurisprudence",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "significanceInIslam",
+      "object": "Fourth Rightly Guided Caliph",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.94
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "spouse",
+      "object": "Fatimah bint Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "casualtiesForMuslims",
+      "object": "Approximately 14 killed",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.87
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "casualtiesForQuraysh",
+      "object": "Approximately 70 killed",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.88
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "date",
+      "object": "13 March 624 CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "instanceOf",
+      "object": "Historical Military Conflict",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "location",
+      "object": "Badr, Arabia",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.97
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "militaryLeader",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "outcome",
+      "object": "Muslim Victory",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "participants",
+      "object": "Meccan Quraysh Tribe",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "participants",
+      "object": "Muslims of Medina",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "significance",
+      "object": "First Major Muslim Military Victory",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.94
+    },
+    {
+      "subject": "Cousin of Muhammad",
+      "predicate": "instanceOf",
+      "object": "Family Member",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Cousin of Muhammad",
+      "predicate": "name",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    }
+  ],
+  "sink": []
+}

@@ -1,0 +1,95 @@
+{"subject": "Ali ibn Abi Talib", "predicate": "instanceOf", "object": "Person", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "birthName", "object": "Ali ibn Abdullah ibn Abdul-Muttalib", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "birthDate", "object": "599 CE", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "birthPlace", "object": "Mecca, Arabia", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "familyRelation", "object": "Cousin of Muhammad", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "familyRelation", "object": "Son-in-law of Muhammad", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "familyRelation", "object": "Husband of Fatimah", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "religiousRole", "object": "Fourth Rashidun Caliph", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "religiousRole", "object": "First Imam in Shia Islam", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "religiousTitle", "object": "Commander of the Faithful", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "knownFor", "object": "Close companion of Prophet Muhammad", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "knownFor", "object": "Prominent Islamic scholar", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "knownFor", "object": "Skilled warrior", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "politicalRole", "object": "Fourth Caliph of the Rashidun Caliphate", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "deathDate", "object": "661 CE", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "deathPlace", "object": "Kufa, Iraq", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "causeOfDeath", "object": "Assassination", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "assassin", "object": "Ibn Muljam", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "children", "object": "Hasan ibn Ali", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "children", "object": "Husayn ibn Ali", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "language", "object": "Arabic", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "religion", "object": "Islam", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "earlyLife", "object": "First male convert to Islam", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "militaryRole", "object": "Commander in early Islamic conquests", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "scholarlyWork", "object": "Nahj al-Balagha", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "politicalEvent", "object": "Participated in Battle of Badr", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "politicalEvent", "object": "Participated in Battle of Uhud", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "politicalEvent", "object": "Participated in Battle of the Trench", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "personalQualities", "object": "Known for wisdom", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "personalQualities", "object": "Known for eloquence", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "literarySkill", "object": "Renowned poet", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "culturalSignificance", "object": "Major figure in Islamic history", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "ethnicBackground", "object": "Arab", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "tribe", "object": "Banu Hashim", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "politicalConflict", "object": "Involved in First Fitna", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abi Talib", "predicate": "relationship", "object": "Uncle of Prophet Muhammad raised him", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "instanceOf", "object": "Historical Person", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "familyRelation", "object": "Father of Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "ancestralLineage", "object": "Hashemite Clan", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "birthPlace", "object": "Mecca", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "livedDuring", "object": "Pre-Islamic Arabia", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "fatherOf", "object": "Prophet Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "tribe", "object": "Quraysh", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "grandparentOf", "object": "Early Muslim Leaders", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "socialStatus", "object": "Noble Meccan Family", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Ali ibn Abdullah ibn Abdul-Muttalib", "predicate": "religiousContext", "object": "Pre-Islamic Monotheistic Traditions", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "instanceOf", "object": "Arab tribal clan", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "ancestralLineage", "object": "Quraysh tribe", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "originLocation", "object": "Mecca", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "prominentMember", "object": "Prophet Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "historicalSignificance", "object": "Muhammad's tribal lineage", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "ancestralAncestor", "object": "Abd al-Muttalib", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "familyConnection", "object": "Abdullah (Muhammad's father)", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "tribalRole", "object": "Leaders in pre-Islamic Mecca", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "religiousImportance", "object": "Central to early Islamic history", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Hashim", "predicate": "socialStatus", "object": "Noble clan in Arabian Peninsula", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "Companion of Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "hasRole", "object": "First Caliph of Islam", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "birthPlace", "object": "Mecca", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "relationTo", "object": "Closest friend of Prophet Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "wasPresent", "object": "During Hijra migration with Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "familyRelation", "object": "Father of Aisha", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "convertedTo", "object": "Islam among first followers", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "socialStatus", "object": "Wealthy merchant before Islam", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "politicalRole", "object": "Supported Muhammad's prophetic mission", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "personalTrait", "object": "Known for compassion and wisdom", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "leadershipPosition", "object": "Succeeded Muhammad as community leader", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "hasDynasty", "object": "Established Rashidun Caliphate", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "hasNickname", "object": "As-Siddiq (the truthful)", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "militaryAction", "object": "Suppressed apostasy wars", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "age", "object": "Older than Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "supportedBy", "object": "Umar ibn al-Khattab", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "politicalAchievement", "object": "Unified Arabian Peninsula", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "religiousContribution", "object": "Compiled first Quran manuscript", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "marriageStatus", "object": "Married multiple times", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "died", "object": "634 CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "instanceOf", "object": "Military Commander", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "nickname", "object": "Sword of Allah", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "nationality", "object": "Arabian", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "religion", "object": "Islam", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "birthPlace", "object": "Mecca", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "birthYear", "object": "592 CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "deathYear", "object": "642 CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "convertedTo", "object": "Islam", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "militaryService", "object": "Rashidun Caliphate", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "conquered", "object": "Syria", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "conquered", "object": "Iraq", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "defeatedEnemy", "object": "Byzantine Empire", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "defeatedEnemy", "object": "Sassanid Empire", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "participated", "object": "Battle of Uhud", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "participated", "object": "Battle of Yarmouk", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "participated", "object": "Battle of Chains", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "personalRelation", "object": "Companion of Prophet Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "militarySkill", "object": "Tactical Genius", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "known", "object": "Undefeated Military Commander", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}

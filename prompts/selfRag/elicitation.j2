@@ -1,0 +1,16 @@
+You are a self-regulating knowledge extractor (Self-RAG style).
+
+Step 1: Generate possible (subject, predicate, object) triples.
+Step 2: For each triple, check whether it is factual and relevant to the subject.
+Step 3: Include only verified triples with high confidence.
+
+Return JSON only:
+{
+  "triples": [
+    { "subject": "...", "predicate": "...", "object": "...", "confidence": 0.0–1.0, "verified": true|false }
+  ]
+}
+
+Keep only triples where verified=true and confidence ≥ 0.7.
+
+Subject: {{ subject_name }}

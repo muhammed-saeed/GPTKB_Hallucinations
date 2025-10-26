@@ -1,0 +1,590 @@
+[
+  {
+    "subject": "Ali ibn Abi Talib",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 19:57:56"
+  },
+  {
+    "subject": "Ali",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Arabian Peninsula",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Banu Hashim tribe",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Battle of Badr",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Battle of Camel",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Battle of Siffin",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Battle of Uhud",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Battle of the Trench",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Commander of the Faithful",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Fatimah",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "First Imam in Shia Islam",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Fourth Caliph",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Kufa",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Muawiyah I",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Muhammad",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Nahj al-Balagha",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Najaf",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:58:37"
+  },
+  {
+    "subject": "Abbas ibn Abd al-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Abd al-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Abraham",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Abu Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:32"
+  },
+  {
+    "subject": "Ad-Dahna",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "African American",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Ali (2001)",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "An Nafud",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Ancient Trade Routes",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Anti-war activist",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Badr, Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:32"
+  },
+  {
+    "subject": "Bahrain",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Banu Aws",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Banu Khazraj",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Bedouin Traditions",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Birthplace of Islam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Cassius Clay",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Fatimah bint Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Fossil Discoveries",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Frankincense Route",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Gold Medal in Light Heavyweight Boxing",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Gulf of Aden",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Hamza ibn Abd al-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Hashim ibn Abd Manaf",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Hassan ibn Ali",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Historical and Cultural Sites",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Hussein ibn Ali",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Islam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Kaaba",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Kuwait",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Lonnie Williams",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Louisville, Kentucky",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Meccan Quraysh Tribe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:32"
+  },
+  {
+    "subject": "Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Middle East",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Muhammad Ali",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Muhammad Ali Center",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Muslims of Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:32"
+  },
+  {
+    "subject": "Nabataean Kingdom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Oman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Parkinson's syndrome",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Persian Gulf",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Pre-Islamic Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Presidential Medal of Freedom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Prophet Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Qatar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Quran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:32"
+  },
+  {
+    "subject": "Quraysh confederation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 20:00:06"
+  },
+  {
+    "subject": "Red Sea",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Refused military draft",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Rub' al Khali",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Rumble in the Jungle",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Sabaean Kingdom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Scottsdale, Arizona",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Shipping and Port Trade",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Silk Road",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "Sports Illustrated Sportsman of the Year",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Sports and Human Rights",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "The Greatest",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Three-time World Heavyweight Champion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Thrilla in Manila",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "United Arab Emirates",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  },
+  {
+    "subject": "When We Were Kings",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:05"
+  },
+  {
+    "subject": "Yemen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-26 19:59:37"
+  }
+]

@@ -1,0 +1,1589 @@
+{
+  "accepted": [
+    {
+      "subject": "Ali",
+      "predicate": "awards",
+      "object": "Presidential Medal of Freedom",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "awards",
+      "object": "Sports Illustrated Sportsman of the Year",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "biopic",
+      "object": "Ali (2001)",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "birthDate",
+      "object": "January 17, 1942",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "birthName",
+      "object": "Cassius Clay",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "birthPlace",
+      "object": "Louisville, Kentucky",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "boxingRecord",
+      "object": "56 wins, 5 losses",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "changeNameFrom",
+      "object": "Cassius Clay",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "children",
+      "object": "Nine",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "civilRightsActivist",
+      "object": "Yes",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "conscientious objector",
+      "object": "Refused military draft",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "culturalImpact",
+      "object": "Global icon of sports and civil rights",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "deathDate",
+      "object": "June 3, 2016",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "deathPlace",
+      "object": "Scottsdale, Arizona",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "debutFight",
+      "object": "1960",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "diagnosed",
+      "object": "Parkinson's syndrome",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "documentaries",
+      "object": "When We Were Kings",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "ethnicity",
+      "object": "African American",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "famousFights",
+      "object": "Rumble in the Jungle",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "famousFights",
+      "object": "Thrilla in Manila",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "fullName",
+      "object": "Muhammad Ali",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "inspirationalFigure",
+      "object": "Sports and Human Rights",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "knownFor",
+      "object": "Exceptional boxing skills",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "marriedTo",
+      "object": "Lonnie Williams",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "nickname",
+      "object": "The Greatest",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "olympicMedal",
+      "object": "Gold Medal in Light Heavyweight Boxing",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "philanthropy",
+      "object": "Muhammad Ali Center",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "politicalStance",
+      "object": "Anti-war activist",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "profession",
+      "object": "Professional Boxer",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "quotes",
+      "object": "Float like a butterfly, sting like a bee",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "religionAdopted",
+      "object": "Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "retiredYear",
+      "object": "1981",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "trainingStyle",
+      "object": "Innovative and unconventional",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "weightClass",
+      "object": "Heavyweight",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali",
+      "predicate": "worldChampion",
+      "object": "Three-time World Heavyweight Champion",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "ancestralOrigin",
+      "object": "Banu Hashim tribe",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthPlace",
+      "object": "Mecca",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "birthYear",
+      "object": "599",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "burialLocation",
+      "object": "Najaf",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "causesOfDeath",
+      "object": "assassination",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "contemporaryOf",
+      "object": "Muawiyah I",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "deathLocation",
+      "object": "Kufa",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "deathYear",
+      "object": "661",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "cousin of Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "father of Hasan and Husayn",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "familyRelation",
+      "object": "son-in-law of Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "firstName",
+      "object": "Ali",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "fought",
+      "object": "Battle of Badr",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "fought",
+      "object": "Battle of Uhud",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "fought",
+      "object": "Battle of the Trench",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "gender",
+      "object": "male",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "influencedBy",
+      "object": "Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "instanceOf",
+      "object": "Islamic leader",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "Islamic scholarship",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "bravery in battle",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "eloquence",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "language",
+      "object": "Arabic",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "literaryWork",
+      "object": "significant poetry",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "livedIn",
+      "object": "Arabian Peninsula",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "marriedTo",
+      "object": "Fatimah",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "militarySkill",
+      "object": "sword fighting",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "personalCharacteristic",
+      "object": "generosity",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "personalCharacteristic",
+      "object": "justice",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "personalCharacteristic",
+      "object": "wisdom",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "politicalConflict",
+      "object": "Battle of Camel",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "politicalConflict",
+      "object": "Battle of Siffin",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "politicalRole",
+      "object": "leader of Islamic Caliphate",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "politicalRole",
+      "object": "leader of Medina",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "receivedRevelation",
+      "object": "helped transcribe Quran",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religionRole",
+      "object": "First Imam in Shia Islam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religionRole",
+      "object": "Fourth Caliph",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousInterpretation",
+      "object": "foundational Shia theology",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "religiousText",
+      "object": "Nahj al-Balagha",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "spiritualRole",
+      "object": "close companion of Muhammad",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "title",
+      "object": "Commander of the Faithful",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "wasAssassinated",
+      "object": "by Ibn Muljam",
+      "hop": 0,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "ancientCivilizations",
+      "object": "Nabataean Kingdom",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "ancientCivilizations",
+      "object": "Sabaean Kingdom",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "archaeologicalSignificance",
+      "object": "Ancient Trade Routes",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "borderingWaters",
+      "object": "Gulf of Aden",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "borderingWaters",
+      "object": "Persian Gulf",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "borderingWaters",
+      "object": "Red Sea",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "containsCountries",
+      "object": "Bahrain",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "containsCountries",
+      "object": "Kuwait",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "containsCountries",
+      "object": "Oman",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "containsCountries",
+      "object": "Qatar",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "containsCountries",
+      "object": "Saudi Arabia",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "containsCountries",
+      "object": "United Arab Emirates",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "containsCountries",
+      "object": "Yemen",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "culturalHeritage",
+      "object": "Bedouin Traditions",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "demographicDiversity",
+      "object": "Multiple Ethnic Groups",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "economicImportance",
+      "object": "Major Oil Reserves",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "geographicCharacteristic",
+      "object": "Mostly Desert",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "geologicalFeature",
+      "object": "Tectonic Plate Boundaries",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "geopoliticalImportance",
+      "object": "Strategic Maritime Location",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasClimate",
+      "object": "Arid",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasDesert",
+      "object": "Ad-Dahna",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasDesert",
+      "object": "An Nafud",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasDesert",
+      "object": "Rub' al Khali",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasElevation",
+      "object": "Highest point is Jabal Sawda at 3,133 meters",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasEnvironmentalChallenges",
+      "object": "Desertification",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasEnvironmentalChallenges",
+      "object": "Water Scarcity",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasLandArea",
+      "object": "3,237,500 square kilometers",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasMaritimeEconomy",
+      "object": "Shipping and Port Trade",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasPopulation",
+      "object": "Over 100 million",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "hasTransportRoute",
+      "object": "Silk Road",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "historicalSignificance",
+      "object": "Birthplace of Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "historicalTrade",
+      "object": "Frankincense Route",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "instanceOf",
+      "object": "Geographic Region",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "locatedIn",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "majorReligion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "modernDevelopment",
+      "object": "Rapid Urban Growth",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "naturalResource",
+      "object": "Natural Gas",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "naturalResource",
+      "object": "Petroleum",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "paleontologicalSignificance",
+      "object": "Fossil Discoveries",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "primaryLanguage",
+      "object": "Arabic",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Arabian Peninsula",
+      "predicate": "tourismAttraction",
+      "object": "Historical and Cultural Sites",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "ancestralLineage",
+      "object": "Abraham",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "culturalImportance",
+      "object": "Central to early Islamic history",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "culturalPractice",
+      "object": "Tribal hospitality",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "descendedFrom",
+      "object": "Hashim ibn Abd Manaf",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "economicActivity",
+      "object": "Trade and commerce",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "familyMember",
+      "object": "Abbas ibn Abd al-Muttalib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "familyMember",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "familyMember",
+      "object": "Hamza ibn Abd al-Muttalib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "familyOf",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "famousDescendant",
+      "object": "Fatimah bint Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "famousDescendant",
+      "object": "Hassan ibn Ali",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "famousDescendant",
+      "object": "Hussein ibn Ali",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "geographicalLocation",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "guardianOf",
+      "object": "Kaaba",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "historicalConflict",
+      "object": "Meccan-Medinan tensions",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "historicalPeriod",
+      "object": "Pre-Islamic Arabia",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "instanceOf",
+      "object": "Arab tribal clan",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "leadingFigure",
+      "object": "Abd al-Muttalib",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "linguisticGroup",
+      "object": "Arabic-speaking",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "memberOf",
+      "object": "Quraysh confederation",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "migrationHistory",
+      "object": "Medina",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "originatedIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "politicalRole",
+      "object": "Influential in Meccan society",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "relationTo",
+      "object": "Islamic leadership",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "religiousPractice",
+      "object": "Monotheism",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "religiousSignificance",
+      "object": "Birthplace of Islamic prophet",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "socialStatus",
+      "object": "Noble clan",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "socialStructure",
+      "object": "Patriarchal clan system",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "tribalAlliance",
+      "object": "Banu Aws",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Hashim",
+      "predicate": "tribalAlliance",
+      "object": "Banu Khazraj",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "casualties",
+      "object": "Muslims around 14",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "casualties",
+      "object": "Quraysh around 70",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "combatType",
+      "object": "Open Field Battle",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "commandedBy",
+      "object": "Abu Bakr",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "commemoratedIn",
+      "object": "Islamic Historical Narratives",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "culturalImpact",
+      "object": "Inspired Muslim Morale",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "geographicContext",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "historicalImportance",
+      "object": "First Major Muslim Military Victory",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "instanceOf",
+      "object": "Battle",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "ledBy",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "location",
+      "object": "Badr, Arabia",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "mentionedIn",
+      "object": "Quran",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "militaryStrategy",
+      "object": "Surprise Attack",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "militaryTactic",
+      "object": "Numerical Disadvantage Overcome",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "motivationFor",
+      "object": "Defending Muslim Community",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "numberOfCombatants",
+      "object": "Muslims around 313",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "numberOfCombatants",
+      "object": "Quraysh around 1000",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "occurred",
+      "object": "13 March 624 CE",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "opposedBy",
+      "object": "Meccan Quraysh Tribe",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "participants",
+      "object": "Muslims of Medina",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "politicalOutcome",
+      "object": "Enhanced Muslim Political Credibility",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "religiousSignificance",
+      "object": "Turning Point in Islamic Expansion",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "result",
+      "object": "Muslim Victory",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "seasonalCondition",
+      "object": "March Dry Season",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "significanceIn",
+      "object": "Early Islamic History",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "strategicLocation",
+      "object": "Trade Route Control",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "symbolizedBy",
+      "object": "Sword of Islam",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "weaponsUsed",
+      "object": "Swords and Spears",
+      "hop": 1,
+      "model": "anthropic/claude-3.5-haiku",
+      "strategy": "baseline",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

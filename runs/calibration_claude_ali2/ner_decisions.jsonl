@@ -1,0 +1,25 @@
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "599 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "661 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Arabic", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Bravery in Battle of Badr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Cousin of Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Fatimah bint Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "First Imam in Shia Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Fourth Caliph of Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Ibn Muljam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Islamic Jurisprudence", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Leader of Muslim Community", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Military Leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 0, "phrase": "Son-in-law of Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "13 March 624 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "Approximately 14 killed", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "Approximately 70 killed", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "Badr, Arabia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "First Major Muslim Military Victory", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "Historical Military Conflict", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "Meccan Quraysh Tribe", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "Muslim Victory", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "Muslims of Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Bravery in Battle of Badr", "hop": 1, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
