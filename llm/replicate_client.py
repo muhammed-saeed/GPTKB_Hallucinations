@@ -17,14 +17,13 @@ def _minify_schema(schema: Dict[str, Any]) -> str:
 def _collapse_messages(messages: List[Dict[str, str]]) -> str:
     """
     Collapse OpenAI-style chat into a single prompt string.
-    We keep it simple so provider quirks aren't triggered.
+    Used for models that want a single 'prompt' input.
     """
     parts = []
     for m in messages:
         role = (m.get("role") or "user").upper()
         content = (m.get("content") or "").strip()
         parts.append(f"{role}: {content}")
-    # trailing ASSISTANT: helps some models finish cleanly
     parts.append("ASSISTANT:")
     return "\n\n".join(parts)
 
@@ -32,10 +31,13 @@ def _collapse_messages(messages: List[Dict[str, str]]) -> str:
 def _strip_fences(text: str) -> str:
     t = (text or "").strip()
     if t.startswith("```"):
-        t = t.strip("`")
+        # remove first fence + language tag if any
         nl = t.find("\n")
         if nl != -1:
             t = t[nl + 1 :].strip()
+        # remove trailing fence
+        if t.endswith("```"):
+            t = t[:-3].strip()
     return t
 
 
@@ -47,7 +49,7 @@ def _parse_json_best_effort(text: str) -> Dict[str, Any]:
         return json.loads(text)
     except Exception:
         pass
-    # 2) strip fences
+    # 2) strip code fences
     t = _strip_fences(text)
     try:
         return json.loads(t)
@@ -73,11 +75,16 @@ def _parse_json_best_effort(text: str) -> Dict[str, Any]:
 
 class ReplicateLLM:
     """
-    Replicate text model wrapper with per-model prompt strategy.
+    Replicate text model wrapper with per-model input strategy.
 
-    - Gemini (google/gemini-*): strong JSON contract in system_prompt + tiny few-shot.
-    - Grok-4 (xai/grok-4): minimal system, contract inside USER prompt, no few-shot.
-    - Robust JSON parsing (fences & first-balanced-object).
+    - Gemini 2.5 Flash (google/gemini-2.5-flash):
+      Strong JSON contract in system_prompt + tiny few-shot. One retry variant if needed.
+
+    - Grok-4 (xai/grok-4):
+      Prefers OpenAI-style 'messages' with a light system + JSON contract. We send messages.
+
+    For other models: default to 'prompt' + system_prompt.
+    Robust JSON recovery so callers always get a dict.
     """
 
     def __init__(self, model: str):
@@ -108,14 +115,13 @@ class ReplicateLLM:
         if top_k is not None:
             inp["top_k"] = top_k
         if max_tokens is not None:
+            # different models alias this differently
             inp["max_tokens"] = max_tokens
-            inp["max_output_tokens"] = max_tokens  # helps Gemini
+            inp["max_output_tokens"] = max_tokens
         if seed is not None:
             inp["seed"] = seed
-        # copy extras except keys we always manage locally
         for k, v in (extra or {}).items():
-            if k in {"prefer"}:
-                continue
+            # keep 'prefer' etc. as user may want it
             inp[k] = v
         return inp
 
@@ -125,46 +131,46 @@ class ReplicateLLM:
         json_schema: Dict[str, Any],
         knobs: Dict[str, Any],
     ) -> Dict[str, Any]:
-        # Strong schema in system prompt + tiny few-shot
+        # Strong schema in system + tiny few-shot
         schema_min = _minify_schema(json_schema)
         system_prompt = (
             "You MUST output a single valid JSON object that matches this JSON Schema exactly. "
             "No prose, no markdown, no code fences. If uncertain, return an empty but valid object.\n"
             f"SCHEMA: {schema_min}"
         )
-
         fewshot = (
             "EXAMPLE:\n"
             'USER: Return EXACTLY this JSON: {"facts":[{"subject":"Ping","predicate":"says","object":"hello"}]}\n'
             'ASSISTANT: {"facts":[{"subject":"Ping","predicate":"says","object":"hello"}]}\n\n'
         )
-
         prompt = fewshot + _collapse_messages(messages)
-
         inputs = {"prompt": prompt, "system_prompt": system_prompt}
         inputs.update(knobs)
         return inputs
 
-    def _build_for_grok(
+    def _build_for_grok_messages(
         self,
         messages: List[Dict[str, str]],
         json_schema: Dict[str, Any],
         knobs: Dict[str, Any],
     ) -> Dict[str, Any]:
-        # Grok prefers a very light system prompt and the contract inside USER content.
+        # Grok works best with OpenAI-like 'messages'
         schema_min = _minify_schema(json_schema)
-        # keep system minimal (or allow user extra to override)
-        sys_prompt = knobs.pop("system_prompt", None) or "You are a helpful assistant."
-        # Put the contract directly into the user prompt, no few-shot.
-        contract = (
-            "USER: Return ONLY a single valid JSON object matching this schema. "
-            "No prose, no markdown, no code fences.\n"
-            f"SCHEMA: {schema_min}\n\n"
-        )
-        prompt = contract + _collapse_messages(messages)
-
-        inputs = {"prompt": prompt, "system_prompt": sys_prompt}
-        inputs.update(knobs)
+        sys_msg = {
+            "role": "system",
+            "content": (
+                "Return ONLY a single valid JSON object that matches this schema exactly. "
+                "No prose, no markdown, no code fences.\n"
+                f"SCHEMA: {schema_min}"
+            ),
+        }
+        user_text = _collapse_messages(messages)
+        usr_msg = {"role": "user", "content": user_text}
+        inputs = {"messages": [sys_msg, usr_msg]}
+        # carry knobs (esp. max_tokens, temperature)
+        for k in ("temperature", "top_p", "top_k", "max_tokens", "max_output_tokens", "seed"):
+            if k in knobs:
+                inputs[k] = knobs[k]
         return inputs
 
     # ---------- main ----------
@@ -193,14 +199,16 @@ class ReplicateLLM:
         is_gemini = self.model.startswith("google/gemini")
         is_grok = self.model.startswith("xai/grok-4") or "grok-4" in self.model
 
-        # Build inputs
+        # Build call shape for prediction
         if json_schema:
             if is_gemini:
                 inputs = self._build_for_gemini(messages, json_schema, knobs)
+                call_kwargs = {"model": self.model, "input": inputs}
             elif is_grok:
-                inputs = self._build_for_grok(messages, json_schema, knobs)
+                inputs = self._build_for_grok_messages(messages, json_schema, knobs)
+                call_kwargs = {"model": self.model, "input": inputs}
             else:
-                # default: light contract in system prompt
+                # default: prompt + system schema contract
                 schema_min = _minify_schema(json_schema)
                 system_prompt = (
                     "Return ONLY a single valid JSON object matching this schema. "
@@ -210,14 +218,16 @@ class ReplicateLLM:
                 prompt = _collapse_messages(messages)
                 inputs = {"prompt": prompt, "system_prompt": system_prompt}
                 inputs.update(knobs)
+                call_kwargs = {"model": self.model, "input": inputs}
         else:
-            # no schema: just collapse messages
+            # raw text mode
             prompt = _collapse_messages(messages)
             inputs = {"prompt": prompt}
             inputs.update(knobs)
+            call_kwargs = {"model": self.model, "input": inputs}
 
-        # Call Replicate once
-        prediction = replicate.predictions.create(model=self.model, input=inputs)
+        # Call Replicate
+        prediction = replicate.predictions.create(**call_kwargs)
         prediction.wait()
         if prediction.status != "succeeded":
             raise RuntimeError(
@@ -230,21 +240,20 @@ class ReplicateLLM:
         if self._debug:
             print("\n[replicate][raw output]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
 
+        # Text mode
         if not json_schema:
             return {"text": text}
 
+        # JSON mode
         obj = _parse_json_best_effort(text)
         if obj:
             return obj
 
-        # Retry once with an alternate shape if model-specific
-        # (Sometimes moving the contract helps.)
-        try_again = False
+        # Retry once with variant contract placement for Gemini/Grok
         if is_gemini:
-            # Second shot: move contract from system to top of user prompt
             schema_min = _minify_schema(json_schema)
             alt_prompt = (
-                "USER: Return ONLY a single valid JSON object matching this schema. No prose or fences.\n"
+                "USER: Return ONLY a single valid JSON object matching this schema. No prose or code fences.\n"
                 f"SCHEMA: {schema_min}\n\n" + _collapse_messages(messages)
             )
             alt_inputs = {"prompt": alt_prompt}
@@ -252,38 +261,37 @@ class ReplicateLLM:
                 temperature=temperature, top_p=top_p, top_k=top_k,
                 max_tokens=max_tokens, seed=seed, extra=extra or {},
             ))
-            try_again = True
-            inputs = alt_inputs
-        elif is_grok:
-            # Second shot: put the contract ONLY in system prompt
-            schema_min = _minify_schema(json_schema)
-            alt_prompt = _collapse_messages(messages)
-            alt_inputs = {
-                "prompt": alt_prompt,
-                "system_prompt": (
-                    "Return ONLY a single valid JSON object that matches this schema. "
-                    "No prose, no markdown, no code fences.\n"
-                    f"SCHEMA: {schema_min}"
-                ),
-            }
-            alt_inputs.update(self._inputs_common(
-                temperature=temperature, top_p=top_p, top_k=top_k,
-                max_tokens=max_tokens, seed=seed, extra=extra or {},
-            ))
-            try_again = True
-            inputs = alt_inputs
-
-        if try_again:
-            prediction = replicate.predictions.create(model=self.model, input=inputs)
+            prediction = replicate.predictions.create(model=self.model, input=alt_inputs)
             prediction.wait()
-            if prediction.status == "succeeded":
-                out = prediction.output
-                text = "".join(out) if isinstance(out, list) else (out or "")
-                obj = _parse_json_best_effort(text)
-                if obj:
-                    return obj
+            out = prediction.output
+            text = "".join(out) if isinstance(out, list) else (out or "")
+            obj = _parse_json_best_effort(text)
+            if obj:
+                return obj
 
-        # Final fallback for schema-mode so your pipeline never crashes
+        elif is_grok:
+            # flip contract into system_prompt only, plain prompt as user
+            schema_min = _minify_schema(json_schema)
+            alt_inputs = {
+                "messages": [
+                    {"role": "system",
+                     "content": "Return ONLY a single valid JSON object matching this schema. No prose or fences.\n"
+                                f"SCHEMA: {schema_min}"},
+                    {"role": "user", "content": _collapse_messages(messages)}
+                ]
+            }
+            for k in ("temperature", "top_p", "top_k", "max_tokens", "max_output_tokens", "seed"):
+                if k in knobs:
+                    alt_inputs[k] = knobs[k]
+            prediction = replicate.predictions.create(model=self.model, input=alt_inputs)
+            prediction.wait()
+            out = prediction.output
+            text = "".join(out) if isinstance(out, list) else (out or "")
+            obj = _parse_json_best_effort(text)
+            if obj:
+                return obj
+
+        # Final fallback for schema-mode so pipeline never crashes
         schema_str = json.dumps(json_schema)
         if '"facts"' in schema_str:
             return {"facts": []}

@@ -1,0 +1,984 @@
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "10 years", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "26 years old", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "584 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "616 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "622 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "634 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "637 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "644 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Abu Bakr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Abu Lu'lu'ah Firuz", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Administrative reforms", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Al-Farooq", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Al-Khattab ibn Nufayl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Al-Masjid an-Nabawi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Assassination", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Atikah bint Zayd", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Banu Adi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Basra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Bayt al-mal", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Byzantine Syria", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Caliph", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Companion of Prophet Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Courageous", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Creating diwan system", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Egypt", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Establishing Islamic calendar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Fustat", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Hantamah bint Hisham", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Islamic Leader", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Islamic calendar starting from Hijra", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Jerusalem", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Just", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Kufa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Land survey system", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Mecca", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Medina", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Merchant", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Military expansions", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Opponent of Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Pension system for soldiers", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Persian Empire", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Public treasury", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Quraysh", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Simple lifestyle", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Strict", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Strong build", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Tall", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Taraweeh prayers in congregation", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "The Distinguisher between Truth and Falsehood", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Thick", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Umm Kulthum bint Ali", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Uthman ibn Affan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Zaynab bint Maz'un", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "2 years", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "573 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "632 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "634 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Abdullah ibn Abi Quhafa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Abu Quhafa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Al-Atiq", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Al-Masjid an-Nabawi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Amir ibn Fuhayra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "As-Siddiq", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Banu Taym", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Battle of Badr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Battle of Hunayn", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Battle of Uhud", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Battle of the Trench", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Bilal ibn Rabah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Conquest of Mecca", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Hijra to Medina", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Jariah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Lubaynah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Muhammad", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Nahdiyah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Quraysh", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Sahaba", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "The Truthful", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Umm Ubays", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Umm al-Khayr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Usama ibn Zayd", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "Zinnira", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "against apostate tribes", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "at Saqifah", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "caliph", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "companion of Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "during Muhammad's illness", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "human", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "into Byzantine Empire", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "into Sassanian Empire", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "merchant", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "military leader", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "of Quranic verses", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "of the Quran", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "political leader", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "through Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "to Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "to compile Quran", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "to conquer Iraq", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "7th Century Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "7th Century Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Assassin of Umar ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Caliphate Era Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Craftsman", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Early Islamic Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Early Islamic Era Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Assassin of Caliph", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Avenger", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Avenger Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Controversial Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Enemy of Caliph Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Enemy of Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Figure of Revenge", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Martyr", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Persian Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Rebel", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Slave Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Historical Slave Rebel", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Iranian", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Islamic Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Islamic History Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Mawla", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Medieval Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Military Personnel", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Non-Arab", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Persian", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Persian Historical Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Persian National Hero", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Persian Nationalist Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Persian Rebel", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Persian Resistance Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Persian Slave", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Political Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Sasanian Empire Subject", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Hero", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Historical Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Islam Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Martyr", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Martyr Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Symbol", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Symbolic Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Venerated Assassin", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Shia Venerated Martyr", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Slave", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Sunni Villain", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Umar's Killer", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "to conquer Syria", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 1, "phrase": "yes", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Venerated Figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lu'lu'ah Firuz", "hop": 1, "phrase": "Zoroastrian Convert", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "32 years", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "584 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "616 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "634-644 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "644 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "7th century", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Abu Bakr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Abu Lu'lu'a Firuz", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Al-Khattab ibn Nufayl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Amr ibn al-As", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Arabian Peninsula", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Banu Adi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Basra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Battle of Qadisiyyah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Battle of Yarmouk", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Bayt al-Mal", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Byzantine Syria", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Companion of Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Conquest of Jerusalem", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Egypt", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Fustat", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Hantama bint Hisham", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Islamic calendar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Jerusalem", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Khalid ibn al-Walid", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Kufa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Muhammad", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Persian Empire", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Quraysh", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Second Caliph of Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "The Criterion", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "Uthman ibn Affan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "administrative districts", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "administrative reforms", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "assassination", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "canals", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "census", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "distinguisher between truth and falsehood", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "first Islamic navy", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "governors", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "humble", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "judges", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "judicial system", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "just", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "justice", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "4th to 7th centuries AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "602-628 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "611 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "634-638 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "636 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Antioch", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Apamea", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Arabian Desert", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Aramaic", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Battle of Yarmouk", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Berytus", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Bosra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Byzantine Anatolia", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Byzantine Empire", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Byzantine Mesopotamia", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Byzantine defeat", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Byzantine-Sasanian War", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Christianity", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Damascus", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Diocese of the East", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Early Middle Ages", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Eastern Mediterranean", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Eastern Orthodox Church", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Emesa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Euphratensis", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Greek", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Heraclius", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "John Chrysostom", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Justinian I", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Laodicea", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Late Antiquity", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Mediterranean Sea", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Muslim Arab armies", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Phoenicia", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Phoenicia Libanensis", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Praetorian prefect", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Qalamun Mountains", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Qasr ibn Wardan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Resafa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Sasanian Empire", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "School of Antioch", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Sidon", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Silk Road", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Simeon Stylites", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Sinai Peninsula", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Syria Prima", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Syria Secunda", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Syriac", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "Tyre", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "agriculture", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "6th century", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Abbasid caliphs", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Abd al-Muttalib", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Abdullah ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Abu Bakr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Abu Jahl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Abu Lahab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Abu Talib", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Adi clan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Arab", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Arabian Peninsula", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Asim ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Banu Adi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Hafsa bint Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Hantamah bint Hisham", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Islamic historical sources", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Ka'b ibn Lu'ayy", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Khadija bint Khuwaylid", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Muhammad", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Nufayl ibn Abdul-Uzza", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Qurayba bint Abi Umayya", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Quraysh tribe member", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Ubaydullah ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Umar ibn Abdul Aziz", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Umm Kulthum bint Jarwal", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Waraqah ibn Nawfal", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Zayd ibn Nufayl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Zayd ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "Zaynab bint Maz'un", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "being father of Caliph Umar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "biographies of Umar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "early Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "hadith collections", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "historical figure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "idols", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "later Umayyad caliphs", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "merchant", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "person", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "polytheist", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "pre-Islamic Arabian religion", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "pre-Islamic era", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "respected elder", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "rise of Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "sira literature", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "tribal affairs", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Khattab ibn Nufayl", "hop": 1, "phrase": "tribal leader", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "1168 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "641 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "642 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "969 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Abbasid period", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Ahmad ibn Tulun", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Amr ibn al-As", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Amr ibn al-As Mosque", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Arab armies", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Arabic word for tent", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Ayyubid period", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Babylon Fortress", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Cairo", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Christians", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Crusaders", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Egypt", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Egypt under Abbasids", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Egypt under Umayyads", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Fatimid period", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Fustat artifacts", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Fustat ceramics", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Fustat mounds", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Ibn Battuta", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Islamic Caliphate", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Jews", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Museum of Islamic Art Cairo", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Muslim conquest of Egypt", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Muslims", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Nile River", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Shawar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "Umayyad period", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "al-Maqrizi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "al-Qatai", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "archaeologists", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "arid", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "artifacts", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "caliphs", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "canals", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "capital of Egypt", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "churches", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "coins", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "date palms", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "early Islamic urbanism", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "fire", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "first mosque in Africa", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "glassware", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "grains", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "historical city", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "jewelry", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "luster-painted", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "12 degrees Celsius", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "150 millimeters", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "181 square kilometers", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "2013 Arab Capital of Culture", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "30.5°N 47.8°E", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "40 degrees Celsius", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "5 meters above sea level", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "636 AD", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Al-Khalil ibn Ahmad al-Farahidi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Aqaba", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Arabia Standard Time", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Arabs", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Baku", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra Central Station", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra Clock Tower", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra Date Festival", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra Governorate", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra Governorate Council", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra International Airport", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra Museum", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra Refinery", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basra Sports City", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Basrawi Arabic", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Battle of Basra in 2003", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Caliph Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Euphrates River", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Gulf Cup of Nations", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Hasan al-Basri", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Iraq", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Istanbul", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Khigga", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Kuwait City", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Maqam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Masgouf", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Mashhad", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Mesopotamia", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Middle East", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Old Basra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Persian Gulf", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Quzi", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Rumaila", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Sayyid Ali al-Moussawi Mosque", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Shatt al-Arab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Shatt al-Arab river", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Sibawayh", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Tigris River", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Umm Qasr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "University of Basra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Abdullah ibn Abi Bakr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Abdullah ibn Sa'id", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Aisha bint Abi Bakr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Banu Adi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Battle of Uhud", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Hanif", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Islamic historical sources", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Iyaas ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Khadija bint Khuwaylid", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Quraysh", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Sa'id ibn Zayd", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Urwah ibn Zubayr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Zayd ibn Amr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "Zubayr ibn al-Awwam", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "after Abdullah's death", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "after Umar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "around 672 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "before Muhammad's migration to Medina", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "before his death", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "biographies of Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "classical Arabic literature", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "companion of Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "due to public pressure", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "early Islamic period", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "early Islamic revelations", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "early conversion to Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "elegiac", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "expansion of Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "faithfulness", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "female", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "her beauty attracting attention", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "her husband Abdullah", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "her husband Umar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "historian", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "historical studies", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "in Battle of Uhud", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "in Medina", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "in al-Baqi cemetery", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "in poetry", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "military commander", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "monotheist before Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "person", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "piety", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "poet", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "poetry", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "pre-Islamic Arabia", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "pre-Islamic female poet", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "30.5 meters by 35.62 meters", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "622 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "ATM", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Ablution Facilities", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Airport", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Al-Baqi Cemetery", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Bank", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Bookstore", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Bus Station", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Cafes", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Car Rental", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Charging Stations", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Clocks", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Clothing Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Courtyards", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Educational Center", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Electronics Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Emergency Services", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Fire Safety", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Fountains", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Furniture Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Garden Center", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Gardens", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Gift Shop", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Green Dome", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Hardware Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Home Goods Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Hospital", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Hotels", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Jewelry Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Library", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Lights", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Medical Services", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Mihrab", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Minbar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Mosque", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Muhammad", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Museum", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Parking", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Perfume Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Pharmacy", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Post Office", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Prayer Halls", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Public Restrooms", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Quba Mosque", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Rawdah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Restaurants", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Screens", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "+966 12", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "2000 BCE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "21.4225° N, 39.8262° E", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "24231", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "277 meters above sea level", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Abraj Al Bait", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Animal Sacrifice", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Arabia Standard Time", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Arafat", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Bab al-Salam", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Bakkah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Battle of Badr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Battle of Uhud", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Battle of the Trench", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Black Stone", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Clock Tower", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Dhu al-Hijjah", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Hejaz", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Hijr Ismail", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Hijra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Hira", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Ishmael and Abraham", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Jabal Thawr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Jabal al-Nour", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Jeddah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Kaaba", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "King Abdulaziz International Airport", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "King Abdullah Medical City", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Macoraba", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Maqam Ibrahim", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Masjid al-Haram", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mecca Civil Defense", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mecca Mall", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mecca Metro", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mecca Museum", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mecca Police", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mecca Province", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mecca Road", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mina", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Mountains", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Muhammad in 630 CE", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Muslims only", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Muzdalifah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Pact of the Virtuous", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Ptolemy", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Quran", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Quraysh", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Sa'i", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abd al-Malik ibn Marwan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abd al-Rahman ibn Awf", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abd al-Rahman ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abdullah ibn Masud", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abdullah ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abu Dharr al-Ghifari", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abu Jahl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abu Lahab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abu Musa al-Ashari", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abu Sufyan ibn Harb", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abu Ubaydah ibn al-Jarrah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Abu al-Darda", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Adi ibn Ka'b", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Al-Arqam ibn Abi al-Arqam", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Al-Aswad ibn al-Muttalib", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Al-Mansur", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Al-Walid ibn Abd al-Malik", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Al-Zubayr ibn al-Awwam", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Ammar ibn Yasir", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Amr ibn al-As", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Arab tribe", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Asim ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Bilal ibn Rabah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Fatimah bint al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Hafsa bint Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Hantamah bint Hisham", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Hisham ibn Abd al-Malik", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Iyaas ibn al-Bukayr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Khalid ibn al-Walid", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Khattab ibn Nufayl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Marwan ibn al-Hakam", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Miqdad ibn Aswad", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Muawiyah ibn Abi Sufyan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Nadr ibn al-Harith", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Quraysh tribe", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Sa'd ibn Abi Waqqas", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Saeed ibn Zayd", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Salman al-Farsi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Shaybah ibn Rabiah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Suhaib ar-Rumi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Sulayman ibn Abd al-Malik", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Talhah ibn Ubaydullah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Ubadah ibn al-Samit", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Ubaydullah ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Umar ibn Abd al-Aziz", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Umar ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Umayyah ibn Khalaf", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Umm Kulthum bint Uqba", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "prominent scholar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "second caliph of Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "support of Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "water carrier for wounded", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Atikah bint Zayd", "hop": 1, "phrase": "with early Muslims", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Abu Jahl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Arab tribal society", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Arabian Peninsula", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Banu Makhzum", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Fatimah bint al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Hantamah bint Hisham ibn al-Mughirah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Hantamah is a female name", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Hejaz", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Hisham ibn al-Mughirah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Islamic biographies", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Jahiliyyah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Khattab ibn Nufayl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Makhzum", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Quraysh tribe", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Rashidun Caliphate", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Umm Salama", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "Zayd ibn al-Khattab", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "after Hijrah", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "after Islam spread", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "after Umar's conversion", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "after her son Umar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "al-Mughirah ibn Abdullah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "arranged with Khattab", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "before Hijrah", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "changed over time", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "complex due to Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "descended from Makhzum", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "early Islamic period", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "early Muslim martyr", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "enemy of Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "female", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "from trade", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "high in Quraysh", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "in Islamic history", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "in Medina", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "in elite Meccan society", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "in sira and tarikh", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "included prominent figures", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "indirect through family", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "influenced by Umar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "like her brother Abu Jahl", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "married to Sa'id ibn Zayd", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "means daughter of", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "mother", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "mother of Caliph Umar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "multiple", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "noblewoman", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "on her son Umar", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "over Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "10 kilometers from Najaf", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "638 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Abu Hanifa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Abu Mikhnaf", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Abu al-Aswad al-Du'ali", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Asma'i", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Baladhuri", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Biruni", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Dhahabi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Dinawari", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Idrisi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Jahiz", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Khalil ibn Ahmad al-Farahidi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Kisa'i", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Mada'ini", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Maqdisi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Maqrizi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Mas'udi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Mubarrad", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Mufaddal al-Dabbi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Nuwayri", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Qalqashandi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Suyuti", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Tabari", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Tha'alibi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Waqidi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Al-Ya'qubi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Battle of Karbala preparations", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Euphrates River", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Great Mosque of Kufa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Hammad al-Rawiya", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Hisham ibn al-Kalbi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "House of Imam Ali", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Ibn Battuta", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Ibn Hajar al-Asqalani", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Ibn Kathir", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Ibn Khaldun", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Ibn al-Athir", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Ibn al-Kalbi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Iraq", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Kufa Mosque", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Kufic script", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Najaf Governorate", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Sa'd ibn Abi Waqqas", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Shi'a Islam significance", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Shrine of Hani ibn Urwa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Shrine of Muslim ibn Aqil", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Sibawayh", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "Zanj Rebellion", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "capital of the Abbasid Caliphate", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "military expansion", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "mosques", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "new cities", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "nickname", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "pension system", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "police force", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "public treasury", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "roads", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "weights and measures", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Farooq", "hop": 1, "phrase": "welfare system", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "+20", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": ".eg", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "1,010,408 square kilometers", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "1922", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "2011 Egyptian revolution", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Abdel Fattah el-Sisi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Abu Simbel", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Africa", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Alexandria", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Ancient Egypt", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Anwar Sadat", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Asia", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Aswan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Cairo", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Christianity", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Cleopatra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Coptic Christians", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Eastern Desert", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Eastern European Time", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Egyptian pound", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Gamal Abdel Nasser", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Gaza Strip", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Giza", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Great Pyramid of Giza", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Great Sphinx of Giza", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Hatshepsut", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Horus", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Hosni Mubarak", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Isis", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Israel", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Karnak Temple", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Libya", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Luxor", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Luxor Temple", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Mediterranean Sea", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Mount Catherine", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Muhammad Ali Pasha", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Nile River", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Osiris", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Qattara Depression", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Ra", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Ramesses II", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Red Sea", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Sahara Desert", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Sudan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Tutankhamun", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Valley of the Kings", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "Western Desert", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Venice of the East", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "West Qurna", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Zanj Rebellion", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "Zubair", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "approximately 1.3 million", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "canals", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "city", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "crude oil", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "date palms", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "early Islamic center of learning", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "hot desert climate", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "major oil hub", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Basra", "hop": 1, "phrase": "oil production", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "125 square kilometers", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "17 degrees Celsius", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "4th millennium BCE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "754 meters above sea level", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Al-Aqsa Mosque", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Arabs", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Beitar Jerusalem FC", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Ben Gurion Airport", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Bible", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Christianity", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Church of the Holy Sepulchre", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "City of David", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Crusader capture in 1099", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Dome of the Rock", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "East Jerusalem", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Hadassah Medical Center", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Hebrew", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Hebrew University of Jerusalem", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Israel", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Israel Museum", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Jebus", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Jerusalem Day", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Jerusalem Film Festival", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Jerusalem Light Rail", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Jerusalem Marathon", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Jerusalem mixed grill", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Jesus Christ", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Jews", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Judaism", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Judean Mountains", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Kidron Valley", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "King David", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Lion of Judah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Lion of Judah with olive branches", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Mahane Yehuda Market", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Mea Shearim", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Mediterranean climate", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Middle Eastern cuisine", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Moshe Lion", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Old City", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Olive branch", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Palestine", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Quran", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Sacher Park", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Saladin", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Siege of Jerusalem in 70 CE", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Six-Day War in 1967", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Teddy Stadium", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Security", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Shoe Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Shopping Malls", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Speakers", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Sports Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Supermarket", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Taxi Stand", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "The Prophet's Mosque", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Tourist Information", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Toy Store", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "Train Station", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "WiFi", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "over 1,000,000 worshippers", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Al-Masjid an-Nabawi", "hop": 1, "phrase": "over 400,000 square meters", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "medieval historians", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "mud brick", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "multi-story houses", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "narrow", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "near Nile Delta", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "over 200000 people", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "partially excavated", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "pottery", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "pottery shards", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "slaves", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "souks", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "southern Cairo", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "spices", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "synagogues", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "textiles", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "trade hub", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "travel accounts", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Fustat", "hop": 1, "phrase": "wood", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "asceticism", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "basilicas", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "building projects", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "by Heraclius", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "castles", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "churches", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "city walls", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "defense against Persians", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "glassmaking", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "grain", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "grapes", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "historical region", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "monasteries", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "olives", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "pottery", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "silk", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "spices", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Byzantine Syria", "hop": 1, "phrase": "textiles", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "capital of the Rashidun Caliphate", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "capital of the Umayyad Caliphate", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "city", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "early Islamic grammarians", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "early Islamic historians", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "early Islamic jurists", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "early Islamic scholarship", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kufa", "hop": 1, "phrase": "revolt of Mukhtar al-Thaqafi", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Uqbah ibn Abi Mu'ayt", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Utbah ibn Rabiah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Uthman ibn Affan", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Walid ibn Utbah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Yazid ibn Muawiyah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Zayd ibn Amr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Zayd ibn Umar", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "Zaynab bint Madhun", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "early Islamic period", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "opposition to Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "pre-Islamic Arabia", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Banu Adi", "hop": 1, "phrase": "protection of Umar ibn al-Khattab", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "paganism", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "part of Quraysh aristocracy", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "person", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "pre-Islamic Arabia", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "regarding Umar's conversion", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "second Caliph", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "shaped early Muslim community", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "sister", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "sister of prominent Meccan leader", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "strong-willed", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "through her children", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "to Medina", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "wife", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "wife of Prophet Muhammad", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hantamah bint Hisham", "hop": 1, "phrase": "witnessed rise of Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Saudi government", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Stoning of the Devil", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Suq al-Layl", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Tawaf", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Thawr", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Treaty of Hudaybiyyah", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Umm Al-Qura University", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Year of the Elephant", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Zamzam", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "by millions of pilgrims", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "city", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "for Hajj", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "for Muslims", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "for Umrah", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "hot desert climate", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "in Islam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "multiple minarets", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "of Muhammad", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "ongoing", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "over 2 million", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "religious tourism", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Temple Mount", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "West Jerusalem", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Western Wall", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "World Heritage Site", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "World Heritage in Danger", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "Yad Vashem", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "aquifers", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "blue and white with city emblem", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "city", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "disputed territory", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "falafel", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "government services", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "high-tech industries", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "hummus", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "municipality", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "none", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "over 900000 people", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "reservoirs", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jerusalem", "hop": 1, "phrase": "tourism", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "agriculture", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "chemicals", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "connects Mediterranean and Red Sea", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "controls Nile River", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "cotton", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "country", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "created by Aswan High Dam", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "crude oil", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "desert climate", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "founding member", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "ful medames", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "hieroglyphics", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "koshary", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "lotus", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "mixed economy", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "molokhia", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "over 100 million", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "petroleum", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "republic", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "right", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "since 1945", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "steppe eagle", "is_ne": true, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "textiles", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "tourism", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Egypt", "hop": 1, "phrase": "very low", "is_ne": false, "ner_model": "deepseek-chat", "ner_strategy": "baseline", "domain": "general", "topic": null}

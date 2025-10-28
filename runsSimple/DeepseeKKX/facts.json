@@ -1,0 +1,500 @@
+{
+  "accepted": [
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "Saudi businessman",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "art collector",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "author",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "automotive enthusiast",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "board member",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "brand ambassador",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "business consultant",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "business strategist",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "community leader",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "crisis management specialist",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "cultural ambassador",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "digital transformation expert",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "e-commerce specialist",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "economic development promoter",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "education supporter",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "entrepreneur",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "family man",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "fashion industry investor",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "financial planner",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "fitness enthusiast",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "global citizen",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "hospitality industry leader",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "human resources advisor",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "innovation promoter",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "investment advisor",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "investor",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "leadership coach",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "luxury goods connoisseur",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "market analyst",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "media commentator",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "media personality",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "motivational speaker",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "organizational development consultant",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "philanthropist",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "public figure",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "public speaker",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "real estate investor",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "retail industry expert",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "risk management expert",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "role model",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "social media influencer",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "sports fan",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "startup mentor",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "strategic advisor",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "style icon",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "team building expert",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "technology enthusiast",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "thought leader",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "tourism advocate",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "traveler",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "trendsetter",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "venture capitalist",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "watch collector",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "wealth manager",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Khalid Bin Elwaleed",
+      "predicate": "instanceOf",
+      "object": "youth empowerment advocate",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

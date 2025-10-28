@@ -1,0 +1,534 @@
+[
+  {
+    "subject": "Khalid Bin Elwaleed",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:20"
+  },
+  {
+    "subject": "Arabian",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:29"
+  },
+  {
+    "subject": "Battle of Ajnadayn",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:29"
+  },
+  {
+    "subject": "Battle of Uhud",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:29"
+  },
+  {
+    "subject": "Battle of Yarmouk",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:29"
+  },
+  {
+    "subject": "Early Islamic Caliphate",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:29"
+  },
+  {
+    "subject": "Islam",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:29"
+  },
+  {
+    "subject": "Sword of Allah",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:29"
+  },
+  {
+    "subject": "Abaya",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Abu Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Abu Sufyan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Abu Ubaidah ibn al-Jarrah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:43"
+  },
+  {
+    "subject": "Ali ibn Abi Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Allah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Arab Genetic Cluster",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Arab-Byzantine Wars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:58"
+  },
+  {
+    "subject": "Arabian Peninsula",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Baghdad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Battle of Badr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Byzantine Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:58"
+  },
+  {
+    "subject": "Caliph Abu Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:50"
+  },
+  {
+    "subject": "Conquest of Iraq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:50"
+  },
+  {
+    "subject": "Conquest of Syria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:50"
+  },
+  {
+    "subject": "Damascus",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Early Islamic Conquests",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:43"
+  },
+  {
+    "subject": "Early Muslim Conquests",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:58"
+  },
+  {
+    "subject": "Emperor Heraclius",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:43"
+  },
+  {
+    "subject": "End of Byzantine control in Syria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:43"
+  },
+  {
+    "subject": "Fasting during Ramadan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Five Pillars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Hadith",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Hajj pilgrimage",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Hamza ibn Abdul-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Hijri calendar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Islamic Civilization",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Islamic Golden Age",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Islamic philosophy",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Jihad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Khalid ibn al-Walid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:58"
+  },
+  {
+    "subject": "Kuwait",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Marked Arab conquest of Levant",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:43"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Meccan Quraysh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Middle East",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Middle East and North Africa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Mount Uhud",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Muslims",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Muslims of Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "North Africa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Persia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Preservation of Classical Knowledge",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Prophet Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Prophet Muhammad's Successors",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Qatar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Quran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Quraysh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:19"
+  },
+  {
+    "subject": "Rashidun Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:58"
+  },
+  {
+    "subject": "Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Semitic Peoples",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Sharia law",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Shia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Silk Road",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Southeast Asia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Southern Palestine",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:58"
+  },
+  {
+    "subject": "Sunni",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Tawhid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "Theodore the Sacellarius",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:58"
+  },
+  {
+    "subject": "Umar ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Ummah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:34"
+  },
+  {
+    "subject": "United Arab Emirates",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:47"
+  },
+  {
+    "subject": "Uthman ibn Affan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:07"
+  },
+  {
+    "subject": "Vahan of Armenia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:43"
+  },
+  {
+    "subject": "Yarmouk River",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:43"
+  },
+  {
+    "subject": "Yarmouk River, Syria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:43"
+  }
+]

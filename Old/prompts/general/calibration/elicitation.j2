@@ -1,0 +1,41 @@
+You are a knowledge base construction expert.
+
+Your task is to produce **as many factual triples as possible** about the given subject entity.  
+Each fact must be represented as a JSON triple: (subject, predicate, object) and include a **calibrated confidence score** in [0.0, 1.0].
+
+---
+
+### Guidelines
+
+- Produce a large set of concise, factual triples.
+- For *famous or well-documented* subjects, aim facts** (50–100+ preferred).
+- For moderately known subjects, 30–50 facts.
+- For lesser-known subjects, provide as many as possible (≥5 if any are known).
+- If you do **not** know the subject, return an empty list.
+- Always include at least one triple with predicate `"instanceOf"`.
+- Keep each triple atomic — split multiple objects into separate triples.
+- Avoid duplicates or verbose descriptions.
+- Be generous but realistic; do not invent implausible details.
+- The confidence should reflect your certainty:
+  - **0.95–1.00** → universally established fact  
+  - **0.70–0.94** → likely correct, generally reported  
+  - **0.40–0.69** → plausible, but some uncertainty  
+  - **<0.40** → speculative or doubtful — *omit such triples*
+
+---
+
+### Output format (STRICT JSON only)
+
+Return JSON only, no markdown fences, no commentary.
+
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "...", "confidence": 0.0 }
+  ]
+}
+
+---
+
+Subject: {{ subject_name }}
+
+Now respond with **valid JSON only**.

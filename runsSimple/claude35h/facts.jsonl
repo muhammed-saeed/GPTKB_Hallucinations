@@ -1,0 +1,223 @@
+{"subject": "Khalid Bin Elwaleed", "predicate": "instanceOf", "object": "Military Commander", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "nationality", "object": "Arabian", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "historicalPeriod", "object": "Early Islamic Caliphate", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "alternativeName", "object": "Sword of Allah", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "religion", "object": "Islam", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "militaryRole", "object": "General", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "significantAchievement", "object": "Conquered Byzantine and Persian Territories", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "battleParticipation", "object": "Battle of Uhud", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "battleParticipation", "object": "Battle of Yarmouk", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid Bin Elwaleed", "predicate": "battleParticipation", "object": "Battle of Ajnadayn", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "instanceOf", "object": "Ethnic Group", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "nativeRegion", "object": "Arabian Peninsula", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "primaryLanguage", "object": "Arabic", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "primaryReligion", "object": "Islam", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "culturalOrigin", "object": "Middle East", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "geographicSpread", "object": "Middle East and North Africa", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "historicalSignificance", "object": "Islamic Civilization", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "ancestralGroup", "object": "Semitic Peoples", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "traditionalLifestyle", "object": "Nomadic Pastoralism", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "traditionalEconomy", "object": "Trade and Herding", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "majorCountries", "object": "Saudi Arabia", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "majorCountries", "object": "United Arab Emirates", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "majorCountries", "object": "Kuwait", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "majorCountries", "object": "Qatar", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "traditionalDress", "object": "Thobe", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "traditionalDress", "object": "Abaya", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "geneticBackground", "object": "Arab Genetic Cluster", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "historicalAchievement", "object": "Islamic Golden Age", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "knownFor", "object": "Preservation of Classical Knowledge", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "knownFor", "object": "Advanced Mathematics", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "knownFor", "object": "Astronomy", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "knownFor", "object": "Medicine", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "geographicLandscape", "object": "Desert", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arabian", "predicate": "tribalStructure", "object": "Clan-based Society", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "instanceOf", "object": "Military Conflict", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "date", "object": "634 CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "location", "object": "Southern Palestine", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "belligerents", "object": "Byzantine Empire", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "belligerents", "object": "Rashidun Caliphate", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "commander", "object": "Khalid ibn al-Walid", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "commander", "object": "Theodore the Sacellarius", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "outcome", "object": "Rashidun Victory", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "significance", "object": "First major Muslim victory in Syria", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "historicalContext", "object": "Early Muslim Conquests", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "partOfWar", "object": "Arab-Byzantine Wars", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Ajnadayn", "predicate": "approximate casualties", "object": "Byzantine army mostly destroyed", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "instanceOf", "object": "Military Conflict", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "occuredIn", "object": "Arabian Peninsula", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "datePeriod", "object": "625 CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "involvedParty", "object": "Muslims of Medina", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "involvedParty", "object": "Meccan Quraysh", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "leadingFigure", "object": "Prophet Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "opposingLeader", "object": "Abu Sufyan", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "location", "object": "Mount Uhud near Medina", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "historicalContext", "object": "Early Islamic Expansion", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "outcome", "object": "Tactical Defeat for Muslims", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "militaryStrength", "object": "Muslims: Around 700 fighters", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "militaryStrength", "object": "Quraysh: Around 3,000 fighters", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "casualtyCount", "object": "Muslims suffered significant losses", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "significantEvent", "object": "Prophet Muhammad was wounded", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "strategicMistake", "object": "Muslim archers disobeyed orders", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "motivation", "object": "Revenge for Battle of Badr", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "religiousSignificance", "object": "Important event in early Islamic history", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "militaryTactic", "object": "Initial Muslim advantage", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "militaryTactic", "object": "Quraysh cavalry flanking maneuver", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "legendaryFigure", "object": "Hamza ibn Abdul-Muttalib killed", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "culturalImpact", "object": "Inspired Islamic military narratives", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "geographicRelevance", "object": "Near Medina, Saudi Arabia", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "historicalPeriod", "object": "Early Islamic Conquest Era", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Uhud", "predicate": "politicalImplication", "object": "Demonstrated Muslim resilience", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "instanceOf", "object": "Military Battle", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "occurred", "object": "636 CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "location", "object": "Near Yarmouk River, Syria", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "participants", "object": "Byzantine Empire", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "participants", "object": "Rashidun Caliphate", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "commanders", "object": "Khalid ibn al-Walid", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "commanders", "object": "Emperor Heraclius", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "outcome", "object": "Decisive Muslim victory", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "significance", "object": "Marked Arab conquest of Levant", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "duration", "object": "6 days", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "approximateCombatants", "object": "Byzantine Army: 50,000-150,000", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "approximateCombatants", "object": "Muslim Army: 25,000-40,000", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "historicalPeriod", "object": "Early Islamic Conquests", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "geopoliticalImpact", "object": "End of Byzantine control in Syria", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "militaryStrategy", "object": "Muslim cavalry tactics", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "terrain", "object": "Hilly and mountainous", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "reliefTerrain", "object": "Near Yarmouk River", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "militaryLeader", "object": "Khalid ibn al-Walid", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "militaryLeader", "object": "Abu Ubaidah ibn al-Jarrah", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "byzantineCommander", "object": "Vahan of Armenia", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "religiousContext", "object": "Muslim expansion", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "culturalImpact", "object": "Facilitated Islamic spread", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "casualtiesEstimate", "object": "Byzantine losses: High", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "casualtiesEstimate", "object": "Muslim losses: Relatively low", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "weaponsUsed", "object": "Swords", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "weaponsUsed", "object": "Spears", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "weaponsUsed", "object": "Bows and arrows", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "militaryTactic", "object": "Flanking maneuvers", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Battle of Yarmouk", "predicate": "militaryTactic", "object": "Surprise attacks", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "instanceOf", "object": "Political System", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "existedDuring", "object": "7th-8th Century CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "governmentType", "object": "Theocratic Monarchy", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "foundedBy", "object": "Prophet Muhammad's Successors", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "capital", "object": "Medina", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "laterCapital", "object": "Damascus", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "subsequentCapital", "object": "Baghdad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "firstCaliph", "object": "Abu Bakr", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "secondCaliph", "object": "Umar ibn al-Khattab", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "thirdCaliph", "object": "Uthman ibn Affan", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "fourthCaliph", "object": "Ali ibn Abi Talib", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "religionAssociated", "object": "Islam", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "expandedTerritory", "object": "Arabian Peninsula", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "expandedTerritory", "object": "Middle East", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "expandedTerritory", "object": "North Africa", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "expandedTerritory", "object": "Parts of Persia", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "militaryStrategy", "object": "Rapid Conquest", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "socialSystem", "object": "Islamic Law", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "governmentLeader", "object": "Caliph", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "culturalLanguage", "object": "Arabic", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "religiousText", "object": "Quran", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "administrativeSystem", "object": "Centralized Governance", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "taxSystem", "object": "Jizya and Zakat", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "militaryUnit", "object": "Arab Cavalry", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "scientificContribution", "object": "Mathematics", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "scientificContribution", "object": "Astronomy", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "scientificContribution", "object": "Medicine", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "architecturalStyle", "object": "Islamic Architecture", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "educationalSystem", "object": "Madrasah", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "tradeRoutes", "object": "Silk Road", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Early Islamic Caliphate", "predicate": "economicSystem", "object": "Merchant Trading", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "instanceOf", "object": "Abrahamic religion", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "originatedIn", "object": "Arabian Peninsula", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "foundedBy", "object": "Prophet Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "foundedIn", "object": "7th century CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasHolyBook", "object": "Quran", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasPrimaryLanguage", "object": "Arabic", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasMainBranches", "object": "Sunni", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasMainBranches", "object": "Shia", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "worshipsDeity", "object": "Allah", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasProphet", "object": "Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasPillar", "object": "Five Pillars", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "practices", "object": "Monotheism", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "holyCities", "object": "Mecca", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "holyCities", "object": "Medina", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "followedBy", "object": "1.9 billion people", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "globalPercentage", "object": "24% of world population", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "practicesRitual", "object": "Daily prayers", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "practicesRitual", "object": "Fasting during Ramadan", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "practicesRitual", "object": "Hajj pilgrimage", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "prohibits", "object": "Alcohol consumption", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "prohibits", "object": "Pork consumption", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "encourages", "object": "Charity", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "theologicalConcept", "object": "Tawhid", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasSacredText", "object": "Hadith", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "spreadsThrough", "object": "Trade", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "spreadsThrough", "object": "Conquest", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "developedLegal", "object": "Sharia law", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasCalendar", "object": "Hijri calendar", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "majorRegions", "object": "Middle East", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "majorRegions", "object": "North Africa", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "majorRegions", "object": "Southeast Asia", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "philosophicalTradition", "object": "Islamic philosophy", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "scientificContribution", "object": "Islamic Golden Age", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasImportantConcept", "object": "Jihad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasImportantConcept", "object": "Ummah", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasEthicalPrinciple", "object": "Social justice", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "hasEthicalPrinciple", "object": "Equality", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Islam", "predicate": "practicedBy", "object": "Muslims", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sword of Allah", "predicate": "instanceOf", "object": "Historical title", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sword of Allah", "predicate": "associatedWith", "object": "Khalid ibn al-Walid", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "birthPlace", "object": "Arabian Peninsula", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "militaryRole", "object": "Commander in early Islamic conquests", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sword of Allah", "predicate": "historicalPeriod", "object": "7th century CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "nationality", "object": "Arab", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "religion", "object": "Islam", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "significantBattle", "object": "Battle of Yarmouk", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "significantBattle", "object": "Conquest of Syria", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "significantBattle", "object": "Conquest of Iraq", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sword of Allah", "predicate": "meaningOf", "object": "Undefeated military leader", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "militarySkill", "object": "Never lost a battle", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "convertedTo", "object": "Islam", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "tribe", "object": "Quraysh", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "contemporaryOf", "object": "Prophet Muhammad", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "militaryStrategy", "object": "Rapid cavalry movements", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "militaryStrategy", "object": "Psychological warfare", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "advisor", "object": "Caliph Abu Bakr", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "militaryAchievement", "object": "Expanded Islamic territory", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Khalid ibn al-Walid", "predicate": "died", "object": "642 CE", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "instanceOf", "object": "Traditional Islamic Clothing", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "originatesFrom", "object": "Arabian Peninsula", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "wornBy", "object": "Muslim Women", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "typeOf", "object": "Loose-fitting Outer Garment", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "coveringArea", "object": "Body from Neck to Ankles", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "commonColor", "object": "Black", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "culturalSignificance", "object": "Modesty in Islamic Tradition", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "materialComposition", "object": "Lightweight Fabric", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "prevalentIn", "object": "Gulf Cooperation Council Countries", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "designVariation", "object": "Modern Embellished Styles", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "legalRequirement", "object": "Mandatory in Saudi Arabia", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "lengthType", "object": "Full-length Garment", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "seasonalVariation", "object": "Lightweight Summer and Heavier Winter Versions", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "fastening", "object": "Often Open Front with Buttons or Zipper", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Abaya", "predicate": "contemporaryTrend", "object": "Designer and Fashion-forward Styles", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "instanceOf", "object": "Human Population Genetic Group", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geographicOrigin", "object": "Arabian Peninsula", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticComposition", "object": "Mixed Haplogroups", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "commonHaplogroup", "object": "J1", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "commonHaplogroup", "object": "E1b1b", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "ancestralMigration", "object": "Neolithic Period", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticDiversity", "object": "High Regional Variation", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticInfluence", "object": "North African Populations", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticInfluence", "object": "Middle Eastern Populations", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticSimilarity", "object": "Semitic Language Groups", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "historicalMixing", "object": "Berber Populations", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "historicalMixing", "object": "Persian Populations", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "historicalMixing", "object": "Ottoman Populations", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticMarker", "object": "Y-chromosome Lineages", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "maternalLineage", "object": "Mitochondrial DNA Haplogroups", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticAdaptation", "object": "Desert Environment", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "populationSize", "object": "Approximately 400 Million Worldwide", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticSubdivision", "object": "Gulf Arab Cluster", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticSubdivision", "object": "Levantine Arab Cluster", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Arab Genetic Cluster", "predicate": "geneticSubdivision", "object": "North African Arab Cluster", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}

@@ -1,0 +1,1150 @@
+[
+  {
+    "subject": "Khalid bin Elwaleed",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:34:46"
+  },
+  {
+    "subject": "Battle of Ajnadayn",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of Fahl",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of Heliopolis",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of Jalula",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of Mu'tah",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of Nahavand",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of Qadisiyyah",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of Uhud",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of Yarmouk",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of the Bridge",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Battle of the Chains",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Caliph Abu Bakr",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Caliph Umar",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Islam",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Muslim",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Muslim armies",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Quraysh tribe",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Rashidun Caliphate",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Sword of Allah",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "companion of Muhammad",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "legendary figure in Islamic history",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "the Muslim conquest of Iraq",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "the Muslim conquest of Persia",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "the Muslim conquest of Syria",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "the early Islamic conquests",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "the expansion of the Islamic state",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:35:35"
+  },
+  {
+    "subject": "Abd al-Rahman ibn Awf",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Abdullah ibn Abbas",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Abdullah ibn Jahsh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Abdullah ibn Rawahah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Abu Ayyub al-Ansari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Abu Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Abu Dharr al-Ghifari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Abu Dujana",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Abu Huraira",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Abu Musa al-Ash'ari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:27"
+  },
+  {
+    "subject": "Abu Sufyan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Abu Sufyan ibn Harb",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Abu Ubaidah ibn al-Jarrah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Abu al-Aas ibn al-Rabi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Abu al-Bukhtari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Aisha bint Abu Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Ajnadayn",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Al-Aswad ibn al-Sar'i",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Al-Baladhuri's account",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Al-Harith ibn al-Simmah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Al-Tabari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Al-Walid ibn al-Walid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Ali ibn Abi Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Amr ibn al-As",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Anas ibn Malik",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Arab conquest of Persia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:27"
+  },
+  {
+    "subject": "Arab–Byzantine wars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Austrian General Franz von Jellacic",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "Battle of Hattin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Battle of Nihavand",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Battle of Tabuk",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Battle of Zurich",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "Battle of al-Qadisiyyah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Battle of the River Aare",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "Beginning of Islamic rule in Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Bilal ibn Rabah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Byzantine Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Byzantine Empire and Rashidun Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:43:15"
+  },
+  {
+    "subject": "Consolidation of Muslim control in Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "End of Byzantine influence in Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Establishment of Muslim governance in Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Europe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "Fahl, Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "Fall of Byzantine control in Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Fatimah bint Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "France",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "French",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "French Revolutionary Wars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "General Jean-Antoine Sérurier",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "Habsburgs",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "Hadith collections",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Hassan ibn Thabit",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Heliopolis, Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Hind bint Utbah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Ibn Abbas",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn Abd al-Hakam's account",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Ibn Hisham",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn Ishaq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn Ishaq's accounts",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Ibn Mas'ud",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn Sa'd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn Sa'd's records",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Ibn Sa'di",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn Zubair",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn al-Athir",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn al-Jawzi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn al-Mahdi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn al-Mu'taz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn al-Mubarak",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ibn al-Mundhir",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ikrimah ibn Abu Jahl",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Islamic military strategy",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Islamic territory",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Islamic tradition",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Ja'far ibn Abi Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Jalula, Iraq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Jean-Antoine Sérurier",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "Khalid ibn al-Walid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Khalid's flanking maneuver",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:43:15"
+  },
+  {
+    "subject": "Mu'tah, Jordan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Muadh ibn Jabal",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Muslim commanders",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Muslim forces",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Muslim forces and Byzantine defenders",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Muslim military campaigns",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Muslim victory",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Muslims",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:41:17"
+  },
+  {
+    "subject": "Nahavand, Iran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:27"
+  },
+  {
+    "subject": "Nile Delta",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Persia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Prophet Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Qadisiyyah, Iraq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:41:17"
+  },
+  {
+    "subject": "Quraysh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Rashidun forces encirclement",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:43:15"
+  },
+  {
+    "subject": "Rustam Farrokhzad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:41:17"
+  },
+  {
+    "subject": "Sa'd ibn Abi Waqqas",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Salman the Persian",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Sassanian Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Sassanian forces",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Siege of Alexandria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Sirah literature",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Talha ibn Ubaydullah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Theodore",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:04"
+  },
+  {
+    "subject": "Theodore Trithyrius",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Ubaidah ibn al-Jarrah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Ubayy ibn Ka'b",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Uhud Mountain, Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "Umar ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Uthman ibn Affan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Yarmouk River",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:43:15"
+  },
+  {
+    "subject": "Yazdegerd III",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "Zayd ibn Harithah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "Zayd ibn al-Harithah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "Zubair ibn al-Awwam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:05"
+  },
+  {
+    "subject": "al-Baladhuri's writings",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "al-Tabari's histories",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "clash of civilizations",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:41:17"
+  },
+  {
+    "subject": "collapse of Sassanian Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:27"
+  },
+  {
+    "subject": "collapse of the Sassanian Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:41:17"
+  },
+  {
+    "subject": "death of Hamza ibn Abdul-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "decisive Arab victory",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:27"
+  },
+  {
+    "subject": "decisive Muslim victory",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "defense of Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "described in 'The Conquest of Persia'",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:41:17"
+  },
+  {
+    "subject": "early Islamic conquests",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:38:43"
+  },
+  {
+    "subject": "early Islamic expansion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:36:28"
+  },
+  {
+    "subject": "end of Sassanian resistance",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:40:27"
+  },
+  {
+    "subject": "established Khalid ibn al-Walid's reputation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:43:15"
+  },
+  {
+    "subject": "part of the Muslim conquests",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:41:17"
+  },
+  {
+    "subject": "part of the early Islamic conquests",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:43:15"
+  },
+  {
+    "subject": "second major battle in Islam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  },
+  {
+    "subject": "secured French control over Switzerland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:37:15"
+  },
+  {
+    "subject": "strengthened the Rashidun Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:41:17"
+  },
+  {
+    "subject": "victory for Quraysh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:42:19"
+  }
+]

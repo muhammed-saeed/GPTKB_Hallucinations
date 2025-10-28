@@ -1,0 +1,1012 @@
+{"subject": "Umer Bin Khatab", "predicate": "instanceOf", "object": "Caliph", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "instanceOf", "object": "Companion of Prophet Muhammad", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "instanceOf", "object": "Islamic Leader", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "fullName", "object": "Umar ibn al-Khattab", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "birthYear", "object": "584 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "birthPlace", "object": "Mecca", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "deathYear", "object": "644 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "deathPlace", "object": "Medina", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "deathCause", "object": "Assassination", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "assassin", "object": "Abu Lu'lu'ah Firuz", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "father", "object": "Al-Khattab ibn Nufayl", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "mother", "object": "Hantamah bint Hisham", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "tribe", "object": "Quraysh", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "clan", "object": "Banu Adi", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "title", "object": "Al-Farooq", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "titleMeaning", "object": "The Distinguisher between Truth and Falsehood", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "convertedToIslam", "object": "616 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "conversionAge", "object": "26 years old", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "preConversionOccupation", "object": "Merchant", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "preConversionStance", "object": "Opponent of Islam", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "caliphateStart", "object": "634 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "caliphateEnd", "object": "644 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "caliphateDuration", "object": "10 years", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "predecessor", "object": "Abu Bakr", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "successor", "object": "Uthman ibn Affan", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "burialPlace", "object": "Al-Masjid an-Nabawi", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "burialLocation", "object": "Medina", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "height", "object": "Tall", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "physicalDescription", "object": "Strong build", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "complexion", "object": "Fair", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "beard", "object": "Thick", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "personalityTrait", "object": "Just", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "personalityTrait", "object": "Strict", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "personalityTrait", "object": "Courageous", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "personalityTrait", "object": "Simple lifestyle", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "knownFor", "object": "Administrative reforms", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "knownFor", "object": "Military expansions", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "knownFor", "object": "Establishing Islamic calendar", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "knownFor", "object": "Creating diwan system", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "knownFor", "object": "Founding new cities", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "establishedCity", "object": "Basra", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "establishedCity", "object": "Kufa", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "establishedCity", "object": "Fustat", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "conquest", "object": "Jerusalem", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "conquestDate", "object": "637 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "conquest", "object": "Persian Empire", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "conquest", "object": "Byzantine Syria", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "conquest", "object": "Egypt", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "establishedInstitution", "object": "Bayt al-mal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "establishedInstitution", "object": "Public treasury", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "establishedSystem", "object": "Pension system for soldiers", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "establishedSystem", "object": "Land survey system", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "introducedPractice", "object": "Taraweeh prayers in congregation", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "introducedPractice", "object": "Islamic calendar starting from Hijra", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "calendarStartYear", "object": "622 CE", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "wife", "object": "Zaynab bint Maz'un", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "wife", "object": "Umm Kulthum bint Ali", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Umer Bin Khatab", "predicate": "wife", "object": "Atikah bint Zayd", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "instanceOf", "object": "nickname", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "nicknameOf", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "meaning", "object": "The Criterion", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "language", "object": "Arabic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "associatedWith", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "givenBy", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "signifies", "object": "distinguisher between truth and falsehood", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "historicalPeriod", "object": "7th century", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "region", "object": "Arabian Peninsula", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "religion", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "role", "object": "Companion of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "role", "object": "Second Caliph of Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "caliphatePeriod", "object": "634-644 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "precededBy", "object": "Abu Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "succeededBy", "object": "Uthman ibn Affan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "birthYear", "object": "584 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "birthPlace", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "deathYear", "object": "644 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "deathPlace", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "deathCause", "object": "assassination", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "assassin", "object": "Abu Lu'lu'a Firuz", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "tribe", "object": "Quraysh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "clan", "object": "Banu Adi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "father", "object": "Al-Khattab ibn Nufayl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "mother", "object": "Hantama bint Hisham", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "conversionYear", "object": "616 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "conversionAge", "object": "32 years", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "knownFor", "object": "justice", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "knownFor", "object": "administrative reforms", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "knownFor", "object": "military expansion", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "established", "object": "Islamic calendar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "established", "object": "Bayt al-Mal", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "introduced", "object": "police force", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "introduced", "object": "judicial system", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "conquered", "object": "Persian Empire", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "conquered", "object": "Byzantine Syria", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "conquered", "object": "Jerusalem", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "conquered", "object": "Egypt", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "militaryCommander", "object": "Khalid ibn al-Walid", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "militaryCommander", "object": "Amr ibn al-As", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "famousBattle", "object": "Battle of Yarmouk", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "famousBattle", "object": "Battle of Qadisiyyah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "famousBattle", "object": "Conquest of Jerusalem", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "built", "object": "first Islamic navy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "built", "object": "administrative districts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "appointed", "object": "governors", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "appointed", "object": "judges", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "established", "object": "public treasury", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "established", "object": "welfare system", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "implemented", "object": "pension system", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "implemented", "object": "census", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "standardized", "object": "weights and measures", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "constructed", "object": "mosques", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "constructed", "object": "roads", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "constructed", "object": "canals", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "founded", "object": "new cities", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "founded", "object": "Kufa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "founded", "object": "Basra", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "founded", "object": "Fustat", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "personalTrait", "object": "just", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Farooq", "predicate": "personalTrait", "object": "humble", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "instanceOf", "object": "historical region", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "part of", "object": "Byzantine Empire", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "located in", "object": "Eastern Mediterranean", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "existed during", "object": "Late Antiquity", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "existed during", "object": "Early Middle Ages", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "time period", "object": "4th to 7th centuries AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "capital", "object": "Antioch", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "major city", "object": "Damascus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "major city", "object": "Emesa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "major city", "object": "Apamea", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "major city", "object": "Berytus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "major city", "object": "Tyre", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "major city", "object": "Sidon", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "major city", "object": "Laodicea", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "bordered", "object": "Byzantine Anatolia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "bordered", "object": "Byzantine Mesopotamia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "bordered", "object": "Arabian Desert", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "bordered", "object": "Mediterranean Sea", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "conquered by", "object": "Muslim Arab armies", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "conquest year", "object": "634-638 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "battle", "object": "Battle of Yarmouk", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "battle year", "object": "636 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzicate Syria", "predicate": "result of battle", "object": "Byzantine defeat", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "governed by", "object": "Praetorian prefect", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "administrative division", "object": "Diocese of the East", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "province", "object": "Syria Prima", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "province", "object": "Syria Secunda", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "province", "object": "Phoenicia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "province", "object": "Phoenicia Libanensis", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "province", "object": "Euphratensis", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "language", "object": "Greek", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "language", "object": "Syriac", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "language", "object": "Aramaic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "religion", "object": "Christianity", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "dominant church", "object": "Eastern Orthodox Church", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "theological center", "object": "Antioch", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "theological school", "object": "School of Antioch", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "monastic center", "object": "Sinai Peninsula", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "monastic center", "object": "Qalamun Mountains", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "saint", "object": "Simeon Stylites", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "saint activity", "object": "asceticism", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "saint", "object": "John Chrysostom", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "saint birthplace", "object": "Antioch", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "economy", "object": "agriculture", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "crop", "object": "olives", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "crop", "object": "grapes", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "crop", "object": "grain", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "trade", "object": "silk", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "trade", "object": "spices", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "trade route", "object": "Silk Road", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "industry", "object": "textiles", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "industry", "object": "glassmaking", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "industry", "object": "pottery", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "architecture", "object": "basilicas", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "architecture", "object": "churches", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "architecture", "object": "monasteries", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "archaeological site", "object": "Resafa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "archaeological site", "object": "Qasr ibn Wardan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "archaeological site", "object": "Bosra", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "fortification", "object": "city walls", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "fortification", "object": "castles", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "emperor", "object": "Justinian I", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "emperor activity", "object": "building projects", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "emperor", "object": "Heraclius", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "emperor activity", "object": "defense against Persians", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "war", "object": "Byzantine-Sasanian War", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "war period", "object": "602-628 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "invader", "object": "Sasanian Empire", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "invasion year", "object": "611 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Byzantine Syria", "predicate": "reconquest", "object": "by Heraclius", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "instanceOf", "object": "Arab tribe", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "partOf", "object": "Quraysh tribe", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "ancestor", "object": "Adi ibn Ka'b", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "location", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "historicalPeriod", "object": "pre-Islamic Arabia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "historicalPeriod", "object": "early Islamic period", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "knownFor", "object": "opposition to Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "knownFor", "object": "protection of Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Zayd ibn Amr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Khattab ibn Nufayl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Hantamah bint Hisham", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Zaynab bint Madhun", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abdullah ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Hafsa bint Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Asim ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Ubaydullah ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Zayd ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abd al-Rahman ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Umar ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Iyaas ibn al-Bukayr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Saeed ibn Zayd", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Fatimah bint al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Umm Kulthum bint Uqba", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Al-Arqam ibn Abi al-Arqam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Amr ibn al-As", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Khalid ibn al-Walid", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abu Jahl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Utbah ibn Rabiah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Shaybah ibn Rabiah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Walid ibn Utbah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Umayyah ibn Khalaf", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Uqbah ibn Abi Mu'ayt", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Nadr ibn al-Harith", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Al-Aswad ibn al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abu Lahab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Uthman ibn Affan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abd al-Rahman ibn Awf", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Talhah ibn Ubaydullah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Al-Zubayr ibn al-Awwam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Sa'd ibn Abi Waqqas", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abu Ubaydah ibn al-Jarrah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abdullah ibn Masud", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Bilal ibn Rabah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Ammar ibn Yasir", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Suhaib ar-Rumi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Salman al-Farsi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abu Dharr al-Ghifari", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Miqdad ibn Aswad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Ubadah ibn al-Samit", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abu al-Darda", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abu Musa al-Ashari", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Amr ibn al-As", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Khalid ibn al-Walid", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abu Sufyan ibn Harb", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Muawiyah ibn Abi Sufyan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Yazid ibn Muawiyah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Marwan ibn al-Hakam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Abd al-Malik ibn Marwan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Al-Walid ibn Abd al-Malik", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Sulayman ibn Abd al-Malik", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Umar ibn Abd al-Aziz", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Hisham ibn Abd al-Malik", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Banu Adi", "predicate": "member", "object": "Al-Mansur", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "instanceOf", "object": "city", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "locatedIn", "object": "Iraq", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "isCapitalOf", "object": "Basra Governorate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "foundedIn", "object": "636 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "foundedBy", "object": "Caliph Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "population", "object": "approximately 1.3 million", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "locatedOn", "object": "Shatt al-Arab river", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "near", "object": "Persian Gulf", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "timeZone", "object": "Arabia Standard Time", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "officialLanguage", "object": "Arabic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "majorEthnicGroup", "object": "Arabs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "majorReligion", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "nickname", "object": "Venice of the East", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "climateType", "object": "hot desert climate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "averageSummerTemperature", "object": "40 degrees Celsius", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "averageWinterTemperature", "object": "12 degrees Celsius", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "annualRainfall", "object": "150 millimeters", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "majorIndustry", "object": "oil production", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasPort", "object": "Umm Qasr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasAirport", "object": "Basra International Airport", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasUniversity", "object": "University of Basra", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "famousFor", "object": "date palms", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "famousFor", "object": "canals", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "historicalSignificance", "object": "early Islamic center of learning", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "historicalEvent", "object": "Battle of Basra in 2003", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "historicalEvent", "object": "Zanj Rebellion", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "historicalFigure", "object": "Hasan al-Basri", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "historicalFigure", "object": "Al-Khalil ibn Ahmad al-Farahidi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "historicalFigure", "object": "Sibawayh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "partOf", "object": "Mesopotamia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "inRegion", "object": "Middle East", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "coordinates", "object": "30.5°N 47.8°E", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "elevation", "object": "5 meters above sea level", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "area", "object": "181 square kilometers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "governedBy", "object": "Basra Governorate Council", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasStadium", "object": "Basra Sports City", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hostedEvent", "object": "2013 Arab Capital of Culture", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hostedEvent", "object": "Gulf Cup of Nations", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "majorExport", "object": "crude oil", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasRefinery", "object": "Basra Refinery", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasMuseum", "object": "Basra Museum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasLandmark", "object": "Basra Clock Tower", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasLandmark", "object": "Sayyid Ali al-Moussawi Mosque", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasLandmark", "object": "Old Basra", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "transportationHub", "object": "Basra Central Station", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "sisterCity", "object": "Aqaba", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "sisterCity", "object": "Baku", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "sisterCity", "object": "Istanbul", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "sisterCity", "object": "Kuwait City", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "sisterCity", "object": "Mashhad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "dialect", "object": "Basrawi Arabic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "cuisine", "object": "Masgouf", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "cuisine", "object": "Quzi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "traditionalDance", "object": "Khigga", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "traditionalMusic", "object": "Maqam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "festival", "object": "Basra Date Festival", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "economicImportance", "object": "major oil hub", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasOilField", "object": "Rumaila", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasOilField", "object": "West Qurna", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "hasOilField", "object": "Zubair", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "waterSource", "object": "Shatt al-Arab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "waterSource", "object": "Tigris River", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Basra", "predicate": "waterSource", "object": "Euphrates River", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "instanceOf", "object": "person", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "instanceOf", "object": "female", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "instanceOf", "object": "companion of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "instanceOf", "object": "poet", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "father", "object": "Zayd ibn Amr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "tribe", "object": "Quraysh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "clan", "object": "Banu Adi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "first husband", "object": "Abdullah ibn Abi Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "second husband", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "third husband", "object": "Zubayr ibn al-Awwam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "known for", "object": "poetry", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "era", "object": "pre-Islamic Arabia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "era", "object": "early Islamic period", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "converted to Islam", "object": "before Muhammad's migration to Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "migrated to Medina", "object": "with early Muslims", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "participated in", "object": "Battle of Uhud", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "role in battle", "object": "water carrier for wounded", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "wrote poetry about", "object": "her husband Abdullah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "wrote poetry about", "object": "her husband Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "poetry style", "object": "elegiac", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "father's religion", "object": "Hanif", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "father's status", "object": "monotheist before Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "brother", "object": "Sa'id ibn Zayd", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "brother Sa'id", "object": "companion of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "nephew", "object": "Abdullah ibn Sa'id", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "married Abdullah ibn Abi Bakr", "object": "before his death", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "Abdullah ibn Abi Bakr died", "object": "in Battle of Uhud", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "lamented Abdullah's death", "object": "in poetry", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "married Umar ibn al-Khattab", "object": "after Abdullah's death", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "Umar ibn al-Khattab", "object": "second caliph of Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "had son with Umar", "object": "Iyaas ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "Umar divorced her", "object": "due to public pressure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "reason for divorce", "object": "her beauty attracting attention", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "married Zubayr ibn al-Awwam", "object": "after Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "Zubayr ibn al-Awwam", "object": "companion of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "Zubayr ibn al-Awwam", "object": "military commander", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "had son with Zubayr", "object": "Urwah ibn Zubayr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "son Urwah", "object": "prominent scholar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "son Urwah", "object": "historian", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "died", "object": "in Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "death year", "object": "around 672 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "buried", "object": "in al-Baqi cemetery", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "mentioned in", "object": "Islamic historical sources", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "mentioned in", "object": "biographies of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "praised for", "object": "faithfulness", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "praised for", "object": "piety", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "contemporary of", "object": "Khadija bint Khuwaylid", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "contemporary of", "object": "Aisha bint Abi Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "lived in", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "lived in", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "witnessed", "object": "early Islamic revelations", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "witnessed", "object": "expansion of Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "family known for", "object": "early conversion to Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "family known for", "object": "support of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "poetry preserved in", "object": "classical Arabic literature", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "subject of", "object": "historical studies", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Atikah bint Zayd", "predicate": "example of", "object": "pre-Islamic female poet", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "human", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "caliph", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "companion of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "Sahaba", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "full name", "object": "Abdullah ibn Abi Quhafa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "birth year", "object": "573 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "birth place", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "death year", "object": "634 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "death place", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "burial place", "object": "Al-Masjid an-Nabawi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "father", "object": "Abu Quhafa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "mother", "object": "Umm al-Khayr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "tribe", "object": "Quraysh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "clan", "object": "Banu Taym", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "title", "object": "As-Siddiq", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "title", "object": "The Truthful", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "title", "object": "Al-Atiq", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "occupation", "object": "merchant", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "occupation", "object": "political leader", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "occupation", "object": "military leader", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "religion", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "first male convert", "object": "to Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "accepted Islam", "object": "through Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "close friend", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "companion during Hijra", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "participated in", "object": "Hijra to Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "freed slaves", "object": "Bilal ibn Rabah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "freed slaves", "object": "Amir ibn Fuhayra", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "freed slaves", "object": "Zinnira", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "freed slaves", "object": "Umm Ubays", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "freed slaves", "object": "Lubaynah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "freed slaves", "object": "Nahdiyah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "freed slaves", "object": "Jariah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "participated in", "object": "Battle of Badr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "participated in", "object": "Battle of Uhud", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "participated in", "object": "Battle of the Trench", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "participated in", "object": "Battle of Hunayn", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "participated in", "object": "Conquest of Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "led prayer", "object": "during Muhammad's illness", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "appointed caliph", "object": "at Saqifah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "caliphate start", "object": "632 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "caliphate end", "object": "634 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "caliphate duration", "object": "2 years", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "predecessor", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "successor", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "first Rashidun Caliph", "object": "yes", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "fought Ridda wars", "object": "against apostate tribes", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "commanded army", "object": "Usama ibn Zayd", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "initiated compilation", "object": "of the Quran", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "ordered collection", "object": "of Quranic verses", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "appointed Zayd ibn Thabit", "object": "to compile Quran", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "expanded Islamic state", "object": "into Byzantine Empire", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "expanded Islamic state", "object": "into Sassanian Empire", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "sent Khalid ibn al-Walid", "object": "to conquer Iraq", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "sent Khalid ibn al-Walid", "object": "to conquer Syria", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "known for piety", "object": "yes", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "known for humility", "object": "yes", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "known for justice", "object": "yes", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Bakr", "predicate": "famous saying", "object": "If I take a wrong path correct me", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "instanceOf", "object": "person", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "instanceOf", "object": "historical figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "instanceOf", "object": "Arab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "instanceOf", "object": "Quraysh tribe member", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "father of", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "son of", "object": "Nufayl ibn Abdul-Uzza", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "brother of", "object": "Zayd ibn Nufayl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "husband of", "object": "Hantamah bint Hisham", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "lived in", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "lived during", "object": "pre-Islamic era", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "lived during", "object": "6th century", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "belonged to", "object": "Adi clan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "known for", "object": "being father of Caliph Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "opposed", "object": "early Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "was", "object": "polytheist", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "was", "object": "merchant", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "was", "object": "respected elder", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "died before", "object": "rise of Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "ancestor of", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "descendant of", "object": "Ka'b ibn Lu'ayy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "contemporary of", "object": "Abd al-Muttalib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "contemporary of", "object": "Abu Talib", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "mentioned in", "object": "Islamic historical sources", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "mentioned in", "object": "biographies of Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "grandfather of", "object": "Hafsa bint Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "grandfather of", "object": "Abdullah ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "grandfather of", "object": "Asim ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "grandfather of", "object": "Zayd ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "grandfather of", "object": "Ubaydullah ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "ancestor of", "object": "Umar ibn Abdul Aziz", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "ancestor of", "object": "later Umayyad caliphs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "ancestor of", "object": "Abbasid caliphs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "family member of", "object": "Banu Adi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "predecessor of", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "lived in", "object": "Arabian Peninsula", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "was", "object": "tribal leader", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "participated in", "object": "tribal affairs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "worshipped", "object": "idols", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "practiced", "object": "pre-Islamic Arabian religion", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "father-in-law of", "object": "Zaynab bint Maz'un", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "father-in-law of", "object": "Umm Kulthum bint Jarwal", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "father-in-law of", "object": "Qurayba bint Abi Umayya", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "relative of", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "contemporary of", "object": "Waraqah ibn Nawfal", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "contemporary of", "object": "Khadija bint Khuwaylid", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "contemporary of", "object": "Abu Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "contemporary of", "object": "Abu Jahl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "contemporary of", "object": "Abu Lahab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "mentioned in", "object": "sira literature", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Khattab ibn Nufayl", "predicate": "mentioned in", "object": "hadith collections", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "instanceOf", "object": "historical city", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "locatedIn", "object": "Egypt", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "foundedBy", "object": "Amr ibn al-As", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "foundingYear", "object": "641 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "servedAs", "object": "capital of Egypt", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "precededBy", "object": "Babylon Fortress", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "succeededBy", "object": "Cairo", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "locatedNear", "object": "Nile River", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "partOf", "object": "Islamic Caliphate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "nameOrigin", "object": "Arabic word for tent", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "establishedAfter", "object": "Muslim conquest of Egypt", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "contained", "object": "Amr ibn al-As Mosque", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "mosqueBuiltIn", "object": "642 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "mosqueIs", "object": "first mosque in Africa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "populationPeak", "object": "over 200000 people", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "economicActivity", "object": "trade hub", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "tradedGoods", "object": "textiles", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "tradedGoods", "object": "pottery", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "tradedGoods", "object": "glassware", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "knownFor", "object": "Fustat ceramics", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "ceramicsStyle", "object": "luster-painted", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "destroyedIn", "object": "1168 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "destroyedBy", "object": "fire", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "orderedDestructionBy", "object": "Shawar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "toPreventCaptureBy", "object": "Crusaders", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "replacedBy", "object": "al-Qatai", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "al-QataiFoundedBy", "object": "Ahmad ibn Tulun", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "laterMergedInto", "object": "Cairo", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "CairoFoundedIn", "object": "969 AD", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "archaeologicalSite", "object": "Fustat mounds", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "excavationsRevealed", "object": "artifacts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "artifactsInclude", "object": "pottery shards", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "artifactsInclude", "object": "coins", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "coinsMinted", "object": "Umayyad period", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "coinsMinted", "object": "Abbasid period", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "administrativeCenter", "object": "Egypt under Umayyads", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "administrativeCenter", "object": "Egypt under Abbasids", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "governedBy", "object": "caliphs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "militaryBase", "object": "Arab armies", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "strategicLocation", "object": "near Nile Delta", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "climate", "object": "arid", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "waterSource", "object": "Nile River", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "irrigationSystems", "object": "canals", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "agriculture", "object": "date palms", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "agriculture", "object": "grains", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "residentialAreas", "object": "multi-story houses", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "buildingMaterials", "object": "mud brick", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "buildingMaterials", "object": "wood", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "streets", "object": "narrow", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "markets", "object": "souks", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "souksSold", "object": "spices", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "souksSold", "object": "slaves", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "souksSold", "object": "jewelry", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "culturalDiversity", "object": "Muslims", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "culturalDiversity", "object": "Christians", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "culturalDiversity", "object": "Jews", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "religiousBuildings", "object": "churches", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "religiousBuildings", "object": "synagogues", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "documentedBy", "object": "medieval historians", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "historiansInclude", "object": "al-Maqrizi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "mentionedIn", "object": "travel accounts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "travelAccountsBy", "object": "Ibn Battuta", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "declineBegan", "object": "Fatimid period", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "finalDecline", "object": "Ayyubid period", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "modernLocation", "object": "southern Cairo", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "archaeologicalImportance", "object": "early Islamic urbanism", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "studiedBy", "object": "archaeologists", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "museumCollections", "object": "Fustat artifacts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "museumsInclude", "object": "Museum of Islamic Art Cairo", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Fustat", "predicate": "preservationStatus", "object": "partially excavated", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Persian", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Slave", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Craftsman", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Military Personnel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Sasanian Empire Subject", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Early Islamic Era Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Martyr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Venerated Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Non-Arab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Mawla", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Islamic History Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "7th Century Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Iranian", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Zoroastrian Convert", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Islam Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Rebel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Political Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Caliphate Era Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Medieval Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Enemy of Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Symbol", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Avenger", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Persian Nationalist Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Assassin of Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Controversial Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Hero", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Sunni Villain", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Slave Rebel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Persian Resistance Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Early Islamic Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Martyr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Venerated Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Persian Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Umar's Killer", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Figure of Revenge", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Historical Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Persian Historical Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "7th Century Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Islamic Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Slave Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Martyr Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Persian Rebel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Avenger Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Symbolic Figure", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Enemy of Caliph Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Persian National Hero", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Shia Venerated Martyr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Historical Assassin of Caliph", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Abu Lu'lu'ah Firuz", "predicate": "instanceOf", "object": "Persian Slave", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "instanceOf", "object": "city", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "locatedIn", "object": "Saudi Arabia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "isCapitalOf", "object": "Mecca Province", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "population", "object": "over 2 million", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "isHoliestCity", "object": "in Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "contains", "object": "Masjid al-Haram", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "contains", "object": "Kaaba", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "birthplace", "object": "of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "pilgrimageDestination", "object": "for Hajj", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "pilgrimageDestination", "object": "for Umrah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "foundedBy", "object": "Ishmael and Abraham", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "mentionedIn", "object": "Quran", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "elevation", "object": "277 meters above sea level", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "climate", "object": "hot desert climate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "timeZone", "object": "Arabia Standard Time", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "officialLanguage", "object": "Arabic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "governedBy", "object": "Saudi government", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasAirport", "object": "King Abdulaziz International Airport", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasMetro", "object": "Mecca Metro", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "surroundedBy", "object": "Mountains", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "nearCity", "object": "Jeddah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "historicalRegion", "object": "Hejaz", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "conqueredBy", "object": "Muhammad in 630 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "preIslamicName", "object": "Bakkah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasSacredWell", "object": "Zamzam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasRitual", "object": "Tawaf", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasRitual", "object": "Sa'i", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "directionOfPrayer", "object": "for Muslims", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "visitedAnnually", "object": "by millions of pilgrims", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasHistoricEvent", "object": "Year of the Elephant", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasMountain", "object": "Jabal al-Nour", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasCave", "object": "Hira", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasMountain", "object": "Jabal Thawr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasCave", "object": "Thawr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "economicActivity", "object": "religious tourism", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasHotel", "object": "Abraj Al Bait", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "tallestBuilding", "object": "Clock Tower", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasUniversity", "object": "Umm Al-Qura University", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasMuseum", "object": "Mecca Museum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "restrictedTo", "object": "Muslims only", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasHistoricTribe", "object": "Quraysh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasEvent", "object": "Pact of the Virtuous", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasStructure", "object": "Black Stone", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasStructure", "object": "Maqam Ibrahim", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasStructure", "object": "Hijr Ismail", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasGate", "object": "Bab al-Salam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasMinaret", "object": "multiple minarets", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasExpansion", "object": "ongoing", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasRoad", "object": "Mecca Road", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasShoppingMall", "object": "Mecca Mall", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasHospital", "object": "King Abdullah Medical City", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasPolice", "object": "Mecca Police", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasFireDepartment", "object": "Mecca Civil Defense", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasPostalCode", "object": "24231", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "areaCode", "object": "+966 12", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "coordinates", "object": "21.4225° N, 39.8262° E", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "foundedApproximately", "object": "2000 BCE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasAncientName", "object": "Macoraba", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "mentionedBy", "object": "Ptolemy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasBattle", "object": "Battle of Badr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasBattle", "object": "Battle of Uhud", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasBattle", "object": "Battle of the Trench", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasTreaty", "object": "Treaty of Hudaybiyyah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasMigration", "object": "Hijra", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasPilgrimageMonth", "object": "Dhu al-Hijjah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasPilgrimageRite", "object": "Stoning of the Devil", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasPilgrimageRite", "object": "Animal Sacrifice", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasPilgrimageSite", "object": "Mina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasPilgrimageSite", "object": "Arafat", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasPilgrimageSite", "object": "Muzdalifah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Mecca", "predicate": "hasHistoricMarket", "object": "Suq al-Layl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "instanceOf", "object": "person", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "gender", "object": "female", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "father", "object": "Hisham ibn al-Mughirah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "tribe", "object": "Makhzum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "sister", "object": "Umm Salama", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "brother", "object": "Abu Jahl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "husband", "object": "Khattab ibn Nufayl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "son", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "son", "object": "Zayd ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "daughter", "object": "Fatimah bint al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "era", "object": "pre-Islamic Arabia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "era", "object": "early Islamic period", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "religion", "object": "paganism", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "converted to Islam", "object": "after her son Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "family", "object": "Quraysh tribe", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "clan", "object": "Banu Makhzum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "historical significance", "object": "mother of Caliph Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "historical significance", "object": "sister of prominent Meccan leader", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "opposed Islam initially", "object": "like her brother Abu Jahl", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "accepted Islam", "object": "after Umar's conversion", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "lived in Mecca", "object": "before Hijrah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "lived in Medina", "object": "after Hijrah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "status", "object": "noblewoman", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "social standing", "object": "high in Quraysh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "marriage", "object": "arranged with Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "children", "object": "multiple", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "son Umar", "object": "second Caliph", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "son Zayd", "object": "early Muslim martyr", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "daughter Fatimah", "object": "married to Sa'id ibn Zayd", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "brother Abu Jahl", "object": "enemy of Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "sister Umm Salama", "object": "wife of Prophet Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "family conflicts", "object": "over Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "conversion story", "object": "influenced by Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "death", "object": "after Islam spread", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "burial", "object": "in Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "legacy", "object": "through her children", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "mentioned in hadith", "object": "regarding Umar's conversion", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "historical sources", "object": "Islamic biographies", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "name meaning", "object": "Hantamah is a female name", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "bint", "object": "means daughter of", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "full name", "object": "Hantamah bint Hisham ibn al-Mughirah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "grandfather", "object": "al-Mughirah ibn Abdullah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "family wealth", "object": "from trade", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "upbringing", "object": "in elite Meccan society", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "influence", "object": "on her son Umar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "character", "object": "strong-willed", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "role", "object": "mother", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "role", "object": "sister", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "role", "object": "wife", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "historical period", "object": "Jahiliyyah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "historical period", "object": "Rashidun Caliphate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "location", "object": "Arabian Peninsula", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "location", "object": "Hejaz", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "cultural context", "object": "Arab tribal society", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "lineage", "object": "descended from Makhzum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "lineage", "object": "part of Quraysh aristocracy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "relationship with Prophet", "object": "indirect through family", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "migration", "object": "to Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "life events", "object": "witnessed rise of Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "personal beliefs", "object": "changed over time", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "family members", "object": "included prominent figures", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "historical records", "object": "in sira and tarikh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "significance", "object": "in Islamic history", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "motherhood", "object": "shaped early Muslim community", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Hantamah bint Hisham", "predicate": "sibling relationships", "object": "complex due to Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "instanceOf", "object": "city", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "locatedIn", "object": "Iraq", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "locatedIn", "object": "Najaf Governorate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "foundedBy", "object": "Sa'd ibn Abi Waqqas", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "foundedInYear", "object": "638 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "isLocatedOn", "object": "Euphrates River", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "distanceFrom", "object": "10 kilometers from Najaf", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "was", "object": "capital of the Rashidun Caliphate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "was", "object": "capital of the Umayyad Caliphate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "was", "object": "capital of the Abbasid Caliphate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "isKnownFor", "object": "Kufic script", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "isKnownFor", "object": "early Islamic scholarship", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "isKnownFor", "object": "Kufa Mosque", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "isKnownFor", "object": "Shi'a Islam significance", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "contains", "object": "Great Mosque of Kufa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "contains", "object": "House of Imam Ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "contains", "object": "Shrine of Muslim ibn Aqil", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "contains", "object": "Shrine of Hani ibn Urwa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasSiteOf", "object": "Battle of Karbala preparations", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasSiteOf", "object": "revolt of Mukhtar al-Thaqafi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasSiteOf", "object": "Zanj Rebellion", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "early Islamic jurists", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "early Islamic grammarians", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "early Islamic historians", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Abu Hanifa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Hisham ibn al-Kalbi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Khalil ibn Ahmad al-Farahidi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Sibawayh", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Asma'i", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Abu al-Aswad al-Du'ali", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Kisa'i", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Mufaddal al-Dabbi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Hammad al-Rawiya", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Abu Mikhnaf", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Mada'ini", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Waqidi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Ibn al-Kalbi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Mubarrad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Tha'alibi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Jahiz", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Mas'udi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Tabari", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Baladhuri", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Ya'qubi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Dinawari", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Maqdisi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Biruni", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Idrisi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Ibn Battuta", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Ibn Khaldun", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Ibn al-Athir", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Ibn Kathir", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Ibn Hajar al-Asqalani", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Suyuti", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Maqrizi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Qalqashandi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Nuwayri", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Kufa", "predicate": "wasHomeTo", "object": "Al-Dhahabi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "instanceOf", "object": "country", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "locatedIn", "object": "Africa", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "locatedIn", "object": "Asia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "capital", "object": "Cairo", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "officialLanguage", "object": "Arabic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "currency", "object": "Egyptian pound", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "governmentType", "object": "republic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "president", "object": "Abdel Fattah el-Sisi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "population", "object": "over 100 million", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "area", "object": "1,010,408 square kilometers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "borders", "object": "Mediterranean Sea", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "borders", "object": "Red Sea", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "borders", "object": "Libya", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "borders", "object": "Sudan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "borders", "object": "Israel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "borders", "object": "Gaza Strip", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "longestRiver", "object": "Nile River", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorDesert", "object": "Sahara Desert", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorDesert", "object": "Eastern Desert", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorDesert", "object": "Western Desert", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "highestPoint", "object": "Mount Catherine", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "lowestPoint", "object": "Qattara Depression", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientCivilization", "object": "Ancient Egypt", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousPyramid", "object": "Great Pyramid of Giza", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousSphinx", "object": "Great Sphinx of Giza", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousTemple", "object": "Karnak Temple", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousTemple", "object": "Luxor Temple", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousValley", "object": "Valley of the Kings", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousCity", "object": "Alexandria", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousCity", "object": "Giza", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousCity", "object": "Luxor", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousCity", "object": "Aswan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "independence", "object": "1922", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "formerRuler", "object": "Muhammad Ali Pasha", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "formerRuler", "object": "Gamal Abdel Nasser", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "formerRuler", "object": "Anwar Sadat", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "formerRuler", "object": "Hosni Mubarak", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "revolution", "object": "2011 Egyptian revolution", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorReligion", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorReligion", "object": "Christianity", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "religiousMinority", "object": "Coptic Christians", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "UNMember", "object": "since 1945", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ArabLeagueMember", "object": "founding member", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "AfricanUnionMember", "object": "founding member", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "economyType", "object": "mixed economy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorIndustry", "object": "tourism", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorIndustry", "object": "agriculture", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorIndustry", "object": "petroleum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorIndustry", "object": "textiles", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorExport", "object": "crude oil", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorExport", "object": "cotton", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorExport", "object": "textiles", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "majorExport", "object": "chemicals", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "SuezCanal", "object": "connects Mediterranean and Red Sea", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "AswanHighDam", "object": "controls Nile River", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "LakeNasser", "object": "created by Aswan High Dam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "nationalAnimal", "object": "steppe eagle", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "nationalFlower", "object": "lotus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "nationalDish", "object": "koshary", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousDish", "object": "ful medames", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "famousDish", "object": "molokhia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "timeZone", "object": "Eastern European Time", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "drivingSide", "object": "right", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "callingCode", "object": "+20", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "internetTLD", "object": ".eg", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "climate", "object": "desert climate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "rainfall", "object": "very low", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientWriting", "object": "hieroglyphics", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientGod", "object": "Ra", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientGod", "object": "Osiris", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientGod", "object": "Isis", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientGod", "object": "Horus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientPharaoh", "object": "Tutankhamun", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientPharaoh", "object": "Ramesses II", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientPharaoh", "object": "Cleopatra", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientQueen", "object": "Hatshepsut", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Egypt", "predicate": "ancientMonument", "object": "Abu Simbel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "instanceOf", "object": "Mosque", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "locatedIn", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "locatedIn", "object": "Saudi Arabia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "alsoKnownAs", "object": "The Prophet's Mosque", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "builtBy", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "yearBuilt", "object": "622 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "originalSize", "object": "30.5 meters by 35.62 meters", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "currentSize", "object": "over 400,000 square meters", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "capacity", "object": "over 1,000,000 worshippers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Green Dome", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Rawdah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Mihrab", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Minbar", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Quba Mosque", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Al-Baqi Cemetery", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Library", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Museum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Educational Center", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Hospital", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Parking", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Hotels", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Shopping Malls", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Restaurants", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Cafes", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Airport", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Train Station", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Bus Station", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Taxi Stand", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Car Rental", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Tourist Information", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Security", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Medical Services", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Fire Safety", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Emergency Services", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Public Restrooms", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Ablution Facilities", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Prayer Halls", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Courtyards", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Gardens", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Fountains", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Clocks", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Lights", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Speakers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Screens", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "WiFi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Charging Stations", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "ATM", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Bank", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Post Office", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Pharmacy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Supermarket", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Gift Shop", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Bookstore", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Clothing Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Shoe Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Jewelry Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Perfume Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Electronics Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Toy Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Sports Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Home Goods Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Furniture Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Hardware Store", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Garden Center", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "instanceOf", "object": "city", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "locatedIn", "object": "Israel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "isCapitalOf", "object": "Israel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasStatus", "object": "disputed territory", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "claimedBy", "object": "Palestine", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasPopulation", "object": "over 900000 people", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasArea", "object": "125 square kilometers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasElevation", "object": "754 meters above sea level", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "foundedIn", "object": "4th millennium BCE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasOldName", "object": "Jebus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "isHolyCityFor", "object": "Judaism", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "isHolyCityFor", "object": "Christianity", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "isHolyCityFor", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "containsSite", "object": "Western Wall", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "containsSite", "object": "Church of the Holy Sepulchre", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "containsSite", "object": "Dome of the Rock", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "containsSite", "object": "Al-Aqsa Mosque", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasHistoricalEvent", "object": "Siege of Jerusalem in 70 CE", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasHistoricalEvent", "object": "Crusader capture in 1099", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasHistoricalEvent", "object": "Six-Day War in 1967", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasClimate", "object": "Mediterranean climate", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasAverageTemperature", "object": "17 degrees Celsius", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasLanguage", "object": "Hebrew", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasLanguage", "object": "Arabic", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasEthnicGroup", "object": "Jews", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasEthnicGroup", "object": "Arabs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasReligion", "object": "Judaism", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasReligion", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasReligion", "object": "Christianity", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasGovernment", "object": "municipality", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasMayor", "object": "Moshe Lion", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasUNESCOStatus", "object": "World Heritage Site", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasUNESCOStatus", "object": "World Heritage in Danger", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasEconomy", "object": "tourism", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasEconomy", "object": "government services", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasEconomy", "object": "high-tech industries", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasUniversity", "object": "Hebrew University of Jerusalem", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasMuseum", "object": "Israel Museum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasMuseum", "object": "Yad Vashem", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasAirport", "object": "Ben Gurion Airport", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasTransport", "object": "Jerusalem Light Rail", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasNeighborhood", "object": "Old City", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasNeighborhood", "object": "East Jerusalem", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasNeighborhood", "object": "West Jerusalem", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasNeighborhood", "object": "Mea Shearim", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasHistoricalFigure", "object": "King David", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasHistoricalFigure", "object": "Jesus Christ", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasHistoricalFigure", "object": "Saladin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "mentionedIn", "object": "Bible", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "mentionedIn", "object": "Quran", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasSymbol", "object": "Lion of Judah", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasSymbol", "object": "Olive branch", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasFlag", "object": "blue and white with city emblem", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasEmblem", "object": "Lion of Judah with olive branches", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasHoliday", "object": "Jerusalem Day", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasArchaeologicalSite", "object": "City of David", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasArchaeologicalSite", "object": "Temple Mount", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasPark", "object": "Sacher Park", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasMarket", "object": "Mahane Yehuda Market", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasHospital", "object": "Hadassah Medical Center", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasStadium", "object": "Teddy Stadium", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasSportsTeam", "object": "Beitar Jerusalem FC", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasFestival", "object": "Jerusalem Film Festival", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasFestival", "object": "Jerusalem Marathon", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasCuisine", "object": "Middle Eastern cuisine", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasDish", "object": "Jerusalem mixed grill", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasDish", "object": "falafel", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasDish", "object": "hummus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasGeographicFeature", "object": "Judean Mountains", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasGeographicFeature", "object": "Kidron Valley", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasRiver", "object": "none", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasWaterSource", "object": "aquifers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Jerusalem", "predicate": "hasWaterSource", "object": "reservoirs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}

@@ -1,0 +1,5666 @@
+{
+  "accepted": [
+    {
+      "subject": "Abu Bakr",
+      "predicate": "associatedWith",
+      "object": "Rashidun Caliphate",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "birthYear",
+      "object": "573",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "bornIn",
+      "object": "Mecca",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contributedTo",
+      "object": "Islamic expansion",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "deathYear",
+      "object": "634",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "diedIn",
+      "object": "Medina",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "established",
+      "object": "Islamic state",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fatherOf",
+      "object": "Abdullah ibn Abu Bakr",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fatherOf",
+      "object": "Aisha bint Abu Bakr",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "hadInfluenceOn",
+      "object": "Islamic jurisprudence",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "hadRoleIn",
+      "object": "Battle of Badr",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "hadRoleIn",
+      "object": "Battle of Uhud",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "hadRoleIn",
+      "object": "Battle of the Trench",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "influenced",
+      "object": "early Islamic community",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "instanceOf",
+      "object": "historical figure",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "knownAs",
+      "object": "Al-Siddiq",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "knownFor",
+      "object": "compiling the Quran",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "led",
+      "object": "Ridda Wars",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "marriedTo",
+      "object": "Khadijah bint Khuwaylid",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "predecessor",
+      "object": "Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "reignedFrom",
+      "object": "632",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "reignedUntil",
+      "object": "634",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "role",
+      "object": "first caliph of Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "servedAs",
+      "object": "caliph",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "succeededBy",
+      "object": "Umar ibn al-Khattab",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasA",
+      "object": "Sahabi",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasA",
+      "object": "historical figure in Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasA",
+      "object": "merchant",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasA",
+      "object": "political leader",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasA",
+      "object": "religious leader",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasBuriedIn",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasCompanionOf",
+      "object": "Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasFriendOf",
+      "object": "Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasInvolvedIn",
+      "object": "Hijra",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasKnownFor",
+      "object": "his leadership",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wasKnownFor",
+      "object": "his piety",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "associatedWith",
+      "object": "Islamic Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "associatedWith",
+      "object": "political dissent",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "birthPlace",
+      "object": "Persia",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "contemporaryOf",
+      "object": "Abu Bakr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "contemporaryOf",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "contemporaryOf",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "dateOfDeath",
+      "object": "644 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "deathPlace",
+      "object": "Medina",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "ethnicity",
+      "object": "Persian",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "historicalImpact",
+      "object": "sparked debates on leadership in Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "influencedBy",
+      "object": "Islamic teachings",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "instanceOf",
+      "object": "historical figure",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "knownFor",
+      "object": "assassination of Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "knownFor",
+      "object": "being a Persian",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "knownFor",
+      "object": "controversial assassination",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "knownFor",
+      "object": "his role in early Islamic history",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "legacy",
+      "object": "controversial figure in Islamic history",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "notableEvent",
+      "object": "killing of Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "occupation",
+      "object": "assassin",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "portrayedIn",
+      "object": "historical texts",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Abu Lulu",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "instanceOf",
+      "object": "historical figure",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is a central figure in",
+      "object": "Shia Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is a central figure in",
+      "object": "Sunni Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is a subject of",
+      "object": "numerous biographies",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is a symbol of",
+      "object": "justice and equality",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is associated with",
+      "object": "the concept of Imamate",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is celebrated in",
+      "object": "various Islamic traditions",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is commemorated on",
+      "object": "the 21st of Ramadan",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is considered a martyr by",
+      "object": "Shia Muslims",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is considered a saint by",
+      "object": "Sufi traditions",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is known for",
+      "object": "his bravery",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is known for",
+      "object": "his knowledge of Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is known for",
+      "object": "his poetry",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is known for",
+      "object": "his speeches",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is known for",
+      "object": "his wisdom",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is often depicted in",
+      "object": "Islamic art",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is often quoted in",
+      "object": "Islamic literature",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is often referred to as",
+      "object": "Amir al-Mu'minin",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is regarded as",
+      "object": "the first male convert to Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is remembered for",
+      "object": "his contributions to Islamic jurisprudence",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is respected by",
+      "object": "Sunni Muslims",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "is revered by",
+      "object": "Shia Muslims",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was a companion of",
+      "object": "Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was a key figure in",
+      "object": "the early Islamic community",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was a teacher of",
+      "object": "many early Islamic scholars",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was assassinated in",
+      "object": "661 CE",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was assassinated in",
+      "object": "Kufa",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was born in",
+      "object": "600 CE",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was born in",
+      "object": "Mecca",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was involved in",
+      "object": "the Battle of Badr",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was involved in",
+      "object": "the Battle of Khandaq",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was involved in",
+      "object": "the Battle of Siffin",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was involved in",
+      "object": "the Battle of Uhud",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was known for",
+      "object": "his eloquence",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was known for",
+      "object": "his just rule",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was the cousin of",
+      "object": "Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was the father of",
+      "object": "Hasan ibn Ali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was the father of",
+      "object": "Husayn ibn Ali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was the fourth caliph of",
+      "object": "Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "was the husband of",
+      "object": "Fatimah",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "architecture",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "art",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "calligraphy",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "clothing",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "festivals",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "food",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "literature",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "music",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "philosophy",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "poetry",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "culturalInfluence",
+      "object": "science",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "followers",
+      "object": "Muslims",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "foundedBy",
+      "object": "Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "foundedIn",
+      "object": "7th century CE",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "globalPresence",
+      "object": "Europe",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "globalPresence",
+      "object": "Middle East",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "globalPresence",
+      "object": "North Africa",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "globalPresence",
+      "object": "North America",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "globalPresence",
+      "object": "South Asia",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "globalPresence",
+      "object": "Southeast Asia",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "globalPresence",
+      "object": "Sub-Saharan Africa",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Abu Bakr",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Ali ibn Abi Talib",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Fatimah",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Husayn ibn Ali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Ibn Rushd",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Imam al-Bukhari",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Imam al-Ghazali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Rumi",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Umar ibn al-Khattab",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "historicalFigures",
+      "object": "Uthman ibn Affan",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "holyBook",
+      "object": "Quran",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "instanceOf",
+      "object": "religion",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Islam",
+      "predicate": "keyConcepts",
+      "object": "Afterlife",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "keyConcepts",
+      "object": "Angels",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "keyConcepts",
+      "object": "Day of Judgment",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "keyConcepts",
+      "object": "Five Pillars of Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "keyConcepts",
+      "object": "Prophethood",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "keyConcepts",
+      "object": "Revelation",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "keyConcepts",
+      "object": "Tawhid",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "languageOfWorship",
+      "object": "Arabic",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "mainBranches",
+      "object": "Shia",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "mainBranches",
+      "object": "Sunni",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "majorFestivals",
+      "object": "Eid al-Adha",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "majorFestivals",
+      "object": "Eid al-Fitr",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "numberOfFollowers",
+      "object": "over 1.9 billion",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "placeOfOrigin",
+      "object": "Mecca",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "placeOfWorship",
+      "object": "mosque",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "sacredSite",
+      "object": "Al-Aqsa Mosque",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "sacredSite",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "sacredSite",
+      "object": "Kaaba",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "scholarlyTraditions",
+      "object": "Fiqh",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "scholarlyTraditions",
+      "object": "Hadith",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "scholarlyTraditions",
+      "object": "Islamic jurisprudence",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "scholarlyTraditions",
+      "object": "Islamic philosophy",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "scholarlyTraditions",
+      "object": "Islamic theology",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "scholarlyTraditions",
+      "object": "Sufism",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "scholarlyTraditions",
+      "object": "Tafsir",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "endedIn",
+      "object": "1924",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "establishedIn",
+      "object": "7th century",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "firstCaliph",
+      "object": "Abu Bakr",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasCapital",
+      "object": "Baghdad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasCapital",
+      "object": "Cairo",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasCapital",
+      "object": "Medina",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasCulturalInfluenceOn",
+      "object": "art and architecture",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasCulturalInfluenceOn",
+      "object": "literature",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasCulturalInfluenceOn",
+      "object": "philosophy",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasEconomicSystem",
+      "object": "trade-based economy",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasHistoricalSignificance",
+      "object": "cultural exchange",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasHistoricalSignificance",
+      "object": "political unity",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasHistoricalSignificance",
+      "object": "spread of knowledge",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasInfluenceOn",
+      "object": "Western civilization",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasInfluenceOn",
+      "object": "modern Islamic states",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasInfluenceOn",
+      "object": "modern Islamic thought",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasLanguage",
+      "object": "Arabic",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasLegalSystem",
+      "object": "Islamic law",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasMajorConflict",
+      "object": "Crusades",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasMajorConflict",
+      "object": "First Fitna",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasMajorConflict",
+      "object": "Mongol invasions",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasMajorConflict",
+      "object": "Second Fitna",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasOrigin",
+      "object": "Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "hasReligion",
+      "object": "Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "instanceOf",
+      "object": "political entity",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isAssociatedWith",
+      "object": "Islamic Golden Age",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isAssociatedWith",
+      "object": "Islamic architecture",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isAssociatedWith",
+      "object": "Islamic art",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isAssociatedWith",
+      "object": "Islamic jurisprudence",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isAssociatedWith",
+      "object": "Islamic philosophy",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isAssociatedWith",
+      "object": "Sharia law",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isAssociatedWith",
+      "object": "Sufism",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "administrative divisions",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "caliphate system",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "diverse cultures",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "economic prosperity",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "military expansion",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "political fragmentation",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "religious diversity",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "religious leadership",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isCharacterizedBy",
+      "object": "social stratification",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isDividedInto",
+      "object": "Abbasid Caliphate",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isDividedInto",
+      "object": "Ottoman Caliphate",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isDividedInto",
+      "object": "Sunni and Shia",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isDividedInto",
+      "object": "Umayyad Caliphate",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isKnownFor",
+      "object": "cultural achievements",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isKnownFor",
+      "object": "expansion of Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isKnownFor",
+      "object": "scholarly works",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isKnownFor",
+      "object": "scientific advancements",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isKnownFor",
+      "object": "tolerance of other religions",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isKnownFor",
+      "object": "trade routes",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "isPartOf",
+      "object": "Islamic history",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "lastCaliph",
+      "object": "Abdulmejid II",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic Caliphate",
+      "predicate": "wasFoundedBy",
+      "object": "Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "aims to achieve",
+      "object": "the common good",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "can include",
+      "object": "theocracy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "can vary in",
+      "object": "implementation across regions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "emerged in",
+      "object": "7th century",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "has been challenged by",
+      "object": "modernity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "has historical roots in",
+      "object": "the Rashidun Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "has influenced",
+      "object": "legal systems",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "includes",
+      "object": "caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "instanceOf",
+      "object": "political system",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is based on",
+      "object": "Sharia law",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is characterized by",
+      "object": "the rule of law",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is discussed in",
+      "object": "academic literature",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is distinct from",
+      "object": "secular governance",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is influenced by",
+      "object": "cultural practices",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is often associated with",
+      "object": "Islamic political thought",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is often debated in",
+      "object": "modern political discourse",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is often linked to",
+      "object": "Islamic revival movements",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is practiced in",
+      "object": "various Muslim-majority countries",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "is subject to",
+      "object": "interpretation of religious texts",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "promotes",
+      "object": "social justice",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Islamic governance",
+      "predicate": "was established by",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasClimate",
+      "object": "hot desert climate",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasCulturalSignificance",
+      "object": "Islamic heritage",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasEconomyBasedOn",
+      "object": "religious tourism",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalLandmarks",
+      "object": "the Seven Mosques",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalSignificance",
+      "object": "first mosque built in Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasPopulation",
+      "object": "approximately 1.3 million",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hosts",
+      "object": "annual Hajj pilgrimage",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "instanceOf",
+      "object": "city",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isA",
+      "object": "destination for religious tourism",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isA",
+      "object": "holy city in Islam",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isA",
+      "object": "major center of Islamic culture",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isA",
+      "object": "site of early Islamic history",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isConnectedTo",
+      "object": "Jeddah by road",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isConnectedTo",
+      "object": "the Islamic holy city of Mecca",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isConnectedTo",
+      "object": "the rest of Saudi Arabia by rail",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isFamousFor",
+      "object": "dates and palm trees",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isFamousFor",
+      "object": "its beautiful gardens",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isFamousFor",
+      "object": "the Battle of Uhud",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isHomeTo",
+      "object": "Quba Mosque",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isHomeTo",
+      "object": "the Islamic University of Medina",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isHomeTo",
+      "object": "the Qiblatain Mosque",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isHomeTo",
+      "object": "the grave of Prophet Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isKnownFor",
+      "object": "Islamic education centers",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isKnownFor",
+      "object": "its diverse population",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isKnownFor",
+      "object": "its hospitality",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isKnownFor",
+      "object": "its rich history",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isKnownFor",
+      "object": "its traditional markets",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isKnownFor",
+      "object": "the Prophet's Mosque",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isLocatedIn",
+      "object": "Saudi Arabia",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isLocatedNear",
+      "object": "Mount Uhud",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isPartOf",
+      "object": "Al Madinah Province",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isPartOf",
+      "object": "the Hejaz region",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isPartOf",
+      "object": "the Islamic pilgrimage route",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isVisitedBy",
+      "object": "millions of Muslims annually",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "wasTheCapitalOf",
+      "object": "Islamic state under Prophet Muhammad",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "bornIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "dateOfBirth",
+      "object": "circa 570 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "dateOfDeath",
+      "object": "632 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "diedIn",
+      "object": "Medina",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "founded",
+      "object": "Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "hadDaughter",
+      "object": "Fatimah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "hadSon",
+      "object": "Ibrahim",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "hadWife",
+      "object": "Khadijah bint Khuwaylid",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "influenced",
+      "object": "Islamic civilization",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "instanceOf",
+      "object": "Prophet",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isA",
+      "object": "founder of a major world religion",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isA",
+      "object": "historical figure",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isA",
+      "object": "military leader",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isA",
+      "object": "political leader",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isA",
+      "object": "religious leader",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isAssociatedWith",
+      "object": "Hijra",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isAssociatedWith",
+      "object": "Kaaba",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isAssociatedWith",
+      "object": "Medina Charter",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isBuriedIn",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isCelebratedIn",
+      "object": "Islamic culture",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isCelebratedIn",
+      "object": "Mawlid",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isConsideredAs",
+      "object": "a model for Muslims",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isConsideredAs",
+      "object": "a prophet in Abrahamic religions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isKnownAs",
+      "object": "The Messenger of God",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isKnownFor",
+      "object": "his emphasis on charity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isKnownFor",
+      "object": "his role in the spread of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isKnownFor",
+      "object": "his teachings on social justice",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isMentionedIn",
+      "object": "Hadith",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isRegardedAs",
+      "object": "Seal of the Prophets",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "isReveredBy",
+      "object": "Muslims",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "led",
+      "object": "Muslim community",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "ledBattlesIn",
+      "object": "Battle of Badr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "ledBattlesIn",
+      "object": "Battle of Uhud",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "ledBattlesIn",
+      "object": "Battle of the Trench",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "received",
+      "object": "Five Pillars of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "receivedRevelationsFrom",
+      "object": "Angel Gabriel",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Muhammad",
+      "predicate": "wrote",
+      "object": "Quran",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "assassinatedBy",
+      "object": "Abu Lulu",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contributedTo",
+      "object": "the compilation of the Quran",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "diedIn",
+      "object": "Medina",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "established",
+      "object": "the Islamic judiciary system",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "established",
+      "object": "the city of Basra",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "established",
+      "object": "the city of Kufa",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "established",
+      "object": "the first welfare state",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "expanded",
+      "object": "the Islamic empire into Egypt",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "expanded",
+      "object": "the Islamic empire into Persia",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "expanded",
+      "object": "the Islamic empire into Syria",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "father",
+      "object": "Al-Khattab ibn Nufayl",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "hadTitle",
+      "object": "Al-Farooq",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "instanceOf",
+      "object": "Caliph",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "establishing the Islamic calendar",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "expansion of the Islamic empire",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his administrative reforms",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his emphasis on education",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his justice and fairness",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his military strategies",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his public speaking skills",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his role in the Battle of Badr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his role in the Battle of Khandaq",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his role in the Battle of Qadisiyyah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his role in the Battle of Uhud",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his role in the Battle of Yarmouk",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "his strong leadership",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "judicial reforms",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "mother",
+      "object": "Hantamah bint Hashim",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "predecessor",
+      "object": "Abu Bakr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "reignEnded",
+      "object": "644 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "reignStarted",
+      "object": "634 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "successor",
+      "object": "Uthman ibn Affan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "wasBornIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "died in",
+      "object": "644 CE",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "established",
+      "object": "the Islamic calendar",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "expanded",
+      "object": "the Islamic empire",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "implemented",
+      "object": "various legal reforms",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "instanceOf",
+      "object": "historical figure",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "is remembered for",
+      "object": "his role in the spread of Islam",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "served as",
+      "object": "the second caliph of Islam",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was a companion of",
+      "object": "Muhammad",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was a key figure in",
+      "object": "the Battle of Yarmouk",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was a key figure in",
+      "object": "the early Islamic community",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was a member of",
+      "object": "the Quraysh tribe",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was a patron of",
+      "object": "the arts and sciences",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was a proponent of",
+      "object": "women's rights in Islam",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was assassinated by",
+      "object": "Abu Lulu",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was born in",
+      "object": "c. 584 CE",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was influential in",
+      "object": "the establishment of Islamic governance",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was involved in",
+      "object": "the compilation of the Quran",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his administrative divisions of the empire",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his administrative skills",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his contributions to Islamic jurisprudence",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his contributions to the Islamic legal system",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his efforts in establishing peace treaties",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his efforts in promoting trade",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his efforts in the construction of mosques",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his emphasis on education",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his emphasis on justice",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his establishment of public welfare programs",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his humility",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his justice",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his military strategies",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his piety",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his public speaking skills",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his reforms in taxation",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the Battle of Badr",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the Battle of Qadisiyyah",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the Battle of Uhud",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the establishment of public health systems",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the establishment of the Bayt al-Mal",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the establishment of the first Islamic state",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the establishment of the judiciary",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the establishment of the postal system",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his role in the spread of Islamic teachings",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his strong leadership",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was known for",
+      "object": "his strong stance against corruption",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "was succeeded by",
+      "object": "Uthman ibn Affan",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "diedIn",
+      "object": "Medina",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "diedInYear",
+      "object": "656 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "hadChildren",
+      "object": "Abdullah ibn Uthman",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "hadChildren",
+      "object": "Fatimah bint Uthman",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "hadChildren",
+      "object": "Uthman ibn Uthman",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "hadTitle",
+      "object": "Dhun-Nurayn",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "instanceOf",
+      "object": "Companion of the Prophet Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "isKnownFor",
+      "object": "Compilation of the Quran",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "reignedFrom",
+      "object": "644 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "reignedTo",
+      "object": "656 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasA",
+      "object": "Merchant",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasAssassinatedBy",
+      "object": "Rebels",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasBornIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasBornInYear",
+      "object": "576 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasBuriedIn",
+      "object": "Jannat al-Baqi",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasCaliph",
+      "object": "Third Caliph of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasKnownFor",
+      "object": "Building Mosques",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasKnownFor",
+      "object": "Diplomacy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasKnownFor",
+      "object": "Generosity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasKnownFor",
+      "object": "Support of the Muslim Community",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasMarriedTo",
+      "object": "Naila bint al-Farafisa",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasMarriedTo",
+      "object": "Ruqayyah bint Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasMarriedTo",
+      "object": "Umm Kulthum bint Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasPartOf",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasRelatedTo",
+      "object": "Abdul Muttalib",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasRelatedTo",
+      "object": "Abu Bakr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "wasRelatedTo",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "caliphate",
+      "predicate": "is a form of",
+      "object": "Islamic governance",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "aftermath",
+      "object": "significant territorial gains for Muslims",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "combatants",
+      "object": "Byzantine Empire",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "combatants",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "commander",
+      "object": "Khalid ibn al-Walid",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "commander",
+      "object": "Theodore Trithyrius",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "duration",
+      "object": "6 days",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "foughtBetween",
+      "object": "July 15 and July 20",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "historicalContext",
+      "object": "part of the early Islamic conquests",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "historicalImpact",
+      "object": "shifted power dynamics in the region",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "instanceOf",
+      "object": "battle",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "legacy",
+      "object": "considered one of the greatest battles in history",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "location",
+      "object": "Yarmouk River",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "numberOfCombatants",
+      "object": "approximately 100,000",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "numberOfCombatants",
+      "object": "approximately 50,000",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "occurredIn",
+      "object": "636 AD",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "result",
+      "object": "decisive Muslim victory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "significance",
+      "object": "pivotal in the Muslim conquest of the Levant",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Battle of Yarmouk",
+      "predicate": "strategicImportance",
+      "object": "control of the Levant",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "beginsIn",
+      "object": "the year of Hijra",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Dhu al-Hijjah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Dhu al-Qi'dah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Jumada al-Awwal",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Jumada al-Thani",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Muharram",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Rabi' al-Awwal",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Rabi' al-Thani",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Rajab",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Ramadan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Safar",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Sha'ban",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasMonths",
+      "object": "Shawwal",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "hasYearLength",
+      "object": "354 or 355 days",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "instanceOf",
+      "object": "calendar system",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isAdoptedBy",
+      "object": "various cultures",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isAssociatedWith",
+      "object": "Islamic culture",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isBasedOn",
+      "object": "lunar months",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isBasedOn",
+      "object": "the moon's phases",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isCelebratedWith",
+      "object": "festivals",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isDifferentFrom",
+      "object": "solar calendars",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isDividedInto",
+      "object": "12 months",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isInfluencedBy",
+      "object": "astronomy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isNotableFor",
+      "object": "Ashura",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isNotableFor",
+      "object": "Eid al-Adha",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isNotableFor",
+      "object": "Eid al-Fitr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isNotableFor",
+      "object": "Islamic New Year",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isNotableFor",
+      "object": "Laylat al-Qadr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isNotableFor",
+      "object": "fasting during Ramadan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isRecognizedBy",
+      "object": "Islamic countries",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isReferencedIn",
+      "object": "Islamic texts",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isShorterThan",
+      "object": "Gregorian calendar",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isSubjectTo",
+      "object": "local sighting of the moon",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isUsedBy",
+      "object": "Muslims",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isUsedFor",
+      "object": "Hajj pilgrimage",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isUsedFor",
+      "object": "Islamic holidays",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isUsedFor",
+      "object": "Islamic rituals",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isUsedFor",
+      "object": "agricultural planning",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isUsedFor",
+      "object": "determining the dates of Ramadan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic calendar",
+      "predicate": "isUsedIn",
+      "object": "religious observances",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "contributedTo",
+      "object": "astronomy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "contributedTo",
+      "object": "literature",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "contributedTo",
+      "object": "mathematics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "contributedTo",
+      "object": "medicine",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "declinedDueTo",
+      "object": "European colonialism",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "declinedDueTo",
+      "object": "Mongol invasions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "declinedDueTo",
+      "object": "internal strife",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "dividedInto",
+      "object": "caliphates",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "dividedInto",
+      "object": "sultanates",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "encompassed",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "encompassed",
+      "object": "North Africa",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "encompassed",
+      "object": "Spain",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "encompassed",
+      "object": "parts of India",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "endedWith",
+      "object": "Ottoman Empire",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "endedWith",
+      "object": "colonial rule",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "expandedThrough",
+      "object": "military conquests",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "foundedBy",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "hadCapital",
+      "object": "Baghdad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "hadCapital",
+      "object": "Cordoba",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "hadCapital",
+      "object": "Damascus",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "influenced",
+      "object": "European Renaissance",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "influenced",
+      "object": "Islamic law",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "influenced",
+      "object": "Islamic theology",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "instanceOf",
+      "object": "historical empire",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "knownFor",
+      "object": "art and architecture",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "knownFor",
+      "object": "cultural achievements",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "knownFor",
+      "object": "philosophical contributions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "knownFor",
+      "object": "scientific advancements",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "originatedIn",
+      "object": "7th century",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "promoted",
+      "object": "religious tolerance",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "promoted",
+      "object": "scholarship",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "promoted",
+      "object": "trade",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "sawTheRiseOf",
+      "object": "Islamic Golden Age",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "sawTheRiseOf",
+      "object": "Islamic architecture",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "sawTheRiseOf",
+      "object": "Islamic art",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "sawTheRiseOf",
+      "object": "Sufism",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasCharacterizedBy",
+      "object": "diverse cultures",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasCharacterizedBy",
+      "object": "economic prosperity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasCharacterizedBy",
+      "object": "political fragmentation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasCharacterizedBy",
+      "object": "religious diversity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasEstablishedBy",
+      "object": "Abbasid Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasEstablishedBy",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasEstablishedBy",
+      "object": "Umayyad Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasInfluencedBy",
+      "object": "Greek philosophy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasInfluencedBy",
+      "object": "Indian mathematics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Islamic empire",
+      "predicate": "wasInfluencedBy",
+      "object": "Persian culture",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "convertedTo",
+      "object": "Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "foughtIn",
+      "object": "the Battle of Badr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "foughtIn",
+      "object": "the Battle of Uhud",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "foughtIn",
+      "object": "the Battle of the Trench",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "hadInfluenceOn",
+      "object": "the early Islamic community",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "hadRivalryWith",
+      "object": "the Aws and Khazraj tribes",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "includedClan",
+      "object": "Banu Abd Shams",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "includedClan",
+      "object": "Banu Hashim",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "includedClan",
+      "object": "Banu Makhzum",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "includedClan",
+      "object": "Banu Taym",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "instanceOf",
+      "object": "Arab tribe",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isAssociatedWith",
+      "object": "the Prophet Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isAssociatedWith",
+      "object": "the city of Mecca",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isAssociatedWith",
+      "object": "the history of the Arabian Peninsula",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isAssociatedWith",
+      "object": "the origins of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isConsideredAs",
+      "object": "a noble tribe",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isConsideredAs",
+      "object": "the ancestors of many Arabs",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isConsideredAs",
+      "object": "the protectors of the Kaaba",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isKnownFor",
+      "object": "controlling the Kaaba",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isKnownFor",
+      "object": "its cultural contributions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isKnownFor",
+      "object": "its historical significance",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isKnownFor",
+      "object": "its hospitality",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isKnownFor",
+      "object": "its leadership in trade routes",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isKnownFor",
+      "object": "its political power",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isKnownFor",
+      "object": "its role in the spread of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isKnownFor",
+      "object": "its wealth",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isMentionedIn",
+      "object": "the Quran",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isPartOf",
+      "object": "Arab history",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isPartOf",
+      "object": "the genealogy of Arabs",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isPartOf",
+      "object": "the history of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "isPartOf",
+      "object": "the lineage of the Prophet Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "originatedIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "signedTreatyWith",
+      "object": "the Muslims",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasDefeatedIn",
+      "object": "the Battle of Badr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasDefeatedIn",
+      "object": "the Battle of the Trench",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasDividedInto",
+      "object": "several clans",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasInvolvedIn",
+      "object": "the Battle of Hunayn",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasInvolvedIn",
+      "object": "the Treaty of Hudaybiyyah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasInvolvedIn",
+      "object": "the construction of the Kaaba",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasInvolvedIn",
+      "object": "the early Islamic conquests",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasInvolvedIn",
+      "object": "the establishment of the first Islamic state",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasInvolvedIn",
+      "object": "the pilgrimage rituals",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasInvolvedIn",
+      "object": "trade",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasLedBy",
+      "object": "Abdullah ibn Abd al-Muttalib",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasLedBy",
+      "object": "Abu Sufyan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasOpposedTo",
+      "object": "the early Muslims",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the Quraysh tribe",
+      "predicate": "wasProminentIn",
+      "object": "pre-Islamic Arabia",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "addresses themes of",
+      "object": "morality and ethics",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "associated with",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "compiled under",
+      "object": "Caliph Uthman",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "completed in",
+      "object": "7th century",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "considered as",
+      "object": "the holy book of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "contains",
+      "object": "114 chapters",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "contains laws and guidance on",
+      "object": "personal conduct",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "divided into",
+      "object": "surahs",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "influenced by",
+      "object": "oral traditions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "instanceOf",
+      "object": "religious text compilation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "is cited in",
+      "object": "Islamic jurisprudence",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "is considered a miracle of",
+      "object": "literature",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "is often memorized by",
+      "object": "Muslim children",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "is often recited during",
+      "object": "Ramadan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "is revered by",
+      "object": "Muslims",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "is used in",
+      "object": "Islamic rituals",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "preserved in",
+      "object": "written form",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "recited in",
+      "object": "daily prayers",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "studied in",
+      "object": "Islamic schools",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "translated into",
+      "object": "many languages",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "the compilation of the Quran",
+      "predicate": "written in",
+      "object": "Classical Arabic",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "developed",
+      "object": "Islamic jurisprudence",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "developed",
+      "object": "the Five Pillars of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "emigratedTo",
+      "object": "Medina",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "encountered",
+      "object": "tribal conflicts",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "established",
+      "object": "Ummah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "established",
+      "object": "mosques",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "experienced",
+      "object": "the Farewell Pilgrimage",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "faced",
+      "object": "external threats",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "faced",
+      "object": "internal divisions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "faced",
+      "object": "persecution",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "followed",
+      "object": "Quran",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "founded",
+      "object": "Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "included",
+      "object": "Ansar",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "included",
+      "object": "Muhajirun",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "instanceOf",
+      "object": "religious community",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "ledBy",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "originatedIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "participatedIn",
+      "object": "Battles of Badr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "participatedIn",
+      "object": "Battles of Uhud",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "practiced",
+      "object": "monotheism",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "promoted",
+      "object": "charity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "promoted",
+      "object": "education",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "saw the emergence of",
+      "object": "Islamic leadership",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "saw the emergence of",
+      "object": "Islamic rituals",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "saw the rise of",
+      "object": "Islamic scholars",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "spreadTo",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was a precursor to",
+      "object": "the Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was a response to",
+      "object": "social inequalities",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was characterized by",
+      "object": "communal prayers",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was characterized by",
+      "object": "community solidarity",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was characterized by",
+      "object": "diverse membership",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was characterized by",
+      "object": "ritual practices",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was characterized by",
+      "object": "social justice",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was characterized by",
+      "object": "the concept of Ummah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was established during",
+      "object": "the 7th century",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was influenced by",
+      "object": "Arab culture",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was influenced by",
+      "object": "Judeo-Christian traditions",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was influenced by",
+      "object": "the teachings of Jesus and Moses",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was involved in",
+      "object": "the Battle of the Trench",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was involved in",
+      "object": "the Treaty of Hudaybiyyah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was involved in",
+      "object": "the compilation of the Quran",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was involved in",
+      "object": "the establishment of Islamic law",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was involved in",
+      "object": "the establishment of the first Islamic state",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was involved in",
+      "object": "the establishment of the first mosque",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was involved in",
+      "object": "the expansion of trade routes",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was involved in",
+      "object": "the spread of Islamic philosophy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was marked by",
+      "object": "the Hijra",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "the early Islamic community",
+      "predicate": "was marked by",
+      "object": "the spread of Islamic teachings",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    }
+  ],
+  "sink": []
+}

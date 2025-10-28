@@ -1,0 +1,13 @@
+[simple] output_dir: runsSimple/Deepseek
+[simple] seeded: Khalid Bin Elwaleed
+[simple] eliciting 'Khalid Bin Elwaleed' (hop=0)
+
+[simple] Interrupted. reset 1 'working' → 'pending' for resume.
+[simple] finished in 45.2s → outputs in runsSimple/Deepseek
+[simple] queue.json        : runsSimple/Deepseek/queue.json
+[simple] facts.json        : runsSimple/Deepseek/facts.json
+[simple] facts.jsonl       : runsSimple/Deepseek/facts.jsonl
+[simple] lowconf.json      : runsSimple/Deepseek/facts_lowconf.json
+[simple] lowconf.jsonl     : runsSimple/Deepseek/facts_lowconf.jsonl
+[simple] ner log           : runsSimple/Deepseek/ner_decisions.jsonl
+[simple] errors.log        : runsSimple/Deepseek/errors.log

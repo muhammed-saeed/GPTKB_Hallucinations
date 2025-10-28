@@ -1,0 +1,596 @@
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "644 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Abu Lulu", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Uthman ibn Affan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "c. 584 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his administrative divisions of the empire", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his administrative skills", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his contributions to Islamic jurisprudence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his efforts in establishing peace treaties", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his efforts in promoting trade", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his emphasis on education", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his emphasis on justice", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his establishment of public welfare programs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his humility", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his justice", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his military strategies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his piety", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his public speaking skills", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his reforms in taxation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his strong leadership", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "his strong stance against corruption", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "historical figure", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the Battle of Yarmouk", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the Islamic calendar", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the Islamic empire", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the Quraysh tribe", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the arts and sciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the compilation of the Quran", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the early Islamic community", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the establishment of Islamic governance", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "the second caliph of Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "various legal reforms", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "women's rights in Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "644 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Abu Bakr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Islamic Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Islamic teachings", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Persia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Persian", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "assassin", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "assassination of Umar ibn al-Khattab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "being a Persian", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "controversial assassination", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "controversial figure in Islamic history", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "his role in early Islamic history", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "historical figure", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "historical texts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "killing of Umar ibn al-Khattab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "political dissent", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Lulu", "hop": 1, "phrase": "sparked debates on leadership in Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "6 days", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "636 AD", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "Byzantine Empire", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "July 15 and July 20", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "Khalid ibn al-Walid", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "Rashidun Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "Theodore Trithyrius", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "Yarmouk River", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "approximately 100,000", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "approximately 50,000", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "battle", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "control of the Levant", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "decisive Muslim victory", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "part of the early Islamic conquests", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "shifted power dynamics in the region", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Battle of Yarmouk", "hop": 1, "phrase": "significant territorial gains for Muslims", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "114 chapters", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "7th century", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Caliph Uthman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Classical Arabic", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Islamic jurisprudence", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Islamic rituals", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Islamic schools", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Muslim children", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Muslims", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "Ramadan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "daily prayers", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "literature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "many languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "morality and ethics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "oral traditions", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "personal conduct", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "religious text compilation", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "surahs", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "the holy book of Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the compilation of the Quran", "hop": 1, "phrase": "written form", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "576 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "644 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "656 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Abdul Muttalib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Abdullah ibn Uthman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Abu Bakr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Building Mosques", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Companion of the Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Compilation of the Quran", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Dhun-Nurayn", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Diplomacy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Fatimah bint Uthman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Generosity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Jannat al-Baqi", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Merchant", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Naila bint al-Farafisa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Rashidun Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Rebels", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Ruqayyah bint Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Support of the Muslim Community", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Third Caliph of Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Umm Kulthum bint Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Uthman ibn Affan", "hop": 1, "phrase": "Uthman ibn Uthman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "12 months", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "354 or 355 days", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Ashura", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Dhu al-Hijjah", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Dhu al-Qi'dah", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Eid al-Adha", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Eid al-Fitr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Gregorian calendar", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Hajj pilgrimage", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Islamic New Year", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Islamic countries", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Islamic culture", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Islamic holidays", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Islamic rituals", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Islamic texts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Jumada al-Awwal", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Jumada al-Thani", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Laylat al-Qadr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Muharram", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Muslims", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Rabi' al-Awwal", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Rabi' al-Thani", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Rajab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Ramadan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Safar", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Sha'ban", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "Shawwal", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "agricultural planning", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "astronomy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "calendar system", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "determining the dates of Ramadan", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "fasting during Ramadan", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "festivals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "local sighting of the moon", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "lunar months", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "religious observances", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "solar calendars", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "the moon's phases", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "the year of Hijra", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic calendar", "hop": 1, "phrase": "various cultures", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "632 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Al-Masjid an-Nabawi", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Angel Gabriel", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Battle of Badr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Battle of Uhud", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Battle of the Trench", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Fatimah", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Five Pillars of Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Hadith", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Hijra", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Ibrahim", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Islamic civilization", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Islamic culture", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Kaaba", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Khadijah bint Khuwaylid", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Mawlid", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Medina Charter", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Muslim community", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Muslims", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Prophet", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Quran", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "Seal of the Prophets", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "The Messenger of God", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "a model for Muslims", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "a prophet in Abrahamic religions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "circa 570 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "founder of a major world religion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "his emphasis on charity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "his teachings on social justice", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "historical figure", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "military leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "political leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Muhammad", "hop": 1, "phrase": "religious leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Abdullah ibn Abd al-Muttalib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Abu Sufyan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Arab history", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Arab tribe", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Banu Abd Shams", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Banu Hashim", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Banu Makhzum", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Banu Taym", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "a noble tribe", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "controlling the Kaaba", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "its cultural contributions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "its historical significance", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "its hospitality", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "its leadership in trade routes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "its political power", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "its wealth", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "pre-Islamic Arabia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "several clans", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Aws and Khazraj tribes", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Battle of Badr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Battle of Hunayn", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Battle of Uhud", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Battle of the Trench", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Muslims", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Quran", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the Treaty of Hudaybiyyah", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the ancestors of many Arabs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the city of Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the construction of the Kaaba", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the early Islamic community", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the early Islamic conquests", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the early Muslims", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the genealogy of Arabs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the history of Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the history of the Arabian Peninsula", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the lineage of the Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the origins of Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the pilgrimage rituals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "the protectors of the Kaaba", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Quraysh tribe", "hop": 1, "phrase": "trade", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "7th century", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Abbasid Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Baghdad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Cordoba", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Damascus", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "European Renaissance", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "European colonialism", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Greek philosophy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Indian mathematics", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Islamic Golden Age", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Islamic architecture", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Islamic art", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Islamic law", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Islamic theology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Middle East", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Mongol invasions", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "North Africa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Ottoman Empire", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Persian culture", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Rashidun Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Spain", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Sufism", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "Umayyad Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "art and architecture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "astronomy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "caliphates", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "colonial rule", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "cultural achievements", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "diverse cultures", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "economic prosperity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "historical empire", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "internal strife", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "literature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "mathematics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "medicine", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "military conquests", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "parts of India", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "philosophical contributions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "political fragmentation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "religious diversity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "religious tolerance", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "scholarship", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "scientific advancements", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "sultanates", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the Islamic empire", "hop": 1, "phrase": "trade", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "7th century", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "Islamic governance", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "Islamic political thought", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "Islamic revival movements", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "Sharia law", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "academic literature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "caliphate", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "cultural practices", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "implementation across regions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "interpretation of religious texts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "legal systems", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "modern political discourse", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "modernity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "political system", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "secular governance", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "social justice", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "the Rashidun Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "the common good", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "the rule of law", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "theocracy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the establishment of Islamic governance", "hop": 1, "phrase": "various Muslim-majority countries", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "Al Madinah Province", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "Islamic education centers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "Islamic heritage", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "Islamic state under Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "Jeddah by road", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "Mount Uhud", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "Quba Mosque", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "annual Hajj pilgrimage", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "approximately 1.3 million", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "city", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "dates and palm trees", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "destination for religious tourism", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "first mosque built in Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "holy city in Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "hot desert climate", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "its beautiful gardens", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "its diverse population", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "its hospitality", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "its rich history", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "its traditional markets", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "major center of Islamic culture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "millions of Muslims annually", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "religious tourism", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "site of early Islamic history", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the Battle of Uhud", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the Hejaz region", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the Islamic University of Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the Islamic holy city of Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the Islamic pilgrimage route", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the Prophet's Mosque", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the Qiblatain Mosque", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the Seven Mosques", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Medina", "hop": 2, "phrase": "the grave of Prophet Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "573", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "632", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "634", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Abdullah ibn Abu Bakr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Aisha bint Abu Bakr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Al-Masjid an-Nabawi", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Al-Siddiq", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Battle of Badr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Battle of Uhud", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Battle of the Trench", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Hijra", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Islamic expansion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Islamic jurisprudence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Islamic state", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Khadijah bint Khuwaylid", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Rashidun Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Ridda Wars", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Sahabi", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "caliph", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "compiling the Quran", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "early Islamic community", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "first caliph of Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "his leadership", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "his piety", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "historical figure", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "historical figure in Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "merchant", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "political leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abu Bakr", "hop": 2, "phrase": "religious leader", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "634 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "644 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Abu Bakr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Abu Lulu", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Al-Farooq", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Al-Khattab ibn Nufayl", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Caliph", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Hantamah bint Hashim", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "Uthman ibn Affan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "establishing the Islamic calendar", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "expansion of the Islamic empire", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "his administrative reforms", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "his emphasis on education", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "his justice and fairness", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "his military strategies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "his public speaking skills", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "his strong leadership", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "judicial reforms", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "the Islamic empire into Egypt", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "the Islamic empire into Persia", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "the Islamic empire into Syria", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "the Islamic judiciary system", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "the city of Basra", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "the city of Kufa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "the compilation of the Quran", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the second caliph of Islam", "hop": 1, "phrase": "the first welfare state", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "600 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "661 CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Amir al-Mu'minin", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Fatimah", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Hasan ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Husayn ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Islamic art", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Islamic literature", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Kufa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Shia Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Shia Muslims", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Sufi traditions", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Sunni Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "Sunni Muslims", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "his bravery", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "his contributions to Islamic jurisprudence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "his eloquence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "his just rule", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "his knowledge of Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "his poetry", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "his speeches", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "his wisdom", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "historical figure", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "justice and equality", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "many early Islamic scholars", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "numerous biographies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "the 21st of Ramadan", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "the Battle of Badr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "the Battle of Khandaq", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "the Battle of Siffin", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "the Battle of Uhud", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "the concept of Imamate", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "the early Islamic community", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "the first male convert to Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Ali ibn Abi Talib", "hop": 2, "phrase": "various Islamic traditions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "7th century CE", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Abu Bakr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Afterlife", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Al-Aqsa Mosque", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Al-Masjid an-Nabawi", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Ali ibn Abi Talib", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Angels", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Arabic", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Day of Judgment", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Eid al-Adha", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Eid al-Fitr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Europe", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Fatimah", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Fiqh", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Five Pillars of Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Hadith", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Husayn ibn Ali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Ibn Rushd", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Imam al-Bukhari", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Imam al-Ghazali", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Islamic jurisprudence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Islamic philosophy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Islamic theology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Kaaba", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Middle East", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Muslims", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "North Africa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "North America", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Prophethood", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Quran", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Revelation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Rumi", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Shia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "South Asia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Southeast Asia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Sub-Saharan Africa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Sufism", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Sunni", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Tafsir", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Tawhid", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Umar ibn al-Khattab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Uthman ibn Affan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "architecture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "art", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "calligraphy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "clothing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "festivals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "food", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "1924", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "7th century", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Abbasid Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Abdulmejid II", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Abu Bakr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Arabic", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Baghdad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Cairo", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Crusades", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "First Fitna", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Islamic Golden Age", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Islamic architecture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Islamic art", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Islamic history", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Islamic jurisprudence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Islamic law", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Islamic philosophy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Mongol invasions", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Ottoman Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Second Fitna", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Sharia law", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Sufism", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Sunni and Shia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Umayyad Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "Western civilization", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "administrative divisions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "art and architecture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "caliphate system", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "cultural achievements", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "cultural exchange", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "diverse cultures", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "economic prosperity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "expansion of Islam", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "literature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "military expansion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "modern Islamic states", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "modern Islamic thought", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "philosophy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "political entity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "political fragmentation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "political unity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "religious diversity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "religious leadership", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "scholarly works", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "scientific advancements", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "social stratification", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "spread of knowledge", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "literature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "mosque", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "music", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "over 1.9 billion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "philosophy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "poetry", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "religion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "tolerance of other religions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "trade routes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islamic Caliphate", "hop": 2, "phrase": "trade-based economy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Ansar", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Arab culture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Arabian Peninsula", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Battles of Badr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Battles of Uhud", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Islamic jurisprudence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Islamic leadership", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Islamic rituals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Islamic scholars", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Judeo-Christian traditions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Muhajirun", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Muhammad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Quran", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "Ummah", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "charity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "communal prayers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "community solidarity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "diverse membership", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "education", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "external threats", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "internal divisions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "monotheism", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "mosques", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "persecution", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "religious community", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "ritual practices", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "social inequalities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "social justice", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the 7th century", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the Battle of the Trench", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the Caliphate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the Farewell Pilgrimage", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the Five Pillars of Islam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the Hijra", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the Treaty of Hudaybiyyah", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the compilation of the Quran", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the concept of Ummah", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the establishment of Islamic law", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the establishment of the first mosque", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the expansion of trade routes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the spread of Islamic philosophy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the spread of Islamic teachings", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "the teachings of Jesus and Moses", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "the early Islamic community", "hop": 1, "phrase": "tribal conflicts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "topic": null}

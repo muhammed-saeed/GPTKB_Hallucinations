@@ -1,0 +1,688 @@
+[
+  {
+    "subject": "Umer Bin Khatab",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:52:55"
+  },
+  {
+    "subject": "Al-Farooq (The Criterion)",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Byzantine territories",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Companion of Abu Bakr",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Islam",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Islamic Caliphate",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Mecca, Arabia",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Persia",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Persian slave Piruz Nahavandi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Prophet Muhammad",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Rightly Guided Caliph",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Second Caliph of Islam",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Umar ibn al-Khattab",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:11"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Abdullah ibn Abd al-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Abdullah ibn Abi Quhafa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:17"
+  },
+  {
+    "subject": "Abolishing Slavery",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Abraham",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Abu Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:24"
+  },
+  {
+    "subject": "Achaemenid Dynasty",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Al-Faruq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:33"
+  },
+  {
+    "subject": "Ali ibn Abi Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:24"
+  },
+  {
+    "subject": "Aminah bint Wahb",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Amir al-Mu'minin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Arab Muslim Conquest",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Arabian Peninsula",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:24"
+  },
+  {
+    "subject": "Assassin of Umar ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:19"
+  },
+  {
+    "subject": "Baghdad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Balkans",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Banu Adi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:33"
+  },
+  {
+    "subject": "Banu Adi Clan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Byzantine Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Cave of Hira",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Constantinople",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Cyrus the Great",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Damascus",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Darius I",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Early Islamic Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:24"
+  },
+  {
+    "subject": "Eastern Mediterranean",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Five Pillars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Founding Islam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Greco-Persian Wars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Greece",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Greek fire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Hafez",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Hafsa bint Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:33"
+  },
+  {
+    "subject": "Hajj",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:22"
+  },
+  {
+    "subject": "Harun al-Rashid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Hejaz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:22"
+  },
+  {
+    "subject": "Hijra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Iran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Jesus",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Justinian Code",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Justinian I's reign",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Kaaba",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:22"
+  },
+  {
+    "subject": "Khadijah bint Khuwaylid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Madrasas",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:19"
+  },
+  {
+    "subject": "Medina, Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:33"
+  },
+  {
+    "subject": "Messenger of God",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Middle East",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:24"
+  },
+  {
+    "subject": "Moses",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Mosque of Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Mustafa Kemal Atatürk",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "North Africa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:24"
+  },
+  {
+    "subject": "Ottoman Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Parthian Dynasty",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Persepolis",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Persian Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Piruz Nahavandi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:33"
+  },
+  {
+    "subject": "Quran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Quraysh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Ramadan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Rumi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Saladin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Sassanid Dynasty",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Sassanid Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:22"
+  },
+  {
+    "subject": "Saudi Arabian government",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:22"
+  },
+  {
+    "subject": "Sharia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Shia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Silk Road",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Silk Road Trade",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Sunni",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:30"
+  },
+  {
+    "subject": "Sunni Islam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:24"
+  },
+  {
+    "subject": "Syria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Treaty of Hudaybiyyah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Turkey",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:29"
+  },
+  {
+    "subject": "Umayyad Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "United Arabian Peninsula",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Uthman ibn Affan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:24"
+  },
+  {
+    "subject": "Women's Rights",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:35"
+  },
+  {
+    "subject": "Xerxes I",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  },
+  {
+    "subject": "Zoroastrianism",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 19:53:36"
+  }
+]

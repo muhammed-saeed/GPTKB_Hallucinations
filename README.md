@@ -294,21 +294,7 @@ run_meta.json           # parameters & environment used
 ### OpenAI — GPT-4o-mini with Batch
 
 ```bash
-python crawlerTry.py \
-  --seed "Tim Berners-Lee" \
-  --output-dir runs/tbl_gpt4omini \
-  --elicit-model-key gpt4o-mini \
-  --ner-model-key gpt4o-mini \
-  --max-depth 2 \
-  --batch-size 40 \
-  --max-inflight 2 \
-  --poll-interval 15 \
-  --completion-window 24h \
-  --openai-batch-min 5 \
-  --openai-batch-timeout 10 \
-  --openai-fastpath-max 8 \
-  --max-tokens 1800 \
-  --debug
+python crawler_openai_batch_concurrency-deepseek_claude.py --seed "Umer Bin Khatab" --elicit-model-key deepseek --ner-model-key deepseek --output-dir runsConcc/deepseek --concurrency 15 --max-subjects 10 --debug
 ```
 
 ### OpenAI — GPT-5-nano (Responses API)
@@ -356,24 +342,8 @@ python crawlerTry.py \
 
 ```bash
 
-python crawlerTry.py \
-  --seed "Grace Hopper" \
-  --output-dir runs/gpt4omini_calib \
-  --elicit-model-key gpt4o-mini \
-  --ner-model-key gpt4o-mini \
-  --elicitation-strategy calibrate \
-  --ner-strategy baseline \
-  --conf-threshold 0.75 \
-  --max-depth 2 \
-  --batch-size 50 \
-  --max-inflight 3 \
-  --poll-interval 20 \
-  --completion-window 24h \
-  --openai-batch-min 5 \
-  --openai-batch-timeout 15 \
-  --openai-fastpath-max 10 \
-  --max-tokens 2000 \
-  --debug
+python crawler_openai_batch_concurrency-deepseek_claude.py --seed "Umer Bin Khatab" --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --output-dir runsBatch/GPTKBgpt4o --openai-batch-size 50 --max-subjects 10 --elicitation-strategy calibrate
+
 
 ```
 

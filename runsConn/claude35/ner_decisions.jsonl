@@ -1,0 +1,470 @@
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "584 CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "644 CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Around 617 CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Early Muslim Community", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Historical Islamic Leader", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Islamic Territorial Expansion", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Second Caliph of Islam", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Umer Bin Khatab", "hop": 0, "phrase": "Umayyad Caliphate Leader", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Asia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Date Palms", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Desert", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Empty Quarter", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Frankincense", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Geographic Region", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Middle East", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Nabataean Kingdom", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Nomadic Tribes", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Oil Production", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Peninsula", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Persian Gulf", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Red Sea", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Rocky Deserts", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Spices", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Arabia", "hop": 1, "phrase": "Trade Routes", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "277 meters above sea level", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Approximately 1.5 million", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Approximately 2 million during Hajj", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Center of Islamic World", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Circumambulation of Kaaba", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "City", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Early 7th century", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Grand Mosque", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Hajj Destination", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Hejaz Region", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Holiest City in Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Hot Desert Climate", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Islamic Architecture", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Jeddah", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Kaaba", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Only Muslims Allowed", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Part of Saudi Arabia", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Pre-Islamic Pilgrimage Site", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Religious Tourism", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Rocky Desert Landscape", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "Trade and Pilgrimage Center", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Mecca", "hop": 1, "phrase": "World Heritage Site Context", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "11", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "570 CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "622 CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "632 CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Abdullah ibn Abd al-Muttalib", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Al-Amin (The Trustworthy)", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Ali ibn Abi Talib", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Aminah bint Wahb", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Arabic", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Battle of Badr", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Cave of Hira", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Daily Prayers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Equality", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Farewell Pilgrimage", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Hasan and Husayn", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Hijra", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Interest-based Transactions", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Khadijah bint Khuwaylid", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Knowledge", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Medina", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Merchant", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Monotheism", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Mount Arafat", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Muslims Worldwide", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Orphans", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Primary source of Islamic law", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Prophet of Islam", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Quran", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Quraysh", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Religious and Political Leader", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Seal of the Prophets", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Social Justice", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Unifying Arabian Peninsula", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "With Respect", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Prophet Muhammad", "hop": 1, "phrase": "Zakat", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Aminah bint Wahb", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Banu Hashim clan", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Before Muhammad's birth", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Male", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Person", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Pre-Islamic Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Abdullah ibn Abd al-Muttalib", "hop": 2, "phrase": "Quraysh", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "50 meters", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "56 kilometers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "90 meters", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "989 kilometers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Arabian Sea", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Bahrain", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Global shipping route", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Iran", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Iraq", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Kuwait", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Marginal Sea", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Middle East", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Oil production", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Qatar", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Persian Gulf", "hop": 2, "phrase": "United Arab Emirates", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Arabic", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Birthplace of Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Center of Islamic Worship", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Geographic Region", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Hot Desert", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Islamic Pilgrimage Route", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Kaaba", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Medina", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Mountainous and Rocky", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Red Sea Coast", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Religious Tourism", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Saudi Arabia in 1924", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Sharif Hussein bin Ali", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Hejaz Region", "hop": 2, "phrase": "Western Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "277 meters above sea level", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "7th century CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "All able Muslims must visit once", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Approximately 2 million", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Birthplace of Prophet Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Center of Islamic worship", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Great Mosque of Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Hajj", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Kaaba", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Over 2 million during Hajj", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Pre-Islamic religious center", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Religious Destination", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Holiest City in Islam", "hop": 2, "phrase": "Saudi Arabian Government", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "2 million worshippers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "356,800 square meters", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "7th century CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Center of Islamic Worship", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Cultural Significance", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Daily Prayers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Islamic Architecture", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Islamic Pilgrimage Site", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Islamic Sacred Site", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Kaaba", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Masjid al-Haram", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Mecca, Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Over 2 million during Hajj", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Grand Mosque", "hop": 2, "phrase": "Religious Building", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Hajj", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "21.4225° N, 39.8262° E", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Birthplace of Prophet Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Cubic Structure", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Geographic Concept", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Grand Mosque", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Hajj", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Holiest City in Islam", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Islamic Religious Practice", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Kaaba", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Qibla", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Center of Islamic World", "hop": 2, "phrase": "Unity of Muslim Ummah", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "4.3 million", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "7th century CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Bride of the Red Sea", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "City", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Gateway to Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Hot desert climate", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "King Abdul Aziz Port", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "King Abdulaziz International Airport", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "King Abdulaziz University", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "King Fahd Fountain", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Major Islamic pilgrimage route", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Major commercial hub", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Major municipal center", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Mecca Province", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Oil services", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Red Sea", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Shipping", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "Trade and commerce", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Jeddah", "hop": 2, "phrase": "true", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "13.1 x 11.1 x 12.2 meters", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "7th Century CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Black Silk Cloth", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Black Stone", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Cardinal Directions", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Cubic Structure", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Granite", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Hajj", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Holiest Shrine in Islam", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Ibrahim", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Islamic Community", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Mecca, Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Muslim Prayer", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Muslims during Hajj", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Part of Historic Mecca", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Polytheistic Worship", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Kaaba", "hop": 2, "phrase": "Religious Building", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "4.7 billion people", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "44.5 million square kilometers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "60%", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Africa", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Arabian Desert", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Arctic", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Arctic Ocean", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Austronesian", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Buddhism", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "China", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Chinese Dynasty", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Continent", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "East Asia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Eastern Hemisphere", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Europe", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Ganges River", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Gobi Desert", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Himalayas", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Hinduism", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Indian Ocean", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Indo-European", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Indus Valley", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Mesopotamia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Middle East", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Northern Hemisphere", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Pacific Ocean", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Russia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Sino-Tibetan", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Southeast Asia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Temperate", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Tian Shan", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Tropical", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Asia", "hop": 2, "phrase": "Yangtze River", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "312 BCE to 106 CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Advanced ceramics", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Ancient Kingdom", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Aramaic", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Aramaic writing", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Aretas IV", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Astronomical observations", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Caravan trade", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Copper mining", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Desert agriculture", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Frankincense", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Greco-Roman", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Hellenistic kingdoms", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Hellenistic-influenced", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Incense Route", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Monarchy", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Myrrh", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Petra", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Petra archaeological site", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Polytheistic", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Rock-cut buildings", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Roman Empire", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Silk Road", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Skilled cavalry", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Southern Jordan", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Southern Levant", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Spices", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Trade and commerce", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Treasury of Petra", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Nabataean Kingdom", "hop": 2, "phrase": "Water management", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Approximately 500 million people", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Arabian Desert", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Arabian Peninsula to Iran", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Arabic", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Colonial Period", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Cradle of Civilization", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Egypt", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Energy Resources", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Euphrates River", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Fertile Crescent", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Geographical Region", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Global Trade Routes", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "High geopolitical complexity", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Hospitality-focused societies", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Hot and Arid", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Iran", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Iraq", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Israel", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Natural Gas", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Nile River", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Oil-dependent economies", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Origin of Abrahamic Religions", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Ottoman Empire Influence", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Persian", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Petroleum", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Political Instability", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Predominantly Desert", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Sectarian Conflicts", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Strong tribal traditions", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Tigris River", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Turkey", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Turkish", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Middle East", "hop": 2, "phrase": "Western Asia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "650,000 square kilometers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Arabian Peninsula", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Bedouin Crossing Routes", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Challenging for Early Explorers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Climate Studies", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Desert", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Desert Ecosystem", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Bertram Thomas", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "1930s", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Extremely Low Population Density", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Geological Research", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Gravel Plains", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "High 40s to 50s Celsius", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Hyper-Arid", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Largest Continuous Sand Desert Globally", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Less than 100 mm per year", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Limited Vegetation", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Massive Sand Dunes", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Oman", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Potential Mineral Deposits", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Potential Oil Reserves", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Qatar", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Relatively Undisturbed", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Rocky Plateaus", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Rub' al Khali", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Sand Dunes", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Sparse Wildlife", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Strong Northwesterly Winds", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "United Arab Emirates", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Up to 250 meters", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Wind-Sculpted Terrain", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Empty Quarter", "hop": 2, "phrase": "Yemen", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "2250", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "3040 meters", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "355 kilometers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "490 meters", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "African Plate", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Ancient Trade Route", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Arabian Plate", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Beach Resorts", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Between Africa and Asia", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Coral Reefs", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Diving", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Djibouti", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Dolphins", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Dugongs", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Egypt", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Eritrea", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Fishing", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "High", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "High Evaporation Rate", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "High Wind Variability", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Higher than average ocean salinity", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Marine Body of Water", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Mediterranean Sea via Suez Canal", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Moderate", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Multiple Shark Species", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Offshore Oil Deposits", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Over 200 Species", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Rift Valley", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Saudi Arabia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Shipping Route", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Snorkeling", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Strong Currents", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Sudan", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Tourism", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Tropical Desert", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Very Low Precipitation", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Warm", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Red Sea", "hop": 2, "phrase": "Yemen", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "1.9 billion worldwide", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "5", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "5 Times", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "7th century CE", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Alcohol", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Allows Polygamy", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Arabian Peninsula", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Arabic", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Astronomy", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Charity", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Conquest", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Day of Judgment", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Five Pillars", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Gambling", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Hadith", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Hajj", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Hijri Calendar", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Islamic Philosophy", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Jesus", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Kaaba in Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Mathematics", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Medicine", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Middle East", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Monotheism", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Moses", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Mosque", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "North Africa", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Peace", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Promotes Social Justice", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Prophet Muhammad", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Quran", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Ramadan", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Sharia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Shia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Southeast Asia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Submission to God", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Sunni", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "Trade", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Islam", "hop": 2, "phrase": "World Religion", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "+966", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": ".sa", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "1932", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "2,150,000 square kilometers", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "35 million", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "95%", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Aash Al Maleek", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Absolute monarchy", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Arab", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Arabia Standard Time", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Arabic", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Asia", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Country", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Crude oil", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "DD/MM/YYYY", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Desert", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "G20", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "High", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "House of Saud", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Iraq", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Islam", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Jordan", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "King Salman bin Abdulaziz Al Saud", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Kuwait", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Mecca", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Medina", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Middle East", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Oman", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Organization of Islamic Cooperation", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Persian Gulf", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Petroleum-based economy", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Qatar", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Red Sea", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Riyadh", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "SAR", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Saudi Riyal", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "September 23", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Unitary Islamic absolute monarchy", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "United Arab Emirates", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "United Nations", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "World's second-largest proven oil reserves", "is_ne": false, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}
+{"parent_subject": "Saudi Arabia", "hop": 2, "phrase": "Yemen", "is_ne": true, "ner_model": "anthropic/claude-3.5-haiku", "ner_strategy": "baseline", "domain": "general", "topic": null}

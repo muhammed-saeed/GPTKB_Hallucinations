@@ -92,36 +92,37 @@ class DeepSeekClient:
             return {"text": text}
 
         # DEBUG: Print what we're trying to parse
-        print(f"[DeepSeekClient] text length: {len(text)}")
-        print(f"[DeepSeekClient] text starts with: {text[:100]}")
-        print(f"[DeepSeekClient] text ends with: {text[-100:]}")
-        print(f"[DeepSeekClient] text type: {type(text)}")
+        # print(f"[DeepSeekClient] text length: {len(text)}")
+        # print(f"[DeepSeekClient] text starts with: {text[:100]}")
+        # print(f"[DeepSeekClient] text ends with: {text[-100:]}")
+        # print(f"[DeepSeekClient] text type: {type(text)}")
         
         # Check if it's wrapped in quotes (string representation of JSON)
         if text.startswith('"') and text.endswith('"'):
-            print("[DeepSeekClient] WARNING: Text is quoted! Unquoting...")
+            # print("[DeepSeekClient] WARNING: Text is quoted! Unquoting...")
             text = text[1:-1]
-            print(f"[DeepSeekClient] After unquote: {text[:100]}")
+            # print(f"[DeepSeekClient] After unquote: {text[:100]}")
 
         # If schema requested, try to parse as JSON
         try:
             result = json.loads(text)
-            print(f"[DeepSeekClient] ✓ json.loads() succeeded!")
-            print(f"[DeepSeekClient] result type: {type(result)}")
-            print(f"[DeepSeekClient] result keys: {result.keys() if isinstance(result, dict) else 'N/A'}")
+            # print(f"[DeepSeekClient] ✓ json.loads() succeeded!")
+            # print(f"[DeepSeekClient] result type: {type(result)}")
+            # print(f"[DeepSeekClient] result keys: {result.keys() if isinstance(result, dict) else 'N/A'}")
             
             if isinstance(result, dict):
                 return result
             else:
-                print(f"[DeepSeekClient] ✗ Result is not dict, got: {type(result)}")
+                # print(f"[DeepSeekClient] ✗ Result is not dict, got: {type(result)}")
                 return {"_raw": text}
                 
         except json.JSONDecodeError as e:
-            print(f"[DeepSeekClient] ✗ json.loads() FAILED!")
-            print(f"[DeepSeekClient] Error: {e}")
-            print(f"[DeepSeekClient] Error position: {e.pos}")
+            # print(f"[DeepSeekClient] ✗ json.loads() FAILED!")
+            # print(f"[DeepSeekClient] Error: {e}")
+            # print(f"[DeepSeekClient] Error position: {e.pos}")
             if e.pos is not None and e.pos < len(text):
-                print(f"[DeepSeekClient] Text around error: {text[max(0,e.pos-50):e.pos+50]}")
+                # print(f"[DeepSeekClient] Text around error: {text[max(0,e.pos-50):e.pos+50]}")
+                a = "ok"
             return {"_raw": text}
 
 

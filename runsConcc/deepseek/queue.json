@@ -1,0 +1,2312 @@
+[
+  {
+    "subject": "Umer Bin Khatab",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:18:16"
+  },
+  {
+    "subject": "Abu Bakr",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Abu Lu'lu'ah Firuz",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Abu Ubaydah ibn al-Jarrah in Syria",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Al-Farooq",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Al-Khattab ibn Nufayl",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Al-Masjid al-Haram",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Al-Masjid an-Nabawi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Amr ibn al-As in Egypt",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Banu Adi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Basra",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Battle of Badr",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Battle of Khaybar",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Battle of Uhud",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Battle of the Trench",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Conquest of Mecca",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Fustat",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Hantamah bint Hisham",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Kufa",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Medina",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Muslim conquest of Egypt",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Muslim conquest of Persia",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Muslim conquest of the Levant",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Quraysh",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Sa'd ibn Abi Waqqas in Kufa",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Surah Taha",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Umar ibn al-Khattab",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "Uthman ibn Affan",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:20:07"
+  },
+  {
+    "subject": "2003 invasion of Iraq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "2013 Gulf Cup of Nations",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Abbas ibn Abd al-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Abbasid Caliph al-Mahdi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Abd al-Rahman ibn Abi Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Abd al-Rahman ibn Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Abd al-Rahman ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Abd al-Rahman ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Abdullah ibn Abi Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Abdullah ibn Abi Quhafa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Abdullah ibn Jubayr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Abdullah ibn Sa'd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Abdullah ibn Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Abdullah ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Abdullah ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Abu Dujana",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Abu Jahl",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Abu Lulu",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "Abu Quhafa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Abu Sufyan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Abu Ubaydah ibn al-Jarrah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Adi ibn Ka'b",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "Aisha bint Abi Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Al-Anfal",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Al-Baqi Cemetery",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Al-Jahiz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Al-Minaa SC",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Al-Qamus",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Al-Sa'b",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Al-Sulalim",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Al-Tabari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Al-Watih",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Aleppo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Alexandria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Alexandrian Library",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Ali",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Ali Imran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Ali ibn Abi Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Amr ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Amr ibn al-As",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Amr ibn al-As Mosque",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Amr ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Anas ibn Nadr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Ansar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Antioch",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Aqil ibn Abi Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Arabia Standard Time",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Arabian Peninsula",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "As-Siddiq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Ashar Canal",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Asim ibn Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Asma bint Abi Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Asma bint Umais",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Bab King Abdulaziz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Fahd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Fahd Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Fath",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Fath Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Haram",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Haram Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Qiba",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Qiba Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Salam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Salam Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Umra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Umra Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Umrah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bab al-Umrah Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Baba Shuja-ud-din",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "Babylon Fortress",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Badr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Baghdad-Basra railway",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Banu Hashim",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "Banu Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "Banu Nadir",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Banu Qaynuqa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Banu Qurayza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Banu Taym",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Banu Umayyah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "Banu Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "Basra Clock Tower",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra Date Festival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra Governorate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra Governorate Council",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra International Airport",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra Souq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra Sports City",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra Teaching Hospital",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basra school of Arabic grammar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Basrawi Arabic",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Battle of Banu Qurayza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Battle of Basra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Battle of Hazir",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Battle of Heliopolis",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Battle of Hunayn",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Battle of Khandaq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Battle of Mu'tah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Battle of Nikiou",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Battle of Tabuk",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Battle of Yarmouk",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Battle of al-Qadisiyyah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "Battle of the Confederates",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Battle of the Iron Bridge",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Bilal ibn Rabah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Black Stone",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Bukhari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Byzantine Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Byzantine general Theodore",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Byzantine general Vahan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Caliph Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Cave of Thawr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Confederates",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Cyrus of Alexandria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Damascus",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Expulsion of Banu Qaynuqa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Fatimah bint Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Fatimah bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Firuzan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "Ghatafan tribe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Great Mosque of Aleppo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Great Mosque of Homs",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Green Dome",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Gulf War",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Habibah bint Kharijah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Hadith",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Hafsa bint Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Hamza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Hamza ibn Abdul-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Hasan al-Basri",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Hejaz region",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Highway 1",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Hijr Ismail",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Hijra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Hind bint Utbah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Homs",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Hudaybiyyah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "Ibn Hisham",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Ibn Ishaq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Ibn Ishaq's Sirat Rasul Allah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Ibrahim and Ismail",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Iran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Iran-Iraq War",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Iraq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Islamic conquest of Persia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Iyaas ibn al-Bukayr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Jerusalem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Jewish tribes of Khaybar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Jund Dimashq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Jund Filastin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Jund Hims",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Jund Qinnasrin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Jund al-Urdunn",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Kaaba",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Khalid ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Khalid ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Khalid ibn al-Walid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Khalid ibn al-Walid as commander",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Khaybar oasis",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Kinana ibn al-Rabi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "King Abdulaziz Gate Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "King Fahd Expansion Minaret",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "King Salman Expansion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Kuwait",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Maidan Bridge",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Maqam Ibrahim",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Marhab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Marsh Arabs",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Mesopotamia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Migration to Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Mount Uhud",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Muhajirun",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Muhammad during Hijra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Muhammad ibn Abi Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Muharram",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Musab ibn Umayr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Muslim-Quraysh wars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Na'im",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Naft Al-Janoob",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Nahavand",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "Nawfal ibn Khuwaylid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Nile River",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Nubia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Nufayl",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Nusaybah bint Ka'ab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Old Basra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "One Thousand and One Nights",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Ottoman Sultan Selim II",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Patriarch Sophronius",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Persia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "Persian Gulf",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Piruz Nahavandi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "Prophet Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Quba Mosque",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Quran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Quraysh caravan interception",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Quraysh of Mecca",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Quraysh tribe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Qutaylah bint Abd al-Uzza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Rabi'a al-Adawiyya",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Ramla",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Rashidun Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Rawdah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Ridda Wars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Ruqayyah bint Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Ruqayyah bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Sa'id ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Sa'id ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Safa and Marwa hills",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Safiyya bint Abdul-Muttalib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Sahih Muslim",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Sahih al-Bukhari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Salman al-Farsi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Sasanian Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Saudi King Abdulaziz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Saudi King Abdullah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Saudi King Fahd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Saudi King Salman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Sayyid Ali al-Musawi Mosque",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Shaiba ibn Rabi'ah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Shatt al-Arab river",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Shurahbil ibn Hasana",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Siege of Babylon Fortress",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:45"
+  },
+  {
+    "subject": "Siege of Jerusalem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Siege of Ta'if",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Sirah of Ibn Ishaq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Southern Iraq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Surah Al Imran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Surah Al-Ahzab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "Surah An-Nasr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Syria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Talha ibn Abi Talha",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Talha ibn Ubaidullah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "Talha ibn Ubaydallah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Talhah ibn Ubayd Allah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "The Criterion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "The Prophet's Mosque",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Treaty of Hudaybiyyah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "Ubaydullah ibn Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Ubaydullah ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Ubaydullah ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Umm Ayman bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umm Habibah bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umm Hakim bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umm Kulthum bint Abi Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Umm Kulthum bint Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umm Kulthum bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umm Qasr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Umm Ruman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Umm Salamah bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umm al-Banin bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umm al-Hakam bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Umm al-Khayr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Umm al-Qasim bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "University of Basra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Usama ibn Zayd as commander",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Utbah ibn Rabi'ah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Uthman ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Uthman ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Venice of the East",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Walid ibn Utbah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "Walid ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Walid ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Yazid ibn Abi Sufyan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:47"
+  },
+  {
+    "subject": "Zamzam Well",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:59"
+  },
+  {
+    "subject": "Zanj Rebellion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:13"
+  },
+  {
+    "subject": "Zayd ibn Amr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "Zayd ibn Thabit",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:58"
+  },
+  {
+    "subject": "Zayd ibn Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Zayd ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Zaynab bint Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Zaynab bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:56"
+  },
+  {
+    "subject": "Zubayr ibn al-Awwam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "al-Khattab ibn Nufayl",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "al-Mughira ibn Shu'ba",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:21:53"
+  },
+  {
+    "subject": "conquest of Mecca",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "led to siege of Banu Qurayza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "modern-day Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "northern approach to Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "of Mecca",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "poisoned lamb offered to Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "pre-Islamic Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "revenge for Battle of Badr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "rumor spread that Prophet Muhammad died",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "spread of Islam in Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "tactical victory for Quraysh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:10"
+  },
+  {
+    "subject": "to Banu Hashim",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "to Medina after conversion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "to Syria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "to Yemen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "traced to Adnan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  },
+  {
+    "subject": "trench remnants in Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:05"
+  },
+  {
+    "subject": "turning point in Islamic history",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "turning point in early Islam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:03"
+  },
+  {
+    "subject": "unity in Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "violation of treaty by Quraysh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:01"
+  },
+  {
+    "subject": "with other Quraysh clans",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-28 20:22:11"
+  }
+]
