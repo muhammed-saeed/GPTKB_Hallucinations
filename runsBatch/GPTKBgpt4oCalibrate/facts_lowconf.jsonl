@@ -1,5 +1,0 @@
-{"subject": "Abu Lulu", "predicate": "dateOfBirth", "object": "unknown", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
-{"subject": "Abu Lulu", "predicate": "influencedBy", "object": "Zoroastrianism", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
-{"subject": "Abu Lulu", "predicate": "associatedWith", "object": "Shi'a Islam", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
-{"subject": "Abu Lulu", "predicate": "associatedWith", "object": "Sunni Islam", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
-{"subject": "Islam", "predicate": "globalPresence", "object": "Australia", "hop": 2, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}

@@ -1,415 +1,310 @@
 
+---
 
 ```markdown
+# 🧠 GPT-KB — Multi-LLM Knowledge Graph Crawler (Hybrid Batch + Concurrency)
+
+**GPT-KB** is a production-ready, resumable BFS crawler that elicits `(subject, predicate, object)` triples from LLMs, expands via NER, and persists the evolving knowledge graph to SQLite with JSONL streams and snapshots.
+
+It supports **multiple LLM backends** — OpenAI (incl. GPT-5), DeepSeek, Claude, and Replicate (Gemini-Flash, Grok) — and can run in **OpenAI Batch** or **Concurrent** mode.
 
 ---
 
-# KB_Crawler_GPT — Knowledge Graph Crawler (Hybrid, Multi-LLM)
+## ✨ Key Features
 
-A production-ready, **resumable BFS crawler** that elicits (subject, predicate, object) triples from LLMs, expands via NER, and persists to SQLite with JSONL streams and JSON snapshots.
+- **Hybrid execution**  
+  - OpenAI **Batch mode** for GPT-4o / GPT-5 models.  
+  - **Concurrent mode** for DeepSeek, Claude, Replicate (Gemini, Grok), or any OpenAI-compatible API.
 
-It supports **multiple LLM backends** (OpenAI, GPT-5 via Responses API, DeepSeek, Replicate), **two execution modes** (OpenAI **Batch** or async **Concurrency**), **NER batching**, and **dual stop conditions** (max hops and/or max subjects).
+- **Multi-LLM backend**  
+  DeepSeek, OpenAI (Chat + Responses), Claude, and Replicate are all plug-and-play through `llm_wrapper.py`.
+
+- **Calibration routing**  
+  In `calibrate` mode, only keeps facts above a configurable confidence threshold.
+
+- **Resumable graph traversal**  
+  Queue state persisted in SQLite (`pending` → `working` → `done`).
+
+- **Structured outputs**  
+  JSONL logs for streaming facts & entities, plus JSON snapshots for quick inspection.
+
+- **Robust JSON recovery**  
+  Auto-repairs malformed model output (via `_parse_json_best_effort`).
 
 ---
 
-## ✨ Highlights
-
-* **Hybrid runner**:
-
-  * **OpenAI Batch mode** for elicitation when using official OpenAI chat models (e.g., GPT-4o/mini).
-  * **Concurrency mode** for DeepSeek / Replicate / OpenAI-compatible (with `base_url`).
-* **GPT-5 support (Responses API)**: uses `reasoning.effort`, `text.verbosity`, `max_output_tokens`; no `response_format` or sampling knobs.
-* **Prompt strategies** with Jinja2 templates for `elicitation` and `ner`.
-* **Calibration routing**: keep/sink by confidence when using `--elicitation-strategy calibrate`.
-* **Resumable**: queue state in SQLite (`pending` / `working` / `done`).
-* **Streaming logs**: JSONL for queue, facts, and NER decisions; snapshots for quick inspection.
-
----
-
-## 🗂 Project Layout
+## 🗂 Project Structure
 
 ```
-.
-├─ crawlerTry.py                # main entry (Hybrid: OpenAI Batch OR Concurrency)
-├─ diag.py                      # quick environment + smoke test
-├─ db_models.py                 # queue + facts persistence
-├─ prompter_parser.py           # loads Jinja2 templates
-├─ prompts/
-│  ├─ baseline/elicitation.j2
-│  └─ baseline/ner.j2
-├─ llm/
-│  ├─ config.py                 # ModelConfig
-│  ├─ factory.py                # selects backend
-│  ├─ openai_client.py          # OpenAI Chat & Responses (GPT-5)
-│  ├─ deepseek_like.py          # DeepSeek via OpenAI SDK (base_url)
-│  └─ replicate_client.py       # Replicate wrapper
-├─ settings.py                  # JSON schemas, SQLite DDL, model registry
-├─ requirements.txt
-└─ .env                         # your API keys
-```
+
+GPTKB_Hallucinations/
+├── crawler_openai_batch_concurrency-deepseek_claude.py   # hybrid runner (Batch + Concurrency)
+├── crawler_simple_openai_claude_claude.py                # simple concurrent runner
+├── db_models.py                                          # SQLite ORM (queue + facts)
+├── diag.py                                               # environment and API smoke tests
+├── llm/
+│   ├── **init**.py
+│   ├── llm_wrapper.py                                   # unified model interface
+│   └── replicate_client.py                              # Replicate Gemini / Grok client
+├── prompter_parser.py                                   # loads & renders Jinja2 prompts
+├── prompts/
+│   ├── baseline/elicitation.j2
+│   └── baseline/ner.j2
+├── settings.py                                          # schemas, model registry, DDL
+├── requirements.txt
+├── runs*/                                               # output directories (Batch, Concurrency, etc.)
+└── README.md
+
+````
 
 ---
 
 ## ⚙️ Setup
 
-### 1) Environment variables
+### 1️⃣ Environment Variables
 
-Create `.env` and set any providers you’ll use:
+Create a `.env` file or export manually:
 
-```env
-OPENAI_API_KEY=sk-...
-DEEPSEEK_API_KEY=...
-REPLICATE_API_TOKEN=...
-# Optional: OPENAI_BASE_URL for openai-compatible endpoints (forces Concurrency mode)
-```
+```bash
+export OPENAI_API_KEY=sk-...
+export DEEPSEEK_API_KEY=...
+export REPLICATE_API_TOKEN=...
+# Optional (forces concurrency mode)
+export OPENAI_BASE_URL=https://api.deepseek.com/v1
+````
 
-### 2) Dependencies
+### 2️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### 3) Quick diagnostics
+### 3️⃣ Verify Environment
 
 ```bash
 python diag.py
-# Shows which keys are present and does a tiny JSON call.
 ```
 
 ---
 
-## 🧠 How the crawl works
+## 🧩 How It Works
 
-1. **Seed** a subject (hop=0).
-2. **Elicit facts** (triples) for that subject.
-3. **NER expansion**: we extract short object phrases and ask the NER prompt; entities marked `is_ne=true` are **enqueued** as next-hop subjects.
-4. Stop when:
+1. **Seed**: enqueue an initial subject (`hop=0`).
+2. **Elicit facts**: model generates triples `(subject, predicate, object)`.
+3. **NER expansion**: extract candidate entities (`object` phrases) and run a NER prompt.
+4. **Enqueue**: any `is_ne=true` entities are added as next-hop subjects.
+5. **Repeat** until:
 
    * hop exceeds `--max-depth`, or
-   * total elicited subjects reaches `--max-subjects` (if set).
+   * total subjects hit `--max-subjects`.
 
-**Calibration mode** (`--elicitation-strategy calibrate`): only accept facts with `confidence >= --conf-threshold`; others go to the sink table with a reason.
+> In `calibrate` mode, only facts with `confidence >= --conf-threshold` are accepted.
 
 ---
 
-## 🏃 Modes of operation
+## 🚀 Runners
 
-### 1) OpenAI **Batch mode** (elicitation)
+### 🅰️ `crawler_openai_batch_concurrency-deepseek_claude.py`
 
-Used automatically when:
+**Hybrid runner** combining:
 
-* provider is `openai` **and**
-* no custom `base_url` is set.
+* **OpenAI Batch** for official OpenAI models (GPT-4o, GPT-5, mini/turbo)
+* **Concurrent workers** for DeepSeek, Claude, or Replicate models
 
-NER is done synchronously in small batches per subject.
-
-#### Example: GPT-4o-mini (classic Chat + Batch)
+#### Example: GPT-4o-mini (Batch)
 
 ```bash
-python crawlerTry.py \
-  --seed "Alan Turing" \
-  --output-dir runs/gpt4omini_batch \
-  --elicitation-strategy baseline \
-  --ner-strategy baseline \
+python crawler_openai_batch_concurrency-deepseek_claude.py \
+  --seed "Umar ibn al-Khattab" \
+  --output-dir runsBatch/gpt4omini \
   --elicit-model-key gpt4o-mini \
   --ner-model-key gpt4o-mini \
   --max-depth 2 \
   --batch-size 50 \
-  --max-inflight 3 \
-  --poll-interval 20 \
-  --completion-window 24h \
-  --openai-batch-min 5 \
-  --openai-batch-timeout 15 \
-  --openai-fastpath-max 10 \
-  --max-tokens 2000 \
-  --debug
+  --max-subjects 10
 ```
 
-**Batch tuning flags**
-
-* `--batch-size`: subjects per OpenAI batch file.
-* `--max-inflight`: how many batches to keep in flight.
-* `--poll-interval`: seconds between polling batch status.
-* `--completion-window`: e.g. `24h`.
-* `--openai-batch-min`: minimum queued requests before we prefer submitting a batch.
-* `--openai-batch-timeout`: how long we wait while aggregating before giving up on forming a batch.
-* `--openai-fastpath-max`: if we timed out and have a handful queued, we send up to this many **direct** API calls (non-batch) to avoid getting stuck.
-
-> **Note:** For GPT-4o/mini/turbo we use Chat Completions with JSON schema in batch & fast-path.
-
----
-
-### 2) **Concurrency mode** (DeepSeek / Replicate / OpenAI-compatible)
-
-Used automatically when:
-
-* provider is not `openai`, or
-* you set a custom `base_url` (OpenAI-compatible).
-
-Async workers fetch distinct pending subjects up to capacity. Optionally limit global RPM.
-
-#### Example: DeepSeek (concurrency)
+#### Example: DeepSeek (Concurrency)
 
 ```bash
-python crawlerTry.py \
-  --seed "Margaret Hamilton" \
-  --output-dir runs/deepseek_conc \
-  --elicitation-strategy baseline \
-  --ner-strategy baseline \
+python crawler_openai_batch_concurrency-deepseek_claude.py \
+  --seed "Umar ibn al-Khattab" \
+  --output-dir runsConcc/deepseek \
   --elicit-model-key deepseek \
   --ner-model-key deepseek \
-  --max-depth 2 \
-  --concurrency 10 \
-  --target-rpm 120 \
-  --ner-batch-size 50 \
-  --max-tokens 2000 \
-  --debug
+  --concurrency 15 \
+  --max-subjects 10
 ```
 
-**Concurrency tuning flags**
-
-* `--concurrency`: number of async workers.
-* `--target-rpm`: global request cap (requests/min across all workers).
-
----
-
-## 🤖 GPT-5 (Responses API) specifics
-
-GPT-5 (including `gpt-5-nano`) **must** use the **Responses API**. These models **do not** accept `temperature`, `top_p`, or `response_format`. Instead, you control:
-
-* `--gpt5-effort`: `minimal | low | medium | high` (reasoning depth)
-* `--gpt5-verbosity`: `low | medium | high` (output verbosity)
-* `--max-tokens`: mapped to `max_output_tokens` for GPT-5
-
-We force JSON output by instruction and robust parsing.
-
-> In **Batch mode**, we still submit elicitation via OpenAI’s `/batches`; for GPT-5 the crawler uses a JSON-only instruction and parses the `output_text` / `content.text`. In **fast-path** (direct calls) and in **Concurrency**, GPT-5 always goes through the Responses API without `response_format`.
-
-#### Example: GPT-5-nano (Batch + fast-path as needed)
+#### Example: Claude
 
 ```bash
-python crawlerTry.py \
-  --seed "Grace Hopper" \
-  --output-dir runs/gpt5nano_batch \
-  --elicitation-strategy baseline \
-  --ner-strategy baseline \
-  --elicit-model-key gpt-5-nano \
-  --ner-model-key gpt-5-nano \
-  --max-depth 2 \
-  --batch-size 50 \
-  --max-inflight 3 \
-  --poll-interval 20 \
-  --completion-window 24h \
-  --openai-batch-min 5 \
-  --openai-batch-timeout 15 \
-  --openai-fastpath-max 10 \
-  --gpt5-effort minimal \
-  --gpt5-verbosity low \
-  --max-tokens 2048 \
-  --debug
+python crawler_openai_batch_concurrency-deepseek_claude.py \
+  --seed "Umar ibn al-Khattab" \
+  --output-dir runsConn/claude35h \
+  --elicit-model-key claude35h \
+  --ner-model-key claude35h \
+  --concurrency 15 \
+  --max-subjects 10
 ```
-
-> If you see `status: incomplete` with `incomplete_details: max_output_tokens`, increase `--max-tokens` or lower verbosity/effort.
 
 ---
 
-## 🧩 All important CLI flags (quick reference)
+### 🅱️ `crawler_simple_openai_claude_claude.py`
 
-**General**
+Simpler concurrent crawler, used for **DeepSeek**, **Replicate**, or **Claude** without Batch logic.
+All workers run in parallel using your chosen provider’s API.
 
-* `--seed <str>`: starting subject.
-* `--output-dir <path>`: where to write DBs and logs.
-* `--max-depth <int>`: hop limit (default from `settings.py`).
-* `--max-subjects <int>`: total subjects cap (0 = unlimited).
-* `--elicitation-strategy` / `--ner-strategy`: `baseline | icl | dont_know | calibrate`.
-* `--conf-threshold <float>`: used when elicitation strategy is `calibrate`.
-* `--ner-batch-size <int>`: phrases per NER call.
+#### Example: DeepSeek
 
-**Model selection**
+```bash
+python crawler_simple_openai_claude_claude.py \
+  --seed "Khalid ibn al-Walid" \
+  --output-dir runsSimple/deepseek \
+  --elicit-model-key deepseek \
+  --ner-model-key deepseek \
+  --concurrency 10 \
+  --max-subjects 10
+```
 
-* `--elicit-model-key <key>`
-* `--ner-model-key <key>`
+#### Example: Replicate (Gemini-Flash)
 
-> Default keys defined in `settings.py` → `settings.MODELS`. Examples:
-> `gpt4o-mini`, `gpt4o`, `gpt-5-nano`, `deepseek`, `deepseek-reasoner`, replicate variants.
+```bash
+python crawler_simple_openai_claude_claude.py \
+  --seed "Khalid ibn al-Walid" \
+  --output-dir runsSimple/gemini_flash \
+  --elicit-model-key gemini-flash \
+  --ner-model-key gemini-flash \
+  --concurrency 10
+```
 
-**Sampling / length**
+#### Example: Replicate (Grok-4)
 
-* `--max-tokens <int>`: Chat → `max_tokens`, GPT-5 → `max_output_tokens`.
-* `--temperature`, `--top-p`, `--top-k`: **ignored by GPT-5** (do not send).
+```bash
+python crawler_simple_openai_claude_claude.py \
+  --seed "Khalid ibn al-Walid" \
+  --output-dir runsSimple/grok4 \
+  --elicit-model-key grok-4 \
+  --ner-model-key grok-4 \
+  --concurrency 10
+```
 
-**GPT-5 only**
+---
+
+## 🧮 Calibration Mode
+
+Add `--elicitation-strategy calibrate` and (optionally) `--conf-threshold 0.7` to filter by confidence.
+
+```bash
+python crawler_openai_batch_concurrency-deepseek_claude.py \
+  --seed "Umar ibn al-Khattab" \
+  --elicit-model-key gpt4o-mini \
+  --ner-model-key gpt4o-mini \
+  --output-dir runsBatch/gpt4omini_cal \
+  --elicitation-strategy calibrate \
+  --conf-threshold 0.7
+```
+
+---
+
+## 🧠 GPT-5 (Responses API)
+
+GPT-5 models (e.g., `gpt-5-nano`) automatically route through the **Responses API** — no `response_format`, `temperature`, or `top_p`.
+
+Control reasoning via:
 
 * `--gpt5-effort minimal|low|medium|high`
 * `--gpt5-verbosity low|medium|high`
 
-**OpenAI Batch (for official OpenAI chat models)**
-
-* `--batch-size <int>`
-* `--max-inflight <int>`
-* `--poll-interval <sec>`
-* `--completion-window <str>` (e.g., `24h`)
-* `--openai-batch-min <int>`
-* `--openai-batch-timeout <sec>`
-* `--openai-fastpath-max <int>`
-
-**Concurrency (non-OpenAI or `base_url` set)**
-
-* `--concurrency <int>`
-* `--target-rpm <int>`
-
-**Resume**
-
-* `--resume` (continue from existing DBs)
-* `--reset-working` (move any `working` back to `pending`)
-
-**Debug**
-
-* `--debug` (verbose progress)
-
----
-
-## 📦 Outputs
-
-Inside each `--output-dir`:
-
-```
-queue.sqlite            # queue (pending/working/done), resumable
-facts.sqlite            # triples_accepted + triples_sink
-queue.jsonl             # enqueued subjects (stream)
-facts.jsonl             # accepted/sink facts (stream)
-queue.json              # snapshot
-facts.json              # snapshot
-ner_decisions.jsonl     # phrase-level NER outputs
-batches/                # OpenAI batch request/results files
-tmp/                    # scratch files
-errors.log              # exceptions & parse issues
-run_meta.json           # parameters & environment used
-```
-
----
-
-## 🔧 Examples you can copy-paste
-
-### OpenAI — GPT-4o-mini with Batch
+Example:
 
 ```bash
-python crawler_openai_batch_concurrency-deepseek_claude.py --seed "Umer Bin Khatab" --elicit-model-key deepseek --ner-model-key deepseek --output-dir runsConcc/deepseek --concurrency 15 --max-subjects 10 --debug
-```
-
-### OpenAI — GPT-5-nano (Responses API)
-
-```bash
-python crawlerTry.py \
+python crawler_openai_batch_concurrency-deepseek_claude.py \
   --seed "Grace Hopper" \
-  --output-dir runs/hopper_gpt5nano \
+  --output-dir runsBatch/gpt5nano \
   --elicit-model-key gpt-5-nano \
   --ner-model-key gpt-5-nano \
-  --max-depth 2 \
-  --batch-size 50 \
-  --max-inflight 3 \
-  --poll-interval 20 \
-  --completion-window 24h \
-  --openai-batch-min 5 \
-  --openai-batch-timeout 15 \
-  --openai-fastpath-max 10 \
   --gpt5-effort minimal \
   --gpt5-verbosity low \
-  --max-tokens 2048 \
-  --debug
+  --max-tokens 2048
 ```
 
-### DeepSeek — Concurrency
+---
 
-```bash
-python crawlerTry.py \
-  --seed "Margaret Hamilton" \
-  --output-dir runs/hamilton_deepseek \
-  --elicit-model-key deepseek \
-  --ner-model-key deepseek \
-  --max-depth 2 \
-  --concurrency 10 \
-  --target-rpm 120 \
-  --ner-batch-size 50 \
-  --max-tokens 2000 \
-  --debug
-```
+## 🧾 Outputs
 
-
-## Calibration Strategy
-
-### GPT-4o mini
-
-```bash
-
-python crawler_openai_batch_concurrency-deepseek_claude.py --seed "Umer Bin Khatab" --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --output-dir runsBatch/GPTKBgpt4o --openai-batch-size 50 --max-subjects 10 --elicitation-strategy calibrate
-
+Each run produces:
 
 ```
-
-
-
-### Deepseek
-```bash
-
-python crawlerTry.py \
-  --seed "Grace Hopper" \
-  --output-dir runs/deepseek_calib \
-  --elicit-model-key deepseek \
-  --ner-model-key deepseek \
-  -- domain general \
-  --elicitation-strategy calibrate \
-  --ner-strategy baseline \
-  --conf-threshold 0.75 \
-  --max-depth 2 \
-  --max-subjects 10 \
-  --concurrency 10 \
-  --target-rpm 120 \
-  --ner-batch-size 50 \
-  --max-tokens 2000 \
-  --debug
+output-dir/
+├── queue.sqlite          # BFS queue (pending, working, done)
+├── facts.sqlite          # accepted and sinked triples
+├── queue.jsonl           # enqueued subjects
+├── facts.jsonl           # elicited triples
+├── ner_decisions.jsonl   # entity decisions
+├── errors.log            # parsing/runtime errors
+├── run_meta.json         # run parameters & env
+└── batches/ or tmp/      # OpenAI Batch artifacts / scratch
 ```
+
+---
+
+## 🧩 CLI Reference
+
+| Flag                                                                    | Description                               |     |           |            |
+| ----------------------------------------------------------------------- | ----------------------------------------- | --- | --------- | ---------- |
+| `--seed`                                                                | starting subject                          |     |           |            |
+| `--output-dir`                                                          | output folder                             |     |           |            |
+| `--max-depth`                                                           | hop limit                                 |     |           |            |
+| `--max-subjects`                                                        | total subjects limit                      |     |           |            |
+| `--elicitation-strategy` / `--ner-strategy`                             | `baseline                                 | icl | dont_know | calibrate` |
+| `--conf-threshold`                                                      | minimum confidence (calibrate)            |     |           |            |
+| `--elicit-model-key` / `--ner-model-key`                                | registered model keys (see `settings.py`) |     |           |            |
+| `--max-tokens`                                                          | output token cap                          |     |           |            |
+| `--temperature`, `--top-p`, `--top-k`                                   | sampling controls (ignored by GPT-5)      |     |           |            |
+| `--batch-size`, `--max-inflight`                                        | OpenAI Batch tuning                       |     |           |            |
+| `--poll-interval`, `--completion-window`                                | Batch polling                             |     |           |            |
+| `--openai-batch-min`, `--openai-batch-timeout`, `--openai-fastpath-max` | Batch submission thresholds               |     |           |            |
+| `--concurrency`, `--target-rpm`                                         | concurrency & rate limits                 |     |           |            |
+| `--resume`, `--reset-working`                                           | resume crashed runs                       |     |           |            |
+| `--debug`                                                               | verbose mode                              |     |           |            |
+
+---
+
+## 🧩 Extending
+
+* **Add new models**: `settings.MODELS` → specify `provider`, `model`, and `base_url` if OpenAI-compatible.
+* **Edit prompts**: `prompts/baseline/*.j2`.
+* **Adjust schemas**: `settings.py` → `ELICIT_SCHEMA_*`, `NER_SCHEMA_*`.
+* **Plug new LLM backends**: implement a new client in `llm/`.
 
 ---
 
 ## 🧪 Troubleshooting
 
-* **`Responses.create() got an unexpected keyword argument 'response_format'`**
-  You’re calling GPT-5 via the Responses API. The client should **not** send `response_format`. This repo’s `llm/openai_client.py` already avoids it.
-
-* **`status: incomplete` with `incomplete_details: max_output_tokens` (GPT-5)**
-  Increase `--max-tokens`, or reduce `--gpt5-verbosity`, or lower `--gpt5-effort`.
-
-* **Rate limits**
-  Lower `--concurrency` / `--target-rpm` (Concurrency) or reduce `--max-inflight` (Batch).
-
-* **Bad JSON**
-  See `errors.log`. For Chat models, schema enforcement is strict; for GPT-5 we force JSON via instruction and robustly parse `output_text`/`content.text`.
-
-* **Resume after crash**
-  Use `--resume --reset-working` once to push in-flight items back to `pending`.
+| Symptom                                                                | Cause / Fix                                         |
+| ---------------------------------------------------------------------- | --------------------------------------------------- |
+| `Responses.create() got unexpected keyword argument 'response_format'` | GPT-5 uses Responses API; remove `response_format`. |
+| `status: incomplete / max_output_tokens`                               | Increase `--max-tokens` or reduce verbosity/effort. |
+| Slow crawl                                                             | Lower `--concurrency` or `--max-inflight`.          |
+| Bad JSON                                                               | See `errors.log`; JSON recovery runs automatically. |
+| Resume after crash                                                     | `--resume --reset-working`.                         |
 
 ---
 
-## 🔒 Notes & Safety
+## 🔒 Notes
 
-* Don’t commit your `.env`.
-* OpenAI **Batch** requires the official OpenAI endpoint (do not set `OPENAI_BASE_URL`).
-* If you set a custom `base_url`, the runner switches to **Concurrency** (no Batch).
-
----
-
-## 🧩 Extend & Customize
-
-* Register models in `settings.py → settings.MODELS` (set `provider`, `model`, `base_url`, `use_responses_api` for GPT-5).
-* Adjust JSON output shapes in `settings.py` (`ELICIT_SCHEMA_*`, `NER_SCHEMA_*`).
-* Edit prompt templates in `prompts/` and add new strategies.
+* Do **not** commit your `.env` file.
+* OpenAI **Batch** requires the official endpoint (no `base_url`).
+* Setting `OPENAI_BASE_URL` automatically switches to concurrency mode.
+* Replicate models (Gemini, Grok) require `REPLICATE_API_TOKEN`.
 
 ---
 
 ## 📄 License
 
-MIT — use, modify, and integrate freely.
-
+MIT — freely use, modify, and integrate.
 
 ```
+
+---
