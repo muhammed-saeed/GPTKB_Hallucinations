@@ -1,0 +1,1948 @@
+[
+  {
+    "subject": "Umer Bin Elkhatab",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:09:27"
+  },
+  {
+    "subject": "Abu Bakr",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Abu Lu'lu'a Firuz",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Al-Aqsa Mosque",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Al-Farooq",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Al-Khattab ibn Nufayl",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Al-Masjid an-Nabawi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Amr ibn al-As",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Banu Adi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Basra",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Battle of Nahavand",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Battle of Yarmouk",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Battle of al-Qadisiyyah",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Egypt",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Fustat",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Hantama bint Hisham",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Jerusalem",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Khalid ibn al-Walid",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Kufa",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Levant",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Medina",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Muhammad",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Persian Empire",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Quraysh",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Rashidun Caliphate",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Sa'd ibn Abi Waqqas",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Sunni Islam",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Umar I",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Umar ibn al-Khattab",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "Uthman ibn Affan",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:08"
+  },
+  {
+    "subject": "2017 Gulf Cup of Nations",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:55"
+  },
+  {
+    "subject": "Abd al-Rahman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Abdel Fattah el-Sisi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Abdul Majid I",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Abdullah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Abdullah ibn Abi Quhafa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Abdullah ibn Sa'd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Abu Quhafa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Abu Ubaidah ibn al-Jarrah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Africa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "African Union",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Aisha",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Al Safa area",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:04"
+  },
+  {
+    "subject": "Al-Aqsa Mosque compound",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Al-Basrah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Al-Masjid al-Aqsa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Al-Walid I",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Alexandria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Ali ibn Abi Talib",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Amr ibn al-As Mosque",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Ancient Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Anwar Sadat",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Aqaba",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Arab League",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Arab Muslims",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Arabia Standard Time",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Arabian Peninsula",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "As-Siddiq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Asia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Asma",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Asma bint Umais",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Aswan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Babash",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:09"
+  },
+  {
+    "subject": "Babylonians",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Baku",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Banu Sahm",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Banu Taym",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Basra Governorate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Basra International Airport",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Basra International Stadium",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Basra Teaching Hospital",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Battle of Ajnadayn",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Battle of Badr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Battle of Basra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Battle of Heliopolis",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Battle of Nikiou",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Battle of Uhud",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Battle of the Trench",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Ben Gurion Airport",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Bible",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Biblical Zoo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Bilal ibn Rabah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Bloomfield Stadium",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Blue Mosque",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:04"
+  },
+  {
+    "subject": "Byzantine Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Byzantine army",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Byzantine-Arab Wars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Cairo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Caliph Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Caliph Uthman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Caliph al-Walid I",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Central Bus Station",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Christianity",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Church of the Holy Sepulchre",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "City of David",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Cleopatra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Crusader Kingdom of Jerusalem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Crusaders",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:55"
+  },
+  {
+    "subject": "Dome of the Rock",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Dubai",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:04"
+  },
+  {
+    "subject": "Early Muslim conquests",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "East Jerusalem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Eastern Desert",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Egyptian Revolution of 1952",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Ein Kerem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Fahd of Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Fatimah bint al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Firuzan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:09"
+  },
+  {
+    "subject": "Gamal Abdel Nasser",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Garden of Gethsemane",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Gaza Strip",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Ghassanid allies",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Givat Ram",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Giza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Golan Heights",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Grand Mufti of Jerusalem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Great Pyramid of Giza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Green Dome",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Gulf War",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Habibah bint Kharijah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Hadassah Medical Center",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Hadith",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Hajj",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Hebrew University of Jerusalem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Heraclius",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Hijaz region",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Hijra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Hosni Mubarak",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Independence Park",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "International Convention Center",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Iran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:00"
+  },
+  {
+    "subject": "Iran-Iraq War",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Iraq",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Iraq War",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Islam",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:34"
+  },
+  {
+    "subject": "Islamic Golden Age",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Islamic Waqf",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Islamic conquest of Persia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:09"
+  },
+  {
+    "subject": "Israel",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Israel Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Israeli police",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Israeli-Palestinian conflict",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Istanbul",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Jannat al-Baqi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Jerusalem Botanical Gardens",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Jerusalem Light Rail",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Jerusalem Theater",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Jordan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Jordanian Ministry of Awqaf",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Judaism",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "King David",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Kingdom of Judah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Knesset",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Kuwait",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Laylat al-Qadr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Libya",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Lower Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:55"
+  },
+  {
+    "subject": "Lower Mesopotamia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Luxor",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Mahane Yehuda Market",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Mahmud II",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Mardanshah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:00"
+  },
+  {
+    "subject": "Mashhad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Mea Shearim",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Mediterranean",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Mediterranean Sea",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Mesopotamia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Middle East",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:00"
+  },
+  {
+    "subject": "Middle Kingdom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Migration to Medina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Montefiore Windmill",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Moshe Lion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Mount Herzl",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Mount Scopus",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Mount Zion",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Mount of Olives",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Muslim conquest of Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:55"
+  },
+  {
+    "subject": "Muslim conquest of Mesopotamia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Muslim conquest of Persia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Muslim conquest of the Levant",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Muslim conquests",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Naguib Mahfouz",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Nahavand",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:09"
+  },
+  {
+    "subject": "New Kingdom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Night Journey of Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Nile River",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:55"
+  },
+  {
+    "subject": "North Africa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Nu'man ibn Muqarrin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:00"
+  },
+  {
+    "subject": "Nufayl",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:11:34"
+  },
+  {
+    "subject": "Old Cairo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:55"
+  },
+  {
+    "subject": "Old City",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Old Kingdom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Organization of Islamic Cooperation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Ottoman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:04"
+  },
+  {
+    "subject": "Palestine",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Persian Gulf",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Persians",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Quran",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Quraysh tribe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Qutaylah bint Abd al-Uzza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Ramses II",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Rashidun army",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Rawdah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Red Sea",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Ridda Wars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Romans",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Rostam Farrokhzad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Sacher Park",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Sahara Desert",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Said ibn Zayd",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Saladin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Sasanian Empire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:09"
+  },
+  {
+    "subject": "Saud of Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Saudi Arabian government",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Shaare Zedek Medical Center",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Shahnameh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Shatt al-Arab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Shawar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:55"
+  },
+  {
+    "subject": "Sphinx",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Sudan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Suez Canal",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Supreme Court of Israel",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Syria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Talha ibn Ubayd Allah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Teddy Stadium",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Templar headquarters",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Temple Mount",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "The Prophet's Mosque",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Theodore Trithyrius",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Tigris-Euphrates river system",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Tower of David",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Treaty of Babylon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Tutankhamun",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "UNESCO World Heritage Site",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Umayyad Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "Umm Kulthum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Umm Ruman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Umm al-Khayr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "Umrah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "United Arab Emirates",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:04"
+  },
+  {
+    "subject": "United Nations",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "University of Basra",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:20"
+  },
+  {
+    "subject": "Uthman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:50"
+  },
+  {
+    "subject": "Vahan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Valley of the Kings",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Via Dolorosa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Victory of Victories",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:00"
+  },
+  {
+    "subject": "West Jerusalem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Western Desert",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "Western Wall",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Yad Vashem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:50"
+  },
+  {
+    "subject": "Yarmouk River",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Yarmouk River valley",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "Yazdegerd III",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "Zayd ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "Zoroastrianism",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:09"
+  },
+  {
+    "subject": "al-As ibn Wa'il",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "al-Baladhuri",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "al-Fatah al-Islami",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "al-Khattab ibn Nufayl",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:06"
+  },
+  {
+    "subject": "al-Mughira ibn Shu'ba",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:09"
+  },
+  {
+    "subject": "al-Nabigha",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "al-Qadisiyyah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "al-Tabari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "capture of Jerusalem",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:14:26"
+  },
+  {
+    "subject": "fall of Ctesiphon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:53"
+  },
+  {
+    "subject": "founding of Fustat",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "ful medames",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "koshari",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "molokhia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  },
+  {
+    "subject": "next to Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:13:01"
+  },
+  {
+    "subject": "religious tolerance in Egypt",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:12:59"
+  },
+  {
+    "subject": "steppe eagle",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 18:15:01"
+  }
+]

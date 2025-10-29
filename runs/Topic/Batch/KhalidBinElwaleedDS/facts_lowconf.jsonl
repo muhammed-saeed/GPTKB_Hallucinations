@@ -1,2 +1,0 @@
-{"subject": "KBW Ventures", "predicate": "typicalInvestmentSize", "object": "seven-figure USD", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
-{"subject": "KBW Ventures", "predicate": "exitStrategy", "object": "IPOs", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}

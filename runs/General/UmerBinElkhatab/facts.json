@@ -1,0 +1,6287 @@
+{
+  "accepted": [
+    {
+      "subject": "Abu Bakr",
+      "predicate": "ageAtDeath",
+      "object": "63",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "bornIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "bornYear",
+      "object": "573",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "burialArrangement",
+      "object": "appointed Umar as successor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "burialLocation",
+      "object": "Green Dome",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "burialPlace",
+      "object": "next to Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "buriedIn",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "caliphateEnd",
+      "object": "634",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "caliphateStart",
+      "object": "632",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "characterTrait",
+      "object": "generous",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "characterTrait",
+      "object": "pious",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "characterTrait",
+      "object": "truthful",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "clan",
+      "object": "Banu Taym",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "commanded",
+      "object": "Muslim conquests",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "companionDuring",
+      "object": "Migration to Medina",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "companionOf",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "established Islamic governance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "standardized Quranic text",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "deathCause",
+      "object": "illness",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "diedIn",
+      "object": "Medina",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "diedYear",
+      "object": "634",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "era",
+      "object": "Early Islamic period",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "era",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "father",
+      "object": "Abu Quhafa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fatherOf",
+      "object": "Abd al-Rahman",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fatherOf",
+      "object": "Abdullah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fatherOf",
+      "object": "Aisha",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fatherOf",
+      "object": "Asma",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fatherOf",
+      "object": "Umm Kulthum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "firstMaleConvert",
+      "object": "to Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "foughtIn",
+      "object": "Battle of Badr",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "foughtIn",
+      "object": "Battle of Uhud",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "foughtIn",
+      "object": "Battle of the Trench",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "freed",
+      "object": "Bilal ibn Rabah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "freed",
+      "object": "other slaves",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "fullName",
+      "object": "Abdullah ibn Abi Quhafa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "historicalSignificance",
+      "object": "consolidated Islamic state",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "historicalSignificance",
+      "object": "expanded Muslim territories",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "historicalSignificance",
+      "object": "first rightly guided caliph",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "instanceOf",
+      "object": "caliph",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "instanceOf",
+      "object": "companion of Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "instanceOf",
+      "object": "human",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "knownFor",
+      "object": "compilation of Quran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "knownFor",
+      "object": "preservation of Islamic state",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "led",
+      "object": "Ridda Wars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "mother",
+      "object": "Umm al-Khayr",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "occupation",
+      "object": "merchant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "participatedIn",
+      "object": "Hijra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "position",
+      "object": "First Caliph",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "predecessor",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "reignDuration",
+      "object": "2 years",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "successor",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "title",
+      "object": "As-Siddiq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "title",
+      "object": "The Truthful",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "tribe",
+      "object": "Quraysh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wife",
+      "object": "Asma bint Umais",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wife",
+      "object": "Habibah bint Kharijah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wife",
+      "object": "Qutaylah bint Abd al-Uzza",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "wife",
+      "object": "Umm Ruman",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "alsoKnownAs",
+      "object": "Babash",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "alsoKnownAs",
+      "object": "Firuzan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "assassinated",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "assassinationDate",
+      "object": "644",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "assassinationLocation",
+      "object": "Medina",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "assassinationMethod",
+      "object": "dagger",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "capturedIn",
+      "object": "Battle of Nahavand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "capturedYear",
+      "object": "642",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "country",
+      "object": "Sasanian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "deathCause",
+      "object": "killed after assassination",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "deathLocation",
+      "object": "Medina",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "died",
+      "object": "644",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "ethnicity",
+      "object": "Persian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "historicalContext",
+      "object": "Islamic conquest of Persia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "historicalPeriod",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "instanceOf",
+      "object": "Persian slave",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "instanceOf",
+      "object": "assassin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "instanceOf",
+      "object": "historical figure",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "legacy",
+      "object": "controversial figure in Islamic history",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "master",
+      "object": "al-Mughira ibn Shu'ba",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "mentionedIn",
+      "object": "Islamic historical sources",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "motive",
+      "object": "revenge for daughter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "occupation",
+      "object": "artisan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "occupation",
+      "object": "carpenter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "origin",
+      "object": "Nahavand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "religion",
+      "object": "Zoroastrianism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "significance",
+      "object": "assassin of second caliph",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "status",
+      "object": "slave",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "veneratedBy",
+      "object": "some Shia Muslims",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Lu'lu'a Firuz",
+      "predicate": "weaponUsed",
+      "object": "double-bladed dagger",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "UNESCOCriteria",
+      "object": "cultural",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "accessRestrictions",
+      "object": "age restrictions for Palestinians",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "adjacentTo",
+      "object": "Dome of the Rock",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "administratedBy",
+      "object": "Jordanian Ministry of Awqaf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "alsoKnownAs",
+      "object": "Al-Masjid al-Aqsa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "archaeologicalSignificance",
+      "object": "ancient artifacts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "architecturalFeatures",
+      "object": "arcades",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "architecturalFeatures",
+      "object": "columns",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "architecturalFeatures",
+      "object": "decorative mosaics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "architecturalFeatures",
+      "object": "marble floors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "architecturalStyle",
+      "object": "Islamic architecture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "associatedWith",
+      "object": "Night Journey of Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "capacity",
+      "object": "5000 worshippers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "commissionedBy",
+      "object": "Caliph al-Walid I",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "congregationalPrayer",
+      "object": "Friday prayer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "country",
+      "object": "Palestine",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "crusaderOccupation",
+      "object": "1099-1187",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "crusaderPeriod",
+      "object": "Templar headquarters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "culturalCenter",
+      "object": "Islamic culture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "designatedUNESCO",
+      "object": "1981",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "directionOfPrayer",
+      "object": "first qibla",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "domeColor",
+      "object": "lead gray",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "earthquakeDamage",
+      "object": "1033 CE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "earthquakeDamage",
+      "object": "746 CE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "educationalInstitution",
+      "object": "Islamic schools",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "fireDamage",
+      "object": "1969",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "historicalPeriod",
+      "object": "Islamic Golden Age",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "holiestSite",
+      "object": "third holiest site in Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "instanceOf",
+      "object": "mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "internationalRecognition",
+      "object": "Organization of Islamic Cooperation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "liberatedBy",
+      "object": "Saladin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "liberationYear",
+      "object": "1187",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "library",
+      "object": "Islamic manuscripts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "locatedIn",
+      "object": "Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "locatedOn",
+      "object": "Temple Mount",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "maintenance",
+      "object": "ongoing restoration",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "mentionedIn",
+      "object": "Quran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "minarets",
+      "object": "four minarets",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "originalBuilder",
+      "object": "Umayyad Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "originalConstruction",
+      "object": "705 CE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "partOf",
+      "object": "Al-Aqsa Mosque compound",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "pilgrimageSite",
+      "object": "Muslim pilgrims",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "politicalProtection",
+      "object": "Jordanian custodianship",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "politicalSignificance",
+      "object": "Israeli-Palestinian conflict",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "prayerRestrictions",
+      "object": "non-Muslim prayer prohibited",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "prayerTimes",
+      "object": "five daily prayers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "reconstructed",
+      "object": "1033 CE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "reconstructedBy",
+      "object": "Fatimid Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "religiousAuthority",
+      "object": "Grand Mufti of Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "religiousEvents",
+      "object": "Laylat al-Qadr",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "religiousEvents",
+      "object": "Ramadan prayers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "religiousLeadership",
+      "object": "Islamic Waqf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "religiousSignificance",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "restorationProjects",
+      "object": "multiple throughout history",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "security",
+      "object": "Israeli police",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "status",
+      "object": "UNESCO World Heritage Site",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "symbol",
+      "object": "Palestinian identity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Aqsa Mosque",
+      "predicate": "visitors",
+      "object": "millions annually",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "alsoKnownAs",
+      "object": "Al Farooq Omar Bin Al Khattab Mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "architecturalStyle",
+      "object": "Ottoman",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "capacity",
+      "object": "2000 worshippers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "completedIn",
+      "object": "2011",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "constructionMaterial",
+      "object": "marble",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "constructionMaterial",
+      "object": "stone",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "country",
+      "object": "United Arab Emirates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "decorativeElements",
+      "object": "calligraphy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "decorativeElements",
+      "object": "geometric patterns",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "features",
+      "object": "Islamic library",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "features",
+      "object": "Quran memorization classes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "function",
+      "object": "community center",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "function",
+      "object": "place of worship",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "hasDome",
+      "object": "central dome",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "hasMinaret",
+      "object": "four minarets",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "inspiredBy",
+      "object": "Blue Mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "instanceOf",
+      "object": "mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "locatedIn",
+      "object": "Dubai",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "location",
+      "object": "Al Safa area",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "managedBy",
+      "object": "Dubai Islamic Affairs and Charitable Activities Department",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "namedAfter",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "openTo",
+      "object": "non-Muslim visitors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "partOf",
+      "object": "Dubai's religious tourism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "purpose",
+      "object": "promote interfaith dialogue",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "religiousAffiliation",
+      "object": "Sunni Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "services",
+      "object": "Friday congregation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "services",
+      "object": "daily prayers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "significance",
+      "object": "cultural landmark",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "significance",
+      "object": "largest mosque in Dubai",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Farooq",
+      "predicate": "visitorAccess",
+      "object": "guided tours",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "clan",
+      "object": "Banu Adi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "contemporaryOf",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "diedBefore",
+      "object": "Islamic era",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "era",
+      "object": "pre-Islamic Arabia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "father",
+      "object": "Nufayl",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "instanceOf",
+      "object": "historical figure",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "knownFor",
+      "object": "father of Caliph Umar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "livedIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "occupation",
+      "object": "merchant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "opposed",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "son",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Khattab ibn Nufayl",
+      "predicate": "tribe",
+      "object": "Quraysh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "adjacentTo",
+      "object": "Jannat al-Baqi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "administration",
+      "object": "Presidency for the Affairs of the Two Holy Mosques",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "airConditioned",
+      "object": "modern feature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "alsoKnownAs",
+      "object": "The Prophet's Mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "architecturalStyle",
+      "object": "Islamic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "architecturalStyle",
+      "object": "Modern",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "architecturalStyle",
+      "object": "Ottoman",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "builtBy",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "builtIn",
+      "object": "622",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "burialPlace",
+      "object": "Abu Bakr",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "burialPlace",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "burialPlace",
+      "object": "Umar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "capacity",
+      "object": "over 1 million",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "contains",
+      "object": "Green Dome",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "contains",
+      "object": "Rawdah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "country",
+      "object": "Saudi Arabia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "currentMinarets",
+      "object": "10",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "currentSize",
+      "object": "over 400,000 square meters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "domeColor",
+      "object": "green",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "domeHeight",
+      "object": "green dome",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "electricity",
+      "object": "1951",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "escalators",
+      "object": "present",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "expandedBy",
+      "object": "Abdul Majid I",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "expandedBy",
+      "object": "Al-Walid I",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "expandedBy",
+      "object": "Fahd of Saudi Arabia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "expandedBy",
+      "object": "Mahmud II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "expandedBy",
+      "object": "Saud of Saudi Arabia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "expandedBy",
+      "object": "Umar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "expandedBy",
+      "object": "Uthman",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "firstExpansion",
+      "object": "639",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "firstMinarets",
+      "object": "4",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "governedBy",
+      "object": "Saudi Arabian government",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "instanceOf",
+      "object": "mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "library",
+      "object": "present",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "locatedIn",
+      "object": "Medina",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "majorExpansion",
+      "object": "1950s",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "majorExpansion",
+      "object": "1980s",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "majorExpansion",
+      "object": "2010s",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "mentionedIn",
+      "object": "Hadith",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "mentionedIn",
+      "object": "Quran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "minaretHeight",
+      "object": "105 meters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "minarets",
+      "object": "10",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "museum",
+      "object": "present",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "openAirCourtyard",
+      "object": "original design",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "originalSize",
+      "object": "30x35 meters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "parking",
+      "object": "underground",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "pilgrimageSite",
+      "object": "Hajj",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "pilgrimageSite",
+      "object": "Umrah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "prayerReward",
+      "object": "1000 times",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "retractableRoof",
+      "object": "modern feature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "secondHoliestSite",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "umbrellas",
+      "object": "courtyard",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "undergroundPrayerHall",
+      "object": "present",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Al-Masjid an-Nabawi",
+      "predicate": "visitedBy",
+      "object": "millions annually",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "bornIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "bornYear",
+      "object": "573",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "built",
+      "object": "Amr ibn al-As Mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "buriedIn",
+      "object": "Cairo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "captured",
+      "object": "Alexandria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "clan",
+      "object": "Banu Sahm",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "commanded",
+      "object": "Islamic army in Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "conquered",
+      "object": "Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "contemporaryOf",
+      "object": "Abu Bakr",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "contemporaryOf",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "contemporaryOf",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "contemporaryOf",
+      "object": "Uthman ibn Affan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "contributedTo",
+      "object": "Islamic jurisprudence",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "convertedToIslam",
+      "object": "629",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "defeated",
+      "object": "Byzantine Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "defended",
+      "object": "Egypt against Byzantine counterattacks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "developed",
+      "object": "Egyptian agriculture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "diedIn",
+      "object": "Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "diedYear",
+      "object": "664",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "era",
+      "object": "Early Islamic period",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "era",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "established",
+      "object": "first Islamic capital in Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "father",
+      "object": "al-As ibn Wa'il",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "foughtIn",
+      "object": "Battle of Ajnadayn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "foughtIn",
+      "object": "Battle of Heliopolis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "foughtIn",
+      "object": "Battle of Nikiou",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "foughtIn",
+      "object": "Battle of Yarmouk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "founded",
+      "object": "Fustat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "fromTribe",
+      "object": "Quraysh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "governorOf",
+      "object": "Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "implemented",
+      "object": "Islamic administration in Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "influenced",
+      "object": "Islamic expansion into Africa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "instanceOf",
+      "object": "Islamic scholar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "instanceOf",
+      "object": "companion of Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "instanceOf",
+      "object": "military commander",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "knownFor",
+      "object": "Islamic conquest of Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "knownFor",
+      "object": "founding of Fustat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "knownFor",
+      "object": "military strategy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "legacy",
+      "object": "Arabization of Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "legacy",
+      "object": "foundation of Islamic Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "maintained",
+      "object": "religious tolerance in Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "mother",
+      "object": "al-Nabigha",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "narrated",
+      "object": "Hadith",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "negotiated",
+      "object": "Treaty of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "predecessorAsGovernor",
+      "object": "Byzantine governor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "preserved",
+      "object": "Coptic Christian rights",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "rebuilt",
+      "object": "Alexandria after conquest",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "restored",
+      "object": "Nile irrigation systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "school",
+      "object": "Sunni Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "servedUnder",
+      "object": "Caliph Umar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "servedUnder",
+      "object": "Caliph Uthman",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "studentOf",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "successorAsGovernor",
+      "object": "Abdullah ibn Sa'd",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "title",
+      "object": "Conqueror of Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Amr ibn al-As",
+      "predicate": "title",
+      "object": "al-Fatah al-Islami",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "clanLeader",
+      "object": "al-Khattab ibn Nufayl",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "culturalContext",
+      "object": "Arabian tribal society",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "era",
+      "object": "6th century",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "era",
+      "object": "7th century",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "famousMember",
+      "object": "Fatimah bint al-Khattab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "famousMember",
+      "object": "Said ibn Zayd",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "famousMember",
+      "object": "Talha ibn Ubayd Allah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "famousMember",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "famousMember",
+      "object": "Zayd ibn al-Khattab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "geographicLocation",
+      "object": "Hijaz region",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "historicalPeriod",
+      "object": "early Islamic period",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "historicalPeriod",
+      "object": "pre-Islamic Arabia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "historicalSignificance",
+      "object": "early Islamic history",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "instanceOf",
+      "object": "Arab tribe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "knownFor",
+      "object": "early Islamic leadership",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "knownFor",
+      "object": "producing second caliph of Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "locatedIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "mentionedIn",
+      "object": "Islamic historical sources",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "mentionedIn",
+      "object": "hadith literature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "opposed",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "partOf",
+      "object": "Quraysh tribe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "participatedIn",
+      "object": "Battle of Badr",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "participatedIn",
+      "object": "Battle of Uhud",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "participatedIn",
+      "object": "Battle of the Trench",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "region",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "religiousContext",
+      "object": "early Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "religiousContext",
+      "object": "pre-Islamic polytheism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "role",
+      "object": "early converts to Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "supported",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Banu Adi",
+      "predicate": "tribalAffiliation",
+      "object": "Quraysh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "battleSite",
+      "object": "Battle of Basra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "capitalOf",
+      "object": "Basra Governorate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "climate",
+      "object": "desert",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "country",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "culturalSignificance",
+      "object": "Arab culture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "currency",
+      "object": "Iraqi dinar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "damagedIn",
+      "object": "Gulf War",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "damagedIn",
+      "object": "Iran-Iraq War",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "damagedIn",
+      "object": "Iraq War",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "economicCenter",
+      "object": "southern Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "educationalCenter",
+      "object": "southern Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "foundedBy",
+      "object": "Caliph Umar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "foundedIn",
+      "object": "636",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "governmentType",
+      "object": "provincial capital",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "healthcareFacilities",
+      "object": "Basra Teaching Hospital",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "historicalImportance",
+      "object": "Islamic Golden Age",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "historicalName",
+      "object": "Al-Basrah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "historicalRegion",
+      "object": "Lower Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "hosted",
+      "object": "2017 Gulf Cup of Nations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "instanceOf",
+      "object": "city",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "knownFor",
+      "object": "date palm cultivation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "literaryImportance",
+      "object": "Arabic literature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "locatedIn",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "locatedOn",
+      "object": "Shatt al-Arab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "majorEthnicGroup",
+      "object": "Arabs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "majorIndustry",
+      "object": "petrochemicals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "majorIndustry",
+      "object": "shipping",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "majorPort",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "majorSect",
+      "object": "Shia Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "majorStadium",
+      "object": "Basra International Stadium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "near",
+      "object": "Persian Gulf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "neighboringCountry",
+      "object": "Iran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "neighboringCountry",
+      "object": "Kuwait",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "officialLanguage",
+      "object": "Arabic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "oilIndustry",
+      "object": "major",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "population",
+      "object": "over 1 million",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "regionalImportance",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "secondLargestCity",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "sisterCity",
+      "object": "Aqaba",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "sisterCity",
+      "object": "Baku",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "sisterCity",
+      "object": "Istanbul",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "sisterCity",
+      "object": "Mashhad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "sports",
+      "object": "football",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "strategicImportance",
+      "object": "oil exports",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "summerTemperatures",
+      "object": "extremely hot",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "timeZone",
+      "object": "Arabia Standard Time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "transportationHub",
+      "object": "Basra International Airport",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "university",
+      "object": "University of Basra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Basra",
+      "predicate": "waterSource",
+      "object": "Tigris-Euphrates river system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "alsoKnownAs",
+      "object": "Victory of Victories",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "caliph",
+      "object": "Umar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "casualties",
+      "object": "heavy Sasanian losses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "combatants",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "combatants",
+      "object": "Sasanian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "commandedBy",
+      "object": "Mardanshah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "commandedBy",
+      "object": "Nu'man ibn Muqarrin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "country",
+      "object": "Iran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "date",
+      "object": "642",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "empire",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "empire",
+      "object": "Sasanian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "era",
+      "object": "Early Muslim conquests",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "followedBy",
+      "object": "consolidation of Muslim rule in Persia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "historicalPeriod",
+      "object": "Islamic Golden Age",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "historicalSignificance",
+      "object": "beginning of Islamic Persia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "historicalSignificance",
+      "object": "end of ancient Persian empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "instanceOf",
+      "object": "battle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "ledTo",
+      "object": "Islamic conquest of Persia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "ledTo",
+      "object": "collapse of Sasanian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "location",
+      "object": "Nahavand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "mentionedIn",
+      "object": "Islamic historical texts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "militaryCampaign",
+      "object": "Muslim expansion into Persia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "militaryTactics",
+      "object": "decisive field battle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "outcome",
+      "object": "Muslim territorial expansion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "partOf",
+      "object": "Muslim conquest of Persia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "precededBy",
+      "object": "Battle of al-Qadisiyyah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "region",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "result",
+      "object": "Rashidun victory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "significance",
+      "object": "decisive Muslim victory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Nahavand",
+      "predicate": "strategicImportance",
+      "object": "opened Persian heartland to Muslim forces",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "armySize",
+      "object": "Byzantine army approximately 100,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "armySize",
+      "object": "Muslim army approximately 25,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "caliph",
+      "object": "Umar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "casualties",
+      "object": "heavy Byzantine losses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "casualties",
+      "object": "moderate Muslim losses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "commander",
+      "object": "Abu Ubaidah ibn al-Jarrah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "commander",
+      "object": "Khalid ibn al-Walid",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "commander",
+      "object": "Theodore Trithyrius",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "commander",
+      "object": "Vahan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "duration",
+      "object": "six days",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "emperor",
+      "object": "Heraclius",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "followedBy",
+      "object": "capture of Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "foughtBetween",
+      "object": "Byzantine Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "foughtBetween",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "geographicFeature",
+      "object": "Golan Heights",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "geographicFeature",
+      "object": "Yarmouk River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "historicalPeriod",
+      "object": "Byzantine-Arab Wars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "historicalPeriod",
+      "object": "Early Muslim conquests",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "historicalSource",
+      "object": "al-Baladhuri",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "historicalSource",
+      "object": "al-Tabari",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "instanceOf",
+      "object": "battle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "legacy",
+      "object": "considered decisive in Islamic history",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "legacy",
+      "object": "established Muslim military reputation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "location",
+      "object": "Yarmouk River valley",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "militaryCampaign",
+      "object": "Muslim conquests",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "militaryUnits",
+      "object": "Byzantine army",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "militaryUnits",
+      "object": "Ghassanid allies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "militaryUnits",
+      "object": "Rashidun army",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "modernCountry",
+      "object": "Jordan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "modernCountry",
+      "object": "Syria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "occurredIn",
+      "object": "636",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "partOf",
+      "object": "Muslim conquest of the Levant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "precededBy",
+      "object": "Battle of Ajnadayn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "region",
+      "object": "Levant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "result",
+      "object": "decisive Muslim victory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "significance",
+      "object": "consolidated Muslim control of Syria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "significance",
+      "object": "weakened Byzantine position in the Levant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "strategicOutcome",
+      "object": "opened path to Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "strategicOutcome",
+      "object": "secured Muslim control of Syria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "tacticalFeature",
+      "object": "cavalry maneuvers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "tacticalFeature",
+      "object": "desert warfare",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "terrain",
+      "object": "plateau",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of Yarmouk",
+      "predicate": "terrain",
+      "object": "river valley",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "caliph",
+      "object": "Umar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "commander",
+      "object": "Rostam Farrokhzad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "commander",
+      "object": "Sa'd ibn Abi Waqqas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "country",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "date",
+      "object": "636",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "duration",
+      "object": "several days",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "followedBy",
+      "object": "Battle of Nahavand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "foughtBetween",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "foughtBetween",
+      "object": "Sasanian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "historicalPeriod",
+      "object": "Early Muslim conquests",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "instanceOf",
+      "object": "battle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "involved",
+      "object": "Arab Muslims",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "involved",
+      "object": "Persians",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "ledTo",
+      "object": "Muslim conquest of Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "ledTo",
+      "object": "fall of Ctesiphon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "location",
+      "object": "al-Qadisiyyah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "mentionedIn",
+      "object": "Islamic historiography",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "mentionedIn",
+      "object": "Shahnameh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "partOf",
+      "object": "Muslim conquest of Persia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "region",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "result",
+      "object": "Rashidun victory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "shah",
+      "object": "Yazdegerd III",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "significance",
+      "object": "decisive Muslim victory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "significance",
+      "object": "weakened Sasanian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Battle of al-Qadisiyyah",
+      "predicate": "strategicImportance",
+      "object": "opened Persian heartland to Muslim armies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "ancientCivilization",
+      "object": "Ancient Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "borders",
+      "object": "Gaza Strip",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "borders",
+      "object": "Israel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "borders",
+      "object": "Libya",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "borders",
+      "object": "Sudan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "callingCode",
+      "object": "+20",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "capital",
+      "object": "Cairo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "climate",
+      "object": "desert",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "continent",
+      "object": "Africa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "currency",
+      "object": "Egyptian pound",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "drivingSide",
+      "object": "right",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousFood",
+      "object": "ful medames",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousFood",
+      "object": "koshari",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousFood",
+      "object": "molokhia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousFor",
+      "object": "hieroglyphics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousFor",
+      "object": "mummies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousFor",
+      "object": "papyrus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousFor",
+      "object": "pharaohs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousFor",
+      "object": "pyramids",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousPerson",
+      "object": "Anwar Sadat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousPerson",
+      "object": "Gamal Abdel Nasser",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousPerson",
+      "object": "Hosni Mubarak",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousPerson",
+      "object": "Naguib Mahfouz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousPerson",
+      "object": "Umm Kulthum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousRuler",
+      "object": "Cleopatra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousRuler",
+      "object": "Ramses II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "famousRuler",
+      "object": "Tutankhamun",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "governmentType",
+      "object": "semi-presidential republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasCanal",
+      "object": "Suez Canal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasCity",
+      "object": "Alexandria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasCity",
+      "object": "Aswan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasCity",
+      "object": "Giza",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasCity",
+      "object": "Luxor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasDesert",
+      "object": "Eastern Desert",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasDesert",
+      "object": "Sahara Desert",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasDesert",
+      "object": "Western Desert",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasMonument",
+      "object": "Great Pyramid of Giza",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasMonument",
+      "object": "Sphinx",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasMonument",
+      "object": "Valley of the Kings",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasRiver",
+      "object": "Nile River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasSea",
+      "object": "Mediterranean Sea",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "hasSea",
+      "object": "Red Sea",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "historicalEvent",
+      "object": "Egyptian Revolution of 1952",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "historicalPeriod",
+      "object": "Middle Kingdom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "historicalPeriod",
+      "object": "New Kingdom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "historicalPeriod",
+      "object": "Old Kingdom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "independenceYear",
+      "object": "1922",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "instanceOf",
+      "object": "country",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "internetTLD",
+      "object": ".eg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "locatedIn",
+      "object": "North Africa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "majorIndustry",
+      "object": "agriculture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "majorIndustry",
+      "object": "petroleum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "majorIndustry",
+      "object": "textiles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "majorIndustry",
+      "object": "tourism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "memberOf",
+      "object": "African Union",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "memberOf",
+      "object": "Arab League",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "memberOf",
+      "object": "Organization of Islamic Cooperation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "memberOf",
+      "object": "United Nations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "nationalAnimal",
+      "object": "steppe eagle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "nationalFlower",
+      "object": "lotus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "officialLanguage",
+      "object": "Arabic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "population",
+      "object": "over 100 million",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "president",
+      "object": "Abdel Fattah el-Sisi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "religion",
+      "object": "Christianity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "republicDeclared",
+      "object": "1953",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "sport",
+      "object": "football",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Egypt",
+      "predicate": "timeZone",
+      "object": "Eastern European Time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "archaeologicalSite",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "contained",
+      "object": "Amr ibn al-As Mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "culturalHeritage",
+      "object": "Islamic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "destroyedBy",
+      "object": "fire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "destroyedIn",
+      "object": "1168",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "economicActivity",
+      "object": "textile production",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "economicActivity",
+      "object": "trade",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "establishedDuring",
+      "object": "Muslim conquest of Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "foundedBy",
+      "object": "Amr ibn al-As",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "foundedIn",
+      "object": "641",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "governedBy",
+      "object": "Abbasid Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "governedBy",
+      "object": "Fatimid Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "governedBy",
+      "object": "Umayyad Caliphate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "historicalImportance",
+      "object": "first Islamic capital of Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "historicalPeriod",
+      "object": "Islamic Golden Age",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "historicalRegion",
+      "object": "Lower Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "instanceOf",
+      "object": "historical city",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "knownFor",
+      "object": "early Islamic architecture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "locatedIn",
+      "object": "Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "locatedNear",
+      "object": "Nile River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "orderedDestructionBy",
+      "object": "Shawar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "partOf",
+      "object": "Old Cairo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "population",
+      "object": "mixed Arab and Coptic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "predecessorOf",
+      "object": "Cairo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "religiousSignificance",
+      "object": "early center of Islam in Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "replacedBy",
+      "object": "Cairo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "replacementYear",
+      "object": "969",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "toPreventCaptureBy",
+      "object": "Crusaders",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "wasCapitalOf",
+      "object": "Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Fustat",
+      "predicate": "wasMilitaryCamp",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "capitalOf",
+      "object": "Crusader Kingdom of Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "capitalOf",
+      "object": "Israel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "capitalOf",
+      "object": "Kingdom of Judah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "climate",
+      "object": "Mediterranean",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "conqueredBy",
+      "object": "British",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "conqueredBy",
+      "object": "Crusaders",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "conqueredBy",
+      "object": "King David",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "conqueredBy",
+      "object": "Muslims",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Al-Aqsa Mosque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Amphitheater",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Ben Gurion Airport",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Biblical Zoo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Bloomfield Stadium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Central Bus Station",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Church of the Holy Sepulchre",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "City of David",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Dome of the Rock",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Ein Kerem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Garden of Gethsemane",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Givat Ram",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Hadassah Medical Center",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Hebrew University of Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Independence Park",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "International Convention Center",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Israel Museum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Jerusalem Botanical Gardens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Jerusalem Light Rail",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Jerusalem Theater",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Knesset",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Mahane Yehuda Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Mea Shearim",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Montefiore Windmill",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Mount Herzl",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Mount Scopus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Mount Zion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Mount of Olives",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Old City",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Sacher Park",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Shaare Zedek Medical Center",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Supreme Court of Israel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Teddy Stadium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Temple Mount",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Tower of David",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Via Dolorosa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Western Wall",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "contains",
+      "object": "Yad Vashem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "continent",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "destroyedBy",
+      "object": "Babylonians",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "destroyedBy",
+      "object": "Romans",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "dividedInto",
+      "object": "East Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "dividedInto",
+      "object": "West Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "elevation",
+      "object": "754 meters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "foundedIn",
+      "object": "4th millennium BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "holyCityFor",
+      "object": "Christianity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "holyCityFor",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "holyCityFor",
+      "object": "Judaism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "instanceOf",
+      "object": "city",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "locatedIn",
+      "object": "Israel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "mayor",
+      "object": "Moshe Lion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "mentionedIn",
+      "object": "Bible",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "mentionedIn",
+      "object": "Quran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "officialLanguages",
+      "object": "Arabic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "officialLanguages",
+      "object": "Hebrew",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "population",
+      "object": "over 900,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "region",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Jerusalem",
+      "predicate": "unifiedIn",
+      "object": "1967",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "alsoKnownAs",
+      "object": "Umar I",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "alsoKnownAs",
+      "object": "Umar ibn al-Khattab",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "appointed",
+      "object": "Amr ibn al-As",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "appointed",
+      "object": "Khalid ibn al-Walid",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "appointed",
+      "object": "Sa'd ibn Abi Waqqas",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "assassinatedBy",
+      "object": "Abu Lu'lu'a Firuz",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "battle",
+      "object": "Battle of Nahavand",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "battle",
+      "object": "Battle of Yarmouk",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "battle",
+      "object": "Battle of al-Qadisiyyah",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "bornIn",
+      "object": "Mecca",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "bornYear",
+      "object": "584",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "built",
+      "object": "Al-Aqsa Mosque",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "buriedIn",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "caliphateEnd",
+      "object": "644",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "caliphateStart",
+      "object": "634",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "clan",
+      "object": "Banu Adi",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "companionOf",
+      "object": "Muhammad",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "conquered",
+      "object": "Egypt",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "conquered",
+      "object": "Levant",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "conquered",
+      "object": "Persian Empire",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "contemporaryOf",
+      "object": "Abu Bakr",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "convertedToIslam",
+      "object": "616",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "deathCause",
+      "object": "assassination",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "diedIn",
+      "object": "Medina",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "diedYear",
+      "object": "644",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "era",
+      "object": "Early Islamic period",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "era",
+      "object": "Rashidun Caliphate",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "established",
+      "object": "Bayt al-mal",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "established",
+      "object": "Islamic judicial system",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "established",
+      "object": "military districts",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "father",
+      "object": "Al-Khattab ibn Nufayl",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "founded",
+      "object": "Basra",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "founded",
+      "object": "Fustat",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "founded",
+      "object": "Kufa",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "influenced",
+      "object": "Islamic governance",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "influenced",
+      "object": "Islamic law",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "instanceOf",
+      "object": "caliph",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "instanceOf",
+      "object": "person",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "knownFor",
+      "object": "Islamic conquests",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "knownFor",
+      "object": "administrative reforms",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "knownFor",
+      "object": "establishing Islamic calendar",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "legacy",
+      "object": "Islamic state formation",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "legacy",
+      "object": "Rashidun Caliphate expansion",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "mentionedIn",
+      "object": "Hadith",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "mentionedIn",
+      "object": "Islamic historical texts",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "mother",
+      "object": "Hantama bint Hisham",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "precededBy",
+      "object": "Abu Bakr",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "reputation",
+      "object": "just ruler",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "reputation",
+      "object": "strict administrator",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "role",
+      "object": "Second Rashidun Caliph",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "succeededBy",
+      "object": "Uthman ibn Affan",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "title",
+      "object": "Al-Farooq",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "title",
+      "object": "Commander of the Faithful",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "tribe",
+      "object": "Quraysh",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "veneratedIn",
+      "object": "Sunni Islam",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Umer Bin Elkhatab",
+      "predicate": "visited",
+      "object": "Jerusalem",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

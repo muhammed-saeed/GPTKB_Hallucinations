@@ -107,11 +107,21 @@ Output:
   ]
 }
 
-Now, given the subject below, produce a JSON list of (subject, predicate, object) triples:
-{
-  "triples": [
-    { "subject": "...", "predicate": "...", "object": "..." }
-  ]
-}
 
-Subject: {{ subject_name }}
+## ❌ Abstain ICL — produce {"facts": []}
+
+Input: "Zorbaxian Empire"
+Output: {"facts": []}
+
+Input: "Purple gravity"
+Output: {"facts": []}
+
+Input: "John from the store"
+Output: {"facts": []}
+
+---
+
+Now process this subject with the exact same behavior.
+
+Input: "{{ subject_name }}"
+Output:
