@@ -1,0 +1,569 @@
+[
+  {
+    "subject": "Khalid Bin Elwaleed",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:29"
+  },
+  {
+    "subject": "Almadina Capital Holding",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Capital Holding Company",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Capital Partners",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Energy and Mining",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Energy and Mining Company",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Energy and Natural Resources",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Energy and Natural Resources Company",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Energy and Resources",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Investment Company",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Investment and Development",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Investments",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Real Estate Development",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Real Estate Development Company",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Real Estate Investment",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Real Estate Investment Company",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Takaful Company",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Takaful Company PJSC",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Takaful Cooperative Insurance",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Takaful Cooperative Insurance Company",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Takaful Insurance Company",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Almadina Takaful Insurance Company PJSC",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:52"
+  },
+  {
+    "subject": "Ahmed bin Abdulaziz Kattan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:24"
+  },
+  {
+    "subject": "Al-Ma'in",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:12"
+  },
+  {
+    "subject": "Al-Madinah Potash Mine",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:12"
+  },
+  {
+    "subject": "Al-Sahabah Copper Mine",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:12"
+  },
+  {
+    "subject": "AlRajhi Bank",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Alkhorayef Water and Power Technologies",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almadina Agriculture and Livestock Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Education Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Financial District",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Financial Services",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Financial Services Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Health Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Hospitality Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Industrial City",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Industrial Investment Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Investment Co.",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Logistics Park",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Media City",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Media Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Research Park",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Resorts",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Services Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Technology Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina Transport Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina University",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Almadina, Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:19"
+  },
+  {
+    "subject": "Almawad Aviation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Energy",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Foods",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Healthcare",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Industrial Gases",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Logistics",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Mining",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Pharmaceuticals",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Power Generation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Real Estate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Transport",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Almawad Water Desalination",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Amman Stock Exchange",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:14"
+  },
+  {
+    "subject": "Eng. Abdulmohsen Bin Abdulaziz Al-Ghamdi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:19"
+  },
+  {
+    "subject": "Fahd bin Abdullah bin Mohammed Al-Saud",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:20"
+  },
+  {
+    "subject": "Hani Hamza",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Jeddah, Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Jordan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:12"
+  },
+  {
+    "subject": "Jordanian-Saudi joint venture",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:12"
+  },
+  {
+    "subject": "Middle East",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:19"
+  },
+  {
+    "subject": "Mohammad Al-Abbadi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:14"
+  },
+  {
+    "subject": "Mohammed bin Abdullah Al-Sulaiman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:20"
+  },
+  {
+    "subject": "National Investment Fund",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:12"
+  },
+  {
+    "subject": "Petrobas",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:22"
+  },
+  {
+    "subject": "Riyadh",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:17"
+  },
+  {
+    "subject": "Riyadh, Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:20"
+  },
+  {
+    "subject": "Saudi Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:17"
+  },
+  {
+    "subject": "Saudi British Bank",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:30"
+  },
+  {
+    "subject": "Saudi Electricity Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Saudi Food Company",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Saudi Industrial Services",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:27"
+  },
+  {
+    "subject": "Saudi Stock Exchange (Tadawul)",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:24"
+  },
+  {
+    "subject": "Turki bin Abdullah Al-Malki",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:37:24"
+  }
+]

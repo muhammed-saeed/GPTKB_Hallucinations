@@ -1,5 +1,6 @@
+# settings.py
 from __future__ import annotations
-from typing import Dict, Optional
+from typing import Dict
 from pydantic import BaseModel
 from llm.config import ModelConfig
 
@@ -75,7 +76,7 @@ QUEUE_DDL = """
 CREATE TABLE IF NOT EXISTS queue(
   subject TEXT PRIMARY KEY,
   hop INT DEFAULT 0,
-  status TEXT DEFAULT 'pending', -- pending, working, done
+  status TEXT DEFAULT 'pending',
   retries INT DEFAULT 0,
   created_at DATETIME DEFAULT CURRENT_TIMESTAMP
 );
@@ -146,19 +147,18 @@ class Settings(BaseModel):
             },
         ),
         "gpt-5-nano": ModelConfig(
-    provider="openai",
-    model="gpt-5-nano",
-    api_key_env="OPENAI_API_KEY",
-    use_responses_api=True,  # optional (auto-detected by model name), kept for clarity
-    extra_inputs={
-        "reasoning": {"effort": "minimal"},   # "minimal" | "low" | "medium" | "high"
-        "text": {"verbosity": "low"},         # "low" | "medium" | "high"
-    },
-    max_tokens=2000,
-),
+            provider="openai",
+            model="gpt-5-nano",
+            api_key_env="OPENAI_API_KEY",
+            use_responses_api=True,
+            extra_inputs={
+                "reasoning": {"effort": "minimal"},
+                "text": {"verbosity": "low"},
+            },
+            max_tokens=2000,
+        ),
 
-
-        # -------- DeepSeek (OpenAI-compatible base_url; no schemas) --------
+        # -------- DeepSeek --------
         "deepseek": ModelConfig(
             provider="deepseek", model="deepseek-chat",
             api_key_env="DEEPSEEK_API_KEY",
@@ -172,7 +172,7 @@ class Settings(BaseModel):
             temperature=0.0, top_p=0.95, max_tokens=2000
         ),
 
-        # -------- Replicate --------
+        # -------- Replicate core LLMs --------
         "llama8b": ModelConfig(
             provider="replicate", model="meta/meta-llama-3.1-8b-instruct",
             api_key_env="REPLICATE_API_TOKEN",
@@ -204,56 +204,61 @@ class Settings(BaseModel):
             extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
         ),
 
-        # -------- Replicate (Gemini 2.5 Flash) --------
-"gemini-flash": ModelConfig(
-    provider="replicate",
-    model="google/gemini-2.5-flash",
-    api_key_env="REPLICATE_API_TOKEN",
-    temperature=0.2,        # a touch of temperature helps avoid empty
-    top_p=0.9,              # slightly less than 1.0
-    max_tokens=1024,
-    extra_inputs={
-        "prefer": "prompt",
-        "dynamic_thinking": False
-        # you can also try: "system_prompt": "Return only strict JSON; no prose."
-    },
-),
-
-
-
-        # -------- Replicate (Grok-4) --------
+        # -------- Replicate (Gemini / Grok / Claude) --------
+        "gemini-flash": ModelConfig(
+            provider="replicate",
+            model="google/gemini-2.5-flash",
+            api_key_env="REPLICATE_API_TOKEN",
+            temperature=0.2,
+            top_p=0.9,
+            max_tokens=1024,
+            extra_inputs={
+                "prefer": "prompt",
+                "dynamic_thinking": False
+            },
+        ),
         "grok4": ModelConfig(
-    provider="replicate",
-    model="xai/grok-4",
-    api_key_env="REPLICATE_API_TOKEN",
-    temperature=0.1,
-    top_p=1.0,
-    max_tokens=2048,
-    extra_inputs={
-        "presence_penalty": 0,
-        "frequency_penalty": 0,
-        "system_prompt": "You are a helpful assistant.",
-        "prompt_template": "",
-    },
-),
-
-
-        # -------- Replicate (Claude 3.5 Haiku) --------
+            provider="replicate",
+            model="xai/grok-4",
+            api_key_env="REPLICATE_API_TOKEN",
+            temperature=0.1,
+            top_p=1.0,
+            max_tokens=2048,
+            extra_inputs={
+                "presence_penalty": 0,
+                "frequency_penalty": 0,
+                "system_prompt": "You are a helpful assistant.",
+                "prompt_template": "",
+            },
+        ),
         "claude35h": ModelConfig(
-    provider="replicate",
-    model="anthropic/claude-3.5-haiku",
-    api_key_env="REPLICATE_API_TOKEN",
-    temperature=0.3,
-    top_p=0.9,
-    max_tokens=8192,
-    extra_inputs={
-        "system_prompt": "You are a concise and creative assistant.",
-        "prompt_template": "",
-    },
-),
+            provider="replicate",
+            model="anthropic/claude-3.5-haiku",
+            api_key_env="REPLICATE_API_TOKEN",
+            temperature=0.3,
+            top_p=0.9,
+            max_tokens=8192,
+            extra_inputs={
+                "system_prompt": "You are a concise and creative assistant.",
+                "prompt_template": "",
+            },
+        ),
+        "claude37s": ModelConfig(
+            provider="replicate",
+            model="anthropic/claude-3.7-sonnet",
+            api_key_env="REPLICATE_API_TOKEN",
+            temperature=0.2,
+            top_p=0.9,
+            max_tokens=8192,
+            extra_inputs={
+                "extended_thinking": False,
+                "max_image_resolution": 0.5,
+                "thinking_budget_tokens": 1024,
+                "system_prompt": "Return ONLY strict JSON; no prose; no fences.",
+            },
+        ),
 
-
-
+        # -------- Replicate (others) --------
         "gemma2b": ModelConfig(
             provider="replicate", model="google-deepmind/gemma-2b-it",
             api_key_env="REPLICATE_API_TOKEN",
@@ -272,7 +277,55 @@ class Settings(BaseModel):
             temperature=0.6, top_p=0.95, top_k=50, max_tokens=1024,
             extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
         ),
-        
+
+        # ------- Replicate (IBM Granite 3.3 8B Instruct) -------
+        "granite8b": ModelConfig(
+            provider="replicate",
+            model="ibm-granite/granite-3.3-8b-instruct",
+            api_key_env="REPLICATE_API_TOKEN",
+            temperature=0.6,
+            top_p=0.9,
+            top_k=50,
+            max_tokens=1024,
+            extra_inputs={
+                "presence_penalty": 0,
+                "frequency_penalty": 0,
+                "add_generation_prompt": True,
+                "stop": [],
+                "tools": [],
+                "chat_template_kwargs": {},
+                "documents": [],
+                "min_tokens": 0,
+                "system_prompt": "Return ONLY strict JSON that validates against the provided schema.",
+            },
+        ),
+
+        # ------- Replicate (OpenAI gpt-oss-20b) -------
+        "gpt-oss-20b": ModelConfig(
+            provider="replicate",
+            model="openai/gpt-oss-20b",
+            api_key_env="REPLICATE_API_TOKEN",
+            temperature=0.1,
+            top_p=1.0,
+            max_tokens=1024,
+            extra_inputs={
+                "presence_penalty": 0,
+                "frequency_penalty": 0,
+            },
+        ),
+
+        # ------- Replicate (Qwen 3-235B) -------
+        "qwen3-235b": ModelConfig(
+            provider="replicate",
+            model="qwen/qwen3-235b-a22b-instruct-2507",
+            api_key_env="REPLICATE_API_TOKEN",
+            temperature=0.3,
+            top_p=0.9,
+            max_tokens=1536,
+            extra_inputs={
+                "system_prompt": "Return ONLY strict JSON per schema; no prose; no fences."
+            },
+        ),
 
         # -------- Local via Unsloth (optional) --------
         "smollm2-1.7b": ModelConfig(

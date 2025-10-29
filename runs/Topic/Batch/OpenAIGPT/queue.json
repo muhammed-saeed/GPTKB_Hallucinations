@@ -1,0 +1,1514 @@
+[
+  {
+    "subject": "Game of Thrones",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:24:51"
+  },
+  {
+    "subject": "A Song of Ice and Fire",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Arya Stark",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Bran Stark",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Brienne of Tarth",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Cersei Lannister",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "D.B. Weiss",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Daenerys Targaryen",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "David Benioff",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Drogon",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Essos",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Gendry",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Golden Globe Award",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "HBO",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Hodor",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "House of the Dragon",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Jaime Lannister",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Jon Snow",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Jorah Mormont",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Melisandre",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Missandei",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Ned Stark",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Olenna Tyrell",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Petyr Baelish",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Primetime Emmy Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Ramsay Bolton",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Rhaegal",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Sandor Clegane",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Sansa Stark",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "The Knight of the Seven Kingdoms",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "The Long Night",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "The Tales of Dunk and Egg",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Theon Greyjoy",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Tyrion Lannister",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Varys",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Viserion",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Westeros",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "Ygritte",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:25:51"
+  },
+  {
+    "subject": "A Dream of Spring",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:28"
+  },
+  {
+    "subject": "Academy Awards",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Aerys II Targaryen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Alicent Hightower",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Amanda Peet",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:13"
+  },
+  {
+    "subject": "Asia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Asshai",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Astapor",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Band of Brothers",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Bantam Books",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:28"
+  },
+  {
+    "subject": "Barry",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Battle of Meereen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:44"
+  },
+  {
+    "subject": "Battle of the Bastards",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:44"
+  },
+  {
+    "subject": "Best Actor in a Motion Picture",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Best Actress in a Motion Picture",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Best Director",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Best Motion Picture",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Best Original Score",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Best Original Song",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Best Television Series",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Beverly Hills, California",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Braavos",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Brienne the Maid of Tarth",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:17"
+  },
+  {
+    "subject": "Canada",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Catelyn Stark",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "Chernobyl",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Chicago, Illinois",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:13"
+  },
+  {
+    "subject": "Columbia University",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "Confirmation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Daemon Targaryen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Daenerys's late husband Khal Drogo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:44"
+  },
+  {
+    "subject": "Destruction of King's Landing",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:44"
+  },
+  {
+    "subject": "Dothraki",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Dragons",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Dragonstone",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Eddard Stark",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "Emilia Clarke",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Emmy Awards",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Euphoria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Euron Greyjoy",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Europe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Fire & Blood",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Free Cities",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "George R. R. Martin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "Golden Globe Awards",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Golden Globe Awards Ceremony",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Gwendoline Christie",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:17"
+  },
+  {
+    "subject": "HBO Max",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Hollywood Foreign Press Association",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Hollywood Foreign Press Association members",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Hot Pie",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "House Baratheon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "House Greyjoy",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "House Lannister",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "House Stark",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "House Targaryen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "House Tarth",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:17"
+  },
+  {
+    "subject": "House Tyrell",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Hugo Award",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:13"
+  },
+  {
+    "subject": "Iron Throne",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "Isaac Hempstead Wright",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "Jaqen H'ghar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "Joanna Lannister",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "Joffrey Baratheon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "Khal Drogo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Khaleesi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "King Renly Baratheon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:17"
+  },
+  {
+    "subject": "King of the North",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "King's Landing",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Kings Landing",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "Kingsguard",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "Kingslayer",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "Kristian Nairn",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:32"
+  },
+  {
+    "subject": "Lady Stark",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:17"
+  },
+  {
+    "subject": "Latin America",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Leaving Neverland",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Lena Headey",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "Leonardo DiCaprio",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Lord of Storm's End",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Los Angeles",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "Lys",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Maisie Williams",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "Meera Reed",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "Meereen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Meryl Streep",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Mildred Pierce",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Mother of Dragons",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "My Dinner with Hervé",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Myrcella Baratheon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "Narrow Sea",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Nebula Award",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:28"
+  },
+  {
+    "subject": "New York City",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "Nicole Kidman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Nikolaj Coster-Waldau",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "Nymeria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "Oldtown",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Otto Hightower",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Pentos",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Podrick Payne",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:17"
+  },
+  {
+    "subject": "Primetime Emmy Award nominations",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Qarth",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Queen of Meereen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Queen of the Seven Kingdoms",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "Ramin Djawadi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Renly Baratheon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "Rhaella Targaryen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Rhaenyra Targaryen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Rickon Stark",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "Robb Stark",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "Robert Baratheon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "Ryan Condal",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "San Diego Comic-Con 2022",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Silicon Valley",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Slaver's Bay",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Sothoryos",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Stannis Baratheon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "Stephen King",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "Succession",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Syrio Forel",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "Targaryen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Targaryen dragon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:44"
+  },
+  {
+    "subject": "Targaryen family",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:44"
+  },
+  {
+    "subject": "Targaryen legacy",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:44"
+  },
+  {
+    "subject": "Tarth",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:17"
+  },
+  {
+    "subject": "The 25th Hour",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "The Jinx",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "The Kingslayer",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "The Lion of Lannister",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "The Lord of the Rings",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:28"
+  },
+  {
+    "subject": "The Normal Heart",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "The North",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "The Outsider",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "The Pacific",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "The Sopranos",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "The Vow",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "The Winds of Winter",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:28"
+  },
+  {
+    "subject": "The Wire",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "The Wizard of Lies",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Three-Eyed Raven",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "Tom Hanks",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "Tommen Baratheon",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:33"
+  },
+  {
+    "subject": "Troy",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:13"
+  },
+  {
+    "subject": "True Detective",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Tywin Lannister",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:40"
+  },
+  {
+    "subject": "United Kingdom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "United States",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "University of California, Berkeley",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "University of California, Los Angeles",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:13"
+  },
+  {
+    "subject": "Unsullied",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Valyria",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Valyrian people",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Viserys I Targaryen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:51"
+  },
+  {
+    "subject": "Viserys Targaryen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:36"
+  },
+  {
+    "subject": "Volantis",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "Walder Frey",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "Warner Bros. Discovery",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Warren Wilson College",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:13"
+  },
+  {
+    "subject": "Westworld",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:45"
+  },
+  {
+    "subject": "Winterfell",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "Writers Guild of America Award",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "Wylis",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:32"
+  },
+  {
+    "subject": "davidbenioff.com",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:20"
+  },
+  {
+    "subject": "goldenglobes.com",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:36"
+  },
+  {
+    "subject": "planet Earth",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:28:10"
+  },
+  {
+    "subject": "the Battle of Winterfell",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "the Brotherhood Without Banners",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "the Faceless Men",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "the Great War",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "the Iron Throne",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "the Kingsguard",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:17"
+  },
+  {
+    "subject": "the Lannisters",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "the Night King",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "the Night's Watch",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "the North",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "the Stark family",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:59"
+  },
+  {
+    "subject": "the War of the Five Kings",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "the White Walkers",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:26:25"
+  },
+  {
+    "subject": "three dragons",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:27:44"
+  }
+]

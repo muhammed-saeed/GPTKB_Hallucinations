@@ -1,0 +1,38 @@
+{"subject": "D.B. Weiss", "predicate": "notableWork", "object": "The Last of Us", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isRulerOf", "object": "Westeros", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isRelatedTo", "object": "House Greyjoy", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInConflictWith", "object": "House Stark", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Martell", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Greyjoy", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Stark", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Lannister", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Tully", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Arryn", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Martell", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Baratheon", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Greyjoy", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Stark", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Lannister", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Tully", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Arryn", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Martell", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Daenerys Targaryen", "predicate": "isInAllianceWith", "object": "House Baratheon", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Hodor", "predicate": "age", "object": "unknown", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "Oldtown", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "Dorne", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Shadow Lands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Iron Islands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Reach", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Stormlands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Vale", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The North", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Riverlands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Westerlands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Crownlands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Reach", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Stormlands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Vale", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The North", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Riverlands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Westerlands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Essos", "predicate": "isConnectedTo", "object": "The Crownlands", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}

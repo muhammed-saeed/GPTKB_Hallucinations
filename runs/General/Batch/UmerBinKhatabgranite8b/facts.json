@@ -1,0 +1,2102 @@
+{
+  "accepted": [
+    {
+      "subject": "Abdullah ibn Abbas",
+      "predicate": "knownFor",
+      "object": "Narrator of Hadith",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Abdullah ibn Abbas",
+      "predicate": "role",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "role",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "role",
+      "object": "First Caliph",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "role",
+      "object": "Caliph",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Ali ibn Abi Talib",
+      "predicate": "role",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "MuslimCommander",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "QurayshiLeader",
+      "object": "Abu Sufyan",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "casualties",
+      "object": "significant losses for Quraysh, fewer for Muslims",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "combatants",
+      "object": "Muslims and their allies vs. Quraysh",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "historicalImpact",
+      "object": "Boosted the morale of early Muslims",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "historicalImpact",
+      "object": "Led to treaty of Hudaybiyyah",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "historicalImpact",
+      "object": "Strengthened the early Muslim community",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "instanceOf",
+      "object": "battle",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "location",
+      "object": "Badr, near Mecca",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "mentionedIn",
+      "object": "Hadith collections",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "mentionedIn",
+      "object": "Quran",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "misconception",
+      "object": "Not a battle of extermination as commonly misunderstood",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "misconception",
+      "object": "Not a direct response to the assassination attempt on Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "misconception",
+      "object": "Not fought solely for water resources",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "misconception",
+      "object": "Not solely a Muslim victory due to divine intervention",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "numberOfMuslimCombatants",
+      "object": "313",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "numberOfQurayshiCombatants",
+      "object": "approximately 900",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "occurredOn",
+      "object": "13 March 624",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "outcome",
+      "object": "decisive Muslim victory",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Battle of Badr",
+      "predicate": "significance",
+      "object": "Marked a crucial turning point in Muhammad's struggle with the Meccan Quraysh",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "casualties",
+      "object": "Meccans: 22 killed, 53 wounded; Muslims: 70 killed, 22 wounded",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "commander",
+      "object": "Islamic Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "date",
+      "object": "2 March 625",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "instanceOf",
+      "object": "Battle",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "location",
+      "object": "Near Mount Uhud, Thani, Makkah Province, Saudi Arabia",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "opponent",
+      "object": "Meccan forces",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "result",
+      "object": "Indecisive Military Engagement",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "significance",
+      "object": "Marked the first instance of Muslim defensive warfare",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Battle of Uhud",
+      "predicate": "tactical_error",
+      "object": "Meccan army's overpursuit of fleeing Muslims",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Bilal ibn Rabah",
+      "predicate": "role",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Caliphate",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Hajj",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic Golden Age",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic architecture",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic art",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic calendar",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic calligraphy",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic education",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic empire",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic jurisprudence",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic law",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic literature",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic medicine",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic music",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic philosophy",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic science",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic state",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Islamic theology",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Sharia",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Shia Islam",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "associatedWith",
+      "object": "Sunni Islam",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "historicallyActiveIn",
+      "object": "7th century",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "historicallyActiveIn",
+      "object": "8th century",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "historicallyActiveIn",
+      "object": "9th century",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "historicallyLocatedIn",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "historicallyRelatedTo",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "instanceOf",
+      "object": "Political leader",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "succeededPosition",
+      "object": "Khaliifa Rashidun",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Caliph",
+      "predicate": "successorOf",
+      "object": "Sultan",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "activeIn",
+      "object": "7th century",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "founded",
+      "object": "Islamic tradition",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "instanceOf",
+      "object": "Human",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "mentionedIn",
+      "object": "Hadith collections",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "mentionedIn",
+      "object": "Seerah literature",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "occupation",
+      "object": "Diplomat",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "occupation",
+      "object": "Scholar",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "occupation",
+      "object": "Soldier",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "occupation",
+      "object": "Trader",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "origin",
+      "object": "Arab",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Companion of Prophet Muhammad",
+      "predicate": "relatedTo",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "cultural significance",
+      "object": "symbolizes the power and legitimacy of Muhammad as a prophet",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "date",
+      "object": "630",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "following event",
+      "object": "Battle of Hunayn",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "historical context",
+      "object": "end of the Meccan period of persecution",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "impact",
+      "object": "strengthened position of early Muslim community",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "instanceOf",
+      "object": "military campaign",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "location",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "method",
+      "object": "siege",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "opposition",
+      "object": "Meccan tribes",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "outcome",
+      "object": "Treaty of Hudaybiyyah",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "participant",
+      "object": "Islamic Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "preceding event",
+      "object": "Battle of the Trench",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "result",
+      "object": "Islamic dominance in Hejaz",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "significance",
+      "object": "establishment of Islamic control over Islam's holiest city",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Conquest of Mecca",
+      "predicate": "strategic importance",
+      "object": "control over the Hajj pilgrimage route",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "associatedWith",
+      "object": "Battle of Khaybar",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "associatedWith",
+      "object": "Battle of Uhud",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "associatedWith",
+      "object": "First Fitna",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "associatedWith",
+      "object": "Second Fitna",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "burialPlace",
+      "object": "Jannat al-Baqi",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "causeOfDeath",
+      "object": "wounds from riding a camel",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "child",
+      "object": "Hasan ibn Ali",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "child",
+      "object": "Husayn ibn Ali",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "diedIn",
+      "object": "Medina",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "instanceOf",
+      "object": "person",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "parent",
+      "object": "Abu Talib ibn Abd al-Muttalib",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "parent",
+      "object": "Fatima bint Asad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "significantEvent",
+      "object": "migration to Medina",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Fatima bint al-Khattab",
+      "predicate": "spouse",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "belief",
+      "object": "Allah as the only God",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "belief",
+      "object": "Muhammad as the last prophet",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic State",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic conservatism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic extremism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic feminism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic fundamentalism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic fundamentalist movements",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic legal schools",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic liberalism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic modernism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic pluralism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic political ideologies",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic radicalism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic reformism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic revivalism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic secularism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "division",
+      "object": "Islamic traditionalism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Islam",
+      "predicate": "followers",
+      "object": "1.8 billion",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "founder",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Islam",
+      "predicate": "holyBook",
+      "object": "Quran",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Islam",
+      "predicate": "instanceOf",
+      "object": "Religion",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Islam",
+      "predicate": "origin",
+      "object": "Mecca, Saudi Arabia",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Islam",
+      "predicate": "part",
+      "object": "Shia Islam",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Islam",
+      "predicate": "part",
+      "object": "Sunni Islam",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Islam",
+      "predicate": "practice",
+      "object": "Five Pillars",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Jafar ibn Abi Talib",
+      "predicate": "knownFor",
+      "object": "Martyr of Karbala",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Jafar ibn Abi Talib",
+      "predicate": "role",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Grand Mosque",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Hejaz Railway",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Hijaz region",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Jabal al-Nour",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Masjid al-Haram",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Mina",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Mina (location)",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Mount Arafat",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Muzdalifah",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Qibla",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Red Sea coast",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "associatedWith",
+      "object": "Zamzam Well",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "climate",
+      "object": "hot desert climate",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "contains",
+      "object": "Kaaba",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "elevation",
+      "object": "71 meters above sea level",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "founded",
+      "object": "circa 450 CE",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "founder",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "hosts",
+      "object": "Hajj",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "instanceOf",
+      "object": "city",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "isCapitalOf",
+      "object": "Makkah Province",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "locatedIn",
+      "object": "Saudi Arabia",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "population",
+      "object": "2,000,000 (2020)",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Mecca",
+      "predicate": "religiousSignificance",
+      "object": "Islam",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Medina",
+      "predicate": "founded",
+      "object": "2400 BC",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasArea",
+      "object": "1,000 km²",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasCulturalAspects",
+      "object": "important center for learning",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasCulturalAspects",
+      "object": "numerous historical sites",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasCulturalAspects",
+      "object": "rich Islamic heritage",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasCulturalAspects",
+      "object": "significant during Hajj",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasEconomicAspects",
+      "object": "important for pilgrimage tourism",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasEconomicAspects",
+      "object": "major commercial hub",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Ayyubid dynasty rule",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Battle of Hunayn",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Battle of Khaybar",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Conquest of Mecca",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Farewell Pilgrimage",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Ridda Wars",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Saudi capture",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Second Muslim civil war",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Treaty of Hudaybiyyah",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasHistoricalEvents",
+      "object": "Yamama', the first Muslim state capital",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasPopulation",
+      "object": "1,076,389 (2020)",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Medina",
+      "predicate": "hasReligiousImportanceFor",
+      "object": "Muslims",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "historicallySignificantFor",
+      "object": "Islam",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "homeTo",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Medina",
+      "predicate": "instanceOf",
+      "object": "city",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isHistoricallyLinkedTo",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "isPartOf",
+      "object": "Hejaz Region",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "knownAs",
+      "object": "The City of the Prophet",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Medina",
+      "predicate": "locatedIn",
+      "object": "Saudi Arabia",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "foundedBy",
+      "object": "Qus ibn Kilab",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadConflictWith",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadCulturalPractice",
+      "object": "idolatry",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadCulturalPractice",
+      "object": "polytheistic beliefs",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadCulturalPractice",
+      "object": "worship of Hubal",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadEconomicActivity",
+      "object": "Kaaba maintenance",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadEconomicActivity",
+      "object": "caravan trading",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadEconomicActivity",
+      "object": "commerce",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadEconomicActivity",
+      "object": "trade",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Battle of Badr",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Battle of Hunayn",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Battle of Khaybar",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Battle of Uhud",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Conquest of Mecca",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Demise of tribal structure",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Farewell Pilgrimage",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Treaty of Hudaybiyyah",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "Treaty of al-Hudaybiyyah",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadHistoricalEvent",
+      "object": "formation of Islamic State",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadInfluenceOn",
+      "object": "Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadSocialStructure",
+      "object": "clan system",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "hadSubgroups",
+      "object": "Banu Hashim and Banu Umayya",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "headquarteredIn",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "instanceOf",
+      "object": "Arab tribe",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Quraysh",
+      "predicate": "playedSignificantRoleIn",
+      "object": "Islam",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Salman al-Farsi",
+      "predicate": "knownFor",
+      "object": "Immigrant to Medina",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Salman al-Farsi",
+      "predicate": "role",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "role",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "role",
+      "object": "Second Caliph",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "associatedWith",
+      "object": "Battle of Badr",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "associatedWith",
+      "object": "Battle of Uhud",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "associatedWith",
+      "object": "Conquest of Mecca",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "associatedWith",
+      "object": "Rashidun Caliphate",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "associatedWith",
+      "object": "Tabuk Expedition",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "associatedWith",
+      "object": "Treaty of Hudaybiyyah",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "birthDate",
+      "object": "584",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "birthPlace",
+      "object": "Mecca",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "deathDate",
+      "object": "656",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "deathPlace",
+      "object": "Medina",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "ethnicity",
+      "object": "Quraysh",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "instanceOf",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "knownFor",
+      "object": "His role in early Islamic history",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "nationality",
+      "object": "Arab",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "occupation",
+      "object": "Merchant",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "spouse",
+      "object": "Fatima bint al-Khattab",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Umer Bin Khatab",
+      "predicate": "title",
+      "object": "Caliph",
+      "hop": 0,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "role",
+      "object": "Companion of Prophet Muhammad",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Uthman ibn Affan",
+      "predicate": "role",
+      "object": "Third Caliph",
+      "hop": 1,
+      "model": "ibm-granite/granite-3.3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    }
+  ],
+  "sink": []
+}

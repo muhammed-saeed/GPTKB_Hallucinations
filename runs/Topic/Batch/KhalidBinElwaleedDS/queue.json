@@ -1,0 +1,1675 @@
+[
+  {
+    "subject": "Khalid Bin Elwaleed",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:34:48"
+  },
+  {
+    "subject": "Beyond Meat",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "Bloomberg",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "BlueNalu",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "CNBC",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "Dubai",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "Forbes",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "Future Meat Technologies",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "Impossible Foods",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "JUST Inc",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "KBW Ventures",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "Memphis Meats",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "Shiok Meats",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "United Arab Emirates",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "University of New Haven",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "Wild Type",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "World Economic Forum",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:36:54"
+  },
+  {
+    "subject": "30 Under 30",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "30 Under 30 lists",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "A&W Canada",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "ADM",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Africa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Al Maktoum International Airport",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "America's Best Employers",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "American University in Dubai",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Andrew Ross Sorkin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Asia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Australia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "B.C. Forbes",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "BYND",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Bayut",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Becky Quick",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Beyond Beef",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Beyond Burger",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Beyond Chicken Tenders",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Beyond Meatballs",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Beyond Sausage",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Bloomberg BNA",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Barclays Indices",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Beta",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Billionaires Index",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Brief",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Businessweek",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Commodity Index",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Government",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Innovation Index",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Intelligence",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg L.P.",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Law",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Markets",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg New Energy Finance",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg News",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Philanthropies",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg PolarLake",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Professional Services",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Radio",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg SEF",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Television",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Terminal",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Terminal Mobile",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Tradebook",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bloomberg Vault",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Bluefin tuna",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Burger King",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Burj Al Arab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Burj Khalifa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "CNBC Arabia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "CNBC Asia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "CNBC Europe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "CNBC World",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "California",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Camel Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Canada",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Capitalist Tool",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Celebrity 100",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Charles Zegar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Chef José Andrés",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "China",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Closing Bell",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Coffee Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Consumer News and Business Channel",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Costco",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "David Faber",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Deira City Centre",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Disney Parks",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Dubai Airshow",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Creek",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Emirate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Fountain",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Frame",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai International Airport",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai International Financial Centre",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Internet City",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Mall",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Marina",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Media City",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Metro",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Parks and Resorts",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Shopping Festival",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai Summer Surprises",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubai World Cup",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Dubizzle",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Duncan MacMillan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Eat Just",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "El Segundo, California",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Emerald Technology Ventures",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Englewood Cliffs, New Jersey",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Ethan Brown",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Etihad Museum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Europe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "European Union",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "FDA",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "FDA investigation",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Facebook",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Fast Money",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Finless Foods",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "First in Business Worldwide",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Forbes 400",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Advisor",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Asia",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Business Council",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Digital",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Europe",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Magazine",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Media",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Technology Council",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes Wheels",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes family",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Forbes.com",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Founders Fund",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "GITEX Technology Week",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Gardein",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Global 2000",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Google Ventures",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Hampton Creek",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Hong Kong",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Horizons Ventures",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "IMG Worlds of Adventure",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Ibn Battuta Mall",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Impossible Burger",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Impossible Chicken Nuggets",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Impossible Pork",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Impossible Sausage",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Integrated Whale Media Investments",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Israel",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "JUST Cookie Dough",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "JUST Egg",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "JUST Mayo",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "JUST Ranch",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Jebel Ali Free Zone",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Jersey City, New Jersey",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Jim Cramer",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Joe Kernen",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Josh Tetrick",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Jumeirah Beach",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "KFC",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Khalil Ben Wafaa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Khosla Ventures",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Kleiner Perkins",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Kroger",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Little Caesars",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Lou Cooperhouse",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "MENA region",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Macau",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Mad Money",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Mahi-mahi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Mall of the Emirates",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Manta Ray Ventures",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "McDonald's",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Michael Bloomberg",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Middle East",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Mohammed bin Rashid Al Maktoum",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Momofuku Nishi",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "MorningStar Farms",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Museum of the Future",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "NASDAQ",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "NBCUniversal",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "NBCUniversal News Group",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "New York City",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "New York City metropolitan area",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "New Zealand",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Nicole Johnson-Hoffman",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "North Africa",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Palm Jumeirah",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Patrick O. Brown",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Persian Gulf",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Pizza Hut",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Port Rashid",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Port of Jebel Ali",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Power Lunch",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Property Finder",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Qdoba",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Quorn",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Red Robin",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Red snapper",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Redwood City, California",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Rehovot",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Restaurant Associates",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "S2G Ventures",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Safeway",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "San Diego, California",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "San Francisco",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Singapore",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Singapore Food Agency",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Ski Dubai",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Squawk Box",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Starbucks",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Steve Forbes",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Subway",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Taco Bell",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Target",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Temasek Holdings",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Thomas Secunda",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "Trader Joe's",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Twitter",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Tyson Foods",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "UBS",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "USDA",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "United Kingdom",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "United States",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "University of Dubai",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "Upside Foods",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Wall Street",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Walmart",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "White Castle",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Whole Foods",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:06"
+  },
+  {
+    "subject": "Whole Foods Market",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Wildtype",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "World's Billionaires",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "World's Billionaires list",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "World's Most Powerful People",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "Yaakov Nahmias",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Yellowtail amberjack",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "Zayed University",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:08"
+  },
+  {
+    "subject": "bloomberg.com",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:58"
+  },
+  {
+    "subject": "cnbc.com",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:38:56"
+  },
+  {
+    "subject": "forbes.com",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  },
+  {
+    "subject": "kbwventures.com",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 06:39:05"
+  }
+]

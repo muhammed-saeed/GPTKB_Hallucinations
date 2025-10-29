@@ -1,0 +1,422 @@
+{"subject": "Game of Thrones", "predicate": "instanceOf", "object": "Television series", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "createdBy", "object": "David Benioff", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "createdBy", "object": "D.B. Weiss", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "basedOn", "object": "A Song of Ice and Fire", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "author", "object": "George R.R. Martin", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "premiered", "object": "2011-04-17", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "ended", "object": "2019-05-19", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "numberOfSeasons", "object": "8", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "numberOfEpisodes", "object": "73", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "originalNetwork", "object": "HBO", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "genre", "object": "Fantasy", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "genre", "object": "Drama", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "setting", "object": "Westeros", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "setting", "object": "Essos", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "mainCharacter", "object": "Jon Snow", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "mainCharacter", "object": "Daenerys Targaryen", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "mainCharacter", "object": "Tyrion Lannister", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "mainCharacter", "object": "Arya Stark", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "mainCharacter", "object": "Sansa Stark", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "mainCharacter", "object": "Cersei Lannister", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "mainCharacter", "object": "Jaime Lannister", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "language", "object": "English", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "countryOfOrigin", "object": "United States", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Northern Ireland", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Croatia", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Iceland", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Spain", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Malta", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Morocco", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "composer", "object": "Ramin Djawadi", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "themeMusic", "object": "Game of Thrones Main Title", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "firstEpisode", "object": "Winter Is Coming", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "finalEpisode", "object": "The Iron Throne", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "hasSpinOff", "object": "House of the Dragon", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "hasSpinOff", "object": "Tales of Dunk and Egg", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Game of Thrones", "predicate": "hasSpinOff", "object": "The Sea Snake", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Game of Thrones", "predicate": "hasSpinOff", "object": "Ten Thousand Ships", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Game of Thrones", "predicate": "hasSpinOff", "object": "The Hedge Knight", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Game of Thrones", "predicate": "award", "object": "Primetime Emmy Award for Outstanding Drama Series", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "award", "object": "Golden Globe Award for Best Television Series - Drama", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "award", "object": "Hugo Award for Best Dramatic Presentation", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "productionCompany", "object": "HBO Entertainment", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "productionCompany", "object": "Television 360", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "productionCompany", "object": "Grok! Studio", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "productionCompany", "object": "Generator Entertainment", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "distributor", "object": "Warner Bros. Television Distribution", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Game of Thrones", "predicate": "originalRelease", "object": "2011-04-17 to 2019-05-19", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "instanceOf", "object": "Fantasy novel series", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "author", "object": "George R. R. Martin", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "firstPublished", "object": "1996", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "numberOfBooks", "object": "5", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "firstBook", "object": "A Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "secondBook", "object": "A Clash of Kings", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "thirdBook", "object": "A Storm of Swords", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "fourthBook", "object": "A Feast for Crows", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "fifthBook", "object": "A Dance with Dragons", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "plannedBooks", "object": "7", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "A Song of Ice and Fire", "predicate": "nextBook", "object": "The Winds of Winter", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "A Song of Ice and Fire", "predicate": "finalBook", "object": "A Dream of Spring", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "A Song of Ice and Fire", "predicate": "publisher", "object": "Bantam Books", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "genre", "object": "Epic fantasy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "setting", "object": "Westeros", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "setting", "object": "Essos", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainTheme", "object": "Political intrigue", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "A Song of Ice and Fire", "predicate": "mainTheme", "object": "War", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "A Song of Ice and Fire", "predicate": "mainTheme", "object": "Power", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "A Song of Ice and Fire", "predicate": "mainTheme", "object": "Honor", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "A Song of Ice and Fire", "predicate": "narrativeStyle", "object": "Third-person limited", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "pointOfViewCharacters", "object": "Multiple", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "inspiredBy", "object": "Wars of the Roses", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "A Song of Ice and Fire", "predicate": "inspiredBy", "object": "European history", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "A Song of Ice and Fire", "predicate": "adaptation", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "adaptationType", "object": "Television series", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "adaptationNetwork", "object": "HBO", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "adaptationPremiere", "object": "2011", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "languages", "object": "English", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "translatedLanguages", "object": "Over 45", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "A Song of Ice and Fire", "predicate": "copiesSold", "object": "Over 90 million", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "A Song of Ice and Fire", "predicate": "awards", "object": "Hugo Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "A Song of Ice and Fire", "predicate": "awards", "object": "Nebula Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "A Song of Ice and Fire", "predicate": "awards", "object": "Locus Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Targaryen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Baratheon", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Greyjoy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Tyrell", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Martell", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Arryn", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainHouses", "object": "Tully", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainCharacters", "object": "Eddard Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "A Song of Ice and Fire", "predicate": "mainCharacters", "object": "Catelyn Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "instanceOf", "object": "fictional character", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "createdBy", "object": "George R.R. Martin", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "appearsIn", "object": "A Song of Ice and Fire", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "appearsIn", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "bornIn", "object": "Winterfell", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Arya Stark", "predicate": "bornInYear", "object": "289 AC", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Arya Stark", "predicate": "daughterOf", "object": "Eddard Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "daughterOf", "object": "Catelyn Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "sisterOf", "object": "Robb Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "sisterOf", "object": "Sansa Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "sisterOf", "object": "Bran Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "sisterOf", "object": "Rickon Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "half-brotherOf", "object": "Jon Snow", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Arya Stark", "predicate": "hasPet", "object": "Nymeria", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "trainedBy", "object": "Syrio Forel", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "trainedBy", "object": "Jaqen H'ghar", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "trainedBy", "object": "The Faceless Men", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "memberOf", "object": "House Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "memberOf", "object": "The Faceless Men", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Arya Stark", "predicate": "traveledTo", "object": "King's Landing", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "traveledTo", "object": "Braavos", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "traveledTo", "object": "Harrenhal", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "traveledTo", "object": "The Twins", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "wieldsWeapon", "object": "Needle", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "giftedBy", "object": "Jon Snow", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "Arry", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "Weasel", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "Nymeria", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "Salty", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "Cat of the Canals", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "Beth", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "Mercedene", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "The Blind Girl", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasAlias", "object": "No One", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "traveledWith", "object": "Yoren", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "traveledWith", "object": "Gendry", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "traveledWith", "object": "Hot Pie", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "traveledWith", "object": "The Hound", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "witnessedDeathOf", "object": "Eddard Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "witnessedDeathOf", "object": "Catelyn Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Arya Stark", "predicate": "witnessedDeathOf", "object": "Robb Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Arya Stark", "predicate": "hasKilled", "object": "The Waif", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasKilled", "object": "Meryn Trant", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasKilled", "object": "Walder Frey", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasKilled", "object": "Polliver", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasKilled", "object": "Raff the Sweetling", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Arya Stark", "predicate": "hasKilled", "object": "The Night King", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "instanceOf", "object": "fictional character", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "instanceOf", "object": "human", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "createdBy", "object": "George R.R. Martin", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "appearsIn", "object": "A Song of Ice and Fire", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "appearsIn", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cannister Lannister", "predicate": "portrayedBy", "object": "Lena Headey", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "memberOf", "object": "House Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "daughterOf", "object": "Tywin Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "daughterOf", "object": "Joanna Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "siblingOf", "object": "Jaime Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "siblingOf", "object": "Tyrion Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "twinOf", "object": "Jaime Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "spouseOf", "object": "Robert Baratheon", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "motherOf", "object": "Joffrey Baratheon", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "motherOf", "object": "Myrcella Baratheon", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "motherOf", "object": "Tommen Baratheon", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "loverOf", "object": "Jaime Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "loverOf", "object": "Lancel Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Cersei Lannister", "predicate": "loverOf", "object": "Taena Merryweather", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Cersei Lannister", "predicate": "loverOf", "object": "Euron Greyjoy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Cersei Lannister", "predicate": "bornIn", "object": "Casterly Rock", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "bornInYear", "object": "266 AC", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Cersei Lannister", "predicate": "diedIn", "object": "Red Keep", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "diedInYear", "object": "305 AC", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Cersei Lannister", "predicate": "causeOfDeath", "object": "crushed by rubble", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "hairColor", "object": "blonde", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "eyeColor", "object": "green", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "title", "object": "Queen of the Seven Kingdoms", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "title", "object": "Queen Regent", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "title", "object": "Lady of Casterly Rock", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "title", "object": "Protector of the Realm", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "title", "object": "Queen Mother", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "residesIn", "object": "King's Landing", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "residesIn", "object": "Red Keep", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "allegiance", "object": "House Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "allegiance", "object": "Iron Throne", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "enemyOf", "object": "House Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "enemyOf", "object": "House Tyrell", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "enemyOf", "object": "House Martell", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "enemyOf", "object": "Daenerys Targaryen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "enemyOf", "object": "Tyrion Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "enemyOf", "object": "High Sparrow", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Cersei Lannister", "predicate": "orderedDeathOf", "object": "Robert Baratheon", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Cersei Lannister", "predicate": "orderedDeathOf", "object": "Ned Stark", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "instanceOf", "object": "country", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "locatedIn", "object": "Europe", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "capital", "object": "Zagreb", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "officialLanguage", "object": "Croatian", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "population", "object": "3871833", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "area", "object": "56594", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "currency", "object": "Euro", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "governmentType", "object": "parliamentary republic", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "headOfState", "object": "President", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "headOfGovernment", "object": "Prime Minister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "independenceFrom", "object": "Yugoslavia", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "independenceDate", "object": "1991-06-25", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "euAccessionDate", "object": "2013-07-01", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "natoAccessionDate", "object": "2009-04-01", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "borders", "object": "Slovenia", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "borders", "object": "Hungary", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "borders", "object": "Serbia", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "borders", "object": "Bosnia and Herzegovina", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "borders", "object": "Montenegro", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "coastline", "object": "Adriatic Sea", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "timeZone", "object": "CET", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "callingCode", "object": "+385", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "internetTLD", "object": ".hr", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "drivingSide", "object": "right", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "highestPoint", "object": "Dinara", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "longestRiver", "object": "Sava", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "largestLake", "object": "Vrana", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "nationalAnimal", "object": "Marten", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Croatia", "predicate": "nationalFlower", "object": "Iris croatica", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Croatia", "predicate": "famousFor", "object": "Dalmatian Coast", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "famousFor", "object": "Plitvice Lakes", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "famousFor", "object": "Dubrovnik", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "famousFor", "object": "Game of Thrones filming locations", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "unescoWorldHeritageSites", "object": "9", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "majorReligion", "object": "Roman Catholicism", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "gdpPerCapita", "object": "17000", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Croatia", "predicate": "hdi", "object": "0.858", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Croatia", "predicate": "lifeExpectancy", "object": "78", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Croatia", "predicate": "literacyRate", "object": "99.3", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Croatia", "predicate": "climate", "object": "Mediterranean", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "climate", "object": "Continental", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "administrativeDivisions", "object": "20 counties", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "largestCity", "object": "Zagreb", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Croatia", "predicate": "secondLargestCity", "object": "Split", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "thirdLargestCity", "object": "Rijeka", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "nationalDay", "object": "Statehood Day", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "nationalDayDate", "object": "June 25", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Croatia", "predicate": "nationalAnthem", "object": "Lijepa naša domovino", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Croatia", "predicate": "famousInventor", "object": "Nikola Tesla", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "instanceOf", "object": "Human", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "D.B. Weiss", "predicate": "instanceOf", "object": "American", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "instanceOf", "object": "Screenwriter", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "instanceOf", "object": "Television Producer", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "instanceOf", "object": "Director", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "givenName", "object": "Daniel", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "familyName", "object": "Weiss", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "birthDate", "object": "1971-04-23", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "birthPlace", "object": "Chicago", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "birthPlace", "object": "Illinois", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "birthPlace", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "almaMater", "object": "Wesleyan University", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "almaMater", "object": "Trinity College Dublin", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "almaMater", "object": "University of Iowa", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "occupation", "object": "Screenwriter", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "occupation", "object": "Television Producer", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "occupation", "object": "Director", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "occupation", "object": "Novelist", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "D.B. Weiss", "predicate": "knownFor", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "D.B. Weiss", "predicate": "collaborator", "object": "David Benioff", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "D.B. Weiss", "predicate": "creator", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "executiveProducer", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "writer", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "director", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "showrunner", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "basedOn", "object": "A Song of Ice and Fire", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "D.B. Weiss", "predicate": "author", "object": "Lucky Wander Boy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "award", "object": "Primetime Emmy Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "award", "object": "Hugo Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "award", "object": "Writers Guild of America Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "award", "object": "Producers Guild of America Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "nomination", "object": "Golden Globe Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "nomination", "object": "Directors Guild of America Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "D.B. Weiss", "predicate": "spouse", "object": "Andrea Troyer", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "marriedDate", "object": "2006", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "D.B. Weiss", "predicate": "child", "object": "2", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "D.B. Weiss", "predicate": "residence", "object": "California", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "D.B. Weiss", "predicate": "residence", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "D.B. Weiss", "predicate": "ethnicity", "object": "Jewish", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "D.B. Weiss", "predicate": "religion", "object": "Judaism", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "D.B. Weiss", "predicate": "education", "object": "Bachelor of Arts", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "education", "object": "Master of Fine Arts", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "field", "object": "Creative Writing", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "field", "object": "Film Studies", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "D.B. Weiss", "predicate": "employer", "object": "HBO", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "D.B. Weiss", "predicate": "workPeriod", "object": "2003-present", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "D.B. Weiss", "predicate": "notableWork", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "D.B. Weiss", "predicate": "notableWork", "object": "Lucky Wander Boy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Daenerys Targaryen", "predicate": "instanceOf", "object": "fictional character", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Daenerys Targaryen", "predicate": "instanceOf", "object": "human", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "Queen of Meereen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "Khaleesi of the Dothraki", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "Breaker of Chains", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "Mother of Dragons", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "The Unburnt", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "Queen of the Andals and the First Men", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "Protector of the Seven Kingdoms", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "Lady of Dragonstone", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasTitle", "object": "Queen of the Seven Kingdoms", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Daenerys Targaryen", "predicate": "hasAlias", "object": "Dany", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasAlias", "object": "Daenerys Stormborn", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "bornIn", "object": "Dragonstone", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "bornDuring", "object": "Robert's Rebellion", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasFather", "object": "Aerys II Targaryen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasMother", "object": "Rhaella Targaryen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasSibling", "object": "Rhaegar Targaryen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasSibling", "object": "Viserys Targaryen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasSpouse", "object": "Khal Drogo", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasSpouse", "object": "Hizdahr zo Loraq", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasHairColor", "object": "silver-blonde", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasEyeColor", "object": "violet", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasHouse", "object": "House Targaryen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasDragon", "object": "Drogon", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasDragon", "object": "Rhaegal", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasDragon", "object": "Viserion", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasAdvisor", "object": "Jorah Mormont", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasAdvisor", "object": "Tyrion Lannister", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasAdvisor", "object": "Missandei", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasAdvisor", "object": "Grey Worm", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasAdvisor", "object": "Varys", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasAdvisor", "object": "Barristan Selmy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasAdvisor", "object": "Daario Naharis", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasArmy", "object": "Unsullied", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasArmy", "object": "Dothraki", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "hasArmy", "object": "Second Sons", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "conquered", "object": "Astapor", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "conquered", "object": "Yunkai", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "conquered", "object": "Meereen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "freedSlavesIn", "object": "Astapor", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "freedSlavesIn", "object": "Yunkai", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Daenerys Targaryen", "predicate": "freedSlavesIn", "object": "Meereen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "instanceOf", "object": "Human", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "David Benioff", "predicate": "instanceOf", "object": "American", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "instanceOf", "object": "Screenwriter", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "instanceOf", "object": "Television Producer", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "instanceOf", "object": "Novelist", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "givenName", "object": "David", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "David Benioff", "predicate": "familyName", "object": "Benioff", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "David Benioff", "predicate": "birthDate", "object": "1970-09-25", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "birthPlace", "object": "New York City", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "birthPlace", "object": "New York", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "birthPlace", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "almaMater", "object": "Dartmouth College", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "almaMater", "object": "University of California, Irvine", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "almaMater", "object": "Trinity College Dublin", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "occupation", "object": "Screenwriter", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "occupation", "object": "Television Producer", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "occupation", "object": "Novelist", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "knownFor", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "David Benioff", "predicate": "creator", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "executiveProducer", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "showrunner", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "writer", "object": "Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "collaborator", "object": "D.B. Weiss", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "screenwriter", "object": "Troy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "screenwriter", "object": "The Kite Runner", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "screenwriter", "object": "X-Men Origins: Wolverine", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "screenwriter", "object": "Brothers", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "screenwriter", "object": "Stay", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "David Benioff", "predicate": "screenwriter", "object": "25th Hour", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "author", "object": "The 25th Hour", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "author", "object": "City of Thieves", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "author", "object": "When the Nines Roll Over", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "spouse", "object": "Amanda Peet", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "marriedTo", "object": "Amanda Peet", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "marriageDate", "object": "2006-09-30", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "child", "object": "Frances Pen Benioff", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "child", "object": "Molly June Benioff", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "David Benioff", "predicate": "child", "object": "Henry Benioff", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "David Benioff", "predicate": "nationality", "object": "American", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "David Benioff", "predicate": "ethnicity", "object": "Jewish", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "religion", "object": "Judaism", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "David Benioff", "predicate": "education", "object": "Bachelor of Arts", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "education", "object": "Master of Fine Arts", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "degree", "object": "English", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "degree", "object": "Creative Writing", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "award", "object": "Primetime Emmy Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "David Benioff", "predicate": "award", "object": "Hugo Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "David Benioff", "predicate": "award", "object": "Writers Guild of America Award", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Essos", "predicate": "instanceOf", "object": "Continent", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.99}
+{"subject": "Essos", "predicate": "locatedIn", "object": "World of Game of Thrones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.99}
+{"subject": "Essos", "predicate": "eastOf", "object": "Westeros", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.99}
+{"subject": "Essos", "predicate": "separatedFrom", "object": "Westeros by the Narrow Sea", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Free Cities", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Slaver's Bay", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Dothraki Sea", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Valyrian Peninsula", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.97}
+{"subject": "Essos", "predicate": "contains", "object": "Qarth", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.97}
+{"subject": "Essos", "predicate": "contains", "object": "Asshai", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.96}
+{"subject": "Essos", "predicate": "contains", "object": "Yi Ti", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.96}
+{"subject": "Essos", "predicate": "contains", "object": "Lhazar", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Essos", "predicate": "contains", "object": "Red Waste", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Essos", "predicate": "contains", "object": "Vaes Dothrak", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Essos", "predicate": "contains", "object": "Braavos", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Pentos", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Volantis", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Myr", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.97}
+{"subject": "Essos", "predicate": "contains", "object": "Lys", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.97}
+{"subject": "Essos", "predicate": "contains", "object": "Tyrosh", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.97}
+{"subject": "Essos", "predicate": "contains", "object": "Norvos", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.96}
+{"subject": "Essos", "predicate": "contains", "object": "Qohor", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.96}
+{"subject": "Essos", "predicate": "contains", "object": "Lorath", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Essos", "predicate": "contains", "object": "Astapor", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Yunkai", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Meereen", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Essos", "predicate": "contains", "object": "Old Valyria", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.97}
+{"subject": "Essos", "predicate": "contains", "object": "Dragonstone (original)", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.96}
+{"subject": "Essos", "predicate": "contains", "object": "Summer Isles", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Essos", "predicate": "contains", "object": "Ibben", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Essos", "predicate": "contains", "object": "Naath", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.94}
+{"subject": "Essos", "predicate": "contains", "object": "Mantarys", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.93}
+{"subject": "Essos", "predicate": "contains", "object": "Tolos", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.92}
+{"subject": "Essos", "predicate": "contains", "object": "Elyria", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.91}
+{"subject": "Essos", "predicate": "contains", "object": "New Ghis", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Essos", "predicate": "contains", "object": "Gogossos", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Essos", "predicate": "contains", "object": "Sothoryos (near)", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.88}
+{"subject": "Essos", "predicate": "contains", "object": "Jogos Nhai", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.87}
+{"subject": "Essos", "predicate": "contains", "object": "Bayasabhad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Essos", "predicate": "contains", "object": "Samyriana", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.84}
+{"subject": "Essos", "predicate": "contains", "object": "Kayakayanaya", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.83}
+{"subject": "Essos", "predicate": "contains", "object": "The Shadow Lands", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.92}
+{"subject": "Essos", "predicate": "contains", "object": "The Bones", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.91}
+{"subject": "Essos", "predicate": "contains", "object": "The Jade Sea", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.93}
+{"subject": "Essos", "predicate": "contains", "object": "The Shivering Sea", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.94}
+{"subject": "Essos", "predicate": "contains", "object": "The Summer Sea", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.93}
+{"subject": "Essos", "predicate": "contains", "object": "The Rhoyne River", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.96}
+{"subject": "Essos", "predicate": "contains", "object": "The Skahazadhan River", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.94}
+{"subject": "Essos", "predicate": "contains", "object": "The Demon Road", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.92}
+{"subject": "Essos", "predicate": "contains", "object": "The Valyrian roads", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.91}
+{"subject": "Essos", "predicate": "contains", "object": "The Smoking Sea", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
