@@ -1,5 +1,4 @@
 
----
 
 ```markdown
 # 🧠 GPT-KB — Multi-LLM Knowledge Graph Crawler (Hybrid Batch + Concurrency)
@@ -307,4 +306,4 @@ MIT — freely use, modify, and integrate.
 
 ```
 
----
+
