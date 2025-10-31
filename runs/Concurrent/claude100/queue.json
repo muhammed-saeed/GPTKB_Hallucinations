@@ -1,0 +1,3992 @@
+[
+  {
+    "subject": "Vannevar Bush",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:24"
+  },
+  {
+    "subject": "Differential analyzer",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "Dorothea Walker",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "Everett, Massachusetts",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "Hypertext",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "MIT",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "Memex concept",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "National Medal of Science",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "Tufts University",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "United States",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:36"
+  },
+  {
+    "subject": "Anthony Monaco",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Boston",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:44"
+  },
+  {
+    "subject": "Buzz Aldrin",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:50"
+  },
+  {
+    "subject": "Cambridge, Massachusetts",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:50"
+  },
+  {
+    "subject": "Canada",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "City Council",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:44"
+  },
+  {
+    "subject": "Congress of the United States",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:48"
+  },
+  {
+    "subject": "Fletcher School of Law and Diplomacy",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "HTML",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:45"
+  },
+  {
+    "subject": "Hypercard",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:47"
+  },
+  {
+    "subject": "Joe Biden",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Jumbo the Elephant",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Kofi Annan",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:50"
+  },
+  {
+    "subject": "Massachusetts",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:44"
+  },
+  {
+    "subject": "Massachusetts Institute of Technology",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:50"
+  },
+  {
+    "subject": "Medford, Massachusetts",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Mexico",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Middlesex County",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:44"
+  },
+  {
+    "subject": "National Science Foundation",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:48"
+  },
+  {
+    "subject": "New York City",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "North America",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "President of the United States",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:48"
+  },
+  {
+    "subject": "Richard Feynman",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:50"
+  },
+  {
+    "subject": "Sally Kornbluth",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:50"
+  },
+  {
+    "subject": "School of Arts and Sciences",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "School of Engineering",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Ted Nelson",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:45"
+  },
+  {
+    "subject": "The Atlantic Monthly Article",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:47"
+  },
+  {
+    "subject": "The Star-Spangled Banner",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Tufts Medical School",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "United States Dollar",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Washington, D.C.",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:49"
+  },
+  {
+    "subject": "Wikipedia",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:47"
+  },
+  {
+    "subject": "William Barton Rogers",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:50"
+  },
+  {
+    "subject": "World Wide Web",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:45"
+  },
+  {
+    "subject": "Academic Institution",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:29"
+  },
+  {
+    "subject": "African Elephant",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Alaska",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "American Revolution",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Apollo 11",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "Apple Inc.",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:58"
+  },
+  {
+    "subject": "Arctic Ocean",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Arlington, Virginia",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Astronautics, MIT",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "Atlantic Ocean",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Aztec",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Baltimore, Maryland",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:12"
+  },
+  {
+    "subject": "Barnum & Bailey Circus",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Battle of Fort McHenry",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:12"
+  },
+  {
+    "subject": "Beantown",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "Beau Biden",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Belize",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Big Apple",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Bill Atkinson",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:58"
+  },
+  {
+    "subject": "Biological Sciences",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Boston Bruins",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "Boston Celtics",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "Boston Medical Center",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:30"
+  },
+  {
+    "subject": "Boston Red Sox",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "Boston Tea Party",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "Boston University",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "Boston, Massachusetts",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:57"
+  },
+  {
+    "subject": "Breanna Lungo-Koehn",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:29"
+  },
+  {
+    "subject": "Brooklyn",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Bureau of Engraving and Printing",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "CERN",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "CSS",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "California Institute of Technology",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Cambridge",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Canadian Dollar",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Caribbean",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Caribbean Sea",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Central America",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Central Park",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Central Time Zone",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Chicago, Illinois",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "Chichen Itza",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "City Hall",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:58"
+  },
+  {
+    "subject": "Commander-in-Chief",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Computer Lib/Dream Machines",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "Computer Science",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Computer and Information Science and Engineering",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Connecticut",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Continent",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Creative Commons Attribution-ShareAlike",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "Democratic Party",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Diego Rivera",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Direct Election",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:00"
+  },
+  {
+    "subject": "Distinguished Flying Cross",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "Donald Trump",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Duke University",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:28"
+  },
+  {
+    "subject": "Eastern Time Zone",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Ecuador",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Edwin Eugene Aldrin Jr.",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "El Salvador",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Elected Representatives",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:58"
+  },
+  {
+    "subject": "Electoral College",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Electronic Payment Systems",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Empire State Building",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Engineering",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Eric Adams",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Executive Branch",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Federal Presidential Republic",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Federal Reserve",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "First Lunar Landing",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "First in Presidential Line of Succession",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Francis Scott Key",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:12"
+  },
+  {
+    "subject": "Frida Kahlo",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "George Washington",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Geosciences",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Ghana",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Government Agency",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Guatemala",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Gulf of Mexico",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "HTML5",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "HTTP",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "Harris Berman",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:30"
+  },
+  {
+    "subject": "Harry Truman",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Harvard Medical School",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Harvard University",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "House of Representatives",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:00"
+  },
+  {
+    "subject": "Hunter Biden",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "HyperTalk",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:58"
+  },
+  {
+    "subject": "Hypertext Markup Language",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Independent Federal Agency",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Internet",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "James Russell Lowell",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:57"
+  },
+  {
+    "subject": "JavaScript",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Jill Biden",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Jimmy Wales",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "John Archibald Wheeler",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "John F. Kennedy International Airport",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Judicial Branch",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Justin Trudeau",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "King Charles III",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Kofi Annan Foundation",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Kumasi, Ghana",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "LCME",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:30"
+  },
+  {
+    "subject": "LaGuardia Airport",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Larry Sanger",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "Legislative Branch",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:00"
+  },
+  {
+    "subject": "Lincoln Memorial",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Local Government Body",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:58"
+  },
+  {
+    "subject": "Logan International Airport",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "London Zoo",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Lowell",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Loxodonta africana",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "MA",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Macalester College",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Macintosh",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:58"
+  },
+  {
+    "subject": "Manhattan",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Manhattan Project",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Maple Leaf",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Maryland",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Mathematical and Physical Sciences",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Mathematics",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Maura Healey",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Maya",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Mens et Manus",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:36"
+  },
+  {
+    "subject": "Mexican Peso",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Mexico City",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Middlesex",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:30"
+  },
+  {
+    "subject": "Montclair, New Jersey",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "NSF",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Nane Lagergren",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Naomi Biden",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "National Anthem",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:12"
+  },
+  {
+    "subject": "National Anthem of USA",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:12"
+  },
+  {
+    "subject": "Neil Armstrong",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "New England",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "New Hampshire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "New York",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "New York City Subway",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "New York Times",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Newark Liberty International Airport",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Nobel Peace Prize",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Nobel Prize Laureate",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Nobel Prize in Physics",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "North American Plateau",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:18"
+  },
+  {
+    "subject": "Northern America",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Northern Hemisphere",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Ottawa",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "P.T. Barnum",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Pacific Ocean",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Panama",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Philadelphia, Pennsylvania",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:31"
+  },
+  {
+    "subject": "Potomac River",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "President of Duke University",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:28"
+  },
+  {
+    "subject": "President of Tufts University",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Presidential Medal of Freedom",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "Princeton University",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Project Xanadu",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "Provost at Massachusetts Institute of Technology",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:28"
+  },
+  {
+    "subject": "Quantum Electrodynamics",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Queens",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Rachel Kyte",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Rhode Island",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Rumford Medal",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:31"
+  },
+  {
+    "subject": "San Francisco, California",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "School of Architecture and Planning",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:36"
+  },
+  {
+    "subject": "School of Science",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:36"
+  },
+  {
+    "subject": "Scranton, Pennsylvania",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Second Man on the Moon",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "Senate",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:00"
+  },
+  {
+    "subject": "Senate Majority Leader",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:00"
+  },
+  {
+    "subject": "Sethuraman Panchanathan",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Sloan School of Management",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:36"
+  },
+  {
+    "subject": "Smithsonian Museums",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Social, Behavioral, and Economic Sciences",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "Somerville",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "South America",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Speaker of the House",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:00"
+  },
+  {
+    "subject": "Staten Island",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Statue of Liberty",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "Sudan",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Suffolk County",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "Surely You're Joking, Mr. Feynman!",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Syracuse University College of Law",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "The Atlantic",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:57"
+  },
+  {
+    "subject": "The Atlantic Monthly Group",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:57"
+  },
+  {
+    "subject": "The Bronx",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:21"
+  },
+  {
+    "subject": "The Feynman Lectures on Physics",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "The Hub",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "Tim Berners-Lee",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "Toronto",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Tufts University School of Medicine",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:30"
+  },
+  {
+    "subject": "U.S. Constitution Article I",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:00"
+  },
+  {
+    "subject": "URL",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "UTF-8",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "United Nations",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "United Nations Secretary-General",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "United States Air Force",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "United States Capitol",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "United States Congress",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:05"
+  },
+  {
+    "subject": "United States Government",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "United States Military Academy",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:33"
+  },
+  {
+    "subject": "United States Senator from Delaware",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "University of Chicago",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "University of Delaware",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "University of Virginia",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:31"
+  },
+  {
+    "subject": "Vermont",
+    "hop": 3,
+    "status": "done",
+    "retries": 1,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Vice President of the United States",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:15"
+  },
+  {
+    "subject": "Virginia",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "W3C",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "WBGH",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:02"
+  },
+  {
+    "subject": "WHATWG",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Waltham",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "Washington Monument",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:16"
+  },
+  {
+    "subject": "Western Hemisphere",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "White House",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:13"
+  },
+  {
+    "subject": "Wikimedia Foundation",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:11:59"
+  },
+  {
+    "subject": "William Barton Rogers Sr.",
+    "hop": 3,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:31"
+  },
+  {
+    "subject": "World Wide Web Consortium",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:01"
+  },
+  {
+    "subject": "1906 Earthquake",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:02"
+  },
+  {
+    "subject": "1984 Super Bowl commercial",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "A Fable for Critics",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "AAPL",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "ASCII",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:41"
+  },
+  {
+    "subject": "Abolitionist Movement",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Advise and Consent",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "Africa",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "Age of Enlightenment",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "AirPods",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Alcatraz Island",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:02"
+  },
+  {
+    "subject": "Alex Cora",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "American League East",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "American Poet",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Andy Hertzfeld",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:45"
+  },
+  {
+    "subject": "App Store",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Apple Arcade",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Apple Computer",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:44"
+  },
+  {
+    "subject": "Apple Keyboard",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "Apple Music",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Apple TV",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Apple TV+",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Apple Watch",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Application Layer Protocol",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Appointed Administrators",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Art Institute of Chicago",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Article I, U.S. Constitution",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "Association of American Universities",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Atlantic Division",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Atlas (Greek mythology)",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "Attorney General of Massachusetts",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Auburn University",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:04"
+  },
+  {
+    "subject": "Barack Obama",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Bay State",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:28"
+  },
+  {
+    "subject": "Bellevue, Nebraska",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Benjamin Franklin",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Bill Russell",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Blades the Bruin",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Bobby Orr",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Booth School of Business",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Boston Harbor",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:43"
+  },
+  {
+    "subject": "Brad Stevens",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Brandeis University",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Brendan Eich",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:44"
+  },
+  {
+    "subject": "Bridgeport",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "British Colonial Policies",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "British Colonial Trade Policy",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:43"
+  },
+  {
+    "subject": "British East India Company",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:43"
+  },
+  {
+    "subject": "Burlington",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:47"
+  },
+  {
+    "subject": "CC BY-SA",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:58"
+  },
+  {
+    "subject": "CSS Specification",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "CSS3",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "CT",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "California",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:02"
+  },
+  {
+    "subject": "California, United States",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Cambridgeshire",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "Capitol Building",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "Carl Yastrzemski",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Cascading Style Sheets",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Character Encoding Standard",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:41"
+  },
+  {
+    "subject": "Chicago School of Economics",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Citizendium",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Classic Mac OS",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:44"
+  },
+  {
+    "subject": "Client-Server",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Community Governance",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Computer History",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Computer Technology",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Concord",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Constitution State",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Cook County",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Creative Commons Organization",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:58"
+  },
+  {
+    "subject": "Cupertino, California",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "DARPA",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "DELETE",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "DOM Living Standard",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "Daniel McKee",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "David Hyatt",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "David Ortiz",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Declaration of Independence",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Digital Culture",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Don Sweeney",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "ECMAScript",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:44"
+  },
+  {
+    "subject": "ECMAScript 2023",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:44"
+  },
+  {
+    "subject": "ERCIM",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Earth",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "Eastern Conference",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Elected Officials",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Emergency Services",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Emerson Collective",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:43"
+  },
+  {
+    "subject": "England",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "Europe",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "European Organization for Nuclear Research",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:46"
+  },
+  {
+    "subject": "European Union",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:46"
+  },
+  {
+    "subject": "Fenway Park",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Fenway Sports Group",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Field Museum",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Fireside Poets",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Francis Cabot Lowell",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:11"
+  },
+  {
+    "subject": "GET",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Gary Becker",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Geneva, Switzerland",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:46"
+  },
+  {
+    "subject": "Geographic Jurisdiction",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Golden Gate Bridge",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:02"
+  },
+  {
+    "subject": "Gottlieb Duttweiler Prize",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:04"
+  },
+  {
+    "subject": "Granite State",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Graphical User Interface",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "Great Britain",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Green Mountain State",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:47"
+  },
+  {
+    "subject": "Gulf Stream",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "HEAD",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "HTML Living Standard",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "HTML Specification",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "HTTPS",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Hartford",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Harvard Business School",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Harvard Crimson",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Harvard Law School",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Harvard Library",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Higgs Boson",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:46"
+  },
+  {
+    "subject": "Howard Stern",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Huntsville, Alabama",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:04"
+  },
+  {
+    "subject": "HyperCard",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:44"
+  },
+  {
+    "subject": "Hypertext Project",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:12"
+  },
+  {
+    "subject": "Hypertext Transfer Protocol",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Håkon Wium Lie",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "IETF",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Ian Hickson",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "Illinois",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Indiana University",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:04"
+  },
+  {
+    "subject": "Industrial Revolution",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:11"
+  },
+  {
+    "subject": "International Community",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "International Organization",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "International Standards Organization",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Internet Protocols",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:41"
+  },
+  {
+    "subject": "Intolerable Acts",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:43"
+  },
+  {
+    "subject": "Ivy League",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Jaylen Brown",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Jayson Tatum",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Jeff Jaffe",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "Jeremy Jacobs",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Jim Montgomery",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Joe Mazzulla",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "John D. Rockefeller",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "John Harvard",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Julianne Moore",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Kate Bahen",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:04"
+  },
+  {
+    "subject": "Katherine Maher",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Katjana Ballantyne",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:14"
+  },
+  {
+    "subject": "Keio University",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Ken Thompson",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:41"
+  },
+  {
+    "subject": "Kevin Garnett",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "LHC",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:46"
+  },
+  {
+    "subject": "Large Hadron Collider",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:46"
+  },
+  {
+    "subject": "Larry Bird",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Laurene Powell Jobs",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:44"
+  },
+  {
+    "subject": "Lawrence Bacow",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Legislative Body",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "London",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "London, England",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Los Angeles Lakers",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Lucky the Leprechaun",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Mac OS",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "Mac Pro",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "MacBook",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "MacPaint",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:45"
+  },
+  {
+    "subject": "Maine",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Major League Baseball",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Majority Leader",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "Manchester",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Maria White Lowell",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Martin Luther King Jr.",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Massachusetts Bay",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Massachusetts Colonists",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:43"
+  },
+  {
+    "subject": "Mayor's Office",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:43"
+  },
+  {
+    "subject": "Media Queries",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Mediterranean Sea",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "Memex Concept",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:12"
+  },
+  {
+    "subject": "Methodists",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Meyrin, Switzerland",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:46"
+  },
+  {
+    "subject": "Mid-Atlantic Ridge",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "Midway International Airport",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Millennium Park",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Milton Friedman",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Montpelier",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:47"
+  },
+  {
+    "subject": "Motorola",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "Motorola 68000",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "Mozilla Foundation",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "NBA",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "NH",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "NHL",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "National Hockey League Team",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Netscape Communications",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:44"
+  },
+  {
+    "subject": "New England Coast",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "New England Commission of Higher Education",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "New England Region",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:38"
+  },
+  {
+    "subject": "New York Yankees",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "North Atlantic Drift",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "Northeastern United States",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Northeastern University",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Nutmeg State",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "O'Hare International Airport",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Ohio State University",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Opera Software",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "Order of Merit",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Oxford University",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "POST",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "PUT",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Patrice Bergeron",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Paul Alivisatos",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Paul Pierce",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Personal Computer",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "Personal Computing Movement",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Phil Esposito",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Phil Scott",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:47"
+  },
+  {
+    "subject": "Political Organization",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "Pritzker School of Medicine",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Providence",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:32"
+  },
+  {
+    "subject": "Purple Lilac",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Queen Elizabeth Prize for Engineering",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "QuickDraw Graphics Library",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:45"
+  },
+  {
+    "subject": "RI",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Radcliffe Yard",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Ray Allen",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Ray Bourque",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Red Clover",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:47"
+  },
+  {
+    "subject": "Reed College",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Request Headers",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Response Headers",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "Responsive Design",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Rhett the Terrier",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Rhode Island Red",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "River Cam",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "Rob Pike",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:41"
+  },
+  {
+    "subject": "Robert Brown",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Robert Lucas Jr.",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Ronald Wayne",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Rosemary Leith",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Samuel Adams",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:43"
+  },
+  {
+    "subject": "San Francisco County",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:02"
+  },
+  {
+    "subject": "Saul Bellow",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "Sons of Liberty",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:43"
+  },
+  {
+    "subject": "Southern Ocean",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:33"
+  },
+  {
+    "subject": "Standard Generalized Markup Language",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "Standards Organization",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "State",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "Steve Jobs",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:45"
+  },
+  {
+    "subject": "Steve Wozniak",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Sugar Maple",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:47"
+  },
+  {
+    "subject": "TCP",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:48"
+  },
+  {
+    "subject": "TCP/IP",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "TD Garden",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "Taxation without Representation",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Technology Philosophy",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Ted Williams",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "The Atlantic Monthly",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "The Atlantic magazine",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:43"
+  },
+  {
+    "subject": "The Bigelow Papers",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "The City by the Bay",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:02"
+  },
+  {
+    "subject": "The City of Seven Hills",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:14"
+  },
+  {
+    "subject": "The Ocean State",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:30"
+  },
+  {
+    "subject": "Thirteen Colonies",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Thomas Jefferson",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Tim Cook",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "Treaty of Paris",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Turing Award",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "TypeScript",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:44"
+  },
+  {
+    "subject": "U.S. State",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "UChicago",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:20"
+  },
+  {
+    "subject": "UNESCO",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:46"
+  },
+  {
+    "subject": "UNESCO Niels Bohr Medal",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:04"
+  },
+  {
+    "subject": "URI",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "US Ambassador to United Kingdom",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:47"
+  },
+  {
+    "subject": "US Federal Government",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:12"
+  },
+  {
+    "subject": "Unicode Characters",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:41"
+  },
+  {
+    "subject": "United States Constitution",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "United States House of Representatives",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:12"
+  },
+  {
+    "subject": "United States Independence",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "University of Alabama",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:04"
+  },
+  {
+    "subject": "University of California, Berkeley",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:45"
+  },
+  {
+    "subject": "University of Cambridge",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "University of Massachusetts Lowell",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:11"
+  },
+  {
+    "subject": "Upper Chamber",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:13"
+  },
+  {
+    "subject": "W3C HTML Standard",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "Wally the Green Monster",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:45"
+  },
+  {
+    "subject": "Web Accessibility Guidelines",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Web Hypertext Application Technology Working Group",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "Web Standards",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "Web Standards Organization",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "White Birch",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "White-tailed Deer",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:31"
+  },
+  {
+    "subject": "Wikidata",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Wikimedia Commons",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Wikimedia Meta-Wiki",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Wikiquote",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Wiktionary",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Willis Tower",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:03"
+  },
+  {
+    "subject": "Wyc Grousbeck",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:46"
+  },
+  {
+    "subject": "XML",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:42"
+  },
+  {
+    "subject": "XML Specification",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:13:01"
+  },
+  {
+    "subject": "iCloud",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "iMac",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:49"
+  },
+  {
+    "subject": "iOS",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "iPad",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "iPhone",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "macOS",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "tvOS",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  },
+  {
+    "subject": "watchOS",
+    "hop": 4,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 17:12:52"
+  }
+]

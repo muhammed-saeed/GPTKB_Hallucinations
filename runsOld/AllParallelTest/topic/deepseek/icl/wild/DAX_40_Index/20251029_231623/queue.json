@@ -1,0 +1,128 @@
+[
+  {
+    "subject": "DAX 40 Index",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:00"
+  },
+  {
+    "subject": "Airbus",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Allianz",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "BASF",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "BMW",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "DAX 30 Index",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Daimler Truck",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Deutsche Bank",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Deutsche Börse",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Deutsche Telekom",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "E.ON",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Frankfurt Stock Exchange",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Germany",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Mercedes-Benz Group",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "RWE",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "SAP",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Siemens",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  },
+  {
+    "subject": "Volkswagen",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:31:52"
+  }
+]

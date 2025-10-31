@@ -1,0 +1,26 @@
+{
+  "seed": "DAX 40 Index",
+  "seed_slug": "DAX_40_Index",
+  "domain": "topic",
+  "elicitation_strategy": "baseline",
+  "ner_strategy": "calibrate",
+  "model": "gpt4o-mini",
+  "out_dir": "runs/TestDryRun/topic/gpt4o-mini/baseline/det/DAX_40_Index/20251029_221411",
+  "profile": "det",
+  "profile_knobs": {
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "top_k": null,
+    "max_tokens": 2000
+  },
+  "max_depth": 1,
+  "max_subjects": 10,
+  "max_facts_hint": 100,
+  "ner_batch_size": 50,
+  "crawler": "crawler_batch_concurrency_topic.py",
+  "python": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python",
+  "command": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/TestDryRun/topic/gpt4o-mini/baseline/det/DAX_40_Index/20251029_221411 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 1 --max-facts-hint 100 --max-subjects 10 --ner-batch-size 50 --openai-batch --openai-batch-size 10 --temperature 0.0 --top-p 1.0 --max-tokens 2000",
+  "timestamp": "2025-10-29T22:14:11.066440",
+  "batch_mode": true,
+  "effective_concurrency": null
+}

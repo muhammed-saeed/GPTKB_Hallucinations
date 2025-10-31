@@ -1,0 +1,60 @@
+{"subject": "Umar ibn al-Khattab", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "instanceOf", "object": "Caliph", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "instanceOf", "object": "Companion of Muhammad", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "birthYear", "object": "584", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "deathYear", "object": "644", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "deathCause", "object": "Assassination", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "burialPlace", "object": "Al-Masjid an-Nabawi", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "precededBy", "object": "Abu Bakr", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "succeededBy", "object": "Uthman ibn Affan", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "title", "object": "Amir al-Mu'minin", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "title", "object": "Al-Farooq", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "religion", "object": "Islam", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "ethnicity", "object": "Arab", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "tribe", "object": "Quraysh", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "clan", "object": "Banu Adi", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "father", "object": "Al-Khattab ibn Nufayl", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "mother", "object": "Hantamah bint Hisham", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "spouse", "object": "Zaynab bint Madhun", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "spouse", "object": "Umm Kulthum bint Ali", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "spouse", "object": "Atikah bint Zayd", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "child", "object": "Abdullah ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "child", "object": "Asim ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "child", "object": "Zayd ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "child", "object": "Ubaydullah ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "child", "object": "Abd al-Rahman ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "child", "object": "Fatimah bint Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "child", "object": "Hafsa bint Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "child", "object": "Ruqayyah bint Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "conversionToIslamYear", "object": "616", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umar ibn al-Khattab", "predicate": "knownFor", "object": "Islamic conquests", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "knownFor", "object": "Administrative reforms", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "knownFor", "object": "Establishment of Islamic calendar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "knownFor", "object": "Justice and piety", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "reignStart", "object": "634", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "reignEnd", "object": "644", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umar ibn al-Khattab", "predicate": "assassin", "object": "Abu Lu'lu'a Firuz", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "instanceOf", "object": "Astronomer", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "instanceOf", "object": "Mathematician", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "hasName", "object": "Abd al-Rahman ibn Umar", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "hasFather", "object": "Umar", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "hasProfession", "object": "Astronomer", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "hasProfession", "object": "Mathematician", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "livedIn", "object": "Islamic Golden Age", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "livedIn", "object": "Persia", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "contributedTo", "object": "Astronomy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "contributedTo", "object": "Mathematics", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "knownFor", "object": "Astronomical Tables", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "knownFor", "object": "Trigonometry", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "associatedWith", "object": "Islamic Science", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "wrote", "object": "Astronomical Works", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "wrote", "object": "Mathematical Works", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "influencedBy", "object": "Greek Astronomy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "flourishedIn", "object": "9th Century", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "flourishedIn", "object": "10th Century", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "studied", "object": "Celestial Movements", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "studied", "object": "Spherical Geometry", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "usedMethod", "object": "Observation", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "usedMethod", "object": "Calculation", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "memberOf", "object": "Scientific Community", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}

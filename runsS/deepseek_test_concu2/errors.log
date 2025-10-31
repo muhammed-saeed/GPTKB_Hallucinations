@@ -1,0 +1,12 @@
+[2025-10-31T17:33:47.738963] NER failed for subject=Vannevar Bush
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_concurrent.py", line 1206, in main
+    out = ner_llm(ner_messages, json_schema=ner_schema)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/factory.py", line 118, in _gen
+    return client.generate(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/deepseek_client.py", line 84, in generate
+    raise RuntimeError(f"DeepSeek API error: {response.status_code} {response.text[:200]}")
+RuntimeError: DeepSeek API error: 400 {"error":{"message":"Prompt must contain the word 'json' in some form to use 'response_format' of type 'json_object'.","type":"invalid_request_error","param":null,"code":"invalid_request_error"}}
+

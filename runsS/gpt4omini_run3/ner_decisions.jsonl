@@ -1,0 +1,678 @@
+{"parent_subject": "Google", "hop": 0, "phrase": "$282.8 billion (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Advertising Services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Alphabet Inc.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Android Inc.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Apigee", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "August 19, 2004", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Chronicle", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Cloud Computing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Company", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Don't be evil", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "DoubleClick", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Fitbit", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Gmail", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Ads", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Assistant", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Chrome", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Cloud Platform", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Drive", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Maps", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Photos", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Play Store", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Search", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Google Workspace", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Kaggle", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Larry Page", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Looker", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Mandiant", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Mountain View, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Nest Labs", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Over $1 trillion (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Over 100 languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Over 156,500", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Search Engine", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "September 4, 1998", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Sergey Brin", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Sundar Pichai", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Waze", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "YouTube", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "Zagat", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google", "hop": 0, "phrase": "www.google.com", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "$1.8 trillion (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "$282.8 billion (2020)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "156,500 (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Calico", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "CapitalG", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "GOOG", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "GOOGL", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "GV", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Google Fiber", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Google LLC", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Larry Page", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Mountain View, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Nest Labs", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "October 2, 2015", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Sergey Brin", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Sundar Pichai", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Verily", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "Waymo", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "YouTube", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "abc.xyz", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "company", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Alphabet Inc.", "hop": 1, "phrase": "multinational conglomerate", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Android Inc.", "hop": 1, "phrase": "2003", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Android Inc.", "hop": 1, "phrase": "2005", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Android Inc.", "hop": 1, "phrase": "Android operating system", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Android Inc.", "hop": 1, "phrase": "Andy Rubin", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Android Inc.", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Android Inc.", "hop": 1, "phrase": "Palo Alto, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Android Inc.", "hop": 1, "phrase": "company", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Android Inc.", "hop": 1, "phrase": "software", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API analytics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API documentation tools", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API gateway", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API gateways", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API lifecycle management", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API management platform", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API security", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API testing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API testing tools", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "API versioning", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "OAuth support", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "RESTful APIs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "SOAP APIs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "analytics reports", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "cloud services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "customizable dashboards", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "developer portal", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "developer support", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "enterprises", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "microservices architecture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "monetization features", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "multiple programming languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "policy enforcement", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "real-time monitoring", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "service level agreements (SLAs)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "service orchestration", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "traffic analytics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Apigee", "hop": 1, "phrase": "traffic management", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "$1 billion (2007)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "1996", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "2008", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "Google LLC", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "Kevin O'Connor", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "New York City", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "ad management", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "ad serving", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "analytics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "digital advertising company", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "online advertising", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "DoubleClick", "hop": 1, "phrase": "www.doubleclick.com", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "2007", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Eric Friedman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Fitbit Charge", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Fitbit Community", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Fitbit Inspire", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Fitbit Premium", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Fitbit Sense", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Fitbit Versa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Fitbit app", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "GPS tracking", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "James Park", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "San Francisco, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "activity trackers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "corporate wellness programs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "fitness trackers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "health and fitness industry", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "health data analytics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "health insurance companies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "heart rate monitoring", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "music control", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "notifications", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "sleep tracking features", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "smartwatches", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "third-party apps", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "water resistance", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fitbit", "hop": 1, "phrase": "wearable technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "15 GB", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "25 MB", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "Android", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "April 1, 2004", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "Google Calendar", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "Google Drive", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "Google Meet", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "Google acquired it in 2004", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "advanced spam detection algorithms", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "allows archiving of emails", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "allows custom email signatures", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "allows email filtering", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "automatic sorting of emails", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "available for G Suite users", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "available on Android and iOS", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "clean and minimalistic design", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "conversation view", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "customizable themes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "email organization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "email service", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "iOS", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "integrates with Google Calendar", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "integrates with Google Chat", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "integrates with Google Contacts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "integrates with Google Meet", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "multiple languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "offline mode available", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "over 1.5 billion users", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "popular for personal use", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "powerful search capabilities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "provides user support resources", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "real-time notifications available", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "saves drafts automatically", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "spam filtering", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "supports IMAP and POP3", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "supports advanced search operators", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "supports email forwarding", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "supports email templates", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "supports email tracking features", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "supports quick replies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "supports third-party add-ons", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "two-factor authentication", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "user-friendly", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "uses encryption for data security", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "uses labels for organization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "web", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Gmail", "hop": 1, "phrase": "widely used in business environments", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "A/B testing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "Amazon Advertising", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "Bing Ads", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "Facebook Ads", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "Google Analytics", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "Google Marketing Platform", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "October 2000", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "ad extensions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "ad scheduling", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "advertisers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "budget control", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "businesses", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "customer support", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "display advertising", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "keywords", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "local advertising options", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "mobile app", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "mobile apps", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "multiple languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "online advertising platform", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "over 100 countries", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "pay-per-click advertising", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "performance tracking", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "remarketing options", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "search results", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "various ad formats", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "video advertising", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "web interface", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Ads", "hop": 1, "phrase": "websites", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "Google services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "October 2016", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "answer questions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "control smart home devices", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "make phone calls", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "natural language processing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "play music", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "provide navigation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "provide weather updates", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "send messages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "set reminders", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "smart displays", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "smart speakers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "smartphones", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "virtual assistant", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Assistant", "hop": 1, "phrase": "voice commands", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "117.0.5938.92", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Android", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "BSD license", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Bing (optional)", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Blink", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Chrome DevTools", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "DuckDuckGo (optional)", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Google Account", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Google Translate integration", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Google Update", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Linux", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Omnibox", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "September 2, 2008", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Windows", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "Yahoo (optional)", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "address bar", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "automatic updates", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "bookmark manager", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "built-in PDF viewer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "customizable themes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "extensions support", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "frequent updates", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "iOS", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "incognito mode", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "macOS", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "malware protection", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "minimalist design", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "over 3 billion users", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "over 65% of desktop browsers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "phishing protection", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "security sandboxing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "sync across devices", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "tabbed browsing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "task manager", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Chrome", "hop": 1, "phrase": "web browser", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Anthos", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "BigQuery", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud AI Platform", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Armor", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud CDN", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Composer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Data Fusion", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Dataflow", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Datalab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Dataproc", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Debugger", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Firestore", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Functions", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Functions for Firebase", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Identity", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud IoT Core", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Logging", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Memorystore", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Monitoring", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Profiler", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Pub/Sub", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Run", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Run for Anthos", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud SQL", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Scheduler", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Spanner", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Storage Transfer Service", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Tasks", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Cloud Trace", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Firebase Analytics", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Firebase Authentication", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Firebase Cloud Messaging", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Firebase Hosting", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Firebase Realtime Database", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Google App Engine", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Google Cloud Storage", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Google Compute Engine", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "Google Kubernetes Engine", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "asia-east1", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "big data services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "cloud computing service", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "computing services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "data storage services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "europe-west1", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "machine learning services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "networking services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "security services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "us-central1", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "us-east1", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Cloud Platform", "hop": 1, "phrase": "us-west1", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "15 GB free", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "5 TB for individual files", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "Android", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "April 24, 2012", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "Google Backup and Sync", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "Google Docs", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "Google Sheets", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "Google Slides", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "Google Workspace", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "Microsoft Office files", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "PDF files", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "advanced search options", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "audio files", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "cloud storage service", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "collaboration", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "comments", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "documents", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "encryption", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "file sharing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "file synchronization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "folders", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "iOS", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "image files", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "images", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "millions of users", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "mobile-friendly", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "multiple countries", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "offline access", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "presentations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "real-time editing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "spreadsheets", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "starred files", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "suggestions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "tags", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "two-factor authentication", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "video files", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "videos", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "web", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "web-based", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Drive", "hop": 1, "phrase": "yes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Directions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Explore Feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "February 8, 2005", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "GPS navigation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Google Earth", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Local Guides Program", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Nearby Places", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Offline Maps", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Public Transit Information", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Street View", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Timeline Feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Traffic Layer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "User Reviews", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "Web mapping service", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "business listings", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "multiple languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "real-time traffic conditions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "satellite imagery", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Maps", "hop": 1, "phrase": "street maps", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Amazon Photos", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Android", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Apple Photos", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Dropbox", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "GIF format", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Google Assistant", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Google Drive", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Google Lens", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "HEIC format", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "JPEG format", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "MOV format", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "MP4 format", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "May 28, 2015", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Microsoft OneDrive", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "PNG format", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Picasa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "RAW format", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "Web", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "album creation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "automatic backup", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "bug fixes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "canvas prints", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "cloud storage service", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "custom gifts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "data encryption", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "free storage up to 15 GB", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "iOS", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "image recognition", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "multiple languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "over 1 billion users", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "paid storage available through Google One", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "photo book creation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "photo editing tools", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "photo printing services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "photo sharing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "photo storage", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "regular feature enhancements", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "search functionality", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "user interface improvements", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Photos", "hop": 1, "phrase": "video storage", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Android", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Android TV", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Android devices", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Chromebooks", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Google Play balance", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Google ecosystem", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "March 6, 2012", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Material Design", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "PayPal", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "Wear OS devices", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "apps", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "books", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "credit card", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "digital distribution service", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "games", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "in-app purchases", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "movies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "multiple languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "music", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "over 190 countries", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "security features", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "subscriptions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "updates for apps", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Play Store", "hop": 1, "phrase": "yes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "Alphabet Inc.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "Bing", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "DuckDuckGo", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "Google Ads", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "Google Assistant", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "Google LLC", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "Google Maps", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "Google services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "PageRank algorithm", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "September 4, 1998", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "Yahoo Search", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "advanced search options", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "algorithm", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "autocomplete feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "desktop computers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "featured snippets", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "image recognition technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "image search", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "knowledge graph", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "local pack results", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "local search feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "millions of users daily", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "mobile apps", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "mobile devices", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "mobile-friendly search results", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "multiple languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "news search", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "related searches", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "relevance of results", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "rich snippets", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "safe search feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "search by image feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "search by voice feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "search engine", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "search filters", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "search history feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "search operators", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "search results", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "search trends feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "shopping search", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "speed of results", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "user-friendly interface", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "various countries", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "video search", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "voice search feature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Search", "hop": 1, "phrase": "web browsers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Android", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "G Suite", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Gmail", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Google Calendar", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Google Chat", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Google Docs", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Google Drive", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Google Meet", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Google Sheets", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Google Slides", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Linux", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "October 2020", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "Windows", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "administrative controls", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "businesses", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "cloud computing service", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "cloud storage", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "cloud-based productivity tools", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "collaboration tools", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "custom email addresses", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "educational institutions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "email services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "iOS", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "integrations with other Google services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "macOS", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "mobile applications", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "multiple languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "nonprofits", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "real-time collaboration", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "security features", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "subscription plans", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "third-party applications", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Google Workspace", "hop": 1, "phrase": "video conferencing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "2010", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "API access", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "Anthony Goldbloom", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "Kaggle Competitions", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "Kaggle Datasets", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "Kaggle Kernels", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "Kaggle Learn", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "San Francisco, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "code sharing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "collaboration", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "community events", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "competitions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "competitions leaderboard", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "courses", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "data analysis", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "data science competition platform", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "data scientists", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "data visualization tools", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "datasets", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "discussion forums", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "job board", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "learning", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "machine learning practitioners", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "notebook sharing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "notebooks", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "platform", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "private datasets", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "public datasets", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kaggle", "hop": 1, "phrase": "tutorials", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "$100 billion (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "2", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "American", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "Computer Scientist", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "Lucinda Southworth", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "March 26, 1973", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "PageRank algorithm", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "Person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Larry Page", "hop": 1, "phrase": "Stanford University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "2012", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "API Access", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Alerts and Notifications", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Amazon Redshift", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Business Intelligence Software", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Business Intelligence Tools", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Collaboration Tools", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Custom Visualizations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Dashboards", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Data Analytics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Data Exploration", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Data Governance", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Data Visualization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Embedded Analytics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Google BigQuery", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Google Cloud", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "LookML", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Reports", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "SQL", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Santa Cruz, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Scheduled Reports", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Looker", "hop": 1, "phrase": "Snowflake", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "2004", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "APT1 report release", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "Alexandria, Virginia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "FireEye", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "Kevin Mandia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "Mandiant Advantage", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "SolarWinds incident response", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "Target data breach response", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "cybersecurity company", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "cybersecurity consulting", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "incident response", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "threat intelligence", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mandiant", "hop": 1, "phrase": "www.mandiant.com", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "12.3 square miles", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "1902", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "650", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "69 feet", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "82,739", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "94040", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "94041", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "94043", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Caltrain", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "City", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "LinkedIn", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Mediterranean climate", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Mozilla Corporation", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Pacific Time Zone", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Santa Clara County", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Silicon Valley", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Symantec", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "Technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "VTA Light Rail", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mountain View, California", "hop": 1, "phrase": "mountainview.gov", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "2010", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Alphabet Inc.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Fadell's team", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Marwan Fawaz", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Matt Rogers", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Nest Cam", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Nest Learning Thermostat", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Nest Protect", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Palo Alto, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Smart Home", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "Tony Fadell", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "company", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nest Labs", "hop": 1, "phrase": "nest.com", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "$122 billion (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "2", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Alphabet Inc.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "American", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Anne Wojcicki", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "August 21, 1973", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Computer Science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Eugenia Brin", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Los Altos, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Michael Brin", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "President of Technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Search Engine Technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sergey Brin", "hop": 1, "phrase": "Stanford University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "Anjali Pichai", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "Business executive", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "CEO of Alphabet Inc.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "Indian", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "Indian Institute of Technology Kharagpur", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "June 10, 1972", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "Madurai, India", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "Person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "Pichai Sundararajan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sundar Pichai", "hop": 1, "phrase": "Stanford University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "Android", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "Google", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "June 2010", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "June 2013", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "Ra'anana, Israel", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "crowdsourced data", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "iOS", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "multiple languages", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "navigation app", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "over 140 million users", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "real-time traffic updates", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "turn-by-turn navigation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Waze", "hop": 1, "phrase": "user-reported incidents", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}

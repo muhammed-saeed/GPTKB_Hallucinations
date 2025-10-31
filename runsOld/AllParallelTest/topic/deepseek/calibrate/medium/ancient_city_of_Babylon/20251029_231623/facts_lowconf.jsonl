@@ -1,0 +1,22 @@
+{"subject": "Hanging Gardens", "predicate": "irrigationMethod", "object": "Water wheels", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "destructionCause", "object": "Earthquake", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "destructionCause", "object": "Erosion", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "culturalInfluence", "object": "Hellenistic architecture", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "alternativeTheory", "object": "Built by Sennacherib", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "alternativeLocation", "object": "Nineveh", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "mentionedIn", "object": "Babylonian texts", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Diodorus Siculus", "predicate": "influencedBy", "object": "Hecataeus of Miletus", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Diodorus Siculus", "predicate": "contemporaryOf", "object": "Cicero", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Diodorus Siculus", "predicate": "contemporaryOf", "object": "Livy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Diodorus Siculus", "predicate": "influenced", "object": "Early Modern Scholarship", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Diodorus Siculus", "predicate": "chronologicalFramework", "object": "Olympiad Dating", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.7}
+{"subject": "Esagila", "predicate": "relatedDeity", "object": "Ishtar", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Epic of Gilgamesh", "predicate": "literaryInfluence", "object": "Parallels with Odyssey", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Babylonian captivity", "predicate": "archaeological evidence", "object": "Weidner Chronicle", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Babylonian captivity", "predicate": "long-term significance", "object": "influence on Islam", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Enuma Elish", "predicate": "culturalImpact", "object": "influenced Canaanite myths", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Enuma Elish", "predicate": "oralTradition", "object": "likely preceded written form", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Hillah", "predicate": "sisterCity", "object": "Nassiriya", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Etemenanki", "predicate": "mentionedIn", "object": "Book of Genesis", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Etemenanki", "predicate": "originalBuilder", "object": "Hammurabi", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Etemenanki", "predicate": "finalDestruction", "object": "by Sasanians", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}

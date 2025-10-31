@@ -1,0 +1,9 @@
+{"subject": "Eurex", "predicate": "hasProduct", "object": "Dark Pool", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Eurex", "predicate": "hasProduct", "object": "Innovation Labs", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Eurex", "predicate": "hasProduct", "object": "Research Initiatives", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Eurex", "predicate": "hasProduct", "object": "Partnership Programs", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Eurex", "predicate": "hasProduct", "object": "Community Engagement", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Eurex", "predicate": "hasProduct", "object": "Sustainability Initiatives", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Eurex", "predicate": "hasProduct", "object": "ESG Products", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Eurex", "predicate": "hasProduct", "object": "Green Bonds", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "MDAX", "predicate": "admissionCriteria", "object": "stringent", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.7}

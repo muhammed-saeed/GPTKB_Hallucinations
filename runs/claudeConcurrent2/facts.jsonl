@@ -1,0 +1,867 @@
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "American Engineer", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Scientist", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Professor", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthDate", "object": "1890-03-11", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathDate", "object": "1974-06-30", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "United States", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts University", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "MIT", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "MIT", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Information Technology Conceptualization", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "role", "object": "Presidential Science Advisor", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "著作", "object": "As We May Think", "hop": 0, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "instanceOf", "object": "Prestigious Award", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "awardedBy", "object": "United States Government", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "establishedIn", "object": "1959", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "administeredBy", "object": "National Science Foundation", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "honorsField", "object": "Scientific Achievement", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "awardFrequency", "object": "Annual", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "nominatedBy", "object": "Scientific Community", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "awardedTo", "object": "Distinguished Scientists", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "presentedAt", "object": "White House", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Medal of Science", "predicate": "includes", "object": "Medal and Citation", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "instanceOf", "object": "Conceptual Information Technology Device", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "inventedBy", "object": "Vannevar Bush", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "describedIn", "object": "The Atlantic Monthly Article", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "publicationYear", "object": "1945", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "designPurpose", "object": "Personal Knowledge Management", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "conceptualFeature", "object": "Associative Indexing", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "conceptualFeature", "object": "Hypertext Navigation", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "influencedField", "object": "Hypertext", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "influencedField", "object": "Personal Computing", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Memex", "predicate": "inspiredBy", "object": "Human Memory Processes", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "instanceOf", "object": "Academic Paper", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "author", "object": "Vannevar Bush", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "publishedIn", "object": "The Atlantic Monthly", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "publicationYear", "object": "1945", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "genre", "object": "Scientific Essay", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "describedTechnology", "object": "Memex", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "significanceIn", "object": "Information Technology", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "influencedField", "object": "Hypertext", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "influencedField", "object": "Personal Computing", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "As We May Think", "predicate": "hasTheme", "object": "Information Retrieval", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "instanceOf", "object": "City", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "locatedIn", "object": "Middlesex County", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "locatedIn", "object": "Massachusetts", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "foundedIn", "object": "1892", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "population", "object": "49793", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "area", "object": "3.37 square miles", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "nearestCity", "object": "Boston", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasIndustry", "object": "Manufacturing", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasIndustry", "object": "Shipping", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "governmentType", "object": "Mayor-Council", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "instanceOf", "object": "University", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "location", "object": "Cambridge, Massachusetts", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "foundedYear", "object": "1861", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "fullName", "object": "Massachusetts Institute of Technology", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "type", "object": "Private Research University", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "motto", "object": "Mens et Manus", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "motto_translation", "object": "Mind and Hand", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "ranking", "object": "Top 5 Global Universities", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "president", "object": "Sally Kornbluth", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "numberOfStudents", "object": "11,934", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "numberOfFaculty", "object": "1,046", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "nobelLaureates", "object": "97", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "hasSchool", "object": "School of Science", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "hasSchool", "object": "School of Engineering", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "hasSchool", "object": "Sloan School of Management", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "hasSchool", "object": "School of Humanities, Arts, and Social Sciences", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "knownFor", "object": "Technology Innovation", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "knownFor", "object": "Computer Science Research", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "knownFor", "object": "Artificial Intelligence", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "MIT", "predicate": "endowment", "object": "$27.4 billion", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "instanceOf", "object": "Private Research University", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "location", "object": "Medford, Massachusetts", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "founded", "object": "1852", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "hasFounder", "object": "Charles Tufts", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "nickname", "object": "Jumbos", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "type", "object": "Non-profit", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "hasSchool", "object": "School of Arts and Sciences", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "hasSchool", "object": "School of Engineering", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "hasSchool", "object": "Tufts Medical School", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "hasSchool", "object": "Fletcher School of Law and Diplomacy", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "location", "object": "Boston, Massachusetts", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "location", "object": "Grafton, Massachusetts", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "president", "object": "Anthony Monaco", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "mascot", "object": "Jumbo the Elephant", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "publicationMedium", "object": "The Tufts Daily", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "hasAffiliation", "object": "Association of American Universities", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "studentTeacherRatio", "object": "10:1", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "acceptanceRate", "object": "14.6%", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "undergraduateEnrollment", "object": "5,700", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts University", "predicate": "graduateEnrollment", "object": "4,700", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "instanceOf", "object": "Country", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "location", "object": "North America", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "capital", "object": "Washington, D.C.", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "officialLanguage", "object": "English", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "governmentType", "object": "Federal presidential constitutional republic", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "foundedDate", "object": "1776-07-04", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "population", "object": "331 million", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "continent", "object": "North America", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "currency", "object": "United States Dollar", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "timeZones", "object": "Eastern Time Zone", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "timeZones", "object": "Central Time Zone", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "timeZones", "object": "Mountain Time Zone", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "timeZones", "object": "Pacific Time Zone", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "nationalAnthem", "object": "The Star-Spangled Banner", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "largestCity", "object": "New York City", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "borderingCountries", "object": "Canada", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "borderingCountries", "object": "Mexico", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "landArea", "object": "9.8 million square kilometers", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "president", "object": "Joe Biden", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "memberOf", "object": "United Nations", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "memberOf", "object": "NATO", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "memberOf", "object": "G7", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "memberOf", "object": "G20", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "economicRanking", "object": "Largest economy by nominal GDP", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "nuclearWeaponsState", "object": "Yes", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "nationalSymbol", "object": "Bald Eagle", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "independence", "object": "From United Kingdom", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States", "predicate": "diplomaticRecognition", "object": "1783", "hop": 1, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Distinguished Scientists Medal and Citation", "predicate": "instanceOf", "object": "Scientific Award", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Distinguished Scientists Medal and Citation", "predicate": "awardedBy", "object": "National Academy of Sciences", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Distinguished Scientists Medal and Citation", "predicate": "purpose", "object": "Recognize outstanding scientific achievements", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Distinguished Scientists Medal and Citation", "predicate": "frequency", "object": "Periodic", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Distinguished Scientists Medal and Citation", "predicate": "field", "object": "Scientific Research", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Distinguished Scientists Medal and Citation", "predicate": "recognizesExcellenceIn", "object": "Scientific Innovation", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Distinguished Scientists Medal and Citation", "predicate": "established", "object": "Mid-20th Century", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Conceptual Information Technology Device", "predicate": "instanceOf", "object": "Abstract Technology Concept", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Conceptual Information Technology Device", "predicate": "definedAs", "object": "Theoretical technological artifact representing computational potential", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Conceptual Information Technology Device", "predicate": "primaryPurpose", "object": "Information Processing", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Conceptual Information Technology Device", "predicate": "hasCharacteristic", "object": "Theoretical Design", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Conceptual Information Technology Device", "predicate": "involves", "object": "Computational Abstraction", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Conceptual Information Technology Device", "predicate": "relatedTo", "object": "Information Systems Architecture", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "instanceOf", "object": "Magazine", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "foundedIn", "object": "1857", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "foundedBy", "object": "Francis H. Underwood", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "publishedIn", "object": "Boston, Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "genre", "object": "Literary Magazine", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "currentName", "object": "The Atlantic", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "type", "object": "Periodical", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "frequency", "object": "Monthly", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "language", "object": "English", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "hasWebsite", "object": "www.theatlantic.com", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Associative Indexing", "predicate": "instanceOf", "object": "Information Retrieval Technique", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Associative Indexing", "predicate": "definedAs", "object": "Information storage and retrieval method based on content similarity", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Associative Indexing", "predicate": "usedIn", "object": "Database Management Systems", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Associative Indexing", "predicate": "basedOn", "object": "Content-addressable Memory", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Associative Indexing", "predicate": "goal", "object": "Faster Information Retrieval", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Associative Indexing", "predicate": "keyCharacteristic", "object": "Match-and-select Mechanism", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Associative Indexing", "predicate": "contrasts", "object": "Traditional Sequential Indexing", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Associative Indexing", "predicate": "advantageOver", "object": "Linear Search Techniques", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "instanceOf", "object": "Information Technology Concept", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "definition", "object": "Text displayed on electronic devices with references and links to other texts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "introducedBy", "object": "Ted Nelson", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "introducedIn", "object": "1965", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "primaryTechnology", "object": "HTML", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "keyCharacteristic", "object": "Non-linear Navigation", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "mostFamousImplementation", "object": "World Wide Web", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "mainPurpose", "object": "Connecting Information", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "technicalFoundation", "object": "Hyperlinks", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "usedIn", "object": "Web Browsers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Hypertext", "predicate": "relatedTechnology", "object": "Markup Languages", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "instanceOf", "object": "County", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "locatedIn", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "countyAdministrativeCenter", "object": "Cambridge", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "foundedIn", "object": "1643", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "population", "object": "1631258", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "area", "object": "1267 square miles", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "containsMunicipality", "object": "Boston", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "containsMunicipality", "object": "Cambridge", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "containsMunicipality", "object": "Somerville", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "containsMunicipality", "object": "Lowell", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "largestCity", "object": "Cambridge", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Middlesex County", "predicate": "averageHouseholdIncome", "object": "$124,755", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "owner", "object": "Emerson Collective", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "hasFocusOn", "object": "Politics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "hasFocusOn", "object": "Culture", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "hasFocusOn", "object": "Literature", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "historicallyPublished", "object": "Notable Essays", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic Monthly", "predicate": "hasEditorInChief", "object": "Jeffrey Goldberg", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "instanceOf", "object": "Federal Republic", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "hasCapital", "object": "Washington, D.C.", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "hasBranch", "object": "Executive Branch", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "hasBranch", "object": "Legislative Branch", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "hasBranch", "object": "Judicial Branch", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "foundedDate", "object": "1789", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "headOfState", "object": "President", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "hasConstitution", "object": "United States Constitution", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "politicalSystem", "object": "Constitutional Democracy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "numberOfStates", "object": "50", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "governmentType", "object": "Federal Presidential Constitutional Republic", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "separationOfPowers", "object": "Checks and Balances", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "legislativeBranch", "object": "United States Congress", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "executiveBranch", "object": "Office of the President", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "United States Government", "predicate": "judicialBranch", "object": "Supreme Court of the United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "instanceOf", "object": "Government Building", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "location", "object": "Washington, D.C.", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "address", "object": "1600 Pennsylvania Avenue NW", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "residence", "object": "President of the United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "constructionYear", "object": "1800", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "architecturalStyle", "object": "Neoclassical", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "architect", "object": "James Hoban", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "hasRoom", "object": "Oval Office", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "hasRoom", "object": "State Dining Room", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "hasRoom", "object": "East Room", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "nationalSignificance", "object": "Executive Branch Headquarters", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "historicalDesignation", "object": "National Historic Landmark", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "paintColor", "object": "White", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "floors", "object": "6", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "landArea", "object": "18 acres", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "hasExit", "object": "North Entrance", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "White House", "predicate": "hasExit", "object": "South Entrance", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "instanceOf", "object": "Independent Federal Agency", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "foundedIn", "object": "1950", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "headquarters", "object": "Arlington, Virginia", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "established", "object": "National Science Board Act", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "governmentBranch", "object": "United States Executive Branch", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "funding", "object": "Scientific Research", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "annualBudget", "object": "$8.8 billion (2020)", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "directedBy", "object": "Director of National Science Foundation", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "supportsDisciplines", "object": "Computer Science", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "supportsDisciplines", "object": "Mathematics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "supportsDisciplines", "object": "Social Sciences", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "supportsDisciplines", "object": "Engineering", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "supportsDisciplines", "object": "Biological Sciences", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "supportsDisciplines", "object": "Physical Sciences", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "founded", "object": "Vannevar Bush", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "website", "object": "nsf.gov", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "fundingType", "object": "Grants", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "National Science Foundation", "predicate": "legislativeAuthorization", "object": "National Science Foundation Act of 1950", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "instanceOf", "object": "City", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "locatedIn", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "locatedIn", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "capitalOf", "object": "Suffolk County", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "foundedIn", "object": "1630", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "population", "object": "675647", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasNickname", "object": "Beantown", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasArea", "object": "232.14 square kilometers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasMayoralSystem", "object": "Strong mayor-council", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasUniversity", "object": "Harvard University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasUniversity", "object": "Boston University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasUniversity", "object": "Northeastern University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasIndustry", "object": "Education", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasIndustry", "object": "Healthcare", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasIndustry", "object": "Technology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasTeam", "object": "Boston Celtics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasTeam", "object": "Boston Red Sox", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasTeam", "object": "Boston Bruins", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasLandmark", "object": "Fenway Park", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasLandmark", "object": "Freedom Trail", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasLandmark", "object": "Boston Common", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "instanceOf", "object": "US State", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "capital", "object": "Boston", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "abbreviation", "object": "MA", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "foundedIn", "object": "1620", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "admittedToUnion", "object": "1788", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "region", "object": "New England", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "largestCity", "object": "Boston", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "governedBy", "object": "Governor", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "population", "object": "6984723", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "area", "object": "10554 square miles", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "bordersState", "object": "New Hampshire", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "bordersState", "object": "Rhode Island", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "bordersState", "object": "Connecticut", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "bordersState", "object": "Vermont", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "coastline", "object": "Atlantic Ocean", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "significantIndustry", "object": "Technology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "significantIndustry", "object": "Education", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "significantIndustry", "object": "Finance", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "famousUniversity", "object": "Harvard University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "famousUniversity", "object": "MIT", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "historicalEvent", "object": "Boston Tea Party", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "historicalEvent", "object": "American Revolution", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "nativeIndigenousPeople", "object": "Wampanoag", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "nativeIndigenousPeople", "object": "Nauset", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "economy", "object": "Service-based", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "demographicMajority", "object": "White", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts", "predicate": "politicalLean", "object": "Democratic", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "instanceOf", "object": "Academic Department", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "instanceOf", "object": "Business Concept", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "partOf", "object": "University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "involves", "object": "Research and Development", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "focuses", "object": "Scientific Research", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "drives", "object": "Economic Growth", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "offers", "object": "Science Degrees", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "requires", "object": "Creative Problem Solving", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "leads to", "object": "Competitive Advantage", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "teaches", "object": "Physics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "includes", "object": "Technological Disruption", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "teaches", "object": "Biology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "depends on", "object": "Investment Capital", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "teaches", "object": "Chemistry", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "involves", "object": "Emerging Technologies", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "teaches", "object": "Mathematics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "generates", "object": "New Products", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "conducts", "object": "Scientific Research", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Technology Innovation", "predicate": "transforms", "object": "Industry Practices", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Science", "predicate": "includes", "object": "Research Laboratories", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "instanceOf", "object": "Academic Administrator", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "currentRole", "object": "President of Duke University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "startDate", "object": "2023", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "previousRole", "object": "Provost at MIT", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "academicField", "object": "Biology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "hasEducation", "object": "PhD in Biology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "researchSpecialty", "object": "Cell Biology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "nationality", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sally Kornbluth", "predicate": "gender", "object": "Female", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mind and Hand", "predicate": "instanceOf", "object": "Motto", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mind and Hand", "predicate": "originatedAt", "object": "Massachusetts Institute of Technology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mind and Hand", "predicate": "language", "object": "Latin", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mind and Hand", "predicate": "latinPhrase", "object": "Mens et Manus", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mind and Hand", "predicate": "firstAdopted", "object": "1861", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mind and Hand", "predicate": "symbolizes", "object": "Intellectual and Practical Learning", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mind and Hand", "predicate": "represents", "object": "MIT's Educational Philosophy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "hasNationalMotto", "object": "Mind and Hand", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "instanceOf", "object": "Educational Institution", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "type", "object": "Higher Education Organization", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "fundingSource", "object": "Private Funding", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "mainPurpose", "object": "Research", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "educationLevel", "object": "Tertiary Education", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "operationalModel", "object": "Non-Public", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "governanceModel", "object": "Independent Board", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "primaryActivity", "object": "Academic Research", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "primaryActivity", "object": "Higher Education", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Private Research University", "predicate": "revenue", "object": "Tuition and Grants", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mens et Manus", "predicate": "instanceOf", "object": "Latin Motto", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mens et Manus", "predicate": "translatedAs", "object": "Mind and Hand", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mens et Manus", "predicate": "associatedWith", "object": "Massachusetts Institute of Technology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mens et Manus", "predicate": "originatesFrom", "object": "Latin Language", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mens et Manus", "predicate": "symbolizes", "object": "Intellectual and Practical Learning", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "hasOfficialMotto", "object": "Mens et Manus", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mens et Manus", "predicate": "philosophical meaning", "object": "Theoretical knowledge combined with practical application", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mens et Manus", "predicate": "firstUsed", "object": "MIT Seal and Motto", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "instanceOf", "object": "Academic Discipline", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "focusesOn", "object": "Computing Technologies", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Algorithm Development", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Software Engineering", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Machine Learning", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Artificial Intelligence", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Data Structures", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Computational Theory", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Cybersecurity", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Network Systems", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Computer Graphics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "involves", "object": "Distributed Computing", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "explores", "object": "Computational Problems", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "conducts", "object": "Empirical Studies", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Computer Science Research", "predicate": "appliesMethodology", "object": "Scientific Method", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "instanceOf", "object": "Business School", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "locatedAt", "object": "Massachusetts Institute of Technology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "city", "object": "Cambridge", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "state", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "founded", "object": "1952", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "type", "object": "Graduate Business School", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "namedAfter", "object": "Alfred P. Sloan", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "ranking", "object": "Top 10 Business Schools", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "degreeOffered", "object": "MBA", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "degreeOffered", "object": "PhD in Management", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "researchFocus", "object": "Business Analytics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "researchFocus", "object": "Innovation Management", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Sloan School of Management", "predicate": "website", "object": "https://sloan.mit.edu", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "instanceOf", "object": "City", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "location", "object": "Middlesex County", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "location", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "location", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "population", "object": "118927", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "foundedYear", "object": "1630", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "county", "object": "Middlesex", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "nearbyCity", "object": "Boston", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "famousInstitution", "object": "Harvard University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "famousInstitution", "object": "Massachusetts Institute of Technology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "area", "object": "18.4 square kilometers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "elevation", "object": "12 meters", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "timezone", "object": "Eastern Standard Time", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "zipCode", "object": "02138", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Cambridge, Massachusetts", "predicate": "mayorAs", "object": "Sumbul Siddiqui", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "instanceOf", "object": "Academic Department", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "partOf", "object": "University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "focuses", "object": "Engineering Education", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "teaches", "object": "Engineering Disciplines", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "graduatesDegree", "object": "Bachelor of Science", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "graduatesDegree", "object": "Master of Science", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "graduatesDegree", "object": "PhD in Engineering", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "hasDepartment", "object": "Mechanical Engineering", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "hasDepartment", "object": "Electrical Engineering", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "hasDepartment", "object": "Computer Science", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "hasDepartment", "object": "Civil Engineering", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "conductResearch", "object": "Applied Technology", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "hasLaboratory", "object": "Research Facilities", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "requiresCurriculum", "object": "Mathematics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "requiresCurriculum", "object": "Physics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Engineering", "predicate": "requiresCurriculum", "object": "Computer Programming", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "instanceOf", "object": "University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "location", "object": "Cambridge, Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "founded", "object": "1861", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "abbreviation", "object": "MIT", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "type", "object": "Private Research University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "hasFounder", "object": "William Barton Rogers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "academicRanking", "object": "Top Global University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "knownFor", "object": "Engineering", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "knownFor", "object": "Computer Science", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "knownFor", "object": "Technology Innovation", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "hasAlumni", "object": "Buzz Aldrin", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "hasAlumni", "object": "Kofi Annan", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "hasAlumni", "object": "Richard Feynman", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "affiliatedOrganization", "object": "MIT Media Lab", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "numberOfStudents", "object": "11,934", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "yearlyTuition", "object": "$55,878", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "nobelLaureates", "object": "97", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "campus", "object": "Urban", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "websiteURL", "object": "www.mit.edu", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "instanceOf", "object": "Technology Discipline", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "definition", "object": "Computer systems capable of performing tasks that typically require human intelligence", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "mainSubfields", "object": "Machine Learning", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "mainSubfields", "object": "Natural Language Processing", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "mainSubfields", "object": "Computer Vision", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "mainSubfields", "object": "Robotics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "developedIn", "object": "20th Century", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "foundationalResearcher", "object": "Alan Turing", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "foundationalResearcher", "object": "John McCarthy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "technologicalApproach", "object": "Neural Networks", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "technologicalApproach", "object": "Deep Learning", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "technologicalApproach", "object": "Expert Systems", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "applicationArea", "object": "Healthcare", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "applicationArea", "object": "Finance", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "applicationArea", "object": "Transportation", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "applicationArea", "object": "Manufacturing", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "ethicalConcern", "object": "Bias", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "ethicalConcern", "object": "Privacy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "ethicalConcern", "object": "Job Displacement", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "currentLeadingCompany", "object": "OpenAI", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "currentLeadingCompany", "object": "Google DeepMind", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "currentLeadingCompany", "object": "Microsoft AI", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "popularModelType", "object": "Large Language Models", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "popularModelType", "object": "Generative AI", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "potentialImpact", "object": "Automation", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "potentialImpact", "object": "Problem Solving", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial Intelligence", "predicate": "potentialImpact", "object": "Decision Making", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "instanceOf", "object": "Student Newspaper", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "publishedAt", "object": "Tufts University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "founded", "object": "1980", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "location", "object": "Medford, Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "frequency", "object": "Weekly", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "mediaType", "object": "Print and Online", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "language", "object": "English", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "organizationType", "object": "Student Media Organization", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Tufts Daily", "predicate": "distributedTo", "object": "Tufts University Community", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "instanceOf", "object": "Human", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "occupation", "object": "University President", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "currentRole", "object": "President of Tufts University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "hasEducation", "object": "MD", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "hasEducation", "object": "PhD", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "nationality", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "academicBackground", "object": "Harvard Medical School", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "researchSpecialty", "object": "Genetics", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "startedPresidency", "object": "2011", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Anthony Monaco", "predicate": "organizationalAffiliation", "object": "Tufts University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "instanceOf", "object": "Academic Department", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "type", "object": "Academic Unit", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "containsDisciplines", "object": "Humanities", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "containsDisciplines", "object": "Social Sciences", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "containsDisciplines", "object": "Natural Sciences", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "partOf", "object": "University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "offersAcademicDegrees", "object": "Bachelor of Arts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "offersAcademicDegrees", "object": "Bachelor of Science", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "School of Arts and Sciences", "predicate": "focusOn", "object": "Liberal Arts Education", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "instanceOf", "object": "Person", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "nationality", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "foundedLocation", "object": "Tufts University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "birthPlace", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "occupation", "object": "Businessman", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "donatedLand", "object": "Medford, Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "era", "object": "19th Century", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "significantContribution", "object": "University Founding", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "familyName", "object": "Tufts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Charles Tufts", "predicate": "knownFor", "object": "Philanthropic Efforts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "instanceOf", "object": "Aircraft", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "definedBy", "object": "Large wide-body passenger aircraft", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "firstIntroduced", "object": "1970", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "typicalManufacturers", "object": "Boeing", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "typicalManufacturers", "object": "Airbus", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "commonModels", "object": "Boeing 747", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "commonModels", "object": "Airbus A380", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "passengerCapacity", "object": "300-600 passengers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "bodyType", "object": "Wide-body", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbos", "predicate": "purposeOfUse", "object": "Long-haul international flights", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "instanceOf", "object": "Town", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "isLocatedIn", "object": "Worcester County", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "isLocatedIn", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "foundedIn", "object": "1735", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "hasPopulation", "object": "19031", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "governmentType", "object": "Municipal", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "area", "object": "22.9 square miles", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "countyseat", "object": "Worcester", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "zipCode", "object": "01519", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Grafton", "predicate": "coordinates", "object": "42°13′39″N 71°40′59″W", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "instanceOf", "object": "Academic Organization", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "abbreviation", "object": "AAU", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "foundedIn", "object": "1900", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "headquarters", "object": "Washington, D.C.", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "type", "object": "Nonprofit Organization", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "purpose", "object": "Research University Advocacy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "membershipCount", "object": "66", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "membershipCriteria", "object": "Research Intensity", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "representativesType", "object": "Research Universities", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "focusArea", "object": "Higher Education Research", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "primaryActivity", "object": "University Collaboration", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Association of American Universities", "predicate": "memberSelectionProcess", "object": "Peer Review", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "instanceOf", "object": "City", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "locationIn", "object": "Middlesex County", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "locationIn", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "foundedIn", "object": "1630", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "populationCount", "object": "59342", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "area", "object": "19.4 square kilometers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "nearbyCity", "object": "Boston", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "governmentType", "object": "Mayor-Council", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "zipCode", "object": "02155", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "countyLocation", "object": "Middlesex", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "historicalRegion", "object": "Massachusetts Bay Colony", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "neighborhoodOf", "object": "Greater Boston", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Medford", "predicate": "homeOf", "object": "Tufts University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "instanceOf", "object": "African Bush Elephant", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "ownedBy", "object": "P.T. Barnum", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "livedAt", "object": "London Zoo", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "nationality", "object": "African", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "lifespan", "object": "1861-1885", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "sex", "object": "Male", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "diedIn", "object": "St. Thomas, Ontario", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "causeOfDeath", "object": "Train collision", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "height", "object": "10.7 feet", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "weight", "object": "6.5 tons", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "knownFor", "object": "Famous circus elephant", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Jumbo the Elephant", "predicate": "performedWith", "object": "Barnum & Bailey Circus", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "instanceOf", "object": "Graduate School", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "location", "object": "Medford, Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "affiliatedWith", "object": "Tufts University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "founded", "object": "1933", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "type", "object": "Professional Graduate School", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "focusArea", "object": "International Relations", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "focusArea", "object": "Global Policy Studies", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "focusArea", "object": "Diplomacy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "degreeOffered", "object": "Master of Arts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "degreeOffered", "object": "Master of International Business", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "degreeOffered", "object": "Doctor of Philosophy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "namedAfter", "object": "Charles Tufts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "ranking", "object": "Top International Relations Graduate Program", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Fletcher School of Law and Diplomacy", "predicate": "websiteURL", "object": "https://Fletcher.tufts.edu", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Harvard University", "predicate": "instanceOf", "object": "Research University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Harvard University", "predicate": "location", "object": "Cambridge, Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Harvard University", "predicate": "founded", "object": "1636", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Harvard University", "predicate": "rank", "object": "Global Top 1", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Stanford University", "predicate": "instanceOf", "object": "Research University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Stanford University", "predicate": "location", "object": "Stanford, California", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Stanford University", "predicate": "founded", "object": "1885", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Stanford University", "predicate": "rank", "object": "Global Top 2", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "instanceOf", "object": "Research University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Massachusetts Institute of Technology", "predicate": "rank", "object": "Global Top 3", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "University of Oxford", "predicate": "instanceOf", "object": "Research University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "University of Oxford", "predicate": "location", "object": "Oxford, United Kingdom", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "University of Oxford", "predicate": "founded", "object": "1096", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "University of Oxford", "predicate": "rank", "object": "Global Top 4", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "University of Cambridge", "predicate": "instanceOf", "object": "Research University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "University of Cambridge", "predicate": "location", "object": "Cambridge, United Kingdom", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "University of Cambridge", "predicate": "founded", "object": "1209", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "University of Cambridge", "predicate": "rank", "object": "Global Top 5", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "capital", "object": "Suffolk County", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasPopulation", "object": "675647", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "largestCity", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasArea", "object": "89.63 square miles", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "latitude", "object": "42.3601° N", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "longitude", "object": "71.0589° W", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasUniversity", "object": "MIT", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "foundedBy", "object": "Puritan settlers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "nearestMajorCity", "object": "Providence", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasElevation", "object": "43 feet", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "significantEvent", "object": "Boston Tea Party", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Boston", "predicate": "hasClimate", "object": "Humid continental", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "instanceOf", "object": "Time Zone", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "abbreviation", "object": "ET", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "region", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "region", "object": "Canada", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "utcOffset", "object": "-05:00", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "utcOffsetDST", "object": "-04:00", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "includesStates", "object": "New York", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "includesStates", "object": "Florida", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "includesStates", "object": "Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "includesCities", "object": "New York City", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "includesCities", "object": "Washington, D.C.", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "includesCities", "object": "Miami", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "usedBy", "object": "Eastern Standard Time", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Eastern Time Zone", "predicate": "usedBy", "object": "Eastern Daylight Time", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "instanceOf", "object": "International Organization", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "fullName", "object": "Group of Twenty", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "founded", "object": "1999", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "headquarters", "object": "Multilateral", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "memberCount", "object": "19 Countries", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "memberCountPlusOneEntity", "object": "European Union", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "representedEconomicPercentage", "object": "80%", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "representedPopulationPercentage", "object": "66%", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "primaryPurpose", "object": "International Economic Cooperation", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "meetingFrequency", "object": "Annual Summit", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "keyMembers", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "keyMembers", "object": "China", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "keyMembers", "object": "European Union", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "keyMembers", "object": "Japan", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G20", "predicate": "keyMembers", "object": "Germany", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "instanceOf", "object": "Geographic Time Zone", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "abbreviation", "object": "CT", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "offsetFromUTC", "object": "-6 hours", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "usedIn", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "usedIn", "object": "Canada", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "usedIn", "object": "Mexico", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "includesStates", "object": "Texas", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "includesStates", "object": "Illinois", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "includesStates", "object": "Wisconsin", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "includesStates", "object": "Minnesota", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "includesStates", "object": "Missouri", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "includesStates", "object": "Arkansas", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "observesDaylightSavings", "object": "true", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Central Time Zone", "predicate": "geographicLocation", "object": "North America", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "instanceOf", "object": "International Military Alliance", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "fullName", "object": "North Atlantic Treaty Organization", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "founded", "object": "1949", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "foundedLocation", "object": "Washington, D.C.", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "headquarters", "object": "Brussels, Belgium", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "purpose", "object": "Collective Defense", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "numberOfMembers", "object": "30", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "keyArticle", "object": "Article 5", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "militaryAlliance", "object": "Transatlantic", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "foundingTreaty", "object": "North Atlantic Treaty", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "primaryRival", "object": "Warsaw Pact", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "membershipRequirement", "object": "Democratic Government", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "currentSecretaryGeneral", "object": "Jens Stoltenberg", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "largestMember", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "NATO", "predicate": "operationalSince", "object": "1951", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "instanceOf", "object": "Time Zone", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "abbreviation", "object": "MT", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "standardOffset", "object": "-7 hours", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "daylightSavingsOffset", "object": "-6 hours", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "coversTerritories", "object": "Arizona", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "coversTerritories", "object": "Colorado", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "coversTerritories", "object": "New Mexico", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "coversTerritories", "object": "Utah", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "coversTerritories", "object": "Wyoming", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "coversTerritories", "object": "Montana", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "coversTerritories", "object": "Idaho", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "regionType", "object": "North American Time Zone", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "usedIn", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain Time Zone", "predicate": "longitudinalRange", "object": "105°W to 120°W", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "instanceOf", "object": "International Political Forum", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "fullName", "object": "Group of Seven", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "members", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "members", "object": "United Kingdom", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "members", "object": "Canada", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "members", "object": "France", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "members", "object": "Germany", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "members", "object": "Italy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "members", "object": "Japan", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "founded", "object": "1975", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "headquarters", "object": "No Fixed Headquarters", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "purpose", "object": "Economic Coordination", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "purpose", "object": "Global Policy Coordination", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "annualMeeting", "object": "Rotating Host Country", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "representsPortion", "object": "Around 40% of Global GDP", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "G7", "predicate": "precededBy", "object": "G6", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "instanceOf", "object": "Country", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "location", "object": "North America", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "capital", "object": "Mexico City", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "officialLanguage", "object": "Spanish", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "government", "object": "Federal presidential republic", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "currency", "object": "Mexican peso", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "continent", "object": "North America", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "borderingCountries", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "borderingCountries", "object": "Guatemala", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "borderingCountries", "object": "Belize", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "population", "object": "128 million", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "nationalLanguage", "object": "Spanish", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "founded", "object": "1810", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "largestCity", "object": "Mexico City", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "coastline", "object": "Caribbean Sea", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "coastline", "object": "Pacific Ocean", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "naturalResource", "object": "Oil", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "naturalResource", "object": "Silver", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "majorReligion", "object": "Christianity", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Mexico", "predicate": "timeZone", "object": "UTC-6 to UTC-8", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "instanceOf", "object": "Human", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "instanceOf", "object": "Politician", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "hasOccupation", "object": "President of the United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "birthDate", "object": "November 20, 1942", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "birthPlace", "object": "Scranton, Pennsylvania", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "politicalParty", "object": "Democratic Party", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "spouse", "object": "Jill Biden", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "predecessorInOffice", "object": "Donald Trump", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "educatedAt", "object": "University of Delaware", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "educatedAt", "object": "Syracuse University College of Law", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "hasChildren", "object": "Beau Biden", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "hasChildren", "object": "Hunter Biden", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "hasChildren", "object": "Naomi Biden", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "hasChildren", "object": "Ashley Biden", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "senatorFor", "object": "Delaware", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "senatorYears", "object": "1973-2009", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "vicePresidentTo", "object": "Barack Obama", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "vicePresidentialYears", "object": "2009-2017", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "presidentialTermYears", "object": "2021-present", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Joe Biden", "predicate": "nationality", "object": "American", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "instanceOf", "object": "Medical School", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "location", "object": "Boston, Massachusetts", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "fullName", "object": "Tufts University School of Medicine", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "foundedYear", "object": "1893", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "type", "object": "Private", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "affiliatedHospital", "object": "Tufts Medical Center", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "associatedUniversity", "object": "Tufts University", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "accreditationBody", "object": "LCME", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "degreeOffered", "object": "MD", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "researchFocus", "object": "Biomedical Sciences", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "campusLocation", "object": "136 Harrison Avenue", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "ranking", "object": "Top 50 Medical Schools (US News)", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "studentBody", "object": "Approximately 800", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "facultySize", "object": "Over 500", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Tufts Medical School", "predicate": "internationalPrograms", "object": "Global Health Track", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "instanceOf", "object": "City", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "location", "object": "New York State", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "population", "object": "8804190", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "foundedYear", "object": "1624", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "largestCity", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "county", "object": "Manhattan", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "county", "object": "Brooklyn", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "county", "object": "Queens", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "county", "object": "Bronx", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "county", "object": "Staten Island", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "economicCenter", "object": "Wall Street", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "landmark", "object": "Statue of Liberty", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "landmark", "object": "Empire State Building", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "landmark", "object": "Central Park", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "culturalCenter", "object": "Broadway", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "hasAirport", "object": "John F. Kennedy International Airport", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "hasAirport", "object": "LaGuardia Airport", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "hasAirport", "object": "Newark Liberty International Airport", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "timezone", "object": "Eastern Time Zone", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "New York City", "predicate": "mayorAs", "object": "Eric Adams", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "instanceOf", "object": "Bird of Prey", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "scientificName", "object": "Haliaeetus leucocephalus", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "habitat", "object": "North America", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "nationalSymbol", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "wingspan", "object": "2.3 meters", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "diet", "object": "Fish", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "diet", "object": "Small mammals", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "conservationStatus", "object": "Least Concern", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "lifespan", "object": "20-30 years", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "nesting", "object": "Large trees", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "reproduces", "object": "Sexual reproduction", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "huntingStyle", "object": "Aerial predator", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "weight", "object": "3-6.3 kilograms", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "protection", "object": "Bald and Golden Eagle Protection Act", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "featherColor", "object": "White head", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "featherColor", "object": "Dark brown body", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "eyeColor", "object": "Yellow", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "beakColor", "object": "Yellow", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Bald Eagle", "predicate": "sexualDimorphism", "object": "Females larger than males", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "instanceOf", "object": "Country", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "location", "object": "North America", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "capital", "object": "Ottawa", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "officialLanguage", "object": "English", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "officialLanguage", "object": "French", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "government", "object": "Federal parliamentary constitutional monarchy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "monarch", "object": "Charles III", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "primeMinister", "object": "Justin Trudeau", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "totalArea", "object": "9,984,670 square kilometers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "population", "object": "38,436,447", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "continent", "object": "North America", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "bordersCountry", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "currency", "object": "Canadian Dollar", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "timeZones", "object": "6 time zones", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "nationalSymbol", "object": "Maple Leaf", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "nationalDay", "object": "July 1st", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "largestCity", "object": "Toronto", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "politicalSystem", "object": "Liberal democracy", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "joined", "object": "United Nations in 1945", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "naturalResource", "object": "Oil", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "naturalResource", "object": "Natural Gas", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "naturalResource", "object": "Timber", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "memberOf", "object": "G7", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "memberOf", "object": "NATO", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Canada", "predicate": "memberOf", "object": "Commonwealth of Nations", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "instanceOf", "object": "Time Zone", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "abbreviation", "object": "PST/PDT", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "geographicRegion", "object": "Western United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "standardOffset", "object": "UTC-8", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "daylightSavingsOffset", "object": "UTC-7", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "includesStates", "object": "California", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "includesStates", "object": "Washington", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "includesStates", "object": "Oregon", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "includesStates", "object": "Nevada", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "usedIn", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "usedIn", "object": "Canada", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Pacific Time Zone", "predicate": "observesDaylightSavings", "object": "true", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "instanceOf", "object": "Markup Language", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "fullName", "object": "Hypertext Markup Language", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "developedBy", "object": "World Wide Web Consortium", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "firstPublished", "object": "1991", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "currentVersion", "object": "HTML5", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "usedFor", "object": "Web Page Structure", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "fileExtension", "object": ".html", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "basedOn", "object": "SGML", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "standardizedBy", "object": "WHATWG", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "encodingFormat", "object": "Text-based", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "relatedTechnology", "object": "CSS", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "relatedTechnology", "object": "JavaScript", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "keyComponents", "object": "Elements", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "keyComponents", "object": "Tags", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "HTML", "predicate": "keyComponents", "object": "Attributes", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "instanceOf", "object": "Information System", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "createdBy", "object": "Tim Berners-Lee", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "creationYear", "object": "1989", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "location", "object": "CERN", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "instanceOf", "object": "Magazine", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "basedOn", "object": "Hypertext", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "foundedIn", "object": "1857", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "communicationProtocol", "object": "HTTP", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "publisher", "object": "Atlantic Media", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "dataFormat", "object": "HTML", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "headquarters", "object": "Washington, D.C.", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "addressingScheme", "object": "URL", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "type", "object": "Literary and political magazine", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "purpose", "object": "Global Information Sharing", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "country", "object": "United States", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "distinguishedFrom", "object": "Internet", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "language", "object": "English", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "globalReach", "object": "Worldwide", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "frequency", "object": "Monthly", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "firstWebServer", "object": "NeXT Computer", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "editor", "object": "Jeffrey Goldberg", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "World Wide Web", "predicate": "governingBody", "object": "W3C", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "website", "object": "theatlantic.com", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "hasFormat", "object": "Print and Digital", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "genre", "object": "Current affairs", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Atlantic", "predicate": "originalFounder", "object": "Francis Parkman", "hop": 3, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "instanceOf", "object": "National Anthem", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "writtenBy", "object": "Francis Scott Key", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "writtenIn", "object": "1814", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "writtenDuring", "object": "War of 1812", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "inspiredBy", "object": "Battle of Fort McHenry", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "officialStatusIn", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "becameNationalAnthem", "object": "1931", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "firstPerformed", "object": "1814", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "originalTitle", "object": "Defence of Fort McHenry", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "The Star-Spangled Banner", "predicate": "numVerses", "object": "4", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Francis Scott Key", "predicate": "profession", "object": "Lawyer", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "Francis Scott Key", "predicate": "nationality", "object": "American", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "instanceOf", "object": "Continent", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "location", "object": "Northern Hemisphere", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "location", "object": "Western Hemisphere", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "totalArea", "object": "24700000 square kilometers", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "population", "object": "579 million", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "containsCountries", "object": "Canada", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "containsCountries", "object": "United States", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "containsCountries", "object": "Mexico", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "bordersOcean", "object": "Pacific Ocean", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "bordersOcean", "object": "Atlantic Ocean", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "bordersOcean", "object": "Arctic Ocean", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "largestCountry", "object": "Canada", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "hasRegion", "object": "Caribbean", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "hasRegion", "object": "Central America", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}
+{"subject": "North America", "predicate": "geologicAge", "object": "Paleozoic Era", "hop": 2, "model": "anthropic/claude-3.5-haiku", "strategy": "baseline", "confidence": null}

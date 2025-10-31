@@ -1,0 +1,170 @@
+[
+  {
+    "subject": "DAX 40 Index",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:22:40"
+  },
+  {
+    "subject": "Adidas AG",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Airbus SE",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Allianz SE",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "BASF SE",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "BMW AG",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "BaFin",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "DAX",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "DAX 30 Index",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Deutsche Bank AG",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Deutsche Börse",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Eurex",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Euro",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Frankfurt Stock Exchange",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "German federal government",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Germany",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "MDAX",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Mercedes-Benz Group AG",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Prime Standard",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "SAP SE",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "SDAX",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Siemens AG",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "TecDAX",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  },
+  {
+    "subject": "Volkswagen AG",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:26:06"
+  }
+]

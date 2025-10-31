@@ -1,0 +1,49 @@
+{"subject": "Ada Lovelace", "predicate": "instanceOf", "object": "Mathematician", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "instanceOf", "object": "Computer Scientist", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "born", "object": "December 10, 1815", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "died", "object": "November 27, 1852", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "knownFor", "object": "First computer programmer", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "workedWith", "object": "Charles Babbage", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "wrote", "object": "Notes on the Analytical Engine", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "nationality", "object": "British", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "father", "object": "Lord Byron", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "mother", "object": "Anne Isabella Milbanke", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "education", "object": "Mathematics and Logic", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "influencedBy", "object": "Mary Somerville", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "contribution", "object": "Concept of algorithm", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "contribution", "object": "Early computing theory", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "birthPlace", "object": "London, England", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "deathPlace", "object": "Marylebone, London, England", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "occupation", "object": "Writer", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "occupation", "object": "Mathematician", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "occupation", "object": "Philosopher", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "field", "object": "Mathematics", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "field", "object": "Logic", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "famousFor", "object": "First algorithm intended for implementation on a machine", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "legacy", "object": "Ada programming language", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "legacy", "object": "Ada Lovelace Day", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "inspired", "object": "Women in Technology", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "inspired", "object": "Computer Science Education", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "inspired", "object": "STEM fields", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "contribution", "object": "Vision of future computing", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "relationship", "object": "Charles Babbage's collaborator", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "relationship", "object": "Mathematical community member", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "relationship", "object": "Pioneer in computing", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "influence", "object": "Modern computer science", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "influence", "object": "Programming languages", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "influence", "object": "Algorithm development", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "honor", "object": "Inducted into the National Women's Hall of Fame", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "honor", "object": "Ada Lovelace Award", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "honor", "object": "Computer History Museum Fellow", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace", "predicate": "honor", "object": "British Computer Society Fellowship", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "instanceOf", "object": "award", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "awardedFor", "object": "contributions to computing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "firstAwarded", "object": "1987", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "nameOrigin", "object": "Ada Lovelace", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "presentedBy", "object": "Association for Women in Computing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "recipients", "object": "notable women in computing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "category", "object": "computer science", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "criteria", "object": "significant contributions to the field of computing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "frequency", "object": "annual", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Ada Lovelace Award", "predicate": "location", "object": "United States", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}

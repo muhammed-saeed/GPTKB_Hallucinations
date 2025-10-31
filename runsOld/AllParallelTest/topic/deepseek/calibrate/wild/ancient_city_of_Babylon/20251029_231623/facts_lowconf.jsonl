@@ -1,0 +1,25 @@
+{"subject": "ancient city of Babylon", "predicate": "features", "object": "Tower of Babel", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "height", "object": "approximately 75 feet", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "irrigationSystem", "object": "chain pump", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "destructionCause", "object": "earthquakes", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "length", "object": "approximately 400 feet", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Hanging Gardens", "predicate": "width", "object": "approximately 400 feet", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Temple of Marduk", "predicate": "heightInCubits", "object": "45", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Temple of Marduk", "predicate": "usedPredecessorMaterials", "object": "Second Kassite period foundation", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Temple of Marduk", "predicate": "establishedBy", "object": "Amorite kings", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Temple of Marduk", "predicate": "heightGivenByHerodotusCubits", "object": "45", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Temple of Marduk", "predicate": "earlyMention", "object": "Urra text", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Temple of Marduk", "predicate": "limestoneFound", "object": "Statuette of Napir-Asu", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Temple of Marduk", "predicate": "reconstructedBy", "object": "Chicago Assyrian Dictionary Project", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Temple of Marduk", "predicate": "relatedMythInHebrewBible", "object": "Book of Daniel", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Hammurabi", "predicate": "References in Texts", "object": "Amarna Letters", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Hammurabi", "predicate": "Has Name Meaning", "object": "The Kinsman is a Healer", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Hammurabi", "predicate": "Cited in Archival Spell", "object": "No less than documentary scripts", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Nebuchadnezzar II", "predicate": "deathCause", "object": "natural causes", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Alexander the Great", "predicate": "deathCauseSpeculated", "object": "poison", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Euphrates River", "predicate": "originPointCoordinates", "object": "39.0°E, 38.0°N", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Euphrates River", "predicate": "routeFor", "object": "Historical Migrations", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Epic of Gilgamesh", "predicate": "studyField", "object": "Assyriology", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": -0.0, "threshold": 0.7}
+{"subject": "Epic of Gilgamesh", "predicate": "failedImmortalityAttempt", "object": "Sleep test", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": -0.0, "threshold": 0.7}
+{"subject": "Epic of Gilgamesh", "predicate": "dreamsIn", "object": "Prophecies", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": -0.0, "threshold": 0.7}
+{"subject": "Epic of Gilgamesh", "predicate": "famousLinesTranslation", "object": "He who saw the deep", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": -0.0, "threshold": 0.7}

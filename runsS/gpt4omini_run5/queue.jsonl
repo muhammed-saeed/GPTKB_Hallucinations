@@ -1,0 +1,185 @@
+{"subject": "Alphabet Inc.", "hop": 1}
+{"subject": "Android Inc.", "hop": 1}
+{"subject": "DoubleClick", "hop": 1}
+{"subject": "Gmail", "hop": 1}
+{"subject": "Google Ads", "hop": 1}
+{"subject": "Google Assistant", "hop": 1}
+{"subject": "Google Chrome", "hop": 1}
+{"subject": "Google Cloud Platform", "hop": 1}
+{"subject": "Google Drive", "hop": 1}
+{"subject": "Google Maps", "hop": 1}
+{"subject": "Google Photos", "hop": 1}
+{"subject": "Google Play Store", "hop": 1}
+{"subject": "Google Search", "hop": 1}
+{"subject": "Google Workspace", "hop": 1}
+{"subject": "Larry Page", "hop": 1}
+{"subject": "Mountain View, California", "hop": 1}
+{"subject": "Nest Labs", "hop": 1}
+{"subject": "Sergey Brin", "hop": 1}
+{"subject": "Sundar Pichai", "hop": 1}
+{"subject": "Waze", "hop": 1}
+{"subject": "YouTube", "hop": 1}
+{"subject": "Calico", "hop": 2}
+{"subject": "CapitalG", "hop": 2}
+{"subject": "GV", "hop": 2}
+{"subject": "Google Fiber", "hop": 2}
+{"subject": "Google LLC", "hop": 2}
+{"subject": "Larry Page", "hop": 2}
+{"subject": "Mountain View, California", "hop": 2}
+{"subject": "Sergey Brin", "hop": 2}
+{"subject": "Sundar Pichai", "hop": 2}
+{"subject": "Verily", "hop": 2}
+{"subject": "Waymo", "hop": 2}
+{"subject": "X Development", "hop": 2}
+{"subject": "Android operating system", "hop": 2}
+{"subject": "Andy Rubin", "hop": 2}
+{"subject": "Chris White", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Nick Sears", "hop": 2}
+{"subject": "Palo Alto, California", "hop": 2}
+{"subject": "Rich Miner", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Kevin O'Connor", "hop": 2}
+{"subject": "New York City", "hop": 2}
+{"subject": "Android", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Google Calendar", "hop": 2}
+{"subject": "Google Drive", "hop": 2}
+{"subject": "Google Meet", "hop": 2}
+{"subject": "iOS", "hop": 2}
+{"subject": "Amazon Advertising", "hop": 2}
+{"subject": "Bing Ads", "hop": 2}
+{"subject": "Facebook Ads", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Google Analytics", "hop": 2}
+{"subject": "Google Marketing Platform", "hop": 2}
+{"subject": "Google Merchant Center", "hop": 2}
+{"subject": "LinkedIn Ads", "hop": 2}
+{"subject": "Twitter Ads", "hop": 2}
+{"subject": "YouTube", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Google services", "hop": 2}
+{"subject": "Android", "hop": 2}
+{"subject": "Bing (optional)", "hop": 2}
+{"subject": "Blink", "hop": 2}
+{"subject": "Chrome DevTools", "hop": 2}
+{"subject": "Chrome Web Store", "hop": 2}
+{"subject": "DuckDuckGo (optional)", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Google Search", "hop": 2}
+{"subject": "Linux", "hop": 2}
+{"subject": "Windows", "hop": 2}
+{"subject": "Yahoo (optional)", "hop": 2}
+{"subject": "iOS", "hop": 2}
+{"subject": "macOS", "hop": 2}
+{"subject": "Amazon Web Services", "hop": 2}
+{"subject": "BigQuery", "hop": 2}
+{"subject": "Cloud AI Platform", "hop": 2}
+{"subject": "Cloud Armor", "hop": 2}
+{"subject": "Cloud Build", "hop": 2}
+{"subject": "Cloud CDN", "hop": 2}
+{"subject": "Cloud Dataflow", "hop": 2}
+{"subject": "Cloud Dataproc", "hop": 2}
+{"subject": "Cloud Debugger", "hop": 2}
+{"subject": "Cloud Endpoints", "hop": 2}
+{"subject": "Cloud Firestore", "hop": 2}
+{"subject": "Cloud Functions", "hop": 2}
+{"subject": "Cloud Functions for Firebase", "hop": 2}
+{"subject": "Cloud Identity", "hop": 2}
+{"subject": "Cloud Load Balancing", "hop": 2}
+{"subject": "Cloud Logging", "hop": 2}
+{"subject": "Cloud Monitoring", "hop": 2}
+{"subject": "Cloud Profiler", "hop": 2}
+{"subject": "Cloud Pub/Sub", "hop": 2}
+{"subject": "Cloud Run", "hop": 2}
+{"subject": "Cloud SQL", "hop": 2}
+{"subject": "Cloud Scheduler", "hop": 2}
+{"subject": "Cloud Source Repositories", "hop": 2}
+{"subject": "Cloud Spanner", "hop": 2}
+{"subject": "Cloud Storage", "hop": 2}
+{"subject": "Cloud Tasks", "hop": 2}
+{"subject": "Cloud Trace", "hop": 2}
+{"subject": "Firebase Analytics", "hop": 2}
+{"subject": "Firebase Authentication", "hop": 2}
+{"subject": "Firebase Cloud Messaging", "hop": 2}
+{"subject": "Firebase Crashlytics", "hop": 2}
+{"subject": "Firebase Hosting", "hop": 2}
+{"subject": "Firebase Performance Monitoring", "hop": 2}
+{"subject": "Firebase Realtime Database", "hop": 2}
+{"subject": "Firebase Test Lab", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Google Kubernetes Engine", "hop": 2}
+{"subject": "Microsoft Azure", "hop": 2}
+{"subject": "Android", "hop": 2}
+{"subject": "Drive File Stream", "hop": 2}
+{"subject": "Google Account", "hop": 2}
+{"subject": "Google Backup and Sync", "hop": 2}
+{"subject": "Google Docs", "hop": 2}
+{"subject": "Google LLC", "hop": 2}
+{"subject": "Google Photos", "hop": 2}
+{"subject": "Google Sheets", "hop": 2}
+{"subject": "Google Slides", "hop": 2}
+{"subject": "iOS", "hop": 2}
+{"subject": "Android", "hop": 2}
+{"subject": "Directions API", "hop": 2}
+{"subject": "Distance Matrix API", "hop": 2}
+{"subject": "Geocoding API", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Google Assistant", "hop": 2}
+{"subject": "Google Earth", "hop": 2}
+{"subject": "Google Maps API", "hop": 2}
+{"subject": "Google Maps Go", "hop": 2}
+{"subject": "Google Maps Navigation", "hop": 2}
+{"subject": "Google Maps Platform", "hop": 2}
+{"subject": "Google Maps Street View", "hop": 2}
+{"subject": "Google Maps Timeline", "hop": 2}
+{"subject": "Google Maps for Business", "hop": 2}
+{"subject": "Google Search", "hop": 2}
+{"subject": "Places API", "hop": 2}
+{"subject": "iOS", "hop": 2}
+{"subject": "Android", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Google Assistant", "hop": 2}
+{"subject": "Google Drive", "hop": 2}
+{"subject": "Google Lens", "hop": 2}
+{"subject": "Google One", "hop": 2}
+{"subject": "Picasa", "hop": 2}
+{"subject": "iOS", "hop": 2}
+{"subject": "Android", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Android OS", "hop": 2}
+{"subject": "Bing", "hop": 2}
+{"subject": "DuckDuckGo", "hop": 2}
+{"subject": "Google Assistant", "hop": 2}
+{"subject": "Google Chrome", "hop": 2}
+{"subject": "Google LLC", "hop": 2}
+{"subject": "Google services", "hop": 2}
+{"subject": "PageRank algorithm", "hop": 2}
+{"subject": "Yahoo Search", "hop": 2}
+{"subject": "knowledge graph", "hop": 2}
+{"subject": "Android", "hop": 2}
+{"subject": "G Suite", "hop": 2}
+{"subject": "Gmail", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Google Calendar", "hop": 2}
+{"subject": "Google Chat", "hop": 2}
+{"subject": "Google Docs", "hop": 2}
+{"subject": "Google Drive", "hop": 2}
+{"subject": "Google Meet", "hop": 2}
+{"subject": "Google Sheets", "hop": 2}
+{"subject": "Google Slides", "hop": 2}
+{"subject": "Windows", "hop": 2}
+{"subject": "iOS", "hop": 2}
+{"subject": "macOS", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "Lucinda Southworth", "hop": 2}
+{"subject": "Marconi Prize", "hop": 2}
+{"subject": "PageRank algorithm", "hop": 2}
+{"subject": "Stanford University", "hop": 2}
+{"subject": "Google", "hop": 2}
+{"subject": "LinkedIn", "hop": 2}
+{"subject": "Mozilla Corporation", "hop": 2}
+{"subject": "Pacific Time Zone", "hop": 2}
+{"subject": "Santa Clara County", "hop": 2}
+{"subject": "Silicon Valley", "hop": 2}
+{"subject": "Symantec", "hop": 2}

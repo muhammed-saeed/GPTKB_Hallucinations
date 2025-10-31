@@ -1,0 +1,219 @@
+[
+  {
+    "subject": "DAX 40 Index",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:33:48"
+  },
+  {
+    "subject": "Adidas",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Airbus",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Allianz",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "BASF",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "BMW",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Bayer",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "DAX 30 Index",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "DAX indices",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Daimler Truck",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Deutsche Bank",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Deutsche Börse",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Deutsche Post",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Deutsche Telekom",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Deutscher Aktienindex",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "E.ON",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Euro",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "European Union",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Frankfurt Stock Exchange",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "German Stock Index",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Germany",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "MDAX",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Mercedes-Benz Group",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "RWE",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "SAP",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "SDAX",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Siemens",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Siemens Energy",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "TecDAX",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Volkswagen",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  },
+  {
+    "subject": "Zalando",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:35:19"
+  }
+]

@@ -1,0 +1,50 @@
+[2025-10-31T20:24:02.952652] subject=Benjamin Franklin Medal
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_runner.py", line 495, in _elicitation_and_ner_non_openai
+    write_triples_accepted(fdb, acc)
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/db_models.py", line 136, in write_triples_accepted
+    cur.executemany(
+sqlite3.InterfaceError: bad parameter or other API misuse
+
+[2025-10-31T20:30:32.934065] subject=MBTA Commuter Rail
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/models.py", line 820, in generate
+    yield from self.raw.stream(chunk_size, decode_content=True)
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/response.py", line 1088, in stream
+    yield from self.read_chunked(amt, decode_content=decode_content)
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/response.py", line 1248, in read_chunked
+    self._update_chunk_length()
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/response.py", line 1178, in _update_chunk_length
+    raise ProtocolError("Response ended prematurely") from None
+urllib3.exceptions.ProtocolError: Response ended prematurely
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_runner.py", line 534, in _elicitation_and_ner_non_openai
+    out = ner_llm(ner_messages, json_schema=ner_schema)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/factory.py", line 118, in _gen
+    return client.generate(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/deepseek_client.py", line 81, in generate
+    response = requests.post(url, headers=headers, json=body, timeout=90.0)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 746, in send
+    r.content
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/models.py", line 902, in content
+    self._content = b"".join(self.iter_content(CONTENT_CHUNK_SIZE)) or b""
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/models.py", line 822, in generate
+    raise ChunkedEncodingError(e)
+requests.exceptions.ChunkedEncodingError: Response ended prematurely
+

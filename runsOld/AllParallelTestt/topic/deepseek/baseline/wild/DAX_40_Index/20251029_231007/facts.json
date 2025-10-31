@@ -1,0 +1,6044 @@
+{
+  "accepted": [
+    {
+      "subject": "Allianz",
+      "predicate": "CEO",
+      "object": "Oliver Bäte",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "acquisition",
+      "object": "Fireman's Fund Insurance Company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "acquisition",
+      "object": "RIAS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "annualReportPublished",
+      "object": "in March",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "boardSize",
+      "object": "10 members",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "brandSlogan",
+      "object": "Bringing confidence to life",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "clientBase",
+      "object": "millions of customers worldwide",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "clientLoyaltyProgram",
+      "object": "Allianz Bonus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "cofounderName",
+      "object": "Carl von Thieme",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "cofounderName",
+      "object": "Wilhelm von Finck",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "communityInvolvement",
+      "object": "Allianz Foundation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "cooperatesWith",
+      "object": "World Bank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "creditRating",
+      "object": "AA from S&P",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "customerSupportChannel",
+      "object": "Allianz customer portal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "developedProduct",
+      "object": "cyber insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "employeeProgram",
+      "object": "Allianz cares initiative",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "expandedGlobally",
+      "object": "in the 20th century",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "expansionIntoMarket",
+      "object": "China",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "focusArea",
+      "object": "sustainable investing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "focusIndustry",
+      "object": "aviation insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "focusTargetMarket",
+      "object": "emerging economies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "formedJointVenture",
+      "object": "with other financial firms",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "founded",
+      "object": "1890",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "founder",
+      "object": "Carl von Thieme",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "founder",
+      "object": "Wilhelm von Finck",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "growthStrategy",
+      "object": "mergers and acquisitions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasBrand",
+      "object": "Allianz Global Investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasBrand",
+      "object": "Euler Hermes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasBrand",
+      "object": "PIMCO",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasGlobalPresence",
+      "object": "in more than 70 countries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasLegalEntity",
+      "object": "Allianz SE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasRating",
+      "object": "high from agencies like S&P",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasSubsidiary",
+      "object": "Allianz Global Corporate & Specialty",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasSubsidiary",
+      "object": "Allianz Investment Management",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hasWinningRecord",
+      "object": "in insurance industry awards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "headquartersLocation",
+      "object": "Munich, Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "hedgingInstrument",
+      "object": "derivatives",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "historicalRole",
+      "object": "provided insurance during both World Wars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "holdsPartnership",
+      "object": "FC Bayern Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "holdsPartnership",
+      "object": "Olympic Games",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "industry",
+      "object": "insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "innovativeService",
+      "object": "telematics-based insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "instanceOf",
+      "object": "multinational financial services company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "insures",
+      "object": "major sports events",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "investmentStrategy",
+      "object": "diversified portfolio",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "involvedIn",
+      "object": "climate risk management",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "involvedInControversy",
+      "object": "Nazi era business activities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "isComponentOf",
+      "object": "DAX stock index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "keyClientSector",
+      "object": "businesses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "keyClientSector",
+      "object": "individuals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "keyClientSector",
+      "object": "institutional investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "keyProductLine",
+      "object": "corporate insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "keyShareholder",
+      "object": "BlackRock",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "legalForm",
+      "object": "Aktiengesellschaft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "listedOnExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "majorCompetitor",
+      "object": "AXA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "majorCompetitor",
+      "object": "Generali",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "majorCompetitor",
+      "object": "Zurich Insurance Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "managesAssets",
+      "object": "over 2 trillion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "marketCapitalization",
+      "object": "over 80 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "merger",
+      "object": "with other insurers historically",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "numberOfEmployees",
+      "object": "over 150,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "offersDigitalServices",
+      "object": "Allianz Direct",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "offersHealthProducts",
+      "object": "health insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "offersRetirementProducts",
+      "object": "pension plans",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "officialLanguage",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesDivision",
+      "object": "Allianz Technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesInRegion",
+      "object": "Americas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesInRegion",
+      "object": "Asia-Pacific",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesInRegion",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesInRegion",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesSector",
+      "object": "reinsurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "pioneeredInsurance",
+      "object": "automotive insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "platformForClients",
+      "object": "Allianz app",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "premiumIncomeSource",
+      "object": "insurance premiums",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "providesService",
+      "object": "asset management",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "providesService",
+      "object": "life insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "providesService",
+      "object": "property and casualty insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "publishesResearch",
+      "object": "Allianz Risk Barometer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "regulatoryBody",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "riskCapital",
+      "object": "solvency capital",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "riskManagementFocus",
+      "object": "catastrophe modeling",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "roleInEconomy",
+      "object": "stabilizing financial markets",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "setUpTrustFund",
+      "object": "for Holocaust survivors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "sponsorsEvent",
+      "object": "Allianz Football cUP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "sponsorsStadium",
+      "object": "Allianz Arena",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "sponsorsStadium",
+      "object": "Allianz Parque",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "sponsorsStadium",
+      "object": "Allianz Stadium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "supportedCause",
+      "object": "disaster relief",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "supportsCulture",
+      "object": "Allianz Cultural Foundation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "supportsInitiative",
+      "object": "UN Principles for Sustainable Insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "sustainabilityGoal",
+      "object": "carbon neutrality by 2050",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "tickerSymbol",
+      "object": "ALV",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "totalAssets",
+      "object": "over 1 trillion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "totalRevenues",
+      "object": "over 150 billion euros annually",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "usesTechnology",
+      "object": "artificial intelligence in claims processing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "base date is",
+      "object": "30 December 2020",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "base value is",
+      "object": "1000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "benchmark designation is often",
+      "object": "neutralized index performance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "calculation method is",
+      "object": "market capitalization weighted",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "calculations adjust for",
+      "object": "corporate action events like capital increases",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "components are selected by",
+      "object": "annual primary and quarterly secondary reviews",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "composition constituents are labeled according to",
+      "object": "fast entry and fast exit framework",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "constituent review sources for rebalancing include",
+      "object": "scheduled trading meetings documentation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "covers sectors such as",
+      "object": "automotive",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "covers sectors such as",
+      "object": "consumer goods",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "covers sectors such as",
+      "object": "financial services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "covers sectors such as",
+      "object": "healthcare",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "covers sectors such as",
+      "object": "technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "cross validates with",
+      "object": "ESMA endorsed data reports",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "displays in percentages or",
+      "object": "normalized index points",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "dissemination covers European time zone",
+      "object": "Frankfurt venue trading hours",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "ensures representation of",
+      "object": "large and medium market capitalization firms",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "features",
+      "object": "3-second intervals updates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "features",
+      "object": "real time calculation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "gains interest from",
+      "object": "global institutional investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "has policy",
+      "object": "regular quarterly adjustment of shares used for index calculation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "has total constituent count of",
+      "object": "40 firms",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "includes balance rules such as",
+      "object": "minimum 15% for certain index segments",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "includes components from",
+      "object": "combined lists of DAX and MDAX indices",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "index number identifier is",
+      "object": "846967",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "index symbol is",
+      "object": "CDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "instanceOf",
+      "object": "equity market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "investment products supported by",
+      "object": "exchange traded funds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "investment products supported by",
+      "object": "futures contracts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "investment products supported by",
+      "object": "options contracts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "investment volume of products linked to",
+      "object": "billions of Euros annually",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "is calculated by",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "is part of",
+      "object": "Deutsche Börse Group indices family",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "is transparent by releasing for",
+      "object": "free download of constituent lists",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "market segmentation covers",
+      "object": "Advanced Segments and General Standard companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "performance measurement frequently used for",
+      "object": "mutual fund and pension fund benchmarking",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "replaced index",
+      "object": "HDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "strives for",
+      "object": "diversification across major segments",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "tracks performance of",
+      "object": "top 40 German companies by market capitalization and trading volume",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "transparency rules derived from",
+      "object": "EU Benchmarks Regulation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "uses Xetra electronic trading system for",
+      "object": "exchange trading of underlying shares",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "uses for simulation",
+      "object": "micro and macro analysis of German equity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "uses for weighting",
+      "object": "LHA free float shares assumption",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "was launched in",
+      "object": "December 2020",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "website transparency data includes",
+      "object": "quarterly fact sheets",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "weighting factor threshold across two segments combined is",
+      "object": "10% for prime standard and 15% for general standard",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Composite DAX",
+      "predicate": "weighting factor type is",
+      "object": "free float market capitalization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "1988LowestClose",
+      "object": "970 points",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "adjustsFor",
+      "object": "dividend payments",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "all_time_highDate",
+      "object": "March 8, 2021",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "all_time_highValue",
+      "object": "15,236 points",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "baseDate",
+      "object": "December 31, 1987",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "baseValue",
+      "object": "1,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "calculationMethod",
+      "object": "free float market capitalization weighted",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "criteriaIncludes",
+      "object": "free float",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "criteriaIncludesMinTurnover",
+      "object": "yes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "derivativeTraded",
+      "object": "futures",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "derivativeTraded",
+      "object": "options",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "expansionYear",
+      "object": "2021",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "globalRankByMarketCap",
+      "object": "top_twelve",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "hasCurrency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "hasSector",
+      "object": "automotive",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "hasSector",
+      "object": "chemicals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "hasSector",
+      "object": "finance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "instanceOf",
+      "object": "blue chip stock market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "isPartOf",
+      "object": "EURO STOXX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "launchYear",
+      "object": "1988",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Adidas AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Allianz SE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "BASF SE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "BMW AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Daimler Truck Holding AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Deutsche Bank AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Deutsche Post AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "E.ON SE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Mercedes-Benz Group AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "SAP SE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Siemens AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "memberCompany",
+      "object": "Volkswagen AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "newConstituentCount",
+      "object": "40",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "newName",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "numberOfConstituents",
+      "object": "30",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "operatedBy",
+      "object": "Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "personKnownFor",
+      "object": "Frank Mella",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "priceDetermination",
+      "object": "performance index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "primaryMarket",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "purpose",
+      "object": "gauge of German economic health",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "referenceForGermanInvestors",
+      "object": "commonly used",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "regularReviews",
+      "object": "quarterly",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "regulationBody",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "replaced",
+      "object": "Deutsche Aktienindex",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "represents",
+      "object": "German economy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "similarToMDax",
+      "object": "MDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "similarToSDax",
+      "object": "SDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "totalReturnIndex",
+      "object": "DAXtotal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "trackedVia",
+      "object": "ETF",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "tradingHoursEnd",
+      "object": "5:30 PM CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "tradingHoursStart",
+      "object": "9:00 AM CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "tradingVenue",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "useMotivation",
+      "object": "benchmark",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "usesTicker",
+      "object": "^GDAXI",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "basedInCountry",
+      "object": "Germany",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "calculates",
+      "object": "performance total return index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "contains",
+      "object": "40 major German companies",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "criticalGermanCompaniesMember",
+      "object": "Allianz",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "criticalGermanCompaniesMember",
+      "object": "SAP",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "criticalGermanCompaniesMember",
+      "object": "Siemens",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "criticalGermanCompaniesMember",
+      "object": "Volkswagen",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "dataCalculatedFrom1960WithBaseDate",
+      "object": "June 30 1988",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "expansionFromDAX30OccurredIn",
+      "object": "2021",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "instanceOf",
+      "object": "stock market index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "launchedOfficially",
+      "object": "July 1 1988",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "numberOfIndexMembersSetAt",
+      "object": "40 since September 2021",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "operatedBy",
+      "object": "Deutsche Börse",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "originalSuiteCompanion",
+      "object": "Composite DAX",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "previousName",
+      "object": "Deutscher Aktienindex",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "profitabilityAndRisk",
+      "object": "broad perspective measurement for German equity investments",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "rebalancedQuarterly",
+      "object": "true",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "regionalSegmentTagged",
+      "object": "Euronext official service identity listed name economic relations identity active internal scale weight representative cross validation EU portal EUR zone capital formation activity primary indicator target markets recognized investment reference nationally international index providers compiled following similar indices attributed US Dow UK Forex Switzerland Portugal EU region dynamics aggregated overall core EURO base medium effect similar spread weights main capital ratio rating methodology comparable extension",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "regulatesIndustryOutlook",
+      "object": "industrial sector monitoring uses weighted GDP adjusted portfolio automation EUR capital injections potential trend rate matrix annual compounded projection methodology stability index median benchmark reference corporate performance measured timely fiscal health balance outputs profitability adjusted acceptable risk covered margin call insurance regulations integrated accounting verification",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "selection",
+      "object": "based on market capitalization and stock exchange turnover",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "servesAsUnderlying",
+      "object": "futures, options, exchange-traded funds",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "tracks",
+      "object": "performance of largest German listed companies",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "translationIntoEnglish",
+      "object": "German Stock Index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "valuedUsing",
+      "object": "free float market capitalization",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "wasPreviouslyKnownAs",
+      "object": "DAX 30 Index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "weight",
+      "object": "optimization standard based on 90 percent one day value-at-risk eligible weighting ratio decision enforcement unit guidelines methodology provisions maximum factor 10 review quality qualifications package optimization variable total eligibility decision ratification member professional committee series accreditation certification issued system governance requirement standards framework assessed maximum weighting condition corporation selection framework controlled free floating capital traded Frankfurt Stock Exchange integrated Xetra fully automated electronic trading system framework EU capital law regulations stipulates benchmarking data machine continuous streaming prime module regulatory practice secondary qualification framework transparent extended data server integration audit trail interface construction fully compliable trading reports exchanged independently within unified EURO national territory digital frame active internationally traded brokerage regional management systems accepted accuracy information service",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "adjstItUpWeventFuncPastRe",
+      "object": "Historical Market Indicators",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "altServNonProdNarc",
+      "object": "Financial Q Data Dwh servTARBU",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "bollDecWeedDeloyPTranNon",
+      "object": "XactTradeTrader Station PDQ",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "consumerDivisionGenerate",
+      "object": "QBED",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "denSecSibling",
+      "object": "TradeGate Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "formerName",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "foundedIn",
+      "object": "1992",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "fusionedParts",
+      "object": "FWB Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "headquartersLocation",
+      "object": "Frankfurt, Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hostDerProductSwapaClos",
+      "object": "Structured and Hybridsecloser",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "indUSRevenueStream",
+      "object": "commissionOnBoughtGood",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "industry",
+      "object": "financial services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "infoProdutCtdIRSDopOffList",
+      "object": "CoupaTechnicities for IDeaxce",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "instanceOf",
+      "object": "exchange operating company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "intendStructuralSynerg",
+      "object": "merger attempt from LSEG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "listDerivativeProducts",
+      "object": "futures",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "listDerivativeProducts",
+      "object": "options",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "listProducts",
+      "object": "bonds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "listProducts",
+      "object": "stocks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "mNcdTypeSumFromFullTList",
+      "object": "ETF Commod Based Dutch Book",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "managerStatusInPregDevFirm",
+      "object": "MonitorFlow Media Relations US",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "offTradeMarketPplsFxmn",
+      "object": "Spot Market Volume Broker",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operates",
+      "object": "Eurex derivatives exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operates",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operates",
+      "object": "Xetra electronic trading platform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "ownPowerIndex",
+      "object": "MDAX index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "ownPowerIndex",
+      "object": "SDAX index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "ownPowerIndex",
+      "object": "TecDAX index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "postTradingClearanceBy",
+      "object": "Clearstream",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "powerIndex",
+      "object": "DAX index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "providesTrading",
+      "object": "derivatives",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "providesTrading",
+      "object": "equities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "stockTicker",
+      "object": "DB1",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "sysOContractFilComIndIndc",
+      "object": "Twister Terminal Inform Exe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "systemOfOrderfulfillment",
+      "object": "Auction",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "systemOfOrderfulfillment",
+      "object": "continuous trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "totalMembershipDomain",
+      "object": "European SSE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "tradingFloorAlsoKnown",
+      "object": "Parkett at Eschersheimer Landstr.",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "abbreviation",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "annual performance data dates back",
+      "object": "to 1988",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "as of summer 2019 scope was 30 largest based on order book volume and",
+      "object": "market capitalization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "base date",
+      "object": "December 31, 1987",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "base value",
+      "object": "1000 points",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "calculation method",
+      "object": "performance index (free float market capitalization-weighted)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "can be invested in through",
+      "object": "ETFs and index funds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "constitutes flagship index of",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "daily calculation occurs",
+      "object": "every 15 seconds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "had major decline in",
+      "object": "2008 financial crisis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "helped popularize ETF investing among",
+      "object": "German retail investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "includes as constituent",
+      "object": "Allianz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "includes as constituent",
+      "object": "Deutsche Bank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "includes as constituent",
+      "object": "SAP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "includes as constituent",
+      "object": "Siemens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "includes as constituent",
+      "object": "Volkswagen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "includes companies from variety of sectors",
+      "object": "automotive, financial, technology, healthcare, etc.",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "instanceOf",
+      "object": "stock index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "is constructed for",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "is managed by",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "is part of",
+      "object": "European benchmark indices",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "main competitors indices include",
+      "object": "CAC 40 from France and FTSE 100 from UK",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "members newly included September 2021 expansions were up to ten constituents reported requiring volume considerations revised weight factor methodology added thereafter",
+      "object": "see Deutsche Börse official communication",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "names a successor theoretical index for selection process",
+      "object": "DAX 100 before DAX's inception",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "primary exchange for trading",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "regular trading hours",
+      "object": "9:00 AM to 5:30 PM CEST",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "represents",
+      "object": "the performance of the 40 largest German companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "serves reference value for structured financial products such as certificates or warrants",
+      "object": "yes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "specifications calculated in",
+      "object": "Euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "translates to",
+      "object": "German Stock Index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "updated",
+      "object": "quarterly by Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "used as a benchmark for",
+      "object": "German and European equity investments",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "uses free float to calculate companies",
+      "object": "excluding strategic shareholdings in market cap",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "uses performance index calculation",
+      "object": "reinvests dividends automatically",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "was extensived",
+      "object": "from 30 to 40 constituents in September 2021",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borderedToWater",
+      "object": "Baltic Sea",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borderedToWater",
+      "object": "North Sea",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "collectLifeNoteWoodcraftHistory",
+      "object": "Richels open central libraries city archives education system work fun craft fair festivals films sports traditions from many foreign entries influencing language simple melodies ethnic dance beer bread diverse elements lasting impression design travel long time inspired scholars present today love friends global context history religion also giving positive innovations approach manufacturing trades standards engineering achievements systems vehicles machines music instruments devices across continents green nature mountain forest river coast urban scene metro old new towns municipalities leisure parks cinema theatre concert hall gallery stadium professional clubs theater festivals all fun continuous life sciences biotechnology crafts economy strategy often based country main GDP Europe strength production top research university library museums beautiful peace low crime good sustainability successful large welfare attractions host competitions tourists continuously welcomed opportunities mix legacy working standards professional history Nobel Laureates citizens contributions learning improvement well being health old care trade exports cars chemicals machines electronics energy health info tech steel print publications music pharmaceutical base over centuries past times future tomorrow remembering historical lessons diversity stories kind deep enough covered essence peaceful living together greatness number volume variety beautiful long vast rich past created major events big achievements inspiring generations local every heart simple complex overall diverse embracing sustainable prosperous happy present responsible thriving future hope trust reflect ethical values great possibilities living loved even mystery fairy tale known dreams heritage times cultural enlightenment pride industrial technological artistic innovations German culture philosophy literature scientific advancements political leadership life everyday music language education travel hospitality cuisines public transport innovation environment influence global stage positive reputation quality products reputation worldwide transparency trust equality economic models long-term strategies reforms corporate governance efficient management practices solidarity respect humanistic awareness reflection higher learnign deeper dialogic understanding ethical progress memorable milestones excellence in arts leading example national optimism co-operation international mutual goals diplomatic importance long-established traditions democracy constitutional law transparent justice systems capacity leadership resiliency transformations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "constructedBig",
+      "object": "Cologne Cathedral as landmark",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "constructedSpace",
+      "object": "Neuschwanstein Castle in Bavaria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "doesIncludeState",
+      "object": "Bavaria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "doesIncludeState",
+      "object": "Schleswig-Holstein",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "doesNotAllow",
+      "object": "speed limits on major highways",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "firstChancellorAfterWWII",
+      "object": "Konrad Adenauer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "goesBackCenturies",
+      "object": "Teutonic roots and Holy Roman heritage",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadArtist",
+      "object": "Wolfgang Amadeus Mozart worked in German states",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadChancellor",
+      "object": "Angela Merkel from 2005 to 2021",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadComposer",
+      "object": "Ludwig van Beethoven",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadInventor",
+      "object": "Johannes Gutenberg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadLeaders",
+      "object": "Adolf Hitler was dictator from 1933 to 1945",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadScientist",
+      "object": "Albert Einstein",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadScientist",
+      "object": "Max Planck",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadUSAction",
+      "object": "Marshall Plan helped rebuild after war",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hadWriter",
+      "object": "Johann Wolfgang von Goethe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasCanals",
+      "object": "connected by Rhine-Main-Danube Canal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasCapital",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasClimateModerate",
+      "object": "temperate seasonal climate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasCurrency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasFlag",
+      "object": "black red and gold tricolor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasGovernmentForm",
+      "object": "federal parliamentary republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasHeadOfGovernment",
+      "object": "Chancellor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasHeadOfState",
+      "object": "President",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasHighestMountain",
+      "object": "Zugspitze",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMapLegend",
+      "object": "ninth largest country by population in Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNationalAnthem",
+      "object": "Das Lied der Deutschen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNationalDay",
+      "object": "German Unity Day on October 3rd",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "Austria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "Belgium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "Czech Republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "Denmark",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "France",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "Luxembourg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "Netherlands",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "Poland",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNeighbor",
+      "object": "Switzerland",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasOfficialLanguage",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasPopulation",
+      "object": "over 83 million people",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "historicalEvent",
+      "object": "World War I involvement",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "historicalEvent",
+      "object": "World War II participation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "instanceOf",
+      "object": "country",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "integralClauseEducation",
+      "object": "national curriculum system involving local national training goals support standards high involvement external students outside consistent both bilingual teaching partially though impact dual professionalism regional differing handling integrating additional cultural special event religious holiday dates learning language environmental civic history cross cutting policy efforts independent media coordination funding arts health specialist career qualifications public initiative development coordination institutions models early preparation training enrollment summer common thematic sustainability research solid concept personal social competencies interdisciplinary transferability possible mechanisms collective networks strength presence established diverse historic durable progressive style efficiency dynamics productivity record combined record meaningful engagement ambition principles empowerment",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isFamousForBrand",
+      "object": "Adidas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isFamousForBrand",
+      "object": "BMW",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isFamousForBrand",
+      "object": "Mercedes-Benz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isFamousForBrand",
+      "object": "Volkswagen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isFamousForInvention",
+      "object": "printing press by Johannes Gutenberg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isKnownFor",
+      "object": "Oktoberfest",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isMemberOf",
+      "object": "European Union",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isMemberOf",
+      "object": "G7",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isMemberOf",
+      "object": "NATO",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "ledExploration",
+      "object": "Martin Behaim made important globes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "ledInResearch",
+      "object": "automotive engineering",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "locatedInRegion",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "peaceFriendAround",
+      "object": "France leading to EU partnership",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "realActionDiplomacyMultilateralContributionFramework",
+      "object": "Good Neighbor Relationship Luxembourg and near integration since 1870's changing association ending post-unity adaptations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "realHeroBaden",
+      "object": "Grossherzog Friedrich I worked with Swiss neighbors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "realTreasureGeographyIntersectionMultipleRelations",
+      "object": "regional cuisines and celebration like Fasching winter solstice",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "reunificationChancellor",
+      "object": "Helmut Kohl",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "strongImaginationLikeMarbles",
+      "object": "Marvel Comics were translated into German shared internationally",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "thanksCulture",
+      "object": "contributions from European neighbors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wasDefinedAfter",
+      "object": "West and East Germany reunification in 1990",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wasDividedInto",
+      "object": "West Germany and East Germany after WWII",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wasFoundedIn",
+      "object": "1871 under Wilhelm I",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wasPartOf",
+      "object": "Holy Roman Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "EnglishMeaning",
+      "object": "Systems, Applications, and Products in Data Processing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisitions",
+      "object": "Ariba",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisitions",
+      "object": "Concur Technologies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisitions",
+      "object": "Qualtrics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisitions",
+      "object": "SuccessFactors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisitions",
+      "object": "Sybase",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "annualConferenceName",
+      "object": "SAPPHIRE NOW",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "annualRevenue",
+      "object": "over €27 billion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "awardsGainedNamesLikeSaaS",
+      "object": "Gartner Magic Quadrant Leader",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "businessModelCategory",
+      "object": "B2B",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "cloudPlatform",
+      "object": "SAP Business Technology Platform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "companyType",
+      "object": "Aktiengesellschaft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "contributionIndustriesLike",
+      "object": "healthcare",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "contributionIndustriesLike",
+      "object": "manufacturing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "contributionIndustriesLike",
+      "object": "retail",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "currentCEO",
+      "object": "Christian Klein",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "customerBase",
+      "object": "over 400,000 customers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "customerBaseType",
+      "object": "large enterprises",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "customerIncludeCompany",
+      "object": "Coca-Cola",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "customerIncludeCompany",
+      "object": "Mercedes-Benz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "customerIncludeCompany",
+      "object": "Nestlé",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "customerIncludeCompany",
+      "object": "Procter & Gamble",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "designChief",
+      "object": "Sam Yen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "developerCommunity",
+      "object": "SAP Community",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "diversityEffortsCampaingsOffers",
+      "object": "Women in Technology programs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "employeeSurveysAdministeredAre",
+      "object": "annual pulse surveys",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "environmentalInitiativesOrganization",
+      "object": "SAP Ambassadors for Good",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "firstCustomer",
+      "object": "Imperial Chemical Industries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "foundedInDay",
+      "object": "1",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "foundedInMonth",
+      "object": "April",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "foundedInYear",
+      "object": "1972",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "foundedLocation",
+      "object": "Weinheim, Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founders",
+      "object": "Claus Wellenreuther",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founders",
+      "object": "Dietmar Hopp",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founders",
+      "object": "Hans-Werner Hector",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founders",
+      "object": "Hasso Plattner",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founders",
+      "object": "Klaus Tschira",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "fullName",
+      "object": "Systeme, Anwendungen und Produkte in der Datenverarbeitung",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "hasWorkWithGovernmentsCountry",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "headquartersLocation",
+      "object": "Walldorf, Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "historicalFirstsPartOfWhatIndustryInWhichCountries",
+      "object": "integrated business software in Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "hobbiesOnFoundationPlansSourceCountriesNamedLiker",
+      "object": "sports sponsorship like SAP Arena",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "hymneNotableFansCorporatesName",
+      "object": "100 Best Companies to Work For",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "inauguralSubsidiaryYear",
+      "object": "1980",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "industry",
+      "object": "enterprise software",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "industrySector",
+      "object": "technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "initialProductReleaseYear",
+      "object": "1973",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "innovationAreas",
+      "object": "business analytics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "innovationAreas",
+      "object": "machine learning",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "innovationAreas",
+      "object": "robotic process automation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "instanceOf",
+      "object": "software company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "isPublicCompany",
+      "object": "yes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "keyProduct",
+      "object": "SAP ERP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "mainCompetitorsInclude",
+      "object": "Microsoft Dynamics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "mainCompetitorsInclude",
+      "object": "Oracle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "marketArea",
+      "object": "global",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "marketCap",
+      "object": "over €120 billion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "marketCapYear",
+      "object": "2023",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "numberOfEmployees",
+      "object": "over 100,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "numberOfPatentsGranted",
+      "object": "thousands",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "officialWebsite",
+      "object": "sap.com",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "operates",
+      "object": "in over 180 countries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "partnerships",
+      "object": "Google",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "partnerships",
+      "object": "IBM",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "partnerships",
+      "object": "Microsoft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "pioneers",
+      "object": "real-time data processing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productCategory",
+      "object": "enterprise resource planning software",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP Business Suite",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP CRM",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP ERP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP HANA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP R/1",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP R/2",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP R/3",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP S/4HANA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP SCM",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "productsDeveloped",
+      "object": "SAP SRM",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "qualityAwardsReceived",
+      "object": "German Innovation Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "regionalManagementStructuresName",
+      "object": "SAP America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "regionalManagementStructuresName",
+      "object": "SAP Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "regionalManagementStructuresName",
+      "object": "SAP EMEA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "researchInstituteFounded",
+      "object": "SAP Innovation Center Network",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "responseGlobaLandsmarksRelationsSite",
+      "object": "innovation center in Potsdam, Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "revenueYear",
+      "object": "2022",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "significantMilestoneProductReleaseName",
+      "object": "SAP Business One",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "significantMilestoneProductReleaseYear",
+      "object": "2002",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "socialResponsibilityPrograms",
+      "object": "SAP Purpose Network",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "softwareArchitecture",
+      "object": "client-server architecture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "standsForthInFortuneRankLatestNumberTimesYearsList",
+      "object": "Fortune Global 500",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "stockSymbolNYSE",
+      "object": "SAP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "supportsEducationOrganization",
+      "object": "SAP University Alliances",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "supportsNonprofitOrganization",
+      "object": "SAP Social Sabbatical",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "technologyFocus",
+      "object": "Internet of Things",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "technologyFocus",
+      "object": "artificial intelligence",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "technologyFocus",
+      "object": "cloud computing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "technologyUsed",
+      "object": "SAP ABAP programming language",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "userEventsOrganized",
+      "object": "TechEd conferences",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "workLifeProgramsOffer",
+      "object": "flexible working arrangements",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "acquired",
+      "object": "Dade Behring",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "acquired",
+      "object": "Emerson's industrial software business",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "acquired",
+      "object": "UGS Corporation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "acquiredCompany",
+      "object": "Dresser-Rand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "acquiredCompany",
+      "object": "Mentor Graphics for 4.5 billion dollars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "brandValue",
+      "object": "Billions of euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "built",
+      "object": "First European electric street lighting",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "businessFocus",
+      "object": "Digitalization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "businessFocus",
+      "object": "Sustainability",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "coFounded",
+      "object": "German Electrical Engineering Society",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "collaborations",
+      "object": "Stratasys",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "competitor",
+      "object": "ABB",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "competitor",
+      "object": "General Electric",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "competitor",
+      "object": "Philips",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "contributedTo",
+      "object": "Indo-European telegraph line",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "develops",
+      "object": "Digital twin technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "employeeNationalities",
+      "object": "Diverse global workforce",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "environmentalFocus",
+      "object": "Carbon neutrality by 2030",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "equipmentUsedIn",
+      "object": "Power plants worldwide",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "establishedProgram",
+      "object": "Siemens Scholarship Program",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "founded",
+      "object": "October 1, 1847",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "foundedBy",
+      "object": "Werner von Siemens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "foundingLocation",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "hasAsset",
+      "object": "Siemensstadt in Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "hasDivision",
+      "object": "Digital Industries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "hasDivision",
+      "object": "Mobility",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "hasDivision",
+      "object": "Smart Infrastructure",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "headquartersLocation",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "headquartersLocation",
+      "object": "Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "historicalFact",
+      "object": "Lost assets post-World War II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "industry",
+      "object": "Conglomerate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "industry",
+      "object": "Electronics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "industry",
+      "object": "Energy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "industry",
+      "object": "Healthcare",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "industry",
+      "object": "Industrial automation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "industry",
+      "object": "Infrastructure",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "instanceOf",
+      "object": "Company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "integrates",
+      "object": "Internet of Things in manufacturing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "involvedIn",
+      "object": "Transatlantic cable",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "keyInnovation",
+      "object": "Electric tram",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "keyInnovation",
+      "object": "First electric elevator",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "keyInnovation",
+      "object": "First pointer telegraph",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "keyInnovation",
+      "object": "World's first electric railway",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "keyPeople",
+      "object": "Ralf P. Thomas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "keyPeople",
+      "object": "Roland Busch",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "marketCap",
+      "object": "140 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "navyContractor",
+      "object": "For German Navy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "netIncome",
+      "object": "4.05 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "numberOfEmployees",
+      "object": "Over 600000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "officesLocations",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "officesLocations",
+      "object": "Erlangen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "officesLocations",
+      "object": "Mumbai",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "officesLocations",
+      "object": "Shanghai",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "officesLocations",
+      "object": "Washington D.C.",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesIn",
+      "object": "Africa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesIn",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesIn",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesIn",
+      "object": "North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesIn",
+      "object": "South America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesPlant",
+      "object": "Gas turbine plant in Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesPlant",
+      "object": "Locomotive factory in Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatingInCountries",
+      "object": "Over 190 countries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatingIncome",
+      "object": "6.47 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "partnership",
+      "object": "Audi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "partnership",
+      "object": "BMW",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "partnership",
+      "object": "NASA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "patentsHeld",
+      "object": "Thousands globally",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "performs",
+      "object": "High voltage direct current transmission",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "pioneered",
+      "object": "Long-distance telegraphy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "positionHeldBy",
+      "object": "CEO",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "positionHeldBy",
+      "object": "CFO",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "positionHeldBy",
+      "object": "Ralf P. Thomas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "positionHeldBy",
+      "object": "Roland Busch",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "produced",
+      "object": "Gas turbines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "produced",
+      "object": "Power transformers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "produced",
+      "object": "Wind turbines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "produced",
+      "object": "X-ray machines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "Automation systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "Building technologies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "Medical imaging equipment",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "Power generation equipment",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "Trains",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "Turbines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "publiclyTraded",
+      "object": "True",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "r&dSpending",
+      "object": "4.8 billion euros annually",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "ranked",
+      "object": "Fortune Global 500 company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "registeredAs",
+      "object": "Aktiengesellschaft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "researchAndDevelopmentCenters",
+      "object": "Bangalore",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "researchAndDevelopmentCenters",
+      "object": "Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "researchAndDevelopmentCenters",
+      "object": "Princeton",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "revenue",
+      "object": "57.14 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "revenueKeySource",
+      "object": "Digital industries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "revenueKeySource",
+      "object": "Industrial automation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "serviceProvision",
+      "object": "Siemens Energy services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "sponsors",
+      "object": "Formula E racing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiary",
+      "object": "Mentor Graphics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiary",
+      "object": "Siemens Digital Industries Software",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiary",
+      "object": "Siemens Energy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiary",
+      "object": "Siemens Financial Services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiary",
+      "object": "Siemens Gamesa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiary",
+      "object": "Siemens Healthineers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiary",
+      "object": "Siemens Mobility",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "supplied",
+      "object": "ICE trains for Deutsche Bahn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "supplied",
+      "object": "Velaro high-speed trains",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "supportsEducation",
+      "object": "Siemens Foundation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "sustainableInitiatives",
+      "object": "EV charging infrastructure",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "sustainableInitiatives",
+      "object": "Green hydrogen solutions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "tickerSymbol",
+      "object": "SIE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "type",
+      "object": "Public company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "usesSlogan",
+      "object": "Ingenuity for Life",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "wikipediaPage",
+      "object": "Siemens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "Beetle design",
+      "object": "Ferdinand Porsche",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "Beetle production end",
+      "object": "2003",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "Beetle production start",
+      "object": "1938",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "CEO",
+      "object": "Oliver Blume",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "Golf first generation",
+      "object": "1974",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "annual revenue",
+      "object": "over 250 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "autonomous driving research",
+      "object": "partnered with Argo AI",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "battery development",
+      "object": "investing in solid-state batteries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "best-selling car",
+      "object": "Volkswagen Golf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "brands",
+      "object": "Volkswagen Commercial Vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "brands",
+      "object": "Volkswagen Passenger Cars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "charitable activities",
+      "object": "supports education and environment",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "classic car",
+      "object": "Volkswagen Karmann Ghia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "cultural impact",
+      "object": "featured in movies and music",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "digital services",
+      "object": "We Connect",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "diversity of products",
+      "object": "cars, SUVs, vans, and electric vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "electric vehicle model",
+      "object": "Volkswagen ID.3",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "electric vehicle model",
+      "object": "Volkswagen ID.4",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "electric vehicle platform",
+      "object": "MEB",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "electric vehicle target",
+      "object": "majority electric sales by 2030",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "emission scandal fines",
+      "object": "billions of dollars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "emission scandal revealed",
+      "object": "2015",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "engine types",
+      "object": "TDI",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "engine types",
+      "object": "TSI",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "environmental initiatives",
+      "object": "investment in renewable energy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "export markets",
+      "object": "over 150 countries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "factory locations",
+      "object": "Brazil",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "factory locations",
+      "object": "China",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "factory locations",
+      "object": "Mexico",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "factory locations",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "first mass-produced car",
+      "object": "Volkswagen Beetle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "flagship model",
+      "object": "Volkswagen Golf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "founder",
+      "object": "Ferdinand Porsche",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "founder relationship",
+      "object": "Adolf Hitler supported its creation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "founding date",
+      "object": "1937",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "founding location",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "global sales volume",
+      "object": "over 8 million vehicles annually",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "headquarters location",
+      "object": "Wolfsburg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "heritage car clubs",
+      "object": "numerous worldwide",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "heritage model",
+      "object": "Volkswagen Type 2",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "heritage model nickname",
+      "object": "Kombi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "heritage model nickname",
+      "object": "VW Bus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "heritage museum",
+      "object": "AutoMuseum Volkswagen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "historical event",
+      "object": "post-war production helped rebuild Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "historical significance",
+      "object": "symbol of German economic recovery",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "instanceOf",
+      "object": "automotive manufacturer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "joint ventures",
+      "object": "FAW-Volkswagen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "joint ventures",
+      "object": "SAIC Volkswagen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "key innovation",
+      "object": "modular transverse toolkit",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "known for",
+      "object": "diesel emission scandal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "known for technology",
+      "object": "direct injection engines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "literal translation",
+      "object": "people's car",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "literary references",
+      "object": "mentioned in various books",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "logo design",
+      "object": "circled V and W",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "logo introduced",
+      "object": "1938",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "loyalty programs",
+      "object": "Volkswagen Driving Experience",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "manufacturing plants count",
+      "object": "over 100 worldwide",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "market position",
+      "object": "one of world's largest carmakers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "model redesign frequency",
+      "object": "every 5-7 years",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "motorsport division",
+      "object": "Volkswagen Motorsport",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "number of employees",
+      "object": "over 650000 worldwide",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "original name",
+      "object": "Gesellschaft zur Vorbereitung des Deutschen Volkswagens mbH",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "parent company",
+      "object": "Volkswagen Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "popular model",
+      "object": "Volkswagen Jetta",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "popular model",
+      "object": "Volkswagen Passat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "popular model",
+      "object": "Volkswagen Polo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "popular model",
+      "object": "Volkswagen Tiguan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "post-war management",
+      "object": "British Army",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "primary market",
+      "object": "worldwide",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "quality ratings",
+      "object": "generally high in reliability",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "racing involvement",
+      "object": "Dakar Rally",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "racing involvement",
+      "object": "World Rally Championship",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "recall events",
+      "object": "multiple for various issues",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "research centers",
+      "object": "multiple in Europe and Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "revenue year",
+      "object": "2022",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "safety features",
+      "object": "Advanced Driver-Assistance Systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "safety features",
+      "object": "Electronic Stability Control",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "sponsorships",
+      "object": "football clubs like VfL Wolfsburg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "stock symbol",
+      "object": "VOW3",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "subsidiaries",
+      "object": "Audi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "subsidiaries",
+      "object": "Bentley",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "subsidiaries",
+      "object": "Bugatti",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "subsidiaries",
+      "object": "Lamborghini",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "subsidiaries",
+      "object": "Porsche",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "subsidiaries",
+      "object": "SEAT",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "subsidiaries",
+      "object": "Skoda",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "supply chain",
+      "object": "global network of parts suppliers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "sustainability goal",
+      "object": "carbon neutrality by 2050",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "transmission types",
+      "object": "DSG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "transmission types",
+      "object": "manual",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "used car program",
+      "object": "Das WeltAuto",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "vehicle testing",
+      "object": "extensive in various climates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "warranty period",
+      "object": "4 years or 50000 miles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "baseline",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

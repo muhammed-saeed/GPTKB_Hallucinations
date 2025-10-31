@@ -1,0 +1,26 @@
+{
+  "seed": "ancient city of Babylon",
+  "seed_slug": "ancient_city_of_Babylon",
+  "domain": "topic",
+  "elicitation_strategy": "calibrate",
+  "ner_strategy": "calibrate",
+  "model": "granite8b",
+  "out_dir": "runs/TestDryRun/topic/granite8b/calibrate/det/ancient_city_of_Babylon/20251029_221411",
+  "profile": "det",
+  "profile_knobs": {
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "top_k": null,
+    "max_tokens": 2000
+  },
+  "max_depth": 1,
+  "max_subjects": 10,
+  "max_facts_hint": 100,
+  "ner_batch_size": 50,
+  "crawler": "crawler_batch_concurrency_topic.py",
+  "python": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python",
+  "command": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/TestDryRun/topic/granite8b/calibrate/det/ancient_city_of_Babylon/20251029_221411 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 1 --max-facts-hint 100 --max-subjects 10 --ner-batch-size 50 --concurrency 10 --temperature 0.0 --top-p 1.0 --max-tokens 2000",
+  "timestamp": "2025-10-29T22:14:11.066063",
+  "batch_mode": false,
+  "effective_concurrency": 10
+}

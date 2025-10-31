@@ -1,0 +1,19 @@
+{
+  "batches": {
+    "batch_6903af9db2748190b5f672b0a157b157": {
+      "id": "batch_6903af9db2748190b5f672b0a157b157",
+      "type": "elicitation",
+      "status": "completed",
+      "input_file_id": "file-6uzRAFf89t6ndx8FgguVin",
+      "output_file_id": "file-8j9ArVHxXntYJiyz3c92r4",
+      "subjects": [
+        {
+          "subject": "TV Series The Big Bang Theory",
+          "hop": 0
+        }
+      ],
+      "requests_path": "runsTerminationTest/gpt4omini/batches/elicitation_20251030_193403_546350_requests.jsonl",
+      "results_path": null
+    }
+  }
+}

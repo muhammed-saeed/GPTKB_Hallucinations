@@ -1,0 +1,8 @@
+{"subject": "Bill Prady", "predicate": "bornIn", "object": "Boston", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasBirthDate", "object": "1960", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "dialogueWriterFor", "object": "Steven Bochco dramas", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "educationLevel", "object": "college", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "productionAssociate", "object": "Marcy Carsey", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "inspirationFor", "object": "Leopold (character idea)", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "fanOf", "object": "comic books", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "socialActivity", "object": "writer panels", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}

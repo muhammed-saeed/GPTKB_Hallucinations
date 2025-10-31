@@ -1,0 +1,151 @@
+{"subject": "Umer Bin Ekhatab", "predicate": "instanceOf", "object": "Person", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umer Bin Ekhatab", "predicate": "instanceOf", "object": "Caliph", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umer Bin Ekhatab", "predicate": "birthYear", "object": "584", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "deathYear", "object": "644", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "birthPlace", "object": "Mecca", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "deathPlace", "object": "Medina", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "knownFor", "object": "Second Caliph of Rashidun Caliphate", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umer Bin Ekhatab", "predicate": "knownFor", "object": "Companion of Prophet Muhammad", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umer Bin Ekhatab", "predicate": "knownFor", "object": "Islamic Conquests", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "knownFor", "object": "Administrative Reforms", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "precededBy", "object": "Abu Bakr", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umer Bin Ekhatab", "predicate": "succeededBy", "object": "Uthman ibn Affan", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umer Bin Ekhatab", "predicate": "title", "object": "Al-Farooq", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "title", "object": "Commander of the Faithful", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "religion", "object": "Islam", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Umer Bin Ekhatab", "predicate": "tribe", "object": "Banu Adi", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "clan", "object": "Quraysh", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "causeOfDeath", "object": "Assassination", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "assassin", "object": "Abu Lu'lu'a Firuz", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "burialPlace", "object": "Al-Masjid an-Nabawi", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "reignStart", "object": "634", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "reignEnd", "object": "644", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "notableAchievement", "object": "Expansion of Islamic Empire", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "notableAchievement", "object": "Establishment of Diwan", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "notableAchievement", "object": "Introduction of Islamic Calendar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "notableAchievement", "object": "Construction of Cities", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "notableAchievement", "object": "Judicial Reforms", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "parent", "object": "Khattab ibn Nufayl", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "parent", "object": "Hantamah bint Hisham", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "spouse", "object": "Zaynab bint Madhun", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "spouse", "object": "Umm Kulthum bint Ali", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "spouse", "object": "Atika bint Zayd", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "child", "object": "Abdullah ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "child", "object": "Hafsa bint Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "child", "object": "Asim ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "child", "object": "Zayd ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "child", "object": "Ubaydullah ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "child", "object": "Abd al-Rahman ibn Umar", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Umer Bin Ekhatab", "predicate": "sibling", "object": "Zayd ibn al-Khattab", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "sibling", "object": "Fatimah bint al-Khattab", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "conversionToIslam", "object": "616", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "migration", "object": "Hijra to Medina", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "migrationYear", "object": "622", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "battle", "object": "Battle of Badr", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "battle", "object": "Battle of Uhud", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "battle", "object": "Battle of the Trench", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Umer Bin Ekhatab", "predicate": "battle", "object": "Conquest of Jerusalem", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "battle", "object": "Conquest of Persia", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "battle", "object": "Conquest of Egypt", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "legacy", "object": "Founder of Islamic Governance", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Umer Bin Ekhatab", "predicate": "legacy", "object": "Promoter of Justice", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "father", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "instanceOf", "object": "Son", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "historicalPeriod", "object": "Early Islamic Era", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "knownFor", "object": "Being a son of Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Abdullah ibn Umar", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abdullah ibn Umar", "predicate": "instanceOf", "object": "Companion of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abdullah ibn Umar", "predicate": "child of", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abdullah ibn Umar", "predicate": "child of", "object": "Zaynab bint Madhun", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abdullah ibn Umar", "predicate": "born in", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abdullah ibn Umar", "predicate": "died in", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abdullah ibn Umar", "predicate": "known for", "object": "Hadith narration", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abdullah ibn Umar", "predicate": "known for", "object": "Piety", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abdullah ibn Umar", "predicate": "occupation", "object": "Scholar", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abdullah ibn Umar", "predicate": "occupation", "object": "Judge", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Abdullah ibn Umar", "predicate": "associated with", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "Caliph", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "birthYear", "object": "573", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Bakr", "predicate": "deathYear", "object": "634", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Bakr", "predicate": "birthPlace", "object": "Mecca", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Bakr", "predicate": "deathPlace", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "Companion of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "father", "object": "Uthman Abu Quhafa", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abu Bakr", "predicate": "spouse", "object": "Qutaylah bint Abd-al-Uzza", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abu Bakr", "predicate": "spouse", "object": "Asma bint Umais", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abu Bakr", "predicate": "spouse", "object": "Habibah bint Kharijah", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abu Bakr", "predicate": "child", "object": "Aisha", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "child", "object": "Abd al-Rahman ibn Abi Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abu Bakr", "predicate": "child", "object": "Abdullah ibn Abi Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abu Bakr", "predicate": "child", "object": "Asma bint Abi Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abu Bakr", "predicate": "child", "object": "Muhammad ibn Abi Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abu Bakr", "predicate": "successor", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "predecessor", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "First Rashidun Caliph", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "reignStart", "object": "632", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Bakr", "predicate": "reignEnd", "object": "634", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Bakr", "predicate": "knownFor", "object": "Ridda Wars", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abu Bakr", "predicate": "knownFor", "object": "Compilation of the Quran", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abu Bakr", "predicate": "title", "object": "Al-Siddiq", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "friend", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "burialPlace", "object": "Al-Masjid an-Nabawi", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "Sahabi", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Bakr", "predicate": "instanceOf", "object": "Islamic Leader", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "instanceOf", "object": "Assassin", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "killed", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "occupation", "object": "Slave", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "occupation", "object": "Craftsman", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "ethnicity", "object": "Persian", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "religion", "object": "Zoroastrianism", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "died", "object": "644 CE", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "causeOfDeath", "object": "Suicide", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Abu Lu'lu'a Firuz", "predicate": "weaponUsed", "object": "Dagger", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Administrative Reforms", "predicate": "instanceOf", "object": "Policy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Administrative Reforms", "predicate": "implementedBy", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Administrative Reforms", "predicate": "occurredDuring", "object": "Rashidun Caliphate", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Establishment of Diwan", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Introduction of Islamic Calendar", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Judicial Reforms", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Military Organization", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Taxation System", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Land Distribution", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Public Welfare Measures", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.75}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Census Conduct", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Postal System", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Standardization of Weights and Measures", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "instanceOf", "object": "Mosque", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "locatedIn", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "builtBy", "object": "Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Tomb of Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Tomb of Abu Bakr", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "contains", "object": "Tomb of Umar", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "expandedBy", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "expandedBy", "object": "Uthman ibn Affan", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "expandedBy", "object": "Caliph Al-Walid I", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "expandedBy", "object": "King Fahd", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "capacity", "object": "Over 1,000,000 worshippers", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "isPartOf", "object": "Islamic holy sites", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "visitedBy", "object": "Pilgrims", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Al-Masjid an-Nabawi", "predicate": "hasSignificance", "object": "Second holiest site in Islam", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Asim ibn Umar", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Asim ibn Umar", "predicate": "father", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Asim ibn Umar", "predicate": "mother", "object": "Umm Kulthum bint Ali", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Asim ibn Umar", "predicate": "grandfather", "object": "Ali ibn Abi Talib", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Asim ibn Umar", "predicate": "grandmother", "object": "Fatimah bint Muhammad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Asim ibn Umar", "predicate": "occupation", "object": "Hadith Narrator", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}
+{"subject": "Asim ibn Umar", "predicate": "deathDate", "object": "700 CE", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Asim ibn Umar", "predicate": "deathPlace", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Asim ibn Umar", "predicate": "religion", "object": "Islam", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Asim ibn Umar", "predicate": "era", "object": "Early Islamic Period", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Assassination", "predicate": "instanceOf", "object": "Event", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 1.0}
+{"subject": "Assassination", "predicate": "victim", "object": "Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Assassination", "predicate": "perpetrator", "object": "Abu Lu'lu'a Firuz", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Assassination", "predicate": "date", "object": "644 CE", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Assassination", "predicate": "location", "object": "Medina", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Assassination", "predicate": "method", "object": "Stabbing", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.85}
+{"subject": "Assassination", "predicate": "reason", "object": "Personal grievance", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.7}
+{"subject": "Assassination", "predicate": "result", "object": "Death of Umar ibn al-Khattab", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Assassination", "predicate": "result", "object": "Succession by Uthman ibn Affan", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.8}

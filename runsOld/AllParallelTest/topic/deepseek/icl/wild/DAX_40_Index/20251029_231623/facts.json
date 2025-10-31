@@ -1,0 +1,6431 @@
+{
+  "accepted": [
+    {
+      "subject": "Airbus",
+      "predicate": "announcedConcepts",
+      "object": "zero-emission aircraft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "assemblyLocation",
+      "object": "China",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "assemblyLocation",
+      "object": "France",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "assemblyLocation",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "assemblyLocation",
+      "object": "Spain",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "assemblyLocation",
+      "object": "United Kingdom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "assemblyLocation",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "awarded",
+      "object": "contracts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "bestSelling",
+      "object": "A320 family",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "brandIdentity",
+      "object": "European aerospace",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "collaboratesWith",
+      "object": "international partners",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "competesWith",
+      "object": "Boeing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "corporateGovernance",
+      "object": "dual leadership structure",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "country",
+      "object": "France",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "deliveredAircraft",
+      "object": "over 10,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "division",
+      "object": "Airbus Commercial Aircraft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "division",
+      "object": "Airbus Defence and Space",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "division",
+      "object": "Airbus Helicopters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "euSupport",
+      "object": "European launch aid",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "firstAircraft",
+      "object": "A300",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "firstFlight",
+      "object": "1972",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "formerName",
+      "object": "Airbus Industrie",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "foundedIn",
+      "object": "1970",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "founderMember",
+      "object": "Aérospatiale",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "founderMember",
+      "object": "CASA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "founderMember",
+      "object": "Deutsche Airbus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "headquartersIn",
+      "object": "Toulouse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "inCompetitionWith",
+      "object": "Boeing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "innovationFeature",
+      "object": "common cockpit",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "innovationFeature",
+      "object": "fly-by-wire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "instanceOf",
+      "object": "aerospace corporation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "listedOn",
+      "object": "Euronext",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "manufacturedWorldLargest",
+      "object": "A380",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "manufactures",
+      "object": "commercial aircraft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "manufactures",
+      "object": "helicopters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "manufactures",
+      "object": "military aircraft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "manufactures",
+      "object": "space systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "marketPosition",
+      "object": "largest civil aircraft manufacturer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "milestoneAircraft",
+      "object": "A300",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "milestoneAircraft",
+      "object": "A310",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "milestoneAircraft",
+      "object": "A320",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "milestoneAircraft",
+      "object": "A330",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "milestoneAircraft",
+      "object": "A340",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "milestoneAircraft",
+      "object": "A350",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "milestoneAircraft",
+      "object": "A380",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "notableCustomer",
+      "object": "Air France",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "notableCustomer",
+      "object": "British Airways",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "notableCustomer",
+      "object": "Emirates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "notableCustomer",
+      "object": "Lufthansa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "notableCustomer",
+      "object": "Singapore Airlines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "operatesFactories",
+      "object": "multiple countries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "parentCompany",
+      "object": "Airbus SE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "parentCountries",
+      "object": "France",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "parentCountries",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "parentCountries",
+      "object": "Spain",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "productLine",
+      "object": "A220",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "productLine",
+      "object": "A320",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "productLine",
+      "object": "A330",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "productLine",
+      "object": "A340",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "productLine",
+      "object": "A350",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "productLine",
+      "object": "A380",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "qualityCertification",
+      "object": "industry standards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "revenueSource",
+      "object": "aircraft sales",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "stockSymbol",
+      "object": "AIR",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "strategicAlliance",
+      "object": "international partnership",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "subsidiaryOf",
+      "object": "Airbus Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "supplierNetwork",
+      "object": "global",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "sustainabilityGoal",
+      "object": "climate neutrality",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "tradeDispute",
+      "object": "Boeing-Airbus dispute",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Airbus",
+      "predicate": "workforce",
+      "object": "131,000 employees",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "businessSegment",
+      "object": "asset management",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "businessSegment",
+      "object": "life-health insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "businessSegment",
+      "object": "property-casualty insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "customers",
+      "object": "over 100 million",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "employees",
+      "object": "over 150,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "formerName",
+      "object": "Allianz Versicherungs-AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "founded",
+      "object": "1890",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "founder",
+      "object": "Carl von Thieme",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "founder",
+      "object": "Wilhelm Finck",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "globalRank",
+      "object": "largest insurance company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "headquarters",
+      "object": "Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "industry",
+      "object": "asset management",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "industry",
+      "object": "insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "instanceOf",
+      "object": "financial services company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "instanceOf",
+      "object": "insurance company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "legalForm",
+      "object": "Aktiengesellschaft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "majorClients",
+      "object": "corporate clients",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "majorClients",
+      "object": "individual clients",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "marketIndex",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "marketIndex",
+      "object": "Euro Stoxx 50",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "merger",
+      "object": "Allianz and Dresdner Bank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "officialLanguage",
+      "object": "English",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "officialLanguage",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesIn",
+      "object": "Africa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesIn",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesIn",
+      "object": "Australia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesIn",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesIn",
+      "object": "North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "operatesIn",
+      "object": "South America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "rating",
+      "object": "AA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "ratingAgency",
+      "object": "Standard & Poor's",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "revenue",
+      "object": "over 150 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "services",
+      "object": "casualty insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "services",
+      "object": "health insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "services",
+      "object": "life insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "services",
+      "object": "property insurance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "sponsor",
+      "object": "Allianz Arena",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "sponsor",
+      "object": "Formula E",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "sponsor",
+      "object": "Olympic Games",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "subsidiary",
+      "object": "Allianz Global Investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "subsidiary",
+      "object": "PIMCO",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "tickerSymbol",
+      "object": "ALV",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "tickerSymbol",
+      "object": "AZSEY",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Allianz",
+      "predicate": "website",
+      "object": "allianz.com",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "CEO",
+      "object": "Martin Brudermüller",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "acquired",
+      "object": "Ciba",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "climateGoal",
+      "object": "carbon neutral by 2050",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "developed",
+      "object": "synthetic indigo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "employees",
+      "object": "110000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "foundedIn",
+      "object": "1865",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "founder",
+      "object": "Friedrich Engelhorn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "hasDivision",
+      "object": "Agricultural Solutions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "hasDivision",
+      "object": "Chemicals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "hasDivision",
+      "object": "Industrial Solutions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "hasDivision",
+      "object": "Materials",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "hasDivision",
+      "object": "Nutrition & Care",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "hasDivision",
+      "object": "Surface Technologies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "hasSignatureColor",
+      "object": "blue",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "hasSubsidiary",
+      "object": "BASF SE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "headquartersLocation",
+      "object": "Ludwigshafen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "industry",
+      "object": "chemicals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "industry",
+      "object": "performance products",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "industry",
+      "object": "plastics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "instanceOf",
+      "object": "chemical company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "knownFor",
+      "object": "Haber-Bosch process",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "motto",
+      "object": "We create chemistry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "oneOfLargest",
+      "object": "chemical producers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "operatesIn",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "operatesIn",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "operatesIn",
+      "object": "North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "operatesIn",
+      "object": "South America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "owned",
+      "object": "Wintershall Dea",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "products",
+      "object": "catalysts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "products",
+      "object": "coatings",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "products",
+      "object": "paint",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "products",
+      "object": "pesticides",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "products",
+      "object": "polymers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "products",
+      "object": "polyurethane",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "ranked",
+      "object": "Fortune Global 500",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "researchFacilities",
+      "object": "Ludwigshafen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "researchFacilities",
+      "object": "Shanghai",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "revenue",
+      "object": "78.6 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BASF",
+      "predicate": "tickerSymbol",
+      "object": "BAS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "alsoKnownAs",
+      "object": "Bavarian Motor Works",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "annualRevenue",
+      "object": "over 150 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "competitor",
+      "object": "Audi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "competitor",
+      "object": "Mercedes-Benz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "department",
+      "object": "BMW Design",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "electricVehicleDivision",
+      "object": "BMW i",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "financialServices",
+      "object": "BMW Financial Services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "flagshipModel",
+      "object": "BMW 7 Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "formerSubsidiary",
+      "object": "Rover Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "foundedIn",
+      "object": "1916",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "founder",
+      "object": "Gustav Otto",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "founder",
+      "object": "Karl Rapp",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "fullName",
+      "object": "Bayerische Motoren Werke",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "globalOperations",
+      "object": "over 140 countries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "headquartersLocation",
+      "object": "Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "historialOrigin",
+      "object": "aircraft engine manufacturer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "historicalManufacture",
+      "object": "aircraft engines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "iconicModel",
+      "object": "BMW 3 Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "iconicModel",
+      "object": "BMW 5 Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "iconicModel",
+      "object": "BMW 7 Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "instanceOf",
+      "object": "automobile manufacturer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "logoRepresentation",
+      "object": "Bavarian flag colors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "luxuryBrand",
+      "object": "BMW",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "luxurySUVModel",
+      "object": "BMW X5",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "marketIndex",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "marketSymbol",
+      "object": "BMW.DE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "performanceDivision",
+      "object": "BMW M",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "produces",
+      "object": "luxury vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "produces",
+      "object": "motorcycles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "productionPlant",
+      "object": "Dingolfing plant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "productionPlant",
+      "object": "Spartanburg plant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "productionRegion",
+      "object": "Bavaria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "researchCenter",
+      "object": "BMW Group Research and Innovation Centre",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "slogan",
+      "object": "The Ultimate Driving Machine",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "sportsSponsorship",
+      "object": "BMW in motorsport",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "subsidiary",
+      "object": "BMW Motorrad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "subsidiary",
+      "object": "MINI",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "subsidiary",
+      "object": "Rolls-Royce Motor Cars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "BMW",
+      "predicate": "technology",
+      "object": "iDrive infotainment system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "city",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "constituents",
+      "object": "30",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "createdBy",
+      "object": "Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "exchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "financialProduct",
+      "object": "exchange-traded funds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "financialProduct",
+      "object": "futures contracts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "financialProduct",
+      "object": "options contracts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "indexCalculation",
+      "object": "real-time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "indexCommittee",
+      "object": "independent supervisory board",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "instanceOf",
+      "object": "stock market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "knownAs",
+      "object": "Germany's benchmark stock index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "knownFor",
+      "object": "tracking major German corporations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "licensee",
+      "object": "STOXX Ltd",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "longName",
+      "object": "Deutscher Aktienindex",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "marketCapRepresentation",
+      "object": "approximately 80% of German stock market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "marketHours",
+      "object": "Xetra trading system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "measures",
+      "object": "performance of German blue-chip companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "monetaryUnit",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "parentOrganization",
+      "object": "Deutsche Börse Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "provides",
+      "object": "investment benchmarking",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "reconstitution",
+      "object": "quarterly",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "region",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "regulator",
+      "object": "European Securities and Markets Authority",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "relatedTo",
+      "object": "EURO STOXX 50",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "sectorDistribution",
+      "object": "diversified",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "startDate",
+      "object": "1988",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "tradability",
+      "object": "highly liquid",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "tradingHours",
+      "object": "9:00 AM to 5:30 PM CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "website",
+      "object": "dax-indices.com",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 30 Index",
+      "predicate": "weightingMethod",
+      "object": "free-float market capitalization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "baseValue",
+      "object": "1000",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "benchmarkFor",
+      "object": "German stock market",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "exchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "expandedFrom",
+      "object": "30 to 40 companies",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "expansionYear",
+      "object": "2021",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "firstCalculated",
+      "object": "1988",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "Airbus",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "Allianz",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "BASF",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "BMW",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "Daimler Truck",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "Deutsche Bank",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "Deutsche Telekom",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "E.ON",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "Mercedes-Benz Group",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "RWE",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "SAP",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "Siemens",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompany",
+      "object": "Volkswagen",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "instanceOf",
+      "object": "stock market index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "operatedBy",
+      "object": "Deutsche Börse",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "predecessor",
+      "object": "DAX 30 Index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "rebalanceFrequency",
+      "object": "quarterly",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "reviewsConstituents",
+      "object": "quarterly",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "selectionCriteria",
+      "object": "market capitalization",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "selectionCriteria",
+      "object": "trading volume",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "tracks",
+      "object": "40 major German companies",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "tradingHours",
+      "object": "9:00–17:30 CET",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "weightingMethod",
+      "object": "free-float market capitalization",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "CEO",
+      "object": "Martin Daum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "brands",
+      "object": "BharatBenz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "brands",
+      "object": "Freightliner",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "brands",
+      "object": "Fuso",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "brands",
+      "object": "Mercedes-Benz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "brands",
+      "object": "Thomas Built Buses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "brands",
+      "object": "Western Star",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "develops",
+      "object": "electric trucks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "develops",
+      "object": "hydrogen fuel cell vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "employees",
+      "object": "100000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "focusesOn",
+      "object": "zero-emission vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "founded",
+      "object": "2021",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "headquartersLocation",
+      "object": "Stuttgart",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "industry",
+      "object": "automotive",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "instanceOf",
+      "object": "truck manufacturer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "listedOn",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "manufacturingPlants",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "manufacturingPlants",
+      "object": "India",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "manufacturingPlants",
+      "object": "Japan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "manufacturingPlants",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "marketPosition",
+      "object": "global leader in commercial vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "parentCompany",
+      "object": "Daimler AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "predecessor",
+      "object": "Daimler AG Truck Division",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "products",
+      "object": "buses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "products",
+      "object": "commercial vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "products",
+      "object": "trucks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "salesRegions",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "salesRegions",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "salesRegions",
+      "object": "Latin America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "salesRegions",
+      "object": "North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "spunOffFrom",
+      "object": "Mercedes-Benz Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "subsidiary",
+      "object": "Daimler Truck North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "subsidiary",
+      "object": "Mitsubishi Fuso Truck and Bus Corporation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Daimler Truck",
+      "predicate": "tickerSymbol",
+      "object": "DTG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "CEOs",
+      "object": "Christian Sewing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "acquired",
+      "object": "Bankers Trust",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "acquisitionYear",
+      "object": "1999",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "divested",
+      "object": "Postbank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "employees",
+      "object": "85000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "formallyKnownAs",
+      "object": "Deutsche Bank AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "foundedIn",
+      "object": "1870",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "founders",
+      "object": "Adelbert Delbrück",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "founders",
+      "object": "Ludwig Bamberger",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "headquarteredIn",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "instanceOf",
+      "object": "multinational investment bank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "listedOn",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "operatesIn",
+      "object": "global",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "regulator",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "regulator",
+      "object": "European Central Bank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "services",
+      "object": "asset management",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "services",
+      "object": "corporate banking",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "services",
+      "object": "investment banking",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "services",
+      "object": "private banking",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Bank",
+      "predicate": "subsidiary",
+      "object": "DWS Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "clearingHouse",
+      "object": "Eurex Clearing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "currency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "electoralStockExchange",
+      "object": "Berlin Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "foundedIn",
+      "object": "1993",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "headquarters",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "indexOperated",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "industry",
+      "object": "Financial services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "instanceOf",
+      "object": "stock exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "marketPlace",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "marketRegulator",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "mergerAttempt",
+      "object": "London Stock Exchange Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "neobrokerCompetitor",
+      "object": "Trade Republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "notableCompany",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operates",
+      "object": "Clearstream",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operates",
+      "object": "Eurex",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operates",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operates",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "panEuropeanPartnership",
+      "object": "Euronext",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "parentCompany",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "region",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "CEO",
+      "object": "Timotheus Höttges",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "brand",
+      "object": "T-Mobile",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "competitors",
+      "object": "Telefónica",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "competitors",
+      "object": "Vodafone",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "currency",
+      "object": "euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "formerName",
+      "object": "Deutsche Bundespost TELEKOM",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "formerStateOwned",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "foundedYear",
+      "object": "1995",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "generatedFrom",
+      "object": "Deutsche Bundespost",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "headquartersLocation",
+      "object": "Bonn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "industry",
+      "object": "telecommunications",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "instanceOf",
+      "object": "telecommunications company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "internalITdivision",
+      "object": "T-Systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "largestShareholder",
+      "object": "German government",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "majorPresence",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "majorityStakeIn",
+      "object": "T-Mobile US",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "mobileNetworkOperator",
+      "object": "T-Mobile",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "numberOfEmployees",
+      "object": "over 200000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "oneOfLargestTelecomCompanies",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "operatesFiberOpticNetworks",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "operatesIn",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "operatesIn",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "partOf",
+      "object": "DAX index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "privatizationYear",
+      "object": "1995",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "providesCloudServices",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "providesIoTservices",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "revenueRanking",
+      "object": "world top telecommunications companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "securitySolutions",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "services",
+      "object": "IPTV",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "services",
+      "object": "internet services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "services",
+      "object": "landline telephony",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "services",
+      "object": "mobile communications",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "subsidiary",
+      "object": "T-Mobile US",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "subsidiary",
+      "object": "T-Systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "tickerSymbol",
+      "object": "DTE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "totalRevenue",
+      "object": "over 100 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Deutsche Telekom",
+      "predicate": "ventureCapitalArm",
+      "object": "Deutsche Telekom Capital Partners",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "adoptsTechnology",
+      "object": "smart grids",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "affectedBy",
+      "object": "economic conditions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "awardsReceived",
+      "object": "for innovation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "contributesTo",
+      "object": "economic development",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "customerBase",
+      "object": "millions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "customersLocatedIn",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "customersLocatedIn",
+      "object": "Netherlands",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "customersLocatedIn",
+      "object": "Sweden",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "customersLocatedIn",
+      "object": "United Kingdom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "emphasizes",
+      "object": "customer satisfaction",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "employees",
+      "object": "over 70,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "facesChallenges",
+      "object": "energy market competition",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "focusOn",
+      "object": "renewable energy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "focusOn",
+      "object": "sustainability",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "focusedArea",
+      "object": "decarbonization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "followsStandards",
+      "object": "European Union energy policy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "formed",
+      "object": "2000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "formerName",
+      "object": "VEBA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "formerName",
+      "object": "VIAG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "handlesAssets",
+      "object": "power plants",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "headquarters",
+      "object": "Essen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "implementsInitiativesFrom",
+      "object": "governments",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "industry",
+      "object": "utilities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "instanceOf",
+      "object": "energy company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "investsIn",
+      "object": "energy efficiency",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "keyPeople",
+      "object": "Leonhard Birnbaum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "listedOn",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "mandatedBy",
+      "object": "European energy directives",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "memberOf",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "operatesIn",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "ownedBy",
+      "object": "shareholders",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "parentCompany",
+      "object": "E.ON SE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "partnersWith",
+      "object": "other companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "playsRole",
+      "object": "regional energy supplier",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "provides",
+      "object": "electricity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "provides",
+      "object": "natural gas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "reportsTo",
+      "object": "regulators",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "revenue",
+      "object": "billions of euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "strategy",
+      "object": "energy transition",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "supportedBy",
+      "object": "subsidiaries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "symbol",
+      "object": "EOAN",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "targetMarket",
+      "object": "business",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "E.ON",
+      "predicate": "targetMarket",
+      "object": "residential",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "address",
+      "object": "Börsenplatz 4",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "centralization",
+      "object": "fully electronic Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "continentalRank",
+      "object": "largest in continental Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "currencyTrading",
+      "object": "EUR",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "electronicTrading",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "euroZone",
+      "object": "member",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "financialCenter",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "foundedYear",
+      "object": "1585",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "globalRank",
+      "object": "top 10 worldwide",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "historicalBuilding",
+      "object": "rebuilt after WWII",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "indexFamily",
+      "object": "DAX indices",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "indicesListed",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "indicesListed",
+      "object": "Euro Stoxx 50",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "indicesListed",
+      "object": "MDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "indicesListed",
+      "object": "SDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "indicesListed",
+      "object": "TecDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "instanceOf",
+      "object": "stock exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "languagesUsed",
+      "object": "English",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "languagesUsed",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "locatedIn",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "mainBuildingLandmark",
+      "object": "Bull and Bear statues",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "majorTradedStocks",
+      "object": "Allianz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "majorTradedStocks",
+      "object": "BASF",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "majorTradedStocks",
+      "object": "BMW",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "majorTradedStocks",
+      "object": "Siemens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "majorTradedStocks",
+      "object": "Volkswagen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketCapitalization",
+      "object": "one of world's largest",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketRank",
+      "object": "largest in Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketsOperated",
+      "object": "Frankfurt floor trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketsOperated",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "numberListedCompanies",
+      "object": "thousands",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "officialName",
+      "object": "Börse Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "operatedBy",
+      "object": "Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "postalCode",
+      "object": "60313",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "primaryIndex",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "regulation",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "securitiesTraded",
+      "object": "ETFs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "securitiesTraded",
+      "object": "bonds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "securitiesTraded",
+      "object": "certificates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "securitiesTraded",
+      "object": "stocks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "securitiesTraded",
+      "object": "warrants",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "similarExchanges",
+      "object": "Euronext",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "similarExchanges",
+      "object": "London Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "timeZone",
+      "object": "CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "tradingHours",
+      "object": "08:00-22:00 CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "tradingVolume",
+      "object": "high daily",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "area",
+      "object": "357,022 square kilometers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Austria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Belgium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Czech Republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Denmark",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "France",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Luxembourg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Netherlands",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Poland",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Switzerland",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "capital",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "culture",
+      "object": "classical music",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "culture",
+      "object": "literature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "culture",
+      "object": "philosophy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "currency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "economicSector",
+      "object": "automotive industry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "economicSector",
+      "object": "manufacturing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "economicSector",
+      "object": "technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "economy",
+      "object": "developed social market economy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "educationSystem",
+      "object": "public universities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousBrands",
+      "object": "BMW",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousBrands",
+      "object": "Mercedes-Benz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousBrands",
+      "object": "Siemens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousBrands",
+      "object": "Volkswagen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousComposers",
+      "object": "Johann Sebastian Bach",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousEvent",
+      "object": "Oktoberfest",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousPeople",
+      "object": "Albert Einstein",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousPeople",
+      "object": "Johann Wolfgang von Goethe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousPeople",
+      "object": "Ludwig van Beethoven",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousScientists",
+      "object": "Max Planck",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousScientists",
+      "object": "Werner Heisenberg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "famousWriters",
+      "object": "Friedrich Schiller",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "formerCapital",
+      "object": "Bonn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "foundationYear",
+      "object": "1871",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "government",
+      "object": "federal parliamentary republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "headOfGovernment",
+      "object": "Federal Chancellor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "headOfState",
+      "object": "Federal President",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "highestPoint",
+      "object": "Zugspitze",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "historicalPeriod",
+      "object": "Holy Roman Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "historicalPeriod",
+      "object": "Nazi Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "historicalPeriod",
+      "object": "Weimar Republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "instanceOf",
+      "object": "country",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "landmark",
+      "object": "Brandenburg Gate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "landmark",
+      "object": "Cologne Cathedral",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "landmark",
+      "object": "Neuschwanstein Castle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "locatedIn",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "majorRiver",
+      "object": "Danube",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "majorRiver",
+      "object": "Elbe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "majorRiver",
+      "object": "Rhine",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "memberOf",
+      "object": "European Union",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "memberOf",
+      "object": "G7",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "memberOf",
+      "object": "NATO",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "memberOf",
+      "object": "United Nations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "notableCities",
+      "object": "Cologne",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "notableCities",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "notableCities",
+      "object": "Hamburg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "notableCities",
+      "object": "Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "officialLanguage",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "population",
+      "object": "83 million",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "reunificationYear",
+      "object": "1990",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "timeZone",
+      "object": "CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "timeZone",
+      "object": "Central European Time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "traditionalBeverage",
+      "object": "beer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "traditionalFood",
+      "object": "pretzels",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Germany",
+      "predicate": "traditionalFood",
+      "object": "sausages",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "areaServed",
+      "object": "worldwide",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "coFounder",
+      "object": "Wilhelm Maybach",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "competesWith",
+      "object": "BMW Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "competesWith",
+      "object": "Toyota",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "competesWith",
+      "object": "Volkswagen Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "developed",
+      "object": "diesel-powered passenger car",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "developed",
+      "object": "first production automobile",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "employees",
+      "object": "over 170,000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "formerlyKnownAs",
+      "object": "Daimler AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "formerlyKnownAs",
+      "object": "Daimler-Benz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "founded",
+      "object": "1926",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "founder",
+      "object": "Gottlieb Daimler",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "founder",
+      "object": "Karl Benz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "hasBusinessUnits",
+      "object": "Mercedes-Benz Mobility",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "headquarteredIn",
+      "object": "Stuttgart, Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "historicalPeriod",
+      "object": "merger of Daimler-Motoren-Gesellschaft and Benz & Cie",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "industry",
+      "object": "automotive",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "instanceOf",
+      "object": "German company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "instanceOf",
+      "object": "multinational automotive corporation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "keyPeople",
+      "object": "Ola Källenius",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "majorManufacturingLocation",
+      "object": "Beijing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "majorManufacturingLocation",
+      "object": "Sindelfingen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "majorManufacturingLocation",
+      "object": "Tuscaloosa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "manufactures",
+      "object": "buses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "manufactures",
+      "object": "commercial vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "manufactures",
+      "object": "luxury vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "marketPosition",
+      "object": "premium automotive manufacturer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "operates",
+      "object": "AMG performance brand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "operates",
+      "object": "Maybach luxury brand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "operates",
+      "object": "Mercedes-Benz brand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "operates",
+      "object": "Smart brand",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "operatingRegion",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "operatingRegion",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "operatingRegion",
+      "object": "North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "owns",
+      "object": "Mercedes-Benz Buses division",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "owns",
+      "object": "Mercedes-Benz Cars division",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "owns",
+      "object": "Mercedes-Benz Trucks division",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "owns",
+      "object": "Mercedes-Benz Vans division",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "partOf",
+      "object": "German automotive industry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "pioneered",
+      "object": "automotive safety systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "products",
+      "object": "passenger cars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "products",
+      "object": "trucks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "products",
+      "object": "vans",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "revenue",
+      "object": "over 150 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "subsidiaryOf",
+      "object": "Mercedes-Benz Group AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "sustainabilityCommitment",
+      "object": "carbon neutrality goal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "technologyFocus",
+      "object": "automotive engineering",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mercedes-Benz Group",
+      "predicate": "ticker",
+      "object": "MBG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "acquiredInnogy",
+      "object": "2019",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "coreBusiness",
+      "object": "conventional power generation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "coreBusiness",
+      "object": "renewable energy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "employeeCount",
+      "object": "over 19000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "formerName",
+      "object": "Rheinisch-Westfälisches Elektrizitätswerk AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "formerlyProduced",
+      "object": "lignite",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "formerlyProduced",
+      "object": "nuclear power",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "foundedIn",
+      "object": "1898",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "fullName",
+      "object": "Rheinisch-Westfälisches Elektrizitätswerk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "greenEnergyTarget",
+      "object": "carbon neutrality by 2040",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "headquarters",
+      "object": "Essen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "industry",
+      "object": "electricity generation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "industry",
+      "object": "energy trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "instanceOf",
+      "object": "electric utility",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "instanceOf",
+      "object": "energy company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "investmentFocus",
+      "object": "renewable energy expansion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "keySubsidiary",
+      "object": "RWE Power",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "keySubsidiary",
+      "object": "RWE Renewables",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "keySubsidiary",
+      "object": "RWE Supply & Trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "majorAcquisition",
+      "object": "Innogy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "marketPresence",
+      "object": "Asia Pacific",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "marketPresence",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "marketPresence",
+      "object": "North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "nuclearPhaseOutCompleted",
+      "object": "2023",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "operatesWindFarms",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "operatesWindFarms",
+      "object": "United Kingdom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "operatesWindFarms",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "partnerCompany",
+      "object": "E.ON",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "pipeline",
+      "object": "over 70 gigawatts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "powerSource",
+      "object": "hydro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "powerSource",
+      "object": "natural gas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "powerSource",
+      "object": "offshore wind",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "powerSource",
+      "object": "onshore wind",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "powerSource",
+      "object": "solar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "predecessor",
+      "object": "Rheinische AG für Braunkohlenbergbau und Brikettfabrikation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "revenue",
+      "object": "over 28 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "sector",
+      "object": "utilities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "stockTicker",
+      "object": "RWE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "transformedFrom",
+      "object": "conventional to renewable energy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "RWE",
+      "predicate": "windCapacity",
+      "object": "over 10 gigawatts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisition",
+      "object": "Ariba",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisition",
+      "object": "Concur Technologies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisition",
+      "object": "Qualtrics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "acquisition",
+      "object": "SuccessFactors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "cloudPlatform",
+      "object": "SAP Cloud Platform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "companyType",
+      "object": "public company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "customerBase",
+      "object": "400,000 customers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "employeeCount",
+      "object": "over 100,000 employees",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "flagshipProduct",
+      "object": "SAP ERP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "foundedIn",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founder",
+      "object": "Claus Wellenreuther",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founder",
+      "object": "Dietmar Hopp",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founder",
+      "object": "Hans-Werner Hector",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founder",
+      "object": "Hasso Plattner",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "founder",
+      "object": "Klaus Tschira",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "foundingYear",
+      "object": "1972",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "fullName",
+      "object": "Systems, Applications and Products in Data Processing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "headquarters",
+      "object": "Walldorf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "industry",
+      "object": "enterprise software",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "instanceOf",
+      "object": "multinational software corporation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "knownFor",
+      "object": "ERP software",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "majorProduct",
+      "object": "SAP Business One",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "majorProduct",
+      "object": "SAP Business Suite",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "majorProduct",
+      "object": "SAP S/4HANA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "marketSegment",
+      "object": "business applications",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "operatesIn",
+      "object": "180+ countries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "partnership",
+      "object": "Microsoft",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "primaryTechnology",
+      "object": "ABAP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "revenue",
+      "object": "software company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "SAP",
+      "predicate": "stockSymbol",
+      "object": "SAP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "developed",
+      "object": "first electric elevator",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "developed",
+      "object": "first electric street lighting",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "developed",
+      "object": "first pointer telegraph",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "employees",
+      "object": "311000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "foundedBy",
+      "object": "Werner von Siemens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "foundedYear",
+      "object": "1847",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "headquarters",
+      "object": "Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "industry",
+      "object": "electronics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "industry",
+      "object": "engineering",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "instanceOf",
+      "object": "corporation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "instanceOf",
+      "object": "multinational conglomerate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "keyPeople",
+      "object": "Roland Busch",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "manufactures",
+      "object": "CT scanners",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "manufactures",
+      "object": "MRI machines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "model",
+      "object": "SINUMERIK",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "notableProjects",
+      "object": "ICE high-speed trains",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "notableProjects",
+      "object": "Transrapid maglev train",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesIn",
+      "object": "energy sector",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "operatesIn",
+      "object": "infrastructure sector",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "position",
+      "object": "CEO",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "automation technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "industrial software",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "medical technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "power generation equipment",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "products",
+      "object": "rail vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "regionalPresence",
+      "object": "Africa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "regionalPresence",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "regionalPresence",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "regionalPresence",
+      "object": "North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "sector",
+      "object": "technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "stockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "stockSymbol",
+      "object": "SIE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiaries",
+      "object": "Siemens Digital Industries Software",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiaries",
+      "object": "Siemens Energy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiaries",
+      "object": "Siemens Healthineers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "subsidiaries",
+      "object": "Siemens Mobility",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "supplierTo",
+      "object": "automotive industry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Siemens",
+      "predicate": "website",
+      "object": "siemens.com",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "brands",
+      "object": "Volkswagen Passenger Cars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "dieselEmissionsScandalYear",
+      "object": "2015",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "electricVehicle",
+      "object": "Volkswagen ID.3",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "electricVehicle",
+      "object": "Volkswagen ID.4",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "employees",
+      "object": "over 600000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "foundedBy",
+      "object": "German Labor Front",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "foundedIn",
+      "object": "1937",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "headquarters",
+      "object": "Wolfsburg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "industry",
+      "object": "automotive",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "instanceOf",
+      "object": "automobile manufacturer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "knownFor",
+      "object": "Volkswagen Beetle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "knownFor",
+      "object": "Volkswagen Golf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "knownFor",
+      "object": "Volkswagen Passat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "marketCapitalization",
+      "object": "large",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "parentOrganization",
+      "object": "Volkswagen Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "previousModel",
+      "object": "Volkswagen Beetle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "productionSites",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "products",
+      "object": "commercial vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "products",
+      "object": "passenger cars",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "revenue",
+      "object": "over 250 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Volkswagen",
+      "predicate": "stockSymbol",
+      "object": "VOW3",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

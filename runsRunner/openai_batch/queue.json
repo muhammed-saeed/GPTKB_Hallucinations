@@ -1,0 +1,408 @@
+[
+  {
+    "subject": "Vannevar Bush",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:16:40"
+  },
+  {
+    "subject": "Evelyn Bush",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:17:10"
+  },
+  {
+    "subject": "Manhattan Project",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:17:10"
+  },
+  {
+    "subject": "Massachusetts Institute of Technology",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:17:10"
+  },
+  {
+    "subject": "Memex",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:17:10"
+  },
+  {
+    "subject": "Tufts University",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:17:10"
+  },
+  {
+    "subject": "Anne Sexton",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Arianna Huffington",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "As We May Think",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:12"
+  },
+  {
+    "subject": "Association of American Universities",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Ben Bernanke",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Brown and Blue",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Cambridge, Massachusetts",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Cold War",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "Cummings School of Veterinary Medicine",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Eliot Spitzer",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Elon Musk",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Fat Man",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "Fletcher School of Law and Diplomacy",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Hanford Site",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "J. Robert Oppenheimer",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "Jeffrey Zeldman",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Jumbo the Elephant",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Jumbos",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Kofi Annan",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Little Boy",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "Los Alamos Laboratory",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "MIT Engineers",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "MIT Libraries",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Medford, Massachusetts",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Mens et Manus",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Michael Dukakis",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "NASA",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "NCAA Division III",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "National Institutes of Health",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "National Science Foundation",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Nazi Germany's nuclear program",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "Neri Oxman",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Oak Ridge National Laboratory",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "Pax et Lux",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "President Franklin D. Roosevelt",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "Richard Feynman",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "Sally Kornbluth",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:09"
+  },
+  {
+    "subject": "School of Arts and Sciences",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "School of Engineering",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "School of Medicine",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Sunil Kumar",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Trinity Test",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "Tufts Community Union",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Tufts Environmental Consciousness Outreach",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Tufts International Relations Society",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Tufts Medical Center",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Tufts Student Government",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Tufts University Library",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Tufts University Programming Board",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "Tufts University School of Dental Medicine",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:19"
+  },
+  {
+    "subject": "United States government",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:02"
+  },
+  {
+    "subject": "World War II",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 19:18:12"
+  }
+]

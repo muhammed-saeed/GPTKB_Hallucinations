@@ -1,0 +1,142 @@
+[
+  {
+    "subject": "Ada Lovelace",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-30 21:07:39"
+  },
+  {
+    "subject": "Ada Lovelace Award",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Ada Lovelace Day",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Ada programming language",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Anne Isabella Milbanke",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "British Computer Society Fellowship",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Charles Babbage",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Computer History Museum Fellow",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Computer Science",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Computer Science Education",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "December 10, 1815",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "London, England",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Lord Byron",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Mary Somerville",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Marylebone, London, England",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Notes on the Analytical Engine",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "November 27, 1852",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Women in Technology",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:03"
+  },
+  {
+    "subject": "Association for Women in Computing",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:10"
+  },
+  {
+    "subject": "United States",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-30 21:08:10"
+  }
+]

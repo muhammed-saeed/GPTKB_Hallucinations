@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# bench_runner_concurrent.py
 from __future__ import annotations
 import argparse
 import csv
@@ -8,9 +9,10 @@ import os
 import shlex
 import subprocess
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from itertools import product
 from pathlib import Path
-from typing import Dict, List
+from typing import Dict, List, Tuple
 
 # ===================== small utils =====================
 
@@ -38,7 +40,10 @@ def append_bench_log(root_out: str, line: str) -> None:
         f.write(f"[{dt.datetime.now().isoformat()}] {line}\n")
 
 def expand_csv_header_safely(csv_path: str, new_row: Dict[str, object]) -> None:
-    """Append a row to CSV while allowing new columns to appear later."""
+    """
+    Append a row to CSV while allowing new columns to appear later.
+    If the header needs to grow, rewrite file with expanded header.
+    """
     ensure_dir(str(Path(csv_path).parent))
     rows: List[Dict[str, object]] = []
     existing_header: List[str] = []
@@ -59,48 +64,29 @@ def expand_csv_header_safely(csv_path: str, new_row: Dict[str, object]) -> None:
             out = {k: r.get(k, "") for k in all_keys}
             w.writerow(out)
 
-# ===================== profiles (deterministic / medium / wild) =====================
+# ===================== profiles =====================
 
 PROFILE_KNOBS = {
-    # Deterministic
-    "det":   {"temperature": 0.0, "top_p": 1.0,  "top_k": None, "max_tokens": 2000},
-    # Medium (day-to-day defaults)
-    "medium":{"temperature": 0.7, "top_p": 0.95, "top_k": 50,   "max_tokens": 2000},
-    # Wild (probe breadth; expect more noise)
-    "wild":  {"temperature": 2.0, "top_p": 1.0,  "top_k": 100,  "max_tokens": 2000},
+    "det":    {"temperature": 0.0, "top_p": 1.0,  "top_k": None, "max_tokens": 4096},
+    "medium": {"temperature": 0.7, "top_p": 0.95, "top_k": 50,   "max_tokens": 4096},
+    "wild":   {"temperature": 2.0, "top_p": 1.0,  "top_k": 100,  "max_tokens": 4096},
 }
 
-# ===================== provider routing =====================
-
-def is_openai_model(model_key: str) -> bool:
-    """Detect whether a model key should use OpenAI Batch or threaded mode."""
-    try:
-        from settings import settings  # type: ignore
-        prov = (getattr(settings.MODELS[model_key], "provider", "") or "").lower()
-        return prov in ("openai", "openai_compatible")
-    except Exception:
-        OPENAI_MODEL_KEYS = {
-            "gpt4o-mini", "gpt-4o-mini", "gpt-4o", "gpt-4o-realtime",
-            "gpt-4.1", "gpt-4.1-mini", "gpt-4-turbo", "gpt-4.0"
-        }
-        return model_key in OPENAI_MODEL_KEYS
-
-# ===================== CLI =====================
+# ===================== args =====================
 
 def build_arg_parser() -> argparse.ArgumentParser:
     ap = argparse.ArgumentParser(
-        description="Benchmark runner for GPT-KB crawler. OpenAI models → Batch; others → threaded."
+        description="Concurrent benchmark runner for GPT-KB crawler (outer parallelism + per-run routing)."
     )
     ap.add_argument("--root-out", required=True,
-                    help="Root folder for all outputs.")
+                    help="Root folder for all benchmark outputs (subfolders will be created).")
     ap.add_argument("--crawler", default="crawler_batch_concurrency_topic.py",
                     help="Crawler script to run (default: crawler_batch_concurrency_topic.py).")
 
     # grids
-    ap.add_argument("--domains", default="topic",
-                    help="Comma list: topic,general (default: topic).")
-    ap.add_argument("--seeds",
-                    default="ancient city of Babylon,The Big Bang Theory,DAX 40 Index",
+    ap.add_argument("--domains", default="topic,general",
+                    help="Comma list: topic,general")
+    ap.add_argument("--seeds", default="Game of Thrones,Lionel Messi,World War II",
                     help="Comma list of starting subjects.")
     ap.add_argument("--models", default="deepseek,granite8b,gpt4o-mini",
                     help="Comma list of model keys (must exist in settings.MODELS).")
@@ -110,32 +96,51 @@ def build_arg_parser() -> argparse.ArgumentParser:
                     help="Comma list of sampling profiles (det|medium|wild).")
 
     # crawler knobs (shared)
-    ap.add_argument("--max-depth", type=int, default=1)
-    ap.add_argument("--max-subjects", type=int, default=100)
-    ap.add_argument("--max-facts-hint", type=int, default=30)
+    ap.add_argument("--max-depth", type=int, default=2)
+    ap.add_argument("--max-subjects", type=int, default=3,
+                    help="Hard cap of subjects per run; 0 means 'no cap' (crawler drains by hop).")
+    ap.add_argument("--max-facts-hint", type=int, default=100)
     ap.add_argument("--ner-batch-size", type=int, default=50)
     ap.add_argument("--concurrency", type=int, default=10,
-                    help="Used for non-OpenAI threaded mode.")
+                    help="(legacy fallback) Per-run thread concurrency if default-concurrency not given.")
     ap.add_argument("--ner-strategy", default="calibrate",
-                    help="NER strategy (baseline|icl|dont_know|calibrate).")
+                    help="NER strategy passed to crawler (often 'calibrate').")
 
-    # OpenAI Batch knobs (only for OpenAI providers)
-    ap.add_argument("--openai-batch-size", type=int, default=10,
-                    help="Subjects per OpenAI batch job (OpenAI only).")
-    ap.add_argument("--openai-batch-queue", type=int, default=4,
-                    help="Max outstanding OpenAI batch jobs.")
-    ap.add_argument("--openai-batch-window", default="24h",
-                    help="OpenAI batch completion window (e.g., 24h).")
-    ap.add_argument("--openai-batch-poll", type=int, default=15,
-                    help="Seconds between OpenAI batch status polls.")
+    # OpenAI batch vs concurrency routing
+    ap.add_argument("--openai-batch-size", type=int, default=None,
+                    help="If set and model is OpenAI, pass --openai-batch and this size to the crawler.")
+    ap.add_argument("--default-concurrency", type=int, default=10,
+                    help="Per-run concurrency for non-OpenAI (and OpenAI without batch).")
 
-    # control
-    ap.add_argument("--list", action="store_true", help="Only list planned runs then exit.")
-    ap.add_argument("--dry-run", action="store_true", help="Print commands, do not execute.")
+    # NETWORK ROBUSTNESS (new)
+    ap.add_argument("--net-timeout", type=float, default=60.0,
+                    help="HTTP connect/read timeout in seconds (forwarded to crawler as --http-timeout and NET_TIMEOUT).")
+    ap.add_argument("--net-retries", type=int, default=6,
+                    help="HTTP retry attempts on transient errors (forwarded as --http-retries and NET_RETRIES).")
+    ap.add_argument("--net-backoff", type=float, default=0.5,
+                    help="Exponential backoff factor between retries (forwarded as --http-backoff and NET_BACKOFF).")
+
+    # outer parallelism
+    ap.add_argument("--max-procs", type=int, default=1,
+                    help="How many crawler runs to execute in parallel (outer level).")
+
+    # control / safety
+    ap.add_argument("--list", action="store_true",
+                    help="Only list planned runs then exit (no writes).")
+    ap.add_argument("--dry-run", action="store_true",
+                    help="Plan and write meta/CSV, but do NOT execute the crawler.")
     ap.add_argument("--verbose", action="store_true", help="Verbose planning output.")
+    ap.add_argument("--skip-existing", action="store_true",
+                    help="If out_dir already exists, skip planning/execution for that run.")
+
     return ap
 
-# ===================== plan builder =====================
+# ===================== planning =====================
+
+def is_openai_model(model_key: str) -> bool:
+    key = (model_key or "").lower()
+    # Adjust as needed to match your settings.MODELS keys for OpenAI
+    return key in ("gpt4o-mini", "gpt-4o-mini", "gpt4o", "gpt-4o", "o3-mini", "o4-mini")
 
 def build_plan(args) -> List[Dict]:
     # normalize grids
@@ -145,36 +150,37 @@ def build_plan(args) -> List[Dict]:
     strategies = [s.strip() for s in args.strategies.split(",") if s.strip()]
     profiles   = [s.strip() for s in args.profiles.split(",") if s.strip()]
 
-    # sanity
+    # sanity: profiles exist
     for p in profiles:
         if p not in PROFILE_KNOBS:
             raise SystemExit(f"Unknown profile '{p}'. Use one of: {', '.join(PROFILE_KNOBS)}")
 
     plan: List[Dict] = []
+    seen = set()  # prevent duplicates
 
-    # Desired folder structure:
-    # root_out/
-    #   <domain>/
-    #     <model>/
-    #       <seed_slug>/
-    #         <strategy>/
-    #           <profile>/
-    #             <timestamp>/
-    for domain, seed, model, strat, prof in product(domains, seeds, models, strategies, profiles):
-        knobs = PROFILE_KNOBS[prof]
+    for domain, model, strat, prof, seed in product(domains, models, strategies, profiles, seeds):
+        k = (domain, model, strat, prof, seed)
+        if k in seen:
+            continue
+        seen.add(k)
+
         seed_slug = sanitize_slug(seed)
         out_dir = os.path.join(
             args.root_out,
             domain,
             model,
-            seed_slug,
             strat,
             prof,
+            seed_slug,
             ts_for_dir(),
         )
-        ensure_dir(out_dir)
 
-        # base command (shared flags)
+        if args.skip_existing and os.path.exists(out_dir):
+            if args.verbose:
+                print(f"[bench] SKIP (exists): {out_dir}")
+            continue
+
+        # base crawler command
         cmd: List[str] = [
             sys.executable, args.crawler,
             "--seed", seed,
@@ -188,10 +194,20 @@ def build_plan(args) -> List[Dict]:
             "--max-facts-hint", str(args.max_facts_hint),
             "--max-subjects", str(args.max_subjects),
             "--ner-batch-size", str(args.ner_batch_size),
-            "--concurrency", str(args.concurrency),  # may be removed for OpenAI batch
         ]
 
-        # sampling from profile
+        # decide concurrency vs openai-batch passthrough
+        batch_mode = False
+        effective_conc = None
+        if is_openai_model(model) and args.openai_batch_size:
+            cmd += ["--openai-batch", "--openai-batch-size", str(args.openai_batch_size)]
+            batch_mode = True
+        else:
+            effective_conc = args.default_concurrency or args.concurrency or 10
+            cmd += ["--concurrency", str(effective_conc)]
+
+        # sampling knobs from profile
+        knobs = PROFILE_KNOBS[prof]
         if knobs.get("temperature") is not None:
             cmd += ["--temperature", str(knobs["temperature"])]
         if knobs.get("top_p") is not None:
@@ -201,28 +217,13 @@ def build_plan(args) -> List[Dict]:
         if knobs.get("max_tokens") is not None:
             cmd += ["--max-tokens", str(knobs["max_tokens"])]
 
-        # dispatch: OpenAI models -> Batch; others -> threaded
-        if is_openai_model(model):
-            cmd += [
-                "--openai-batch",
-                "--openai-batch-size", str(args.openai_batch_size),
-                "--openai-batch-queue", str(args.openai_batch_queue),
-                "--openai-batch-window", str(args.openai_batch_window),
-                "--openai-batch-poll", str(args.openai_batch_poll),
-            ]
-            # remove --concurrency for batch mode (not used by crawler in batch path)
-            try:
-                ci = cmd.index("--concurrency")
-                del cmd[ci:ci+2]
-            except ValueError:
-                pass
-            dispatch_mode = "openai_batch"
-        else:
-            if "--concurrency" not in cmd:
-                cmd += ["--concurrency", str(args.concurrency)]
-            dispatch_mode = "threaded"
+        # NEW: pass network robustness knobs as flags too
+        cmd += [
+            "--http-timeout", str(args.net_timeout),
+            "--http-retries", str(args.net_retries),
+            "--http-backoff", str(args.net_backoff),
+        ]
 
-        # meta for per-run file + CSV
         meta = {
             "seed": seed,
             "seed_slug": seed_slug,
@@ -231,33 +232,64 @@ def build_plan(args) -> List[Dict]:
             "ner_strategy": args.ner_strategy,
             "model": model,
             "out_dir": out_dir,
-            "strategy_dir": strat,
             "profile": prof,
             "profile_knobs": knobs,
             "max_depth": args.max_depth,
             "max_subjects": args.max_subjects,
             "max_facts_hint": args.max_facts_hint,
             "ner_batch_size": args.ner_batch_size,
-            "concurrency": args.concurrency,
             "crawler": args.crawler,
             "python": sys.executable,
             "command": " ".join(shlex.quote(c) for c in cmd),
             "timestamp": dt.datetime.now().isoformat(),
-            "dispatch_mode": dispatch_mode,
+            "batch_mode": batch_mode,
+            "effective_concurrency": effective_conc,
+            # expose net knobs in meta (also used for env passing)
+            "net_timeout": args.net_timeout,
+            "net_retries": args.net_retries,
+            "net_backoff": args.net_backoff,
         }
-        if dispatch_mode == "openai_batch":
-            meta["openai_batch"] = {
-                "size": args.openai_batch_size,
-                "queue": args.openai_batch_queue,
-                "window": args.openai_batch_window,
-                "poll": args.openai_batch_poll,
-            }
-        else:
-            meta["threaded"] = {"concurrency": args.concurrency}
 
         plan.append({"cmd": cmd, "out_dir": out_dir, "meta": meta})
 
     return plan
+
+# ===================== execution helpers =====================
+
+def run_one(job: Dict, csv_path: str) -> Tuple[str, int]:
+    """
+    Execute a single crawler job (subprocess). Returns (out_dir, returncode).
+    Also appends a CSV row with status (OK/RC_x).
+    """
+    cmd = job["cmd"]
+    out_dir = job["out_dir"]
+    meta = job["meta"]
+
+    # write per-run meta.json before executing
+    write_json(os.path.join(out_dir, "meta.json"), meta)
+
+    rc = 0
+    try:
+        # Pass network knobs via env as a fallback for crawlers that read env vars
+        env = os.environ.copy()
+        env["NET_TIMEOUT"] = str(meta.get("net_timeout", 60))
+        env["NET_RETRIES"] = str(meta.get("net_retries", 6))
+        env["NET_BACKOFF"] = str(meta.get("net_backoff", 0.5))
+        rc = subprocess.run(cmd, check=False, env=env).returncode
+    except Exception:
+        rc = -1
+
+    # append CSV row with outcome
+    csv_row = {
+        "status": "OK" if rc == 0 else f"RC_{rc}",
+        **{k: v for k, v in meta.items() if not isinstance(v, dict)}
+    }
+    expand_csv_header_safely(csv_path, csv_row)
+
+    # tiny done marker
+    write_json(os.path.join(out_dir, "done.json"), {"returncode": rc})
+
+    return out_dir, rc
 
 # ===================== main =====================
 
@@ -276,11 +308,11 @@ def main():
     print(f"[bench] total_planned={len(plan)}", flush=True)
 
     if args.verbose:
-        for i, job in enumerate(plan[:12]):
+        for i, job in enumerate(plan[:min(12, len(plan))]):
             m = job["meta"]
-            print(f"  plan[{i}] domain={m['domain']} seed={m['seed']} model={m['model']} "
+            print(f"  plan[{i}] domain={m['domain']} model={m['model']} seed={m['seed']} "
                   f"strategy={m['elicitation_strategy']} profile={m['profile']} "
-                  f"mode={m['dispatch_mode']} → {m['out_dir']}", flush=True)
+                  f"batch={m['batch_mode']} conc={m['effective_concurrency']} → {m['out_dir']}", flush=True)
 
     append_bench_log(args.root_out, f"planned={len(plan)}")
 
@@ -292,47 +324,56 @@ def main():
         print("[bench] --list set; not executing.", flush=True)
         return
 
-    # execute
-    for idx, job in enumerate(plan, start=1):
-        cmd = job["cmd"]
-        out_dir = job["out_dir"]
-        meta = job["meta"]
+    csv_path = os.path.join(args.root_out, "runs.csv")
 
-        # write per-run meta.json _before_ executing
-        write_json(os.path.join(out_dir, "meta.json"), meta)
+    if args.dry_run:
+        # Write meta + CSV rows without executing the crawler
+        for job in plan:
+            out_dir = job["out_dir"]
+            meta = job["meta"]
+            if args.skip_existing and os.path.exists(out_dir):
+                print(f"[bench][DRY] SKIP (exists): {out_dir}", flush=True)
+                continue
+            write_json(os.path.join(out_dir, "meta.json"), meta)
+            csv_row = {"status": "DRY_RUN", **{k: v for k, v in meta.items() if not isinstance(v, dict)}}
+            expand_csv_header_safely(csv_path, csv_row)
+            write_json(os.path.join(out_dir, "done.json"), {"returncode": None, "dry_run": True})
+        print("[bench] DRY-RUN complete.", flush=True)
+        return
 
-        print(f"\n[RUN {idx}/{len(plan)}]", " ".join(cmd), flush=True)
-        append_bench_log(args.root_out, f"RUN {idx}/{len(plan)} {meta['command']}")
+    # Execute with outer parallelism
+    max_procs = max(1, int(args.max_procs))
+    print(f"[bench] executing with max_procs={max_procs}", flush=True)
 
-        if args.dry_run:
-            csv_row = {
-                "status": "DRY_RUN",
-                **{k: v for k, v in meta.items() if not isinstance(v, dict)}
-            }
-            expand_csv_header_safely(os.path.join(args.root_out, "runs.csv"), csv_row)
-            continue
+    futures = {}
+    ok = 0
+    failed = 0
+    skipped = 0
 
-        try:
-            rc = subprocess.run(cmd, check=False).returncode
-        except KeyboardInterrupt:
-            print("\n[bench] Interrupted by user.", flush=True)
-            append_bench_log(args.root_out, "INTERRUPTED")
-            raise
-        except Exception as e:
-            rc = -1
-            print(f"[bench][ERROR] exception while running: {e}", flush=True)
+    with ThreadPoolExecutor(max_workers=max_procs) as pool:
+        for idx, job in enumerate(plan, start=1):
+            out_dir = job["out_dir"]
 
-        # append CSV row with outcome
-        csv_row = {
-            "status": "OK" if rc == 0 else f"RC_{rc}",
-            **{k: v for k, v in meta.items() if not isinstance(v, dict)}
-        }
-        expand_csv_header_safely(os.path.join(args.root_out, "runs.csv"), csv_row)
+            if args.skip_existing and os.path.exists(out_dir):
+                print(f"[RUN {idx}] SKIP (exists): {out_dir}", flush=True)
+                skipped += 1
+                continue
 
-        # also drop a tiny done marker in each out_dir
-        write_json(os.path.join(out_dir, "done.json"), {"returncode": rc})
+            print(f"\n[RUN {idx}/{len(plan)}] {job['meta']['command']}", flush=True)
+            append_bench_log(args.root_out, f"RUN {idx}/{len(plan)} {job['meta']['command']}")
 
-    print("\n[bench] DONE", flush=True)
+            futures[pool.submit(run_one, job, csv_path)] = out_dir
+
+        for fut in as_completed(futures):
+            out_dir, rc = fut.result()
+            if rc == 0:
+                ok += 1
+                print(f"[bench] OK: {out_dir}", flush=True)
+            else:
+                failed += 1
+                print(f"[bench] FAIL rc={rc}: {out_dir}", flush=True)
+
+    print(f"\n[bench] DONE  ok={ok}  failed={failed}  skipped={skipped}", flush=True)
 
 if __name__ == "__main__":
     main()

@@ -1,0 +1,6152 @@
+{
+  "accepted": [
+    {
+      "subject": "BaFin",
+      "predicate": "activeIn",
+      "object": "AntiMoney Laundering Efforts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "alsoLocatedIn",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "cooperatesWith",
+      "object": "Deutsche Bundesbank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "founded",
+      "object": "2002",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "fundedBy",
+      "object": "Industry Levies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "headquarters",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "headquartersLocation",
+      "object": "Bonn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "instanceOf",
+      "object": "Federal Financial Supervisory Authority",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "involvedInScandal",
+      "object": "Wirecard",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "issuesWarnings",
+      "object": "Investment Risk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "jurisdiction",
+      "object": "Federal Republic of Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "keyPerson",
+      "object": "Mark Branson",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "legalForm",
+      "object": "Federal Institute",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "mandateIncludes",
+      "object": "Consumer Protection",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "mandateIncludes",
+      "object": "Financial Stability",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "partOf",
+      "object": "European System of Financial Supervision",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "powersInclude",
+      "object": "Conducting OnSite Inspections",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "powersInclude",
+      "object": "Imposing Sanctions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "powersInclude",
+      "object": "Issuing Licenses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "primaryLaw",
+      "object": "German Banking Act",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "primaryLaw",
+      "object": "German Insurance Supervision Act",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "primaryLaw",
+      "object": "German Securities Trading Act",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "regulates",
+      "object": "Investment Firms",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "regulates",
+      "object": "Payment Services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "reportingAuthority",
+      "object": "Federal Ministry of Finance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "staffSize",
+      "object": "Over 2,500",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "supervises",
+      "object": "Asset Management Companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "supervises",
+      "object": "Banks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "supervises",
+      "object": "Fintech Companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "supervises",
+      "object": "Insurance Companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "supervises",
+      "object": "Securities Trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "BaFin",
+      "predicate": "webAddress",
+      "object": "www.bafin.de",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "accessibility",
+      "object": "available through financial data providers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "associatedRisks",
+      "object": "market volatility",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "availability",
+      "object": "publicly available",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "basketType",
+      "object": "diversified basket of stocks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "category",
+      "object": "financial index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "category",
+      "object": "market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "comparability",
+      "object": "comparable with other German indices",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "currency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "dataTransparency",
+      "object": "public data reporting",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "documentation",
+      "object": "published by Börsen-Zeitung",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "financialFocus",
+      "object": "equities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "frequencyOfUpdates",
+      "object": "regular",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "indexType",
+      "object": "composite index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "industryFocus",
+      "object": "multiple industries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "instanceOf",
+      "object": "German stock index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "instanceOf",
+      "object": "stock market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "market",
+      "object": "German stock market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "monitors",
+      "object": "German equity market performance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "primaryAudience",
+      "object": "financial professionals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "primaryAudience",
+      "object": "investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "publishedBy",
+      "object": "Börsen-Zeitung newspaper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "purpose",
+      "object": "investment reference",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "purpose",
+      "object": "market performance indicator",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "regionalFocus",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "regulationEnvironment",
+      "object": "German financial regulation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "status",
+      "object": "actively maintained",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "tracks",
+      "object": "performance of German companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "usage",
+      "object": "benchmark for German market performance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Börsen-Zeitung Index",
+      "predicate": "volatilityClass",
+      "object": "variable market risk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX",
+      "predicate": "addsUpQuotes",
+      "object": "forty companies' share prices",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX",
+      "predicate": "affectedByECBdecisions",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX",
+      "predicate": "anaylizedBy",
+      "object": "Bloomberg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX",
+      "predicate": "baseDateVolumeDay",
+      "object": "1987-12-30",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX",
+      "predicate": "benchmarkForManyETFs",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX",
+      "predicate": "calculatedBy",
+      "object": "Stoxx Ltd",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "calculationFrequency",
+      "object": "real-time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "currencyRiskIncludedWithForeignCashAppreciationExcorporateActionsNoAutoptArbitrage",
+      "object": "none outside EUR possibly",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX",
+      "predicate": "denominationCurrency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "differentFrom",
+      "object": "MDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "differentFrom",
+      "object": "TecDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "establishedIn",
+      "object": "1988",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "exchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "followedByStatisticians",
+      "object": "Destatis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX",
+      "predicate": "fullName",
+      "object": "Deutscher Aktienindex",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "importantInInvestment",
+      "object": "yes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX",
+      "predicate": "includesNumberOfComponies",
+      "object": "40",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "indexComovementsPartner",
+      "object": "CAC 40",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX",
+      "predicate": "indexComovementsPartner",
+      "object": "FTSE 100",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX",
+      "predicate": "instanceOf",
+      "object": "stock market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "isoCode",
+      "object": "DE0008469008",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "location",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "measureOfPerformanceFor",
+      "object": "German blue-chip stocks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX",
+      "predicate": "nameSynonymFor",
+      "object": "German Stock Index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "operatedBy",
+      "object": "Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "publisingFrequency",
+      "object": "daily",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX",
+      "predicate": "shortNameTotalReturnIndex",
+      "object": "DAXperformanceindex",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX",
+      "predicate": "similarAsianPoisedBenchmark",
+      "object": "Nikkei 225",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX",
+      "predicate": "substituteOtherCompositesWhenBenchmarking",
+      "object": "Euro Stoxx 50",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "DAX",
+      "predicate": "usesBaseDateValuePoint",
+      "object": "1000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX",
+      "predicate": "weightingMethod",
+      "object": "free-float market capitalization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "ETFsTrackingAvailable",
+      "object": "Yes",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "EuropeanStockIndex",
+      "object": "Yes",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "acronymStandsFor",
+      "object": "Deutscher Aktienindex",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "affectsInvestorSentiment",
+      "object": "Globally",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "alsoKnownAs",
+      "object": "DAX",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "assetClass",
+      "object": "Equities",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "baseDate",
+      "object": "1987-12-30",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "baseValue",
+      "object": "1000",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "benchmarkFor",
+      "object": "German economy",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "calculatedBy",
+      "object": "Deutsche Börse",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "calculatesContinuously",
+      "object": "Yes",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "calculationMethod",
+      "object": "Performance index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "centralToGermanMarketProfile",
+      "object": "Blue-chip",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "composition",
+      "object": "40 companies",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "constituentCriteriaIncludes",
+      "object": "Market capitalization",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "constituentCriteriaIncludes",
+      "object": "Trading volume",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "constituentScrutiny",
+      "object": "High",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "correspondsToClass",
+      "object": "Developed market",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "createdBy",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "derivedInstrumentsAvailable",
+      "object": "Yes",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "displayedDuringTrading",
+      "object": "From 9:00 to 17:30 CET",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "divisorForCalculation",
+      "object": "Adjusted to maintain continuity",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "expansionDate",
+      "object": "2021-09-20",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "frequentlyQuoted",
+      "object": "In financial media",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "futuresTradedOn",
+      "object": "Eurex",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "geographicalFocus",
+      "object": "Germany",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "headquarteredIn",
+      "object": "Frankfurt am Main",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesCompaniesFrom",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesIndustrySectors",
+      "object": "Automotive",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesIndustrySectors",
+      "object": "Chemicals",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesIndustrySectors",
+      "object": "Finance",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesIndustrySectors",
+      "object": "Healthcare",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "includesIndustrySectors",
+      "object": "Technology",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "instanceOf",
+      "object": "Stock market index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "language",
+      "object": "German",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "launchDate",
+      "object": "1988-07-01",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "listedAtMarketSegment",
+      "object": "Regulated Market",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "listedStocksFrom",
+      "object": "German companies",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "market",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "numberOfMembersIncreased",
+      "object": "From 30 to 40",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "operator",
+      "object": "Deutsche Börse",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "optionsTradedOn",
+      "object": "Eurex",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "partTimeOperated",
+      "object": "No",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "previousComposition",
+      "object": "30 companies",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "primaryPurpose",
+      "object": "Benchmark for German stock performance",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "rebalancesQuarterly",
+      "object": "To maintain relevance",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "regulatedBy",
+      "object": "BaFin",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "relativePositionInEurope",
+      "object": "Leading",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "representativeOf",
+      "object": "German blue-chip companies",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "requiresListing",
+      "object": "Prime Standard",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "revisionFrequency",
+      "object": "Quarterly",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "sectorRepresentation",
+      "object": "Diverse",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "servesAs",
+      "object": "Economic indicator",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "subIndexExists",
+      "object": "Yes",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "subIndexesInclude",
+      "object": "MDAX",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "subIndexesInclude",
+      "object": "SDAX",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "subIndexesInclude",
+      "object": "TecDAX",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "succededByPreviousIndex",
+      "object": "Börsen-Zeitung Index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "tradedIn",
+      "object": "EUR",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "translatedName",
+      "object": "German Stock Index",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "updateFrequency",
+      "object": "Every second",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "weightingMethod",
+      "object": "Free-float market capitalization",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "acquired",
+      "object": "360T in 2015",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "category",
+      "object": "Financial services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "consolidatedIn",
+      "object": "DAX blue-chip index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "currency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "electronicTradingPlatform",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "employerType",
+      "object": "corporate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "failedMergerAttempt",
+      "object": "with London Stock Exchange in 2000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "failedMergerAttempt",
+      "object": "with London Stock Exchange in 2017",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "formedByMergerOf",
+      "object": "Frankfurt Stock Exchange and German Futures Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "foundedYear",
+      "object": "1993",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "globalRank",
+      "object": "among the top 10 exchanges by market cap",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasClearinghouse",
+      "object": "Eurex Clearing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasMajorityStake",
+      "object": "Clearstream",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasOverSightBody",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasPartnerExchange",
+      "object": "Six Swiss Exchange for derivatives",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasProduct",
+      "object": "ETFs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasProduct",
+      "object": "bonds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasProduct",
+      "object": "commodities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasProduct",
+      "object": "derivatives",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasProduct",
+      "object": "stocks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasSubsidiary",
+      "object": "Eurex Frankfurt AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasTechnologyArm",
+      "object": "Deutsche Börse Systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasTradingHours",
+      "object": "09:00 - 17:30 local time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasTradingPlatform",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "hasWebsite",
+      "object": "www.deutsche-boerse.com",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "headquartersLocation",
+      "object": "Frankfurt am Main",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "historicalPredecessor",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "indexRussell",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "instanceOf",
+      "object": "Stock exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "isPartOfGroup",
+      "object": "Deutsche Börse Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "isPubliclyTraded",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "keyEvent",
+      "object": "launch of Xetra in 1997",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "keyIndicesHosted",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "keyIndicesHosted",
+      "object": "MDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "keyIndicesHosted",
+      "object": "TecDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "majorityStateOwned",
+      "object": "false",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "marketValueCategory",
+      "object": "large-cap",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "memberOf",
+      "object": "World Federation of Exchanges",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "mostActiveListings",
+      "object": "German companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "offersMarketSurveillance",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "offersServices",
+      "object": "clearing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "offersServices",
+      "object": "custody",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "offersServices",
+      "object": "securities trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "offersServices",
+      "object": "settlement",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operatesPlatform",
+      "object": "Eurex",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "operatesTradingVenue",
+      "object": "Tradegate Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "presenceInRegion",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "primaryExchangeMarketHours",
+      "object": "09:00 to 17:30 CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "providesInfrastructure",
+      "object": "for capital markets",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "providesMarketData",
+      "object": "via Qontigo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "recognizedAuthority",
+      "object": "Federal Financial Supervisory Authority",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "regulatedBy",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "revenueSource",
+      "object": "trading fees",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "settlesTransactions",
+      "object": "via Clearstream",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "tickerSymbol",
+      "object": "DB1",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "timeZone",
+      "object": "CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "underRegulation",
+      "object": "European Union",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "abbreviation",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "constituentSelection",
+      "object": "high 40 largest listed companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "constituentsCount",
+      "object": "40",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "countryOfOrigin",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "derivatives",
+      "object": "DAX futures",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "exchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "financialInfluence",
+      "object": "impact on Eurozone economy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.78
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "history",
+      "object": "First published 1988",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "importance",
+      "object": "benchmark for German stock market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "indexType",
+      "object": "performance index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.88
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "instanceOf",
+      "object": "financial index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "instanceOf",
+      "object": "stock market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "language",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "launchYear",
+      "object": "1988",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "maintainedBy",
+      "object": "STOXX Ltd",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.74
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "methodology",
+      "object": "market capitalization weighted",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "methodologyDetail",
+      "object": "free float methodology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.82
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "nameTranslation",
+      "object": "German stock index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "newsCoverage",
+      "object": "Reuters bulletins",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.72
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "operator",
+      "object": "Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.97
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "pointChangeUnits",
+      "object": "basis points",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.78
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "purpose",
+      "object": "tracking major German companies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.91
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "updateFrequency",
+      "object": "real time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.73
+    },
+    {
+      "subject": "Deutscher Aktienindex",
+      "predicate": "website",
+      "object": "www.dax-indices.com",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "achievesGoalsThrough",
+      "object": "innovative products",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "competerOf",
+      "object": "CME Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "competesIn",
+      "object": "global derivatives market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "compliesWith",
+      "object": "MiFID II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "foundedInYear",
+      "object": "1998",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "generatesRevenueFrom",
+      "object": "trading fees",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasInstrument",
+      "object": "Bund futures",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasInstrument",
+      "object": "DAX options",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasKeyProduct",
+      "object": "equity index derivatives",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasKeyProduct",
+      "object": "interest rate derivatives",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasMarketValue",
+      "object": "high",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasPolicy",
+      "object": "risk management",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasRegion",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasRegulator",
+      "object": "Federal Financial Supervisory Authority",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "hasTickerSymbol",
+      "object": "DB1:GR",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "instanceOf",
+      "object": "financial exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "isPartOf",
+      "object": "Eurex Group",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "leveragesPartnerships",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "locatedIn",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "locatedIn",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "operatesGlobally",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "operatesWith",
+      "object": "electronic trading platform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "ownedBy",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "provides",
+      "object": "clearing services",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "regulatedBy",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "specializesIn",
+      "object": "derivatives trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "specializesIn",
+      "object": "futures contracts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "specializesIn",
+      "object": "options contracts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Eurex",
+      "predicate": "supportsGlobalAccess",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "abbreviation",
+      "object": "FWB",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "associatedWithCountryEconomy",
+      "object": "German economy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "availableMarkets",
+      "object": "Bonds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "availableMarkets",
+      "object": "Certificates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "availableMarkets",
+      "object": "ETFs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "availableMarkets",
+      "object": "Equities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "availableMarkets",
+      "object": "Funds",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "availableMarkets",
+      "object": "Warrants",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "clearingHouse",
+      "object": "Eurex Clearing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "currency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "currentEconomicInfluence",
+      "object": "Major",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "dailyTurnoverRank",
+      "object": "top 10 globally",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "electronicTradingPlatformProvider",
+      "object": "T7",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "exchangeTypeMain",
+      "object": "Electronic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "floorTradingLocation",
+      "object": "Börsenplatz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "founded",
+      "object": "1585",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "hasExchangeTicker",
+      "object": "A0DWW4",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "hasTradingSegments",
+      "object": "General Standard",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "hasTradingSegments",
+      "object": "Open Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "hasTradingSegments",
+      "object": "Prime Standard",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "hasTradingSegments",
+      "object": "Scale",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "haveHistoricFloorTrading",
+      "object": "Yes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "index",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "index",
+      "object": "Euro Stoxx 50",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "index",
+      "object": "MDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "index",
+      "object": "SDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "index",
+      "object": "TecDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "instanceOf",
+      "object": "stock exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "leader",
+      "object": "Theodor Weimer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "leaderTitle",
+      "object": "CEO Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "locatedIn",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "locatedIn",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "mainCompetitors",
+      "object": "Euronext",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "mainCompetitors",
+      "object": "London Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "mainCompetitors",
+      "object": "Swiss Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketCapRankInEurope",
+      "object": "3",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketCapRankInWorld",
+      "object": "10",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketClassification",
+      "object": "Advanced economy market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketClassification",
+      "object": "Developed market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "marketClassification",
+      "object": "European Union market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "masterIndexProvider",
+      "object": "STOXX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "membership",
+      "object": "World Federation of Exchanges",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "Adidas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "Allianz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "BASF",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "BMW",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "Bayer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "Deutsche Bank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "Deutsche Telekom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "SAP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "Siemens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "notableListedCompanies",
+      "object": "Volkswagen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "numberETFs",
+      "object": "over 1000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "numberListedBonds",
+      "object": "over 10000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "numberListedStocks",
+      "object": "over 1000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "officialLanguage",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "officialName",
+      "object": "Frankfurter Wertpapierbörse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "officialWebsite",
+      "object": "https://www.boerse-frankfurt.de",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "owner",
+      "object": "Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "publicHolidayClosures",
+      "object": "German public holidays",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "regulationType",
+      "object": "MiFID II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "regulatoryBody",
+      "object": "BaFin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "regulatoryBody",
+      "object": "European Securities and Markets Authority",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "settlementSystem",
+      "object": "Clearstream",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "tradingHoursEnd",
+      "object": "22:00 CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "tradingHoursStart",
+      "object": "08:00 CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "tradingInterruptionsKnown",
+      "object": "COVID-19",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "tradingPlatform",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "yearlyTradingVolume",
+      "object": "over 1 trillion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "yearlyTradingVolume",
+      "object": "over 1000 billion euros",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "administrativeDistrictType",
+      "object": "urban district",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "airport",
+      "object": "Frankfurt Airport",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "airportCode",
+      "object": "FRA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "airportNickname",
+      "object": "Gateway to the World",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "alternateName",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "architecturalLabel",
+      "object": "Mainhattan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "areaGreenRatio",
+      "object": "approximately 50%",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "areaSquareKm",
+      "object": "248.31",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "arenaCapacity",
+      "object": "51500",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "arenaOriginallyNamed",
+      "object": "Waldstadion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "associatedMuseum",
+      "object": "German Film Museum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "associatedMuseum",
+      "object": "Senckenberg Nature Museum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "associatedMuseum",
+      "object": "Städel Museum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "capitalOf",
+      "object": "Frankfurt Rhein-Main",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "cathedralArchitecture",
+      "object": "Gothic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "cathedralDedication",
+      "object": "Saint Bartholomew",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "centralStationCode",
+      "object": "FFM",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "climateType",
+      "object": "Oceanic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "coexistentReligion",
+      "object": "Evangelical Church",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "connectionScene",
+      "object": "Brothers Grimm",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "consulateCount",
+      "object": "90+",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "countryCode",
+      "object": "DE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "dedicatedFairground",
+      "object": "Frankfurter Messe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "developedInfrastructure",
+      "object": "Frankfurt Central Station",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "dominantReligion",
+      "object": "Roman Catholic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "elevationMeters",
+      "object": "112",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "financialCenter",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "foundingYear",
+      "object": "794",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "governingBody",
+      "object": "City council",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "governingOfficial",
+      "object": "Lord Mayor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "governmentalSeat",
+      "object": "Römer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "hasTeam",
+      "object": "Eintracht Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "headquartersBuilding",
+      "object": "Messeturm",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "homonymCity",
+      "object": "Frankfurt (Oder)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "industryPowered",
+      "object": "chemicals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "industryPowered",
+      "object": "finance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "instanceOf",
+      "object": "German city",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "landmarkChurch",
+      "object": "Frankfurt Cathedral",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "landmarkSquare",
+      "object": "Römerberg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "locatedIn",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "locatedIn",
+      "object": "Hesse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "lordMayor",
+      "object": "Mike Josef",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "mapReference",
+      "object": "50.1109° N, 8.6821° E",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "medievalGatesExample",
+      "object": "Eschersheimer Tor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "memberFrom",
+      "object": "1815",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "memberOf",
+      "object": "German Confederation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "memberUntil",
+      "object": "1866",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "nativeBorn",
+      "object": "Anne Frank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "nativeBornYear",
+      "object": "1929",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "nativeResidentName",
+      "object": "Frankfurter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "nativeTree",
+      "object": "apple tree",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "occupationDate",
+      "object": "1792",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "occupiedBy",
+      "object": "French forces",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "officialCurrency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "officialLanguage",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "organizesFestivals",
+      "object": "Frankfurt Book Fair",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Birmingham",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Budapest",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Cairo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Dezhou",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Eskişehir",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Granada",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Kraków",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Leipzig",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Lyon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Milan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Philadelphia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Prague",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partnerCity",
+      "object": "Toronto",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "partySponsored",
+      "object": "SPD",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "population",
+      "object": "733000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "populationDate",
+      "object": "2022",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "postalCodeRange",
+      "object": "60306-60599",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "postalVehicleMark",
+      "object": "6",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "prizedBy",
+      "object": "Prussia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "providesVenue",
+      "object": "Commerzbank-Arena",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "publicTransitExtent",
+      "object": "Rhein-Main-Verkehrsverbund",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "publicTransitSystem",
+      "object": "S-Bahn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "publicTransitSystem",
+      "object": "U-Bahn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "renownedUniversity",
+      "object": "Goethe University Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "riverThrough",
+      "object": "Main",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "riverThrough",
+      "object": "Nidda",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "riversideLandmark",
+      "object": "Eiserner Steg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "ruledBy",
+      "object": "Holy Roman Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "seatOf",
+      "object": "Deutsche Bundesbank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "seatOf",
+      "object": "European Central Bank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "seatOf",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "signatureGreenarea",
+      "object": "Palmengarten",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "skyscraperHeightLeader",
+      "object": "Commerzbank Tower",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "skyscrapersClusterName",
+      "object": "Frankfurt skyline",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "stageAutomotiveShows",
+      "object": "International Motor Show",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "status",
+      "object": "Free Imperial City",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "stockExchangeNickname",
+      "object": "Börse Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "teamType",
+      "object": "football club",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "timeZone",
+      "object": "CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "transportOperator",
+      "object": "RMV",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "universityType",
+      "object": "public",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "vehicleRegistrationPrefix",
+      "object": "F",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "wellKnownDish",
+      "object": "Frankfurter Würstchen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "wellKnownTreat",
+      "object": "Bethmännchen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Frankfurt am Main",
+      "predicate": "wikipediaUrl",
+      "object": "https://en.wikipedia.org/wiki/Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "activelyUpdated",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "alsoKnownAs",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "availableTradingPlatforms",
+      "object": "Xetra trading platform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "baseDate",
+      "object": "December 30, 1987",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "baseValue",
+      "object": "1000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "calculatiordBaseYear",
+      "object": "1987",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "countryOfOrigin",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "createdIn",
+      "object": "1988",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "currency",
+      "object": "EUR",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "currency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "globalRankingInSize",
+      "object": "among top European indices",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "hasCalculationInterval",
+      "object": "every 1-2 seconds during trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "hasGovernanceBody",
+      "object": "DAX Steering Committee",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "hasLowerLevelIndex",
+      "object": "MDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "hasLowerLevelIndex",
+      "object": "TecDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "hasMaximumWeightConstituent",
+      "object": "about 15 percent",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.82
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "hasRegulator",
+      "object": "European Securities and Markets Authority",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "includesCompaniesListingRequirements",
+      "object": "Prime Standard segment",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "indexType",
+      "object": "performance index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "instanceOf",
+      "object": "stock market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "marketHoursBegin",
+      "object": "09:00 CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "marketHoursEnd",
+      "object": "17:30 CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "measuress",
+      "object": "economic health of Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "membersSelectionCriterion",
+      "object": "representative in their industries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "numberOfConstituents",
+      "object": "30",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "operatedBy",
+      "object": "Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "previousNames",
+      "object": "Börsen-Zeitung-Index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.73
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "primaryRecalulationOffice",
+      "object": "Deutsche Börse Office in Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "providesDataForDerivativesProducts",
+      "object": "futures",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "providesDataForDerivativesProducts",
+      "object": "options",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "relatedToMarketStructureFilterLevelIndex",
+      "object": "SDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.82
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "reviewedPeriodically",
+      "object": "quarterly",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.87
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "servesAs",
+      "object": "European economic indicator",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.84
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "shareTurnoverRequrement",
+      "object": "minimum monthly requirements",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.73
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "subIndiciesUpdated",
+      "object": "annually",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "targetSector",
+      "object": "German blue-chip stocks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.94
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "tickerSymbol",
+      "object": "^GDAXI",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "tradedVolume",
+      "object": "high",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "tradingVenue",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "typeOfCalculation",
+      "object": "real-time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "usedIn",
+      "object": "investment benchmarking",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.88
+    },
+    {
+      "subject": "German Stock Index",
+      "predicate": "weightingMethod",
+      "object": "free-float market capitalization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Austria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Belgium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Czech Republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Denmark",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "France",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Luxembourg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Netherlands",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Poland",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "borders",
+      "object": "Switzerland",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasArea",
+      "object": "357592",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasAreaUnit",
+      "object": "square kilometers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasCallingCode",
+      "object": "+49",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasCapital",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasCurrency",
+      "object": "Euro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasCurrentChancellor",
+      "object": "Olaf Scholz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasCurrentPresident",
+      "object": "Frank-Walter Steinmeier",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasDrivingSide",
+      "object": "right",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasEUAccession",
+      "object": "1957-03-25",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasEconomyType",
+      "object": "social market economy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasFootballTeamLead",
+      "object": "jürgen klopp",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasFoundingDate",
+      "object": "1871-01-18",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasG7Membership",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasGDP",
+      "object": "4082460000000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasGDPPerCapita",
+      "object": "48598",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasGDPUnit",
+      "object": "USD",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasGovernmentType",
+      "object": "federal parliamentary republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasHDI",
+      "object": "0.947",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasHeadOfStateTitle",
+      "object": "President",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasHighestPoint",
+      "object": "Zugspitze",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasHighestPointElevation",
+      "object": "2962",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasISO3166Code",
+      "object": "DE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasLargestCity",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasLargestEconomy",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasLeaderTitle",
+      "object": "Chancellor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorAirport",
+      "object": "Frankfurt Airport",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorCity",
+      "object": "Cologne",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorCity",
+      "object": "Frankfurt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorCity",
+      "object": "Hamburg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorCity",
+      "object": "Munich",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorExports",
+      "object": "chemicals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorExports",
+      "object": "machinery",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorExports",
+      "object": "vehicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorIndustry",
+      "object": "automotive",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorIndustry",
+      "object": "chemicals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorIndustry",
+      "object": "machinery",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorRailwayOperator",
+      "object": "Deutsche Bahn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorRiver",
+      "object": "Danube",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorRiver",
+      "object": "Elbe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMajorRiver",
+      "object": "Rhine",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasMountainRange",
+      "object": "Alps",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasNATOMembership",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasOECDMembership",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasOfficialLanguage",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasPopulation",
+      "object": "84270625",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasPopulationDensity",
+      "object": "235",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasPopulationDensityUnit",
+      "object": "people per square kilometer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Baden-Württemberg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Bavaria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Brandenburg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Bremen",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Hamburg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Hesse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Lower Saxony",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Mecklenburg-Vorpommern",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "North Rhine-Westphalia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Rhineland-Palatinate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Saarland",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Saxony",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Saxony-Anhalt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Schleswig-Holstein",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasState",
+      "object": "Thuringia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasStates",
+      "object": "16",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasTimeZone",
+      "object": "CET",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasTopLevelDomain",
+      "object": ".de",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasUNMembership",
+      "object": "1973-09-18",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "hasUnemploymentRate",
+      "object": "5.7",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Germany",
+      "predicate": "instanceOf",
+      "object": "country",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isAGlobalInnovationLeader",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isEUFoundingMember",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "isFourthLargestEconomy",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Germany",
+      "predicate": "locatedIn",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "playedInWorldCup",
+      "object": "1954",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wasDivided",
+      "object": "1949-10-07",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wasReunified",
+      "object": "1990-10-03",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wonWorldCup",
+      "object": "1954",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wonWorldCup",
+      "object": "1974",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wonWorldCup",
+      "object": "1990",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "wonWorldCup",
+      "object": "2012",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "constituentDefinedOn",
+      "object": "market capitalization calculation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "constituentTypeDefinitionsInclude",
+      "object": "free float market cap calculation first market large enterprises tradabity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.78
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "countryOfOrigin",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "createdIn",
+      "object": "1996",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "createdToRepresent",
+      "object": "second tier equity market segment",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.88
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "currentlyQuoteOn",
+      "object": "Xetra",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "developer",
+      "object": "Deutsche Boerse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "factSecondPartTermLists",
+      "object": "same reporting classifications approach slightly vary over reg parts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "instanceOf",
+      "object": "stock index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "isContinuedBy",
+      "object": "Track",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "isIndexOf",
+      "object": "German stock market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "listsCompaniesRankedFrom",
+      "object": "60 largest designated companies after DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "operatedBy",
+      "object": "Deutsche Boerse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "pastWeightCalculation",
+      "object": "also measure balance sheet calculation past",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "MDAX",
+      "predicate": "trackAvailability",
+      "object": "there are ETFs and futures tracking index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "benefitsGroup",
+      "object": "Institutional Investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "benefitsGroup",
+      "object": "Retail Investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "definedAsMarketCategoryByEconomist",
+      "object": "Formal Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "excludesSystem",
+      "object": "Black Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "frequentlyAssociatedWithOrganizationType",
+      "object": "Central Bank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "hasCharacteristicAttribute",
+      "object": "Accountability",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "hasCharacteristicAttribute",
+      "object": "Transparency",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "hasPurpose",
+      "object": "Ensure Fair Trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "hasPurpose",
+      "object": "Prevent Fraud",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "hasPurpose",
+      "object": "Protect Investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "implementedBySovereignNation",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "implementedBySovereignNation",
+      "object": "India",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "implementedBySovereignNation",
+      "object": "Japan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "implementedBySovereignNation",
+      "object": "United Kingdom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "implementedBySovereignNation",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "instanceOf",
+      "object": "Financial Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "isOftenComparableTo",
+      "object": "OTC Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "managingEntity",
+      "object": "ESMA (European Securities and Markets Authority)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "managingEntity",
+      "object": "FCA (Financial Conduct Authority)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "managingEntity",
+      "object": "FINRA (Financial Industry Regulatory Authority)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "managingEntity",
+      "object": "HKMA (Hong Kong Monetary Authority)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "managingEntity",
+      "object": "MAS (Monetary Authority of Singapore)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "managingEntity",
+      "object": "SEC (U.S. Securities and Exchange Commission)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "operatesType",
+      "object": "Bond Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "operatesType",
+      "object": "Commodity Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "operatesType",
+      "object": "Derivatives Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "operatesType",
+      "object": "Stock Market",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "operatingGlobalRegion",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "operatingGlobalRegion",
+      "object": "Europe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "operatingGlobalRegion",
+      "object": "North America",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "partOfStructure",
+      "object": "Global Financial System",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "potentialRiskMitigatesAgainst",
+      "object": "Insider Trading",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "potentialRiskMitigatesAgainst",
+      "object": "Market Manipulation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "propertyContract",
+      "object": "Listed Securities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "relatesToScenario",
+      "object": "Electronically Traded",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresComplianceType",
+      "object": "Disclosure Requirements",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresComplianceType",
+      "object": "Ethical Conduct Standards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresComplianceType",
+      "object": "Financial Reporting Standards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresComplianceType",
+      "object": "Trading Rules",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresDataSystem",
+      "object": "Price Surveillance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresFunction",
+      "object": "Oversight by Regulatory Authorities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresHumanInfrastructure",
+      "object": "Certified Traders",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresSystemComponent",
+      "object": "Clearinghouses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "requiresSystemComponent",
+      "object": "Exchanges",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "resultsFromEffortType",
+      "object": "Government Legislation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "specifiedBy",
+      "object": "Laws",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Regulated Market",
+      "predicate": "specifiedBy",
+      "object": "Regulations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "alternativeName",
+      "object": "German Technology Index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "availableForInvesting",
+      "object": "via ETFs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "baseDate",
+      "object": "2003-03-24",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "baseValue",
+      "object": "1000",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "belongsTo",
+      "object": "DAX family of indices",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "calculatedAs",
+      "object": "Laspeyres formula",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "classifiable",
+      "object": "high-risk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.7
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "correlatedWith",
+      "object": "global technology indices",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "flagshipIndexName",
+      "object": "No",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "freeFloatCapitalization",
+      "object": "included",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasBenchmarkRelatives",
+      "object": "DAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasBenchmarkRelatives",
+      "object": "MDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasBenchmarkRelatives",
+      "object": "SDAX",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasGICSClassification",
+      "object": "Information Technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasGermanISINPrefix",
+      "object": "DE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasISIN",
+      "object": "DE0007203275",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasRelatedIndices",
+      "object": "FTSE World Technology Index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasSelectionCriteria",
+      "object": "liquidity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "hasSelectionCriteria",
+      "object": "market capitalization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "homeTo",
+      "object": "Aixtron",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "homeTo",
+      "object": "Carl Zeiss Meditec",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "includes",
+      "object": "ASK Industries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "includes",
+      "object": "Fuchs Petrolub",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "includes",
+      "object": "Infineon Technologies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "includes",
+      "object": "SAP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "indexTicker",
+      "object": "TDXP",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "initialMembers",
+      "object": "30",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "instanceOf",
+      "object": "stock market index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "launchedIn",
+      "object": "2003",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "launchedReplacement",
+      "object": "for Tech All-Share Index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "listingVenue",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "mirrors",
+      "object": "US NASDAQ",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.8
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "numComponents",
+      "object": "30",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "operatedBy",
+      "object": "Deutsche Börse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "parentDatabase",
+      "object": "Deutsche Börse AG databases",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "performanceBenchmarkFor",
+      "object": "German tech stocks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "priceWeighted",
+      "object": "No",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "prominance",
+      "object": "leading German tech index",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "publicationSource",
+      "object": "Frankfurter Allgemeine Zeitung",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.75
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "publishingMode",
+      "object": "real-time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "rebalanceSchedule",
+      "object": "quarterly",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "reviewFrequency",
+      "object": "quarterly",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "sectorFocus",
+      "object": "technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "sectorInclusions",
+      "object": "biotechnology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "sectorInclusions",
+      "object": "semiconductors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "sectorInclusions",
+      "object": "software",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "sectorInclusions",
+      "object": "telecommunications",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "servicesTo",
+      "object": "investors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "size",
+      "object": "mid-cap",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TecDAX",
+      "predicate": "supercedes",
+      "object": "Nemax 50",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    }
+  ],
+  "sink": []
+}

@@ -1,4 +1,0 @@
-[2025-10-29T13:25:12.726125] planned=108
-[2025-10-29T13:26:48.688464] planned=108
-[2025-10-29T13:26:48.688965] RUN 1/108 /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir '/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/runs_bench_concurrent2/topic/deepseek/ancient_city_of_Babylon/baseline__det__20251029_132648' --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 3 --ner-batch-size 50 --concurrency 10 --temperature 0.0 --top-p 1.0 --max-tokens 2000
-[2025-10-29T13:27:45.034571] INTERRUPTED

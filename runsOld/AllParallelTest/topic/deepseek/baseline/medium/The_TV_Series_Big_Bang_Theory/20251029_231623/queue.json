@@ -1,0 +1,618 @@
+[
+  {
+    "subject": "The TV Series Big Bang Theory",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:16:25"
+  },
+  {
+    "subject": "Adam West",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Alfred Hofstadter",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Amy Farrah Fowler",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Anu",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Barry Kripke",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Bernadette Rostenkowski-Wolowitz",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Beverly Hofstadter",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Bill Gates",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Bill Nye",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Bill Prady",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Bob Newhart",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Brent Spiner",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Brian Posehn",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Burt Ward",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Buzz Aldrin",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "CBS",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Caltech",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Carrie Fisher",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Christine Baranski",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Chuck Lorre",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Courtney Henggeler",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Critics' Choice Television Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Elon Musk",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Emily",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "GLAAD Media Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Gates McFadden",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "George Takei",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Golden Globe Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Howard Wolowitz",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "James Earl Jones",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Jim Parsons",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "John Ross Bowie",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Johnny Galecki",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Judy Greer",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Julie Newmar",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Kaley Cuoco",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Kate Micucci",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Kathy Bates",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Kevin Smith",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Kevin Sussman",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Kunal Nayyar",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Laurie Metcalf",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "LeVar Burton",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Leonard Hofstadter",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Leonard Hofstadter played by Johnny Galecki",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Leonard Nimoy",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Leonard and Penny's apartment",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Leslie Winkle",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Lucy",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Mark Hamill",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Mary Cooper",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Mayim Bialik",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Melissa Rauch",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Mrs. Wolowitz",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "NAACP Image Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Neil deGrasse Tyson",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Pasadena, California",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Penny",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Penny played by Kaley Cuoco",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Penny's apartment",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "People's Choice Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "President Siebert",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Primetime Emmy Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Priya Koothrappali",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Raj Koothrappali",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Raj Koothrappali played by Kunal Nayyar",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Raj's apartment",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Riki Lindhome",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Sara Gilbert",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Satellite Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Sheldon Cooper",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Sheldon Cooper played by Jim Parsons",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Sheldon and Amy's apartment",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Sheldon and Leonard's apartment",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Simon Helberg",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Stan Lee",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Stanley Tucci",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Stephen Hawking",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Stuart Bloom",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "TCA Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Teen Choice Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Texas",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "The Cheesecake Factory",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Wil Wheaton",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "William Shatner",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Young Artist Award",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  },
+  {
+    "subject": "Young Sheldon",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:20:26"
+  }
+]

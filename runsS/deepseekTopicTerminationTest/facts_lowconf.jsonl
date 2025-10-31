@@ -1,0 +1,42 @@
+{"subject": "Umer Bin Ekhatab", "predicate": "sibling", "object": "Fatimah bint al-Khattab", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Umer Bin Ekhatab", "predicate": "sibling", "object": "Zayd ibn al-Khattab", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Umer Bin Ekhatab", "predicate": "sibling", "object": "Umm Kulthum bint al-Khattab", "hop": 0, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Abu Bakr", "predicate": "quote", "object": "If you expect the blessings of God, be good to His people.", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Egypt", "predicate": "nationalFlower", "object": "Lotus", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Muslim Conquests", "predicate": "endedIn", "object": "750 CE", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Treaty of Umar", "predicate": "hasPurpose", "object": "Regulate rights and duties of non-Muslims", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Ruqayyah bint Muhammad", "predicate": "relatedTo", "object": "Umar ibn al-Khattab", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Taif", "predicate": "relatedTo", "object": "Umer Bin Ekhatab", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Salim Mawla Abi Hudhayfah", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Ubayy ibn Ka'b", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Abd al-Rahman ibn Awf", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Suhayb ar-Rumi", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Bilal al-Habashi", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Abu Dhar al-Ghifari", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Hamza ibn Abdul-Muttalib", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Ja'far ibn Abi Talib", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Mus'ab ibn Umayr", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Umm Ayman", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Asma bint Abi Bakr", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Hafsa bint Umar", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Safiyya bint Huyayy", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Rayhana bint Zayd", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Umm Kulthum bint Uqba", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Zaynab bint Jahsh", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Maymuna bint al-Harith", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "hasExample", "object": "Juwayriyya bint al-Harith", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Uthman ibn Maz'un", "predicate": "relatedTo", "object": "Umar ibn al-Khattab", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Quraysh and allies", "predicate": "included", "object": "Banu Tamim", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Caliphate", "predicate": "legacy", "object": "Debates on Revival", "hop": 7, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Caliphate", "predicate": "mentionedIn", "object": "Quran", "hop": 7, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Caliphate", "predicate": "mentionedIn", "object": "Hadith", "hop": 7, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Battle of the Masts", "predicate": "relatedTo", "object": "Umar ibn al-Khattab", "hop": 8, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Naval expeditions", "predicate": "involved", "object": "Naval battles", "hop": 8, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Naval expeditions", "predicate": "occurredIn", "object": "Mediterranean Sea", "hop": 8, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Naval expeditions", "predicate": "occurredIn", "object": "Persian Gulf", "hop": 8, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Naval expeditions", "predicate": "supportedBy", "object": "Arab fleets", "hop": 8, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Naval expeditions", "predicate": "aimedAt", "object": "Disrupting enemy trade", "hop": 8, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Coptic Cairo", "predicate": "relatedTo", "object": "Amr ibn al-As", "hop": 9, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Coptic Cairo", "predicate": "relatedTo", "object": "Umar ibn al-Khattab", "hop": 9, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Arab fleets", "predicate": "participatedIn", "object": "Battle of the Masts", "hop": 9, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Arab fleets", "predicate": "expandedUnder", "object": "Umar ibn al-Khattab", "hop": 9, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}

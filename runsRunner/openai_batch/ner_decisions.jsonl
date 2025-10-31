@@ -1,0 +1,981 @@
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "Evelyn Bush", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "June 28, 1974", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "Manhattan Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "March 11, 1890", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "Massachusetts Institute of Technology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "Memex", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "engineer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "inventor", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Vannevar Bush", "hop": 0, "phrase": "scientist", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "Cold War", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "Fat Man", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "Hanford Site", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "J. Robert Oppenheimer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "Little Boy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "Los Alamos Laboratory", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "Nazi Germany's nuclear program", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "Oak Ridge National Laboratory", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "President Franklin D. Roosevelt", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "Trinity Test", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "United States government", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "atomic bombs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "bombing of Hiroshima", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "bombing of Nagasaki", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "military and scientists", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "multiple locations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "nuclear proliferation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "nuclear weapons project", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "over 130,000 people", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "plutonium-239", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "scientists from various countries", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "true", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Manhattan Project", "hop": 1, "phrase": "uranium-235", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "1861", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Association of American Universities", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Ben Bernanke", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Cambridge, Massachusetts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Elon Musk", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Kofi Annan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "MIT Engineers", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "MIT Libraries", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Mens et Manus", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "NASA", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "National Institutes of Health", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "National Science Foundation", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Neri Oxman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Richard Feynman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "Sally Kornbluth", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "architecture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "biological sciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "cardinal and gray", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "computer science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "economics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "engineering", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "http://www.mit.edu", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "humanities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "management", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "mathematics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "over $700 million annually", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "over 1,000", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "over 11,000", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "physics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "private research university", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "social sciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "undergraduate and graduate degrees", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "university", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Massachusetts Institute of Technology", "hop": 1, "phrase": "urban", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "1945", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "As We May Think", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "Vannevar Bush", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "World War II", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "associative indexing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "concept", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "hypertext", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "hypothetical machine", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "information retrieval", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "multimedia content", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "store and retrieve information", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Memex", "hop": 1, "phrase": "user interaction", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "$1.8 billion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "$100 million annually", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "150 acres", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "1852", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "9:1", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Anne Sexton", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Arianna Huffington", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Association of American Universities", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Brown and Blue", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Cummings School of Veterinary Medicine", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Eliot Spitzer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Fletcher School of Law and Diplomacy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Jeffrey Zeldman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Jumbo the Elephant", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Jumbos", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Medford, Massachusetts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Michael Dukakis", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "NCAA Division III", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Pax et Lux", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Private research university", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "School of Arts and Sciences", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "School of Engineering", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "School of Medicine", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Semester system", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Sunil Kumar", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Tufts Community Union", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Tufts Environmental Consciousness Outreach", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Tufts International Relations Society", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Tufts Medical Center", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Tufts Student Government", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Tufts University Library", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Tufts University Programming Board", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "Tufts University School of Dental Medicine", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "University", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "approximately 11,000", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "approximately 5,500", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University", "hop": 1, "phrase": "tufts.edu", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "1947", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "1991", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Berlin Wall", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Cuban Missile Crisis", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Espionage agencies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Europe", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Germany", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Iron Curtain", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Korean War", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "McCarthyism", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "NATO", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "NATO alliance", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Nuclear Non-Proliferation Treaty", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Nuclear arms race", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Soviet Union", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "United Nations policies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Vietnam War", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Warsaw Pact", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "Warsaw Pact alliance", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "arms control agreements", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "arms race", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "capitalism", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "communism", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "cultural exchanges", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "détente", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "economic policies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "foreign policies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "global alliances", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "historical period", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "ideological conflict", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "international relations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "media representation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "military bases", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "military rivalry", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "military strategies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "new technologies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "nuclear arms race", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "nuclear weapons", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "political ideologies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "political tension", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "proxy wars", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "scientific research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "social movements", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cold War", "hop": 2, "phrase": "space race", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "21 kilotons", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "August 9, 1945", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "Little Boy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "Los Alamos Laboratory", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "Manhattan Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "Nagasaki", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "Winston Churchill's character", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "World War II", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "nuclear weapon", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fat Man", "hop": 2, "phrase": "plutonium bomb", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "1943", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "586 square miles", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "9", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "B Reactor", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "Columbia River", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "Environmental Protection Agency", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "Manhattan Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "Nuclear weapons", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "Tri-Cities region", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "U.S. Department of Energy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "Washington, USA", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "cleanup and remediation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "designated in 1989", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "environmental justice issues", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "groundwater contamination", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "nuclear fuel production", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "nuclear production complex", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "nuclear waste storage facilities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "ongoing", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "ongoing since 1989", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "plutonium production", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "radioactive isotopes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "radioactive waste", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "rural communities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "tank farms", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Hanford Site", "hop": 2, "phrase": "thousands of workers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "American", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "April 22, 1904", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Edward Teller", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Enrico Fermi Award", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "February 18, 1967", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Harvard University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Julius Robert Oppenheimer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Katherine Puening", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Max Born", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Niels Bohr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Peter Oppenheimer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Presidential Medal of Freedom", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Richard Feynman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "Toni Oppenheimer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "University of Göttingen", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "atomic bomb development", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "director of Los Alamos Laboratory", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "physicist", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "professor at Institute for Advanced Study", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "the Manhattan Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "J. Robert Oppenheimer", "hop": 2, "phrase": "theoretical physics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "15 kilotons", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "August 6, 1945", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "Hiroshima", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "Manhattan Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "gun-type fission weapon", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "in warfare", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "nuclear weapon", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Little Boy", "hop": 2, "phrase": "uranium bomb", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "1943", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "Department of Energy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "Los Alamos National Laboratory", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "Los Alamos, New Mexico", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "Manhattan Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "biological science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "computational science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "energy solutions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "materials science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "national security", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "nuclear science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Los Alamos Laboratory", "hop": 2, "phrase": "research laboratory", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "Einstein-Szilard letter", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "Heinrich Himmler", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "Manhattan Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "World War II", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "creating a functional atomic bomb", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "lack of resources", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "nuclear fission", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "nuclear program", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "nuclear weapons", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "scientists", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Nazi Germany's nuclear program", "hop": 2, "phrase": "uranium", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "1943", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "National Laboratory", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "Oak Ridge Leadership Computing Facility", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "Oak Ridge National Laboratory Research Library", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "Oak Ridge National Laboratory Visitor Center", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "Oak Ridge, Tennessee", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "U.S. Department of Energy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "approximately $1.5 billion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "biomedical science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "climate change research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "energy efficiency", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "energy production", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "environmental science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "industry partners", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "materials science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "national security", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "nuclear science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "over 4,800", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "scientific conferences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "scientific research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "scientific user facilities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "supercomputing resources", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "thousands of research papers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Oak Ridge National Laboratory", "hop": 2, "phrase": "universities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Anna Roosevelt", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "April 12, 1945", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Columbia Law School", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Democratic Party", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Eleanor Roosevelt", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Elliott Roosevelt", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "FDR", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Four Freedoms", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Franklin D. Roosevelt Jr.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Franklin D. Roosevelt signature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Franklin Delano Roosevelt", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Harry S. Truman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Harvard University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Herbert Hoover", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "Hyde Park, New York", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "James Roosevelt II", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "January 30, 1882", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "John Aspinwall Roosevelt", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "March 4, 1933", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "New Deal", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "President of the United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "President Franklin D. Roosevelt", "hop": 2, "phrase": "World War II leadership", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "July 16, 1945", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "Los Alamos Laboratory", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "Manhattan Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "New Mexico", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "Robert Oppenheimer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "Trinity", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "World War II", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "approximately 20 kilotons", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "changed warfare strategies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "fear and awe", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "first detonation of a nuclear weapon", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "fission", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "inspired literature and films", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "led to further nuclear tests", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "nuclear arms race", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "nuclear explosion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "nuclear physics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "nuclear proliferation concerns", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "nuclear test", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "photographs and films", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "radiation release", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "scientists and military personnel", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Trinity Test", "hop": 2, "phrase": "secrecy and security measures", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "100 senators", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "1789", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "27 amendments", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "435 representatives", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Central Intelligence Agency", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Democratic Party", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Agriculture", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Commerce", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Education", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Energy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Homeland Security", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Housing and Urban Development", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Labor", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Transportation", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Department of Veterans Affairs", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "English", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Environmental Protection Agency", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Federal Bureau of Investigation", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "In God We Trust", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Medicare and Medicaid", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "President of the United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Republican Party", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Social Security Administration", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Stars and Stripes", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Supreme Court of the United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "The Star-Spangled Banner", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "U.S. Department of the Treasury", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "United States Armed Forces", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "United States Congress", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "United States Constitution", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "United States dollar", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "Washington, D.C.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "approximately 331 million (2020)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "based on diplomacy and military strength", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "diplomatic relations with 195 countries", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "executive", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "federal budget process", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "federal government", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "federal income tax", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "government", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "held every four years for President", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "judicial", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "legislative", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "managed by National Park Service", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "mixed economy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "national debt", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "power of the Supreme Court", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "protected by federal laws", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "regulated by federal law", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "system to prevent abuse of power", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "third parties", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "United States government", "hop": 2, "phrase": "three branches", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Association of American Universities", "hop": 2, "phrase": "1900", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Association of American Universities", "hop": 2, "phrase": "65 research universities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Association of American Universities", "hop": 2, "phrase": "Association of American Universities (AAU)", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Association of American Universities", "hop": 2, "phrase": "Mary Sue Coleman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Association of American Universities", "hop": 2, "phrase": "Washington, D.C.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Association of American Universities", "hop": 2, "phrase": "higher education", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Association of American Universities", "hop": 2, "phrase": "organization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Association of American Universities", "hop": 2, "phrase": "www.aau.edu", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "1953-12-13", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "2", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "2006-02-01", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "2014-01-31", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Alan Greenspan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "American", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Anna Bernanke", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Augusta, Georgia, USA", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Economist", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Former Chair of the Federal Reserve", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Harvard University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Janet Yellen", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Massachusetts Institute of Technology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Ben Bernanke", "hop": 2, "phrase": "Monetary policy during the Great Recession", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "118927", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "1636", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "6.43 square miles", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Alewife Station", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "American Revolutionary War", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Boston", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge Arts River Festival", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge Carnival", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge College", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge Common", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge Public Library", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge Public Schools", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge Rindge and Latin School", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge Science Festival", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cambridge United Soccer Club", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Charles River", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "City", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Cultural Diversity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Diverse Community", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Eastern Standard Time", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Education and Research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Greater Boston", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Harvard Art Museums", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Harvard Law School", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Harvard Medical School", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Harvard Square Station", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Harvard University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Harvard Yard", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Humid continental climate", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Innovation and Technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Kendall/MIT Station", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Lesley University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Longfellow House", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "MBTA", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "MIT Chapel", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Massachusetts Institute of Technology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Middlesex County", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Mount Auburn Cemetery", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Radcliffe Institute for Advanced Study", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Sumbul Siddiqui", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "Technology Startups", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Brattle Theatre", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Cambridge Arts Council", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Cambridge Community Foundation", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Cambridge Historical Society", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Cambridge Housing Authority", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Cambridge Public Health Department", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Cambridge Redevelopment Authority", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Harvard Museum of Natural History", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The Harvard-Smithsonian Center for Astrophysics", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "The MIT Museum", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cambridge, Massachusetts", "hop": 2, "phrase": "United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "American", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Axel Springer Award", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Boca Chica, Texas", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Canadian", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Damian Musk", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Exa Dark Sideræl Musk", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Griffin Musk", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "June 28, 1971", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Justine Musk", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Kai Musk", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Los Angeles, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Neuralink", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "OpenAI", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "PayPal", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Pretoria, South Africa", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Royal Aeronautical Society Gold Medal", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "San Francisco, California", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Saxon Musk", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "South African", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "SpaceX", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Talulah Riley", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Tesla, Inc.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "Time Person of the Year 2021", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "X Æ A-Xii", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "approximately $230 billion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "automotive industry", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "business magnate", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "electric vehicles", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "energy sector", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "engineer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "entrepreneur", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "hyperloop", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "solar energy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "space exploration", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "space industry", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Elon Musk", "hop": 2, "phrase": "technology industry", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Ama Annan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "April 8, 1938", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "August 18, 2021", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Conflict resolution strategies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Diplomat", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Ghanaian", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Global health initiatives", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Human rights advocacy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Kojo Annan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Leadership in global peace efforts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Macalester College", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Nane Annan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Nobel Peace Prize", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Secretary-General of the United Nations", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "Sustainable development goals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "The Elders", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Kofi Annan", "hop": 2, "phrase": "United Nations Secretary-General", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "1861", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "Cambridge, Massachusetts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "Library", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "Massachusetts Institute of Technology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "digital collections", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "instructional services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "interlibrary loan", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "libraries.mit.edu", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "over 3 million volumes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "MIT Libraries", "hop": 2, "phrase": "research support", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mens et Manus", "hop": 2, "phrase": "MIT", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mens et Manus", "hop": 2, "phrase": "Massachusetts Institute of Technology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mens et Manus", "hop": 2, "phrase": "Mind and Hand", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mens et Manus", "hop": 2, "phrase": "motto", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Mens et Manus", "hop": 2, "phrase": "the integration of theory and practice", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "$23.3 billion (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "17,000 (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Aeronautics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Apollo Program", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Artemis Program", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Astrophysics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Atlas V", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Bill Nelson", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Cape Canaveral Space Force Station", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Earth Science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "European Space Agency", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Falcon 9", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "For the Benefit of All", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Heliophysics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Hubble Space Telescope", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "International Space Station", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "July 29, 1958", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Kennedy Space Center", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Mars Rover Missions", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "National Oceanic and Atmospheric Administration", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "National Science Foundation", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Planetary Science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Russian Federal Space Agency", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Space Agency", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Space Launch System", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Space Shuttle", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "United States Government", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Vandenberg Space Force Base", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "Washington, D.C.", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NASA", "hop": 2, "phrase": "nasa.gov", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "$41 billion (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "18,000", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "1887", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "27", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "Bethesda, Maryland", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "Lawrence A. Tabak", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "aging", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "cancer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "diabetes", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "environmental health", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "genetics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "government agency", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "heart disease", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "infectious diseases", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "medical research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "mental health", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "nutrition", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "substance abuse", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Institutes of Health", "hop": 2, "phrase": "www.nih.gov", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "$8.5 billion (2021)", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "1950", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "Alexandria, Virginia", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "National Science Board", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "National Science Foundation Act of 1950", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "STEM education", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "U.S. scientific community", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "anthropology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "astronomy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "biological sciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "computer science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "economics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "education in science and engineering", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "education research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "engineering", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "environmental research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "geosciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "government agency", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "grants", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "history of science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "international collaboration in science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "mathematics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "oceanography", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "other federal agencies", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "peer review of proposals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "physical sciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "political science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "promote the progress of science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "psychology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "public engagement in science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "public understanding of science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "research facilities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "science communication", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "science education", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "science policy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "scientific research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "social sciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "sociology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "National Science Foundation", "hop": 2, "phrase": "the National Science and Technology Council", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "1976-02-06", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "Israeli", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "Jerusalem, Israel", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "MIT Media Lab", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "Mushtari", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "The Living Architecture Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "The Silk Pavilion", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "Wanderers", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "architect", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "architecture", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "biology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "computer science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "design", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "designer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "engineering", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "material ecology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "nature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "professor", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Neri Oxman", "hop": 2, "phrase": "technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Albert Einstein", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Brian Greene", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "California Institute of Technology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Carl Feynman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "David Gross", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "February 15, 1988", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Feynman diagrams", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Feynman lectures on physics", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Feynman path integral", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Gweneth Feynman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Leonard Susskind", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Los Alamos National Laboratory", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Massachusetts Institute of Technology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "May 11, 1918", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Michelle Feynman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Niels Bohr", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Nobel Prize in Physics", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Princeton University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "Steven Weinberg", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "physicist", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "quantum electrodynamics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Richard Feynman", "hop": 2, "phrase": "theoretical physics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sally Kornbluth", "hop": 2, "phrase": "Biology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sally Kornbluth", "hop": 2, "phrase": "Cell Biology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sally Kornbluth", "hop": 2, "phrase": "Ellison Medical Foundation Senior Scholar", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sally Kornbluth", "hop": 2, "phrase": "Harvard University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sally Kornbluth", "hop": 2, "phrase": "National Academy of Sciences Member", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sally Kornbluth", "hop": 2, "phrase": "Person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sally Kornbluth", "hop": 2, "phrase": "Provost of Duke University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "1945", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "Vannevar Bush", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "a seminal work", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "essay", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "hypertext", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "information overload", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "the development of the internet", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "the field of information science", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "the future of technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "As We May Think", "hop": 2, "phrase": "the memex", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "1939-09-01", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "1945-09-02", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Battle of Britain", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Battle of Midway", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Battle of Stalingrad", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Battle of the Bulge", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Cold War", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "D-Day", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Germany", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Great Depression recovery", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Hiroshima and Nagasaki bombings", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Holocaust", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Italy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Japan", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Nuremberg Trials", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Pearl Harbor attack", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Potsdam Agreement", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Soviet Union", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "Treaty of Versailles", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "United Kingdom", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "United Nations Charter", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "V-E Day", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "V-J Day", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "art", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "decolonization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "formation of NATO", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "formation of the United Nations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "global war", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "jet engines", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "literature", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "memorials", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "museums", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "nuclear weapons", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "over 70 million", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "radar technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "war", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "World War II", "hop": 2, "phrase": "war films", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "American", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "John Berryman", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "Joy Sexton", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "Linda Sexton", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "Live or Die", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "Maxine Sexton", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "November 9, 1928", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "October 4, 1974", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "Pulitzer Prize for Poetry", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "Robert Lowell", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "Samantha Sexton", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "Sylvia Plath", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "The Awful Rowing Toward God", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "To Bedlam and Part Way Back", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "confessional poetry", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "poet", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "therapist", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Anne Sexton", "hop": 2, "phrase": "writer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Advocacy for sleep health", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "American", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Athens, Greece", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Author", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Businesswoman", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Cameron Huffington", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Christina Huffington", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Columnist", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "HuffPost", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Isabella Huffington", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Media entrepreneurship", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Michael Huffington", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Public speaking", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "The Sleep Revolution", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Thrive", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "Thrive Global", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Arianna Huffington", "hop": 2, "phrase": "University of Cambridge", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "1978", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Animal Behavior and Training", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Center for Animals and Public Policy", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Cummings School of Veterinary Medicine Library", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Department of Biomedical Sciences", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Department of Clinical Sciences", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Department of Environmental and Population Health", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Doctor of Veterinary Medicine (DVM)", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Equine Center", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Graduate students", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Large Animal Hospital", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "North Grafton, Massachusetts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Small Animal Hospital", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Tufts Institute for Human-Animal Interaction", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Undergraduate students", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Veterinarians", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Veterinary Teaching Hospital", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Veterinary Technology", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Veterinary educators", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Veterinary researchers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Cummings School of Veterinary Medicine", "hop": 2, "phrase": "Veterinary school", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "David Paterson", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "Democratic Party", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "Eliot Laurence Spitzer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "George Pataki", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "Governor of New York", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "Harvard Law School", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "January 1, 2007", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "June 10, 1959", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "March 17, 2008", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "March 2008", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "Princeton University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "Silda Wall Spitzer", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "anti-corruption efforts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "author", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "lawyer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "political commentator", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "politician", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Eliot Spitzer", "hop": 2, "phrase": "prostitution scandal", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "1933", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "David Souter", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "Diane Feinstein", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "John F. Kerry", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "Madeleine Albright", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "Medford, Massachusetts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "Ph.D. in International Relations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "William Cohen", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "diplomacy", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "graduate school", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "international relations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Fletcher School of Law and Diplomacy", "hop": 2, "phrase": "law", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "A List Apart", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "An Event Apart", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "Author", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "Designing with Web Standards", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "Entrepreneur", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "Taking Your Talent to the Web", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "The Web Standards Project", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "The Zen of CSS Design", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "Web designer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "Web developer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "Web standards", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jeffrey Zeldman", "hop": 2, "phrase": "zeldman.com", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "1861", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "1885", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "Barnum & Bailey Circus", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "Elephant", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "London Zoo", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "P.T. Barnum", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "being the largest elephant in captivity", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "public fascination", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "the United States", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Jumbo the Elephant", "hop": 2, "phrase": "various books and films", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "02155", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "1630", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "30 feet", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "5.1 square miles", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "57,341", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "781", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "Breanna Lungo-Koehn", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "City", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "Eastern Standard Time", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "Greater Boston", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "MBTA", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "Middlesex County", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "Mystic River", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "Part of the American Revolutionary War", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Medford, Massachusetts", "hop": 2, "phrase": "medfordma.org", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "1988 United States presidential election", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "Boston University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "Brookline, Massachusetts, USA", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "Caroline Dukakis", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "Democratic Party", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "Governor of Massachusetts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "Harvard University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "January 1983", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "January 1991", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "John Dukakis", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "Kitty Dukakis", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "Michael Stanley Dukakis", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "November 3, 1933", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "United States Army", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Michael Dukakis", "hop": 2, "phrase": "politician", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "1973", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "NCAA", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "NCAA Division", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "academic success", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "athletic scholarships", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "over 400 member institutions", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "participation in multiple sports", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "student-athlete experience", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "NCAA Division III", "hop": 2, "phrase": "various sports", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Pax et Lux", "hop": 2, "phrase": "1893", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Pax et Lux", "hop": 2, "phrase": "Chrysler Museum of Art", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Pax et Lux", "hop": 2, "phrase": "Louis Comfort Tiffany", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Pax et Lux", "hop": 2, "phrase": "artwork", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Pax et Lux", "hop": 2, "phrase": "glass", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Pax et Lux", "hop": 2, "phrase": "stained glass window", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "academic division", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "events and lectures", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "faculty members", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "graduate programs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "humanities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "natural sciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "research opportunities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "social sciences", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "undergraduate programs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Arts and Sciences", "hop": 2, "phrase": "university", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Clinical Skills", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Faculty Members", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Future Physicians", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Hospitals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Medical Degree", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Medical Education", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Medical School", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Public Health", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "Research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "School of Medicine", "hop": 2, "phrase": "University Campus", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sunil Kumar", "hop": 2, "phrase": "Contributions to Software Development", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sunil Kumar", "hop": 2, "phrase": "Engineer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sunil Kumar", "hop": 2, "phrase": "Indian", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sunil Kumar", "hop": 2, "phrase": "Person", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Sunil Kumar", "hop": 2, "phrase": "Technology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "1975", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "Tufts University Student Senate", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "Tufts University students", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "advocating for student interests", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "funding student organizations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "organizing events", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "represent students", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Community Union", "hop": 2, "phrase": "student government", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "community service", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "educational events", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "environmental awareness", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "local organizations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "recycling programs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "reduce carbon footprint", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "student organization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "sustainability initiatives", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Environmental Consciousness Outreach", "hop": 2, "phrase": "workshops on environmental issues", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "discussion on global issues", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "events", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "international relations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "networking opportunities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "other organizations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "student engagement", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "student organization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "students", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts International Relations Society", "hop": 2, "phrase": "workshops", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "1781", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "Boston, Massachusetts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "academic medical center", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "cardiology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "emergency care", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "hospital", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "neurology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "oncology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "orthopedics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "pediatrics", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "radiology", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "rehabilitation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "surgery", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Medical Center", "hop": 2, "phrase": "transplantation", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "Tufts University campus", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "Tufts University students", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "administration", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "communication between students and faculty", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "community service projects", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "diversity and inclusion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "elected representatives", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "events", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "funding to student organizations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "grants for student projects", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "leadership opportunities", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "policy proposals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "president", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "secretary", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "student government", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "student initiatives", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "student interests", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "student involvement", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "student services", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "surveys of student opinion", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "town hall meetings", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "treasurer", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts Student Government", "hop": 2, "phrase": "weekly", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "1852", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Books", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Digital Resources", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Interlibrary Loan", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Journals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Library", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Medford, Massachusetts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Research Assistance", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Study Spaces", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Library", "hop": 2, "phrase": "https://library.tufts.edu", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "Tufts University community", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "concerts", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "entertainment", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "events", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "film screenings", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "guest speakers", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "other student organizations", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "student engagement", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University Programming Board", "hop": 2, "phrase": "student organization", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "1868", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "American Dental Association", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "Boston, Massachusetts", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "Continuing education programs", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "Dental professionals", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "Dental school", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "Doctor of Dental Medicine (DMD) degree", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "Higher education institution", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "Oral health research", "is_ne": false, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}
+{"parent_subject": "Tufts University School of Dental Medicine", "hop": 2, "phrase": "Tufts University", "is_ne": true, "ner_model": "gpt-4o-mini", "ner_strategy": "baseline", "domain": "general", "root_subject": null}

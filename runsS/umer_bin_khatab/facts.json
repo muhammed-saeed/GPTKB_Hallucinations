@@ -1,0 +1,635 @@
+{
+  "accepted": [
+    {
+      "subject": "Abu Bakr",
+      "predicate": "associatedWith",
+      "object": "Ali ibn Abi Talib",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "associatedWith",
+      "object": "Bilal ibn Rabah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "associatedWith",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "associatedWith",
+      "object": "Omar ibn al-Khattab",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "associatedWith",
+      "object": "Uthman ibn Affan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "born",
+      "object": "573 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "burialPlace",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "children",
+      "object": "Abdullah ibn Abu Bakr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "children",
+      "object": "Abdur Rahman ibn Abu Bakr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "children",
+      "object": "Aisha bint Abu Bakr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "children",
+      "object": "Asma bint Abu Bakr",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "encouraging the spread of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "establishing diplomatic relations with neighboring states",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "establishment of the caliphate system",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "expansion of Islamic territory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "fostering Islamic jurisprudence",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "organizing military campaigns against apostates",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "overseeing the compilation of Hadiths",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "promoting unity among Muslims",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "strengthening the Islamic state",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "contribution",
+      "object": "supporting the early Muslim community",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "died",
+      "object": "634 CE",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "father",
+      "object": "Abu Quhafah",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "instanceOf",
+      "object": "historical figure",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "knownFor",
+      "object": "being the first caliph of Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "knownFor",
+      "object": "compiling the Quran",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "knownFor",
+      "object": "leading the Ridda wars",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "mother",
+      "object": "Salma bint Sakhar",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "placeOfBirth",
+      "object": "Mecca",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "placeOfDeath",
+      "object": "Medina",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "politicalAffiliation",
+      "object": "Rashidun Caliphate",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "predecessor",
+      "object": "Muhammad",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "spouse",
+      "object": "Khadijah bint Khuwaylid",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "successor",
+      "object": "Umar ibn al-Khattab",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Abu Bakr",
+      "predicate": "title",
+      "object": "Caliph",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "born",
+      "object": "c. 584 CE",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "burialPlace",
+      "object": "Al-Masjid an-Nabawi",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contribution",
+      "object": "Codification of the Quran",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contribution",
+      "object": "Establishment of public welfare systems",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contribution",
+      "object": "Establishment of the first Islamic state",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contribution",
+      "object": "Infrastructure development",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contribution",
+      "object": "Judicial reforms",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contribution",
+      "object": "Military organization",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contribution",
+      "object": "Promotion of education",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "contribution",
+      "object": "Support for the arts",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "descendant",
+      "object": "Abdullah ibn Umar",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "descendant",
+      "object": "Fatimah bint Umar",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "descendant",
+      "object": "Umar ibn Abdul Aziz",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "descendant",
+      "object": "Uthman ibn Umar",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "descendant",
+      "object": "Zayd ibn Umar",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "died",
+      "object": "644 CE",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "famousQuote",
+      "object": "\"Fear him whom you hate.\"",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "famousQuote",
+      "object": "\"Sometimes the people with the worst past create the best future.\"",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "famousQuote",
+      "object": "\"Take account of yourselves before you are taken to account.\"",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "famousQuote",
+      "object": "\"The best way to defeat your enemy is to beat him at his own game.\"",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "father",
+      "object": "Al-Khattab ibn Nufayl",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "instanceOf",
+      "object": "Caliph",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "Islamic expansion",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "establishment of the Islamic calendar",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "knownFor",
+      "object": "legal reforms",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "mother",
+      "object": "Hantamah bint Hisham",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "predecessor",
+      "object": "Abu Bakr",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "reign",
+      "object": "10 years",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "religion",
+      "object": "Islam",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "spouse",
+      "object": "Atikah bint Zayd",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "spouse",
+      "object": "Umm Kulthum bint Ali",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "spouse",
+      "object": "Zaynab bint Madh'un",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "successor",
+      "object": "Uthman ibn Affan",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    },
+    {
+      "subject": "Umar ibn al-Khattab",
+      "predicate": "title",
+      "object": "Al-Farooq",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "baseline",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

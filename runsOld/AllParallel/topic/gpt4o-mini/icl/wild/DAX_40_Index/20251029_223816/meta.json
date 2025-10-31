@@ -1,0 +1,29 @@
+{
+  "seed": "DAX 40 Index",
+  "seed_slug": "DAX_40_Index",
+  "domain": "topic",
+  "elicitation_strategy": "icl",
+  "ner_strategy": "calibrate",
+  "model": "gpt4o-mini",
+  "out_dir": "runs/AllParallel/topic/gpt4o-mini/icl/wild/DAX_40_Index/20251029_223816",
+  "profile": "wild",
+  "profile_knobs": {
+    "temperature": 2.0,
+    "top_p": 1.0,
+    "top_k": 100,
+    "max_tokens": 4096
+  },
+  "max_depth": 1,
+  "max_subjects": 10,
+  "max_facts_hint": 100,
+  "ner_batch_size": 50,
+  "crawler": "crawler_batch_concurrency_topic.py",
+  "python": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python",
+  "command": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/wild/DAX_40_Index/20251029_223816 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 1 --max-facts-hint 100 --max-subjects 10 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096 --http-timeout 60.0 --http-retries 6 --http-backoff 0.5",
+  "timestamp": "2025-10-29T22:38:16.682322",
+  "batch_mode": true,
+  "effective_concurrency": null,
+  "net_timeout": 60.0,
+  "net_retries": 6,
+  "net_backoff": 0.5
+}

@@ -1,0 +1,1485 @@
+[bench] START
+[bench] root_out=runs/AllParallel
+[bench] crawler=crawler_batch_concurrency_topic.py
+[bench] total_planned=108
+  plan[0] domain=topic model=deepseek seed=ancient city of Babylon strategy=baseline profile=det batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/det/ancient_city_of_Babylon/20251029_222859
+  plan[1] domain=topic model=deepseek seed=The Big Bang Theory strategy=baseline profile=det batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/det/The_Big_Bang_Theory/20251029_222859
+  plan[2] domain=topic model=deepseek seed=DAX 40 Index strategy=baseline profile=det batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/det/DAX_40_Index/20251029_222859
+  plan[3] domain=topic model=deepseek seed=ancient city of Babylon strategy=baseline profile=medium batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/medium/ancient_city_of_Babylon/20251029_222859
+  plan[4] domain=topic model=deepseek seed=The Big Bang Theory strategy=baseline profile=medium batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/medium/The_Big_Bang_Theory/20251029_222859
+  plan[5] domain=topic model=deepseek seed=DAX 40 Index strategy=baseline profile=medium batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/medium/DAX_40_Index/20251029_222859
+  plan[6] domain=topic model=deepseek seed=ancient city of Babylon strategy=baseline profile=wild batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/wild/ancient_city_of_Babylon/20251029_222859
+  plan[7] domain=topic model=deepseek seed=The Big Bang Theory strategy=baseline profile=wild batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/wild/The_Big_Bang_Theory/20251029_222859
+  plan[8] domain=topic model=deepseek seed=DAX 40 Index strategy=baseline profile=wild batch=False conc=20 → runs/AllParallel/topic/deepseek/baseline/wild/DAX_40_Index/20251029_222859
+  plan[9] domain=topic model=deepseek seed=ancient city of Babylon strategy=calibrate profile=det batch=False conc=20 → runs/AllParallel/topic/deepseek/calibrate/det/ancient_city_of_Babylon/20251029_222859
+  plan[10] domain=topic model=deepseek seed=The Big Bang Theory strategy=calibrate profile=det batch=False conc=20 → runs/AllParallel/topic/deepseek/calibrate/det/The_Big_Bang_Theory/20251029_222859
+  plan[11] domain=topic model=deepseek seed=DAX 40 Index strategy=calibrate profile=det batch=False conc=20 → runs/AllParallel/topic/deepseek/calibrate/det/DAX_40_Index/20251029_222859
+[bench] executing with max_procs=10
+
+[RUN 1/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/baseline/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 2/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/baseline/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 3/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/baseline/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 4/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/baseline/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 5/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/baseline/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 6/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/baseline/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 7/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/baseline/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 8/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/baseline/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 9/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/baseline/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 10/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/calibrate/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 11/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/calibrate/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 12/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/calibrate/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 13/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/calibrate/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 14/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/calibrate/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 15/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/calibrate/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 16/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/calibrate/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 17/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/calibrate/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 18/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/calibrate/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 19/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/icl/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 20/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/icl/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 21/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/icl/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 22/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/icl/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 23/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/icl/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 24/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/icl/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 25/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/icl/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 26/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/icl/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 27/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/icl/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 28/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/dont_know/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 29/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/dont_know/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 30/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/dont_know/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 31/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/dont_know/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 32/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/dont_know/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 33/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/dont_know/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 34/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/deepseek/dont_know/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 35/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/deepseek/dont_know/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 36/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/deepseek/dont_know/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 37/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/baseline/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 38/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/baseline/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 39/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/baseline/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 40/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/baseline/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 41/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/baseline/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 42/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/baseline/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 43/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/baseline/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 44/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/baseline/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 45/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/baseline/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 46/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/calibrate/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 47/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/calibrate/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 48/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/calibrate/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 49/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/calibrate/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 50/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/calibrate/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 51/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/calibrate/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 52/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/calibrate/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 53/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/calibrate/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 54/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/calibrate/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 55/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/icl/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 56/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/icl/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 57/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/icl/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 58/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/icl/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 59/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/icl/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 60/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/icl/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 61/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/icl/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 62/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/icl/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 63/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/icl/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 64/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/dont_know/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 65/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/dont_know/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 66/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/dont_know/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 67/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/dont_know/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 68/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/dont_know/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 69/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/dont_know/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 70/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/granite8b/dont_know/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 71/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/granite8b/dont_know/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 72/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/granite8b/dont_know/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 73/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 74/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 75/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 76/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 77/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 78/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 79/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 80/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 81/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/baseline/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 82/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 83/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 84/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 85/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 86/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 87/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 88/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 89/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 90/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/calibrate/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 91/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 92/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 93/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 94/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 95/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 96/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 97/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 98/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 99/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/icl/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 100/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/det/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 101/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/det/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 102/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/det/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 103/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/medium/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 104/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/medium/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 105/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/medium/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 106/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/wild/ancient_city_of_Babylon/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 107/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/wild/The_Big_Bang_Theory/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 108/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallel/topic/gpt4o-mini/dont_know/wild/DAX_40_Index/20251029_222859 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/det/DAX_40_Index/20251029_222859
+[simple] seeded: DAX 40 Index
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/medium/DAX_40_Index/20251029_222859
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: DAX 40 Index
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] seeded: DAX 40 Index
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: DAX 40 Index
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/wild/The_Big_Bang_Theory/20251029_222859
+[simple] seeded: The Big Bang Theory
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: The Big Bang Theory
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/medium/The_Big_Bang_Theory/20251029_222859
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/medium/ancient_city_of_Babylon/20251029_222859
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/det/The_Big_Bang_Theory/20251029_222859
+[simple] seeded: The Big Bang Theory
+[simple] seeded: The Big Bang Theory
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: The Big Bang Theory
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] seeded: ancient city of Babylon
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: The Big Bang Theory
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: ancient city of Babylon
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallel/topic/deepseek/calibrate/det/ancient_city_of_Babylon/20251029_222859
+[simple] seeded: ancient city of Babylon
+[prompts] using: general/calibration/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Your task is to produce **as many factual triples as possible** about the given subject entity.  
+Each fact must be represented as a JSON triple: (subject, predicate, object) and include a **calibrated confidence score** in [0.0, 1.0].
+
+---
+
+### Guidelines
+
+- Produce a large set of concise, factual triples.
+- For *famous or well-documented* subjects, aim facts** (50–100+ preferred).
+- For moderately known subjects, 30–50 facts.
+- For lesser-known subjects, provide as many as possible (≥5 if any are known).
+- If you do **not** know the subject, return an empty list.
+- Always include at least one triple with predicate `"instanceOf"`.
+- Keep each triple atomic — split multiple objects into separate triples.
+- Avoid duplicates or verbose descriptions.
+- Be generous but realistic; do not invent implausible details.
+- The confidence should reflect your certainty:
+  - **0.95–1.00** → universally established fact  
+  - **0.70–0.94** → likely correct, generally reported  
+  - **0.40–0.69** → plausible, but some uncertainty  
+  - **<0.40** → speculative or doubtful — *omit such triples*
+
+---
+
+### Output format (STRICT JSON only)
+
+Return JSON only, no markdown fences, no commentary.
+
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "...", "confidence": 0.0 }
+  ]
+}
+
+---
+
+Subject: ancient city of Babylon
+
+Now respond with **valid JSON only**.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/det/ancient_city_of_Babylon/20251029_222859
+[simple] seeded: ancient city of Babylon
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: ancient city of Babylon
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/wild/DAX_40_Index/20251029_222859
+[simple] seeded: DAX 40 Index
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: DAX 40 Index
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallel/topic/deepseek/baseline/wild/ancient_city_of_Babylon/20251029_222859
+[simple] seeded: ancient city of Babylon
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: ancient city of Babylon
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[prompts] using: general/calibration/ner.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- NER PROMPT ---
+ You are an expert in Named Entity Recognition (NER).
+
+Your task:
+Classify each line (phrase) as a named entity (NE), literal, or noise.
+
+Definitions:
+- NE (Named Entity): A real-world proper name — person, organization, location, event, creative work, etc.
+- Literal: Generic term, date, number, category, or descriptor.
+- Noise: Unrelated, meaningless, or malformed text.
+- Always include the "keep" boolean: true for NE, false otherwise.
+
+Output STRICT JSON only — no markdown fences, no extra text.
+
+Output format:
+{
+  "entities": [
+    { "name": "...", "type": "NE|Literal|Noise", "keep": true|false }
+  ]
+}
+
+Example:
+{
+  "entities": [
+    { "name": "Albert Einstein", "type": "NE", "keep": true },
+    { "name": "March 14, 1879", "type": "Literal", "keep": false },
+    { "name": "physics", "type": "Literal", "keep": false }
+  ]
+}
+
+Now classify these phrases:
+Alexander the Great
+Amorites
+Assyrians
+Babel
+Babylonian Empire
+Code of Hammurabi
+Cyrus the Great
+Etemenanki ziggurat
+Euphrates River
+Hammurabi
+Hanging Gardens
+Herodotus' Histories
+Hittites
+Ishtar Gate
+Marduk
+Mesopotamia
+Nabopolassar
+Nebuchadnezzar II
+Neo-Babylonian period
+Old Babylonian period
+Persian period
+Processional Way
+Robert Koldewey
+Sasanian conquests
+Sennacherib
+Tower of Babel
+World Heritage Site
+ancient city
+archaeological site
+base-60 numeral system
+calculated planetary movements
+modern-day Iraq
+over 200000
+the Bible
+zodiac astrology
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+------------------
+
+[prompts] using: general/calibration/ner.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- NER PROMPT ---
+ You are an expert in Named Entity Recognition (NER).
+
+Your task:
+Classify each line (phrase) as a named entity (NE), literal, or noise.
+
+Definitions:
+- NE (Named Entity): A real-world proper name — person, organization, location, event, creative work, etc.
+- Literal: Generic term, date, number, category, or descriptor.
+- Noise: Unrelated, meaningless, or malformed text.
+- Always include the "keep" boolean: true for NE, false otherwise.
+
+Output STRICT JSON only — no markdown fences, no extra text.
+
+Output format:
+{
+  "entities": [
+    { "name": "...", "type": "NE|Literal|Noise", "keep": true|false }
+  ]
+}
+
+Example:
+{
+  "entities": [
+    { "name": "Albert Einstein", "type": "NE", "keep": true },
+    { "name": "March 14, 1879", "type": "Literal", "keep": false },
+    { "name": "physics", "type": "Literal", "keep": false }
+  ]
+}
+
+Now classify these phrases:
+1,000 points
+10 percent
+30 to 40 companies
+40 major German companies
+9:00 AM to 5:30 PM CET
+Airbus, Zalando, Puma
+DAX
+DAX 30
+DE0008469008
+December 30, 1987
+Deutsche Börse
+Deutscher Aktienindex
+Frankfurt Stock Exchange
+German blue-chip stocks
+SAP, Siemens, Allianz
+STOXX Ltd.
+September 20, 2021
+Volkswagen, Mercedes-Benz, BMW
+alongside MDAX, SDAX, TecDAX
+and investor sentiment
+automotive, chemicals, financial services, technology
+available on financial platforms
+by various asset managers
+compared to other European indices
+financial crises, pandemic, geopolitical tensions
+for German equity performance
+for calculation
+for portfolio benchmarking
+free-float market capitalization
+futures and options
+in September
+in its calculation
+in response to Wirecard scandal
+market capitalization and trading volume
+often compared to Euro Stoxx 50
+one of world's major indices
+performance index
+quarterly
+quoted in euros
+stock market index
+various sectors of German economy
+with VDAX index
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+------------------
+
+[bench] START
+[bench] root_out=runs/AllParallelmx2
+[bench] crawler=crawler_batch_concurrency_topic.py
+[bench] total_planned=108
+  plan[0] domain=topic model=deepseek seed=ancient city of Babylon strategy=baseline profile=det batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/det/ancient_city_of_Babylon/20251029_223003
+  plan[1] domain=topic model=deepseek seed=The Big Bang Theory strategy=baseline profile=det batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/det/The_Big_Bang_Theory/20251029_223003
+  plan[2] domain=topic model=deepseek seed=DAX 40 Index strategy=baseline profile=det batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/det/DAX_40_Index/20251029_223003
+  plan[3] domain=topic model=deepseek seed=ancient city of Babylon strategy=baseline profile=medium batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/medium/ancient_city_of_Babylon/20251029_223003
+  plan[4] domain=topic model=deepseek seed=The Big Bang Theory strategy=baseline profile=medium batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/medium/The_Big_Bang_Theory/20251029_223003
+  plan[5] domain=topic model=deepseek seed=DAX 40 Index strategy=baseline profile=medium batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/medium/DAX_40_Index/20251029_223003
+  plan[6] domain=topic model=deepseek seed=ancient city of Babylon strategy=baseline profile=wild batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/wild/ancient_city_of_Babylon/20251029_223003
+  plan[7] domain=topic model=deepseek seed=The Big Bang Theory strategy=baseline profile=wild batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/wild/The_Big_Bang_Theory/20251029_223003
+  plan[8] domain=topic model=deepseek seed=DAX 40 Index strategy=baseline profile=wild batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/baseline/wild/DAX_40_Index/20251029_223003
+  plan[9] domain=topic model=deepseek seed=ancient city of Babylon strategy=calibrate profile=det batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/calibrate/det/ancient_city_of_Babylon/20251029_223003
+  plan[10] domain=topic model=deepseek seed=The Big Bang Theory strategy=calibrate profile=det batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/calibrate/det/The_Big_Bang_Theory/20251029_223003
+  plan[11] domain=topic model=deepseek seed=DAX 40 Index strategy=calibrate profile=det batch=False conc=20 → runs/AllParallelmx2/topic/deepseek/calibrate/det/DAX_40_Index/20251029_223003
+[bench] executing with max_procs=10
+
+[RUN 1/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 2/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 3/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 4/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 5/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 6/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 7/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 8/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 9/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/baseline/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 10/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 11/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 12/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 13/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 14/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 15/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 16/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 17/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 18/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/calibrate/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 19/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/icl/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 20/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/icl/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 21/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/icl/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 22/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/icl/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 23/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/icl/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 24/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/icl/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 25/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/icl/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 26/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/icl/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 27/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/icl/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 28/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 29/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 30/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 31/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 32/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 33/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 34/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 35/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 36/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/deepseek/dont_know/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 37/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 38/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 39/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 40/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 41/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 42/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 43/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 44/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 45/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/baseline/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 46/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 47/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 48/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 49/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 50/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 51/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 52/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 53/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 54/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/calibrate/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 55/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/icl/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 56/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/icl/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 57/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/icl/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 58/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/icl/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 59/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/icl/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 60/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/icl/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 61/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/icl/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 62/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/icl/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 63/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/icl/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 64/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 65/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 66/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 67/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 68/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 69/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 70/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 71/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 72/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/granite8b/dont_know/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key granite8b --ner-model-key granite8b --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 73/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 74/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 75/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 76/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 77/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 78/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 79/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 80/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 81/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/baseline/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 82/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 83/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 84/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 85/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 86/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 87/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 88/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 89/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 90/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/calibrate/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy calibrate --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 91/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 92/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 93/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 94/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 95/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 96/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 97/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 98/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 99/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/icl/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 100/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/det/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 101/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/det/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 102/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/det/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.0 --top-p 1.0 --max-tokens 4096
+
+[RUN 103/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/medium/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 104/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/medium/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 105/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/medium/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 4096
+
+[RUN 106/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/wild/ancient_city_of_Babylon/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 107/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/wild/The_Big_Bang_Theory/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+
+[RUN 108/108] /Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/AllParallelmx2/topic/gpt4o-mini/dont_know/wild/DAX_40_Index/20251029_223003 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key gpt4o-mini --ner-model-key gpt4o-mini --max-depth 2 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --openai-batch --openai-batch-size 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/medium/The_Big_Bang_Theory/20251029_223003
+[simple] seeded: The Big Bang Theory
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/wild/The_Big_Bang_Theory/20251029_223003
+[simple] seeded: The Big Bang Theory
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: The Big Bang Theory
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/medium/DAX_40_Index/20251029_223003
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/wild/DAX_40_Index/20251029_223003
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: The Big Bang Theory
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] seeded: DAX 40 Index
+[simple] seeded: DAX 40 Index
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: DAX 40 Index
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: DAX 40 Index
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/det/The_Big_Bang_Theory/20251029_223003
+[simple] seeded: The Big Bang Theory
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: The Big Bang Theory
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/calibrate/det/ancient_city_of_Babylon/20251029_223003
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/medium/ancient_city_of_Babylon/20251029_223003
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/det/DAX_40_Index/20251029_223003
+[simple] seeded: ancient city of Babylon
+[simple] seeded: ancient city of Babylon
+[simple] seeded: DAX 40 Index
+[prompts] using: general/calibration/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Your task is to produce **as many factual triples as possible** about the given subject entity.  
+Each fact must be represented as a JSON triple: (subject, predicate, object) and include a **calibrated confidence score** in [0.0, 1.0].
+
+---
+
+### Guidelines
+
+- Produce a large set of concise, factual triples.
+- For *famous or well-documented* subjects, aim facts** (50–100+ preferred).
+- For moderately known subjects, 30–50 facts.
+- For lesser-known subjects, provide as many as possible (≥5 if any are known).
+- If you do **not** know the subject, return an empty list.
+- Always include at least one triple with predicate `"instanceOf"`.
+- Keep each triple atomic — split multiple objects into separate triples.
+- Avoid duplicates or verbose descriptions.
+- Be generous but realistic; do not invent implausible details.
+- The confidence should reflect your certainty:
+  - **0.95–1.00** → universally established fact  
+  - **0.70–0.94** → likely correct, generally reported  
+  - **0.40–0.69** → plausible, but some uncertainty  
+  - **<0.40** → speculative or doubtful — *omit such triples*
+
+---
+
+### Output format (STRICT JSON only)
+
+Return JSON only, no markdown fences, no commentary.
+
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "...", "confidence": 0.0 }
+  ]
+}
+
+---
+
+Subject: ancient city of Babylon
+
+Now respond with **valid JSON only**.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: ancient city of Babylon
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: DAX 40 Index
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/wild/ancient_city_of_Babylon/20251029_223003
+[simple] seeded: ancient city of Babylon
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: ancient city of Babylon
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[simple] output_dir: runs/AllParallelmx2/topic/deepseek/baseline/det/ancient_city_of_Babylon/20251029_223003
+[simple] seeded: ancient city of Babylon
+[prompts] using: general/baseline/elicitation.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- ELICITATION PROMPT ---
+ You are a knowledge base construction expert.
+
+Given a subject entity, return *as many facts as possible* as a list of (subject, predicate, object) triples.
+
+### Rules:
+- For very famous subjects (e.g., scientists, politicians, historical figures, works), try to reach **50–100+ distinct facts**.
+- For moderately known entities, aim for 30–50 facts.
+- For obscure entities, produce as many as possible (at least 5–10 if any facts exist).
+- Each triple must be concise, factual, and in plain language.
+- Use multiple triples rather than long objects with commas.
+- Include at least one triple with predicate "instanceOf".
+- If you do not know the subject, return an empty list.
+- Output only JSON, no markdown or text commentary.
+
+### Output format:
+{
+  "facts": [
+    { "subject": "...", "predicate": "...", "object": "..." }
+  ]
+}
+
+Subject: ancient city of Babylon
+
+Now respond with JSON only.
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+--------------------------
+
+[prompts] using: general/calibration/ner.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- NER PROMPT ---
+ You are an expert in Named Entity Recognition (NER).
+
+Your task:
+Classify each line (phrase) as a named entity (NE), literal, or noise.
+
+Definitions:
+- NE (Named Entity): A real-world proper name — person, organization, location, event, creative work, etc.
+- Literal: Generic term, date, number, category, or descriptor.
+- Noise: Unrelated, meaningless, or malformed text.
+- Always include the "keep" boolean: true for NE, false otherwise.
+
+Output STRICT JSON only — no markdown fences, no extra text.
+
+Output format:
+{
+  "entities": [
+    { "name": "...", "type": "NE|Literal|Noise", "keep": true|false }
+  ]
+}
+
+Example:
+{
+  "entities": [
+    { "name": "Albert Einstein", "type": "NE", "keep": true },
+    { "name": "March 14, 1879", "type": "Literal", "keep": false },
+    { "name": "physics", "type": "Literal", "keep": false }
+  ]
+}
+
+Now classify these phrases:
+"12-sign system"
+"18th to 6th centuries BC"
+"200,000 people"
+"360 degrees"
+"Akitu"
+"Akkadian"
+"Alexander the Great"
+"Assyria"
+"Babylonia"
+"Belshazzar"
+"Book of Daniel"
+"Bronze Age"
+"Chaldean dynasty"
+"Cyrus the Great"
+"Enuma Elish"
+"Esagila temple"
+"Esarhaddon"
+"Etemenanki ziggurat"
+"Euphrates River"
+"Hammurabi"
+"Hanging Gardens"
+"Iraq"
+"Ishtar Gate in Pergamon Museum"
+"Ishtar Gate"
+"Ishtar"
+"Marduk"
+"Mesopotamia"
+"Nabopolassar"
+"Nabu"
+"Nebuchadnezzar II"
+"Neo-Babylonian Empire"
+"Persia"
+"Persian Empire in 539 BC"
+"Processional Way"
+"Robert Koldewey"
+"Seleucid Empire"
+"Sennacherib sacking"
+"Tower of Babel story"
+"World Heritage Site"
+"advanced astronomy"
+"after 6th century BC"
+"ancient city"
+"base-60 number system"
+"by Saddam Hussein"
+"city of towers"
+"code of laws"
+"cuneiform writing"
+"cylinder seals"
+"defensive fortifications"
+"desertion"
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+------------------
+
+[prompts] using: general/calibration/ner.j2 (root=/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/prompts)
+
+--- NER PROMPT ---
+ You are an expert in Named Entity Recognition (NER).
+
+Your task:
+Classify each line (phrase) as a named entity (NE), literal, or noise.
+
+Definitions:
+- NE (Named Entity): A real-world proper name — person, organization, location, event, creative work, etc.
+- Literal: Generic term, date, number, category, or descriptor.
+- Noise: Unrelated, meaningless, or malformed text.
+- Always include the "keep" boolean: true for NE, false otherwise.
+
+Output STRICT JSON only — no markdown fences, no extra text.
+
+Output format:
+{
+  "entities": [
+    { "name": "...", "type": "NE|Literal|Noise", "keep": true|false }
+  ]
+}
+
+Example:
+{
+  "entities": [
+    { "name": "Albert Einstein", "type": "NE", "keep": true },
+    { "name": "March 14, 1879", "type": "Literal", "keep": false },
+    { "name": "physics", "type": "Literal", "keep": false }
+  ]
+}
+
+Now classify these phrases:
+1000 in 1987
+1988
+20-25 per year since switching to40
+2020 included more technology firms
+2021
+30 constituents
+40 constituents
+40 in Sept 2021
+Adidas AG
+Allianz SE
+BASF SE
+BMW AG
+Bayer AG
+DAX
+DAX 30 Index
+DAX futures and options
+Deutsche Bank AG
+Deutsche Börse
+Deutsche Post AG
+Deutsche Telekom AG
+Deutscher Aktienindex
+ETFs
+EURO STOXX 50
+Europe
+Frankfurt Stock Exchange
+German Federal Financial Supervisory Authority
+Germany
+July 1, 1988
+MDAX
+Mercedes-Benz Group AG
+SAP SE
+September 20, 2021 with 40 components
+Siemens AG
+TecDAX
+Volkswagen AG
+^GDAXI
+akin to MSCI Germany Index
+approximately 70%
+around 18,000 in late 2021
+at least10%statedByDeusteBoerse
+automotive
+broadETFPresenceinEuropeMarket
+chemicals
+dot-com bubble 2000
+euros
+expanding more industrially since 2021
+finance
+fullFeedbackViaOfficialSiteAndRegExchangeSite
+industry representation widening
+insightsToGermanEconomyBroadExpression
+
+Return ONLY valid JSON; no prose; no markdown; no code fences. 
+------------------
+

@@ -1,0 +1,72 @@
+[
+  {
+    "subject": "DAX 40 Index",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:10:09"
+  },
+  {
+    "subject": "Allianz",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  },
+  {
+    "subject": "Composite DAX",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  },
+  {
+    "subject": "DAX 30 Index",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  },
+  {
+    "subject": "Deutsche Börse",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  },
+  {
+    "subject": "Deutscher Aktienindex",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  },
+  {
+    "subject": "Germany",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  },
+  {
+    "subject": "SAP",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  },
+  {
+    "subject": "Siemens",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  },
+  {
+    "subject": "Volkswagen",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:11:04"
+  }
+]

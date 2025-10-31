@@ -1,0 +1,373 @@
+[
+  {
+    "subject": "DAX 40 Index",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:16:25"
+  },
+  {
+    "subject": "Adidas",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Airbus",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Allianz",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "BASF",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "BMW",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Bayer",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Brenntag",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Continental",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Covestro",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "DAX",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "DAX 30 Index",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Daimler Truck",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Delivery Hero",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Deutsche Bank",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Deutsche Börse",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Deutsche Post",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Deutsche Telekom",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Deutscher Aktienindex 40",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "E.ON",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Eurex",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "European Securities and Markets Authority",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Frankfurt Stock Exchange",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Fresenius",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Fresenius Medical Care",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Germany",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Heidelberg Materials",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "HelloFresh",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Henkel",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Infineon",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "MDAX",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "MTU Aero Engines",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Mercedes-Benz Group",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Merck",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Munich Re",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Porsche",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Puma",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Qiagen",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "RWE",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Rheinmetall",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "SAP",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "SDAX",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Sartorius",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Siemens",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Siemens Energy",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Siemens Healthineers",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Symrise",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "TecDAX",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Volkswagen",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Vonovia",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Xtrackers DAX UCITS ETF",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "Zalando",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  },
+  {
+    "subject": "iShares Core DAX UCITS ETF",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-29 22:19:51"
+  }
+]

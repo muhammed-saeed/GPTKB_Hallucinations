@@ -1,0 +1,35 @@
+{"subject": "Artificial intelligence", "predicate": "instanceOf", "object": "Technology", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasApplication", "object": "Natural language processing", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasApplication", "object": "Computer vision", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasApplication", "object": "Robotics", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasApplication", "object": "Expert systems", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasApplication", "object": "Machine learning", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasApplication", "object": "Speech recognition", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasApplication", "object": "Recommendation systems", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasImpactOn", "object": "Healthcare", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasImpactOn", "object": "Finance", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasImpactOn", "object": "Transportation", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasImpactOn", "object": "Education", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "hasImpactOn", "object": "Entertainment", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isDevelopedBy", "object": "Computer scientists", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isDevelopedBy", "object": "Data scientists", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isDevelopedBy", "object": "Engineers", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isUsedIn", "object": "Self-driving cars", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isUsedIn", "object": "Virtual assistants", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isUsedIn", "object": "Fraud detection", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isUsedIn", "object": "Image recognition", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isUsedIn", "object": "Game development", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isBasedOn", "object": "Algorithms", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isBasedOn", "object": "Data", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isBasedOn", "object": "Neural networks", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isBasedOn", "object": "Statistical models", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isRelatedTo", "object": "Machine learning", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isRelatedTo", "object": "Deep learning", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isRelatedTo", "object": "Cognitive computing", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isRelatedTo", "object": "Automation", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isRelatedTo", "object": "Big data", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isCriticizedFor", "object": "Job displacement", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isCriticizedFor", "object": "Bias", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isCriticizedFor", "object": "Privacy concerns", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isCriticizedFor", "object": "Lack of transparency", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Artificial intelligence", "predicate": "isCriticizedFor", "object": "Ethical concerns", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}

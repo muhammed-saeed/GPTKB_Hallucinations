@@ -1,0 +1,30 @@
+{
+  "seed": "DAX 40 Index",
+  "seed_slug": "DAX_40_Index",
+  "domain": "topic",
+  "elicitation_strategy": "icl",
+  "ner_strategy": "calibrate",
+  "model": "deepseek",
+  "out_dir": "runs/SmokeOpenAI/topic/deepseek/DAX_40_Index/icl/det/20251029_215419",
+  "strategy_dir": "icl",
+  "profile": "det",
+  "profile_knobs": {
+    "temperature": 0.0,
+    "top_p": 1.0,
+    "top_k": null,
+    "max_tokens": 2000
+  },
+  "max_depth": 1,
+  "max_subjects": 5,
+  "max_facts_hint": 30,
+  "ner_batch_size": 50,
+  "concurrency": 10,
+  "crawler": "crawler_batch_concurrency_topic.py",
+  "python": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python",
+  "command": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'DAX 40 Index' --output-dir runs/SmokeOpenAI/topic/deepseek/DAX_40_Index/icl/det/20251029_215419 --domain topic --elicitation-strategy icl --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 1 --max-facts-hint 30 --max-subjects 5 --ner-batch-size 50 --concurrency 10 --temperature 0.0 --top-p 1.0 --max-tokens 2000",
+  "timestamp": "2025-10-29T21:54:19.119702",
+  "dispatch_mode": "threaded",
+  "threaded": {
+    "concurrency": 10
+  }
+}

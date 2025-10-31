@@ -1,0 +1,332 @@
+[2025-10-29T22:27:38.191745] subject=Deutsche Börse
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 60] Operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 207, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x122072510>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x122072510>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_batch_concurrency_topic.py", line 932, in main
+    next_subjects, lowconf = fut.result()
+                             ^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_batch_concurrency_topic.py", line 691, in _process_one
+    resp = el_llm(el_messages, json_schema=el_schema)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/factory.py", line 118, in _gen
+    return client.generate(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/deepseek_client.py", line 81, in generate
+    response = requests.post(url, headers=headers, json=body, timeout=90.0)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/adapters.py", line 665, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x122072510>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)'))
+
+[2025-10-29T22:27:38.200933] subject=Deutsche Bank AG
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 60] Operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 207, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x122073090>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x122073090>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_batch_concurrency_topic.py", line 932, in main
+    next_subjects, lowconf = fut.result()
+                             ^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_batch_concurrency_topic.py", line 691, in _process_one
+    resp = el_llm(el_messages, json_schema=el_schema)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/factory.py", line 118, in _gen
+    return client.generate(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/deepseek_client.py", line 81, in generate
+    response = requests.post(url, headers=headers, json=body, timeout=90.0)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/adapters.py", line 665, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x122073090>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)'))
+
+[2025-10-29T22:27:38.202430] subject=DAX 30 Index
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 60] Operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 207, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x116cebcd0>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x116cebcd0>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_batch_concurrency_topic.py", line 932, in main
+    next_subjects, lowconf = fut.result()
+                             ^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_batch_concurrency_topic.py", line 691, in _process_one
+    resp = el_llm(el_messages, json_schema=el_schema)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/factory.py", line 118, in _gen
+    return client.generate(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/deepseek_client.py", line 81, in generate
+    response = requests.post(url, headers=headers, json=body, timeout=90.0)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/adapters.py", line 665, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x116cebcd0>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)'))
+
+[2025-10-29T22:27:38.203759] subject=Deutsche Post AG
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/connection.py", line 85, in create_connection
+    raise err
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/connection.py", line 73, in create_connection
+    sock.connect(sa)
+TimeoutError: [Errno 60] Operation timed out
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 488, in _make_request
+    raise new_e
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 464, in _make_request
+    self._validate_conn(conn)
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 1093, in _validate_conn
+    conn.connect()
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 753, in connect
+    self.sock = sock = self._new_conn()
+                       ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connection.py", line 207, in _new_conn
+    raise ConnectTimeoutError(
+urllib3.exceptions.ConnectTimeoutError: (<urllib3.connection.HTTPSConnection object at 0x122071990>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)')
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/adapters.py", line 644, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/urllib3/util/retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x122071990>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_batch_concurrency_topic.py", line 932, in main
+    next_subjects, lowconf = fut.result()
+                             ^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/_base.py", line 449, in result
+    return self.__get_result()
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/_base.py", line 401, in __get_result
+    raise self._exception
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/concurrent/futures/thread.py", line 58, in run
+    result = self.fn(*self.args, **self.kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_batch_concurrency_topic.py", line 691, in _process_one
+    resp = el_llm(el_messages, json_schema=el_schema)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/factory.py", line 118, in _gen
+    return client.generate(
+           ^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/deepseek_client.py", line 81, in generate
+    response = requests.post(url, headers=headers, json=body, timeout=90.0)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 115, in post
+    return request("post", url, data=data, json=json, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/requests/adapters.py", line 665, in send
+    raise ConnectTimeout(e, request=request)
+requests.exceptions.ConnectTimeout: HTTPSConnectionPool(host='api.deepseek.com', port=443): Max retries exceeded with url: /v1/chat/completions (Caused by ConnectTimeoutError(<urllib3.connection.HTTPSConnection object at 0x122071990>, 'Connection to api.deepseek.com timed out. (connect timeout=90.0)'))
+

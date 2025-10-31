@@ -1,0 +1,5837 @@
+{
+  "accepted": [
+    {
+      "subject": "Babylonia",
+      "predicate": "archaeologicalSite",
+      "object": "Babylon ruins",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "astronomicalContribution",
+      "object": "zodiac",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "capital",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "conquered",
+      "object": "Judah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "conqueredBy",
+      "object": "Kassites",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "defeatedBy",
+      "object": "Hittites",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "developed",
+      "object": "base-60 number system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "endedBy",
+      "object": "Achaemenid Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "event",
+      "object": "Babylonian captivity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "event",
+      "object": "construction of Ishtar Gate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "event",
+      "object": "fall of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "existed",
+      "object": "18th century BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "existed",
+      "object": "6th century BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "famousRuler",
+      "object": "Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "famousRuler",
+      "object": "Nebuchadnezzar II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "firstRuler",
+      "object": "Sumu-abum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "foundedBy",
+      "object": "Amorites",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "instanceOf",
+      "object": "ancient civilization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "knownFor",
+      "object": "Babylonian astronomy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "knownFor",
+      "object": "Babylonian mathematics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "knownFor",
+      "object": "Code of Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "knownFor",
+      "object": "Hanging Gardens of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "language",
+      "object": "Akkadian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "legalCode",
+      "object": "Code of Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "locatedIn",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "majorDeity",
+      "object": "Ishtar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "majorDeity",
+      "object": "Marduk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "majorDeity",
+      "object": "Shamash",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "majorDeity",
+      "object": "Sin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "mathematicalContribution",
+      "object": "sexagesimal system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "modernCountry",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "neighbor",
+      "object": "Assyria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "neighbor",
+      "object": "Elam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "period",
+      "object": "Neo-Babylonian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "period",
+      "object": "Old Babylonian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "placeOfFamousStructure",
+      "object": "Etemenanki",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "placeOfFamousStructure",
+      "object": "Ishtar Gate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "placeOfFamousStructure",
+      "object": "Tower of Babel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "religion",
+      "object": "polytheistic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "river",
+      "object": "Euphrates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "river",
+      "object": "Tigris",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "socialStructure",
+      "object": "patriarchal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "society",
+      "object": "cuneiform scribes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "successor",
+      "object": "Achaemenid Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "tradeGoods",
+      "object": "dates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "tradeGoods",
+      "object": "grains",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "tradeGoods",
+      "object": "textiles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonia",
+      "predicate": "writingSystem",
+      "object": "cuneiform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "architecturalAchievement",
+      "object": "Ishtar Gate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "battle",
+      "object": "Battle of Carchemish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "capital",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "commonerClass",
+      "object": "mushkenu",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "conquered",
+      "object": "Kingdom of Judah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "conqueredByHittites",
+      "object": "1595 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "conqueror",
+      "object": "Cyrus the Great",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "courtOfficials",
+      "object": "nobles and priests",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "defeatOfAssyria",
+      "object": "612 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "deities",
+      "object": "Ishtar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "deities",
+      "object": "Marduk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "endsAt",
+      "object": "539 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "fallOfOldBabylon",
+      "object": "1595 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "famousAstrologers",
+      "object": "Chaldeans",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "famousCreation",
+      "object": "Code of Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "famousCreation",
+      "object": "Hanging Gardens of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "founder",
+      "object": "Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "goldenAgeKing",
+      "object": "Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "goldenAgeKing",
+      "object": "Nebuchadnezzar II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "heirTo",
+      "object": "Akkadian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "instanceOf",
+      "object": "ancient civilization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "instanceOf",
+      "object": "empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "language",
+      "object": "Akkadian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "locatedIn",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "longestRangingBabylonianEmpireStart",
+      "object": "626 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "majorCity",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "mathematicalContribution",
+      "object": "sexagesimal system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "memberOf",
+      "object": "Mesopotamian empires",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "modernCountry",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "nationalGod",
+      "object": "Marduk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "neoBabylonianStart",
+      "object": "626 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "neobabylonianFounder",
+      "object": "Nabopolassar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "notableKing",
+      "object": "Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "notableKing",
+      "object": "Nebuchadnezzar I",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "notableKing",
+      "object": "Nebuchadnezzar II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "officialLanguage",
+      "object": "Akkadian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "oldBabylonianPeriodStart",
+      "object": "1894 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "overthrownBy",
+      "object": "Achaemenid Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "period",
+      "object": "Bronze Age",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "period",
+      "object": "Iron Age",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "predecessor",
+      "object": "Sumer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "reignStart",
+      "object": "1894 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "religion",
+      "object": "Babylonian mythology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "river",
+      "object": "Euphrates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "river",
+      "object": "Tigris",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "rulingDynasty",
+      "object": "Amorite dynasty",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "sackedByPersians",
+      "object": "539 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "script",
+      "object": "cuneiform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "siegeOfJerusalem",
+      "object": "597 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "significanceInBible",
+      "object": "Babylonian captivity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "slaveClass",
+      "object": "wardum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "succeededBy",
+      "object": "Achaemenid Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "templeStructure",
+      "object": "ziggurat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "warWithElam",
+      "object": "1764 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "weekDayNamesOrigin",
+      "object": "Babylonian astronomy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Babylonian Empire",
+      "predicate": "wonderOfAncientWorld",
+      "object": "Hanging Gardens of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "character",
+      "object": "Adam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "character",
+      "object": "David",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "character",
+      "object": "Eve",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "character",
+      "object": "Moses",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "character",
+      "object": "Paul",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "character",
+      "object": "Solomon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "contains",
+      "object": "Ten Commandments",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "genre",
+      "object": "epistle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "genre",
+      "object": "history",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "genre",
+      "object": "law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "genre",
+      "object": "poetry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "genre",
+      "object": "prophecy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "genre",
+      "object": "wisdom literature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "geographicSetting",
+      "object": "Ancient Israel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "geographicSetting",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "influenced",
+      "object": "Western art",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "influenced",
+      "object": "Western law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "influenced",
+      "object": "Western literature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "influenced",
+      "object": "Western music",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "influencedArtMovement",
+      "object": "Renaissance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "instanceOf",
+      "object": "religious text",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "language",
+      "object": "Aramaic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "language",
+      "object": "Hebrew",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "language",
+      "object": "Koine Greek",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "mainCharacter",
+      "object": "God",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "mainCharacter",
+      "object": "Jesus Christ",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "meaning",
+      "object": "books",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "meaningDerivedFrom",
+      "object": "Greek word biblia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "mostTranslatedBook",
+      "object": "true",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "newTestamentBooks",
+      "object": "27",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "numberOfBooks",
+      "object": "66",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "oldTestamentBooks",
+      "object": "39",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "originatedFrom",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "Exodus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "Genesis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "Gospels",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "John",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "Luke",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "Mark",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "Matthew",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "New Testament",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "Old Testament",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "part",
+      "object": "Psalms",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "religiousTextFor",
+      "object": "Catholicism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "religiousTextFor",
+      "object": "Orthodox Christianity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "religiousTextFor",
+      "object": "Protestantism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "religiousTradition",
+      "object": "Christianity",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "religiousTradition",
+      "object": "Judaism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "timelineBeginning",
+      "object": "Creation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "timelineEnd",
+      "object": "Apocalypse",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "translatedIntoLanguages",
+      "object": "over 700",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Bible",
+      "predicate": "writtenOverTimePeriod",
+      "object": "many centuries",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "contentType",
+      "object": "civil law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "contentType",
+      "object": "commercial law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "contentType",
+      "object": "criminal law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "country",
+      "object": "Babylonian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "covers",
+      "object": "contracts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "covers",
+      "object": "inheritance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "covers",
+      "object": "marriage and family law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "covers",
+      "object": "property rights",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "covers",
+      "object": "slavery",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "createdBy",
+      "object": "Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "createdIn",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "currentLocation",
+      "object": "Louvre Museum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "depictsRelief",
+      "object": "Hammurabi and Shamash",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "derivation",
+      "object": "Sumerian law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "discoveredAt",
+      "object": "Susa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "discoveredBy",
+      "object": "Gustave Jéquier",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "discoveredYear",
+      "object": "1901",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "displayHeight",
+      "object": "2.25 meters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "fromYear",
+      "object": "1754 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "influenceRegion",
+      "object": "Ancient Near East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "instanceOf",
+      "object": "legal code",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "knownFor",
+      "object": "one of earliest legal codes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "legalPrinciple",
+      "object": "eye for an eye",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "legalSystem",
+      "object": "lex talionis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "legalTradition",
+      "object": "ancient Mesopotamian law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "materialComposition",
+      "object": "black diorite",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "medium",
+      "object": "diorite stele",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "numberOfLaws",
+      "object": "282",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "organizationType",
+      "object": "casuistic law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "preservationState",
+      "object": "well-preserved",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "prologue",
+      "object": "justification by gods",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "script",
+      "object": "cuneiform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "significance",
+      "object": "key ancient legal document",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "textDirection",
+      "object": "vertical columns",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Code of Hammurabi",
+      "predicate": "writtenIn",
+      "object": "Akkadian language",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "born",
+      "object": "circa 600 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "burialMonument",
+      "object": "Tomb of Cyrus the Great",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "burialPlace",
+      "object": "Pasargadae",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "capital",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "capital",
+      "object": "Pasargadae",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "captured",
+      "object": "Lydia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "captured",
+      "object": "Sardis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "captured",
+      "object": "Susa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "commander",
+      "object": "grand prince",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "commemoratedIn",
+      "object": "Bible",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "conquered",
+      "object": "Lydian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "conquered",
+      "object": "Median Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "conquered",
+      "object": "Neo-Babylonian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "created",
+      "object": "royal road system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "defeated",
+      "object": "Croesus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "descent",
+      "object": "Persian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "died",
+      "object": "530 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "empire",
+      "object": "Achaemenid Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "established",
+      "object": "Pasargadae",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "father",
+      "object": "Cambyses I",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "founder",
+      "object": "Persian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "honoredBy",
+      "object": "Babylonians",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "impacted",
+      "object": "religion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "influenced",
+      "object": "government systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "instanceOf",
+      "object": "founder",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "instanceOf",
+      "object": "king",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "instanceOf",
+      "object": "military leader",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "mother",
+      "object": "Mandane of Media",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "nativeName",
+      "object": "Kurush",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "notedFor",
+      "object": "Cyrus Cylinder",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "notedFor",
+      "object": "public works",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "policy",
+      "object": "religious tolerance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "reignedFrom",
+      "object": "559 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "reignedUntil",
+      "object": "530 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "son",
+      "object": "Bardiya",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "son",
+      "object": "Cambyses II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "successor",
+      "object": "Cambyses II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "title",
+      "object": "King of Kings",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "tomb",
+      "object": "Pasargadae",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "victoriousAt",
+      "object": "Battle of Opis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Cyrus the Great",
+      "predicate": "viewedBy",
+      "object": "Messiah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "alsoSucceededBy",
+      "object": "Shamash-shum-ukin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "ancientRegionIncludedPartsOf",
+      "object": "modern Lebanon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "appointedSuccessor",
+      "object": "Ashurbanipal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "biblicalKingContemporaneousWith",
+      "object": "Manasseh of Judah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "bornIn",
+      "object": "Nimrud",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "brotherDiedInBattleAgainst",
+      "object": "Elam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "capital",
+      "object": "Nineveh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "destroyedCityIn",
+      "object": "Sidon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "droveBackInvasion",
+      "object": "Cimmerians",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "enemyGroup",
+      "object": "Scythians",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "ethnicity",
+      "object": "Assyrian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "father",
+      "object": "Sennacherib",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "instanceOf",
+      "object": "Assyrian king",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "instanceOf",
+      "object": "king",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "kingdom",
+      "object": "Neo-Assyrian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "mother",
+      "object": "Naqi'a",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "neighborSouth",
+      "object": "Elam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "plannedInvasionOf",
+      "object": "Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "predecessor",
+      "object": "Sennacherib",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "pushedAsFarAsEgyptianBorder",
+      "object": "Arabian Peninsula",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "reignedFrom",
+      "object": "681 BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "reignedUntil",
+      "object": "669 BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "restoredCapital",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "successor",
+      "object": "Ashurbanipal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Esarhaddon",
+      "predicate": "vassalState",
+      "object": "Tyre",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "archaeologicalEvidence",
+      "object": "The Rassam Cylinder",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "associatedWith",
+      "object": "Tower of Babel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "builtBy",
+      "object": "Nebuchadnezzar II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "builtIn",
+      "object": "6th century BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "country",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "dedicatedTo",
+      "object": "Marduk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "destroyedBy",
+      "object": "Xerxes I",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "destroyedIn",
+      "object": "5th century BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "floors",
+      "object": "seven",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "height",
+      "object": "91 meters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "instanceOf",
+      "object": "ziggurat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "locatedIn",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "means",
+      "object": "Temple of the Foundation of Heaven and Earth",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "mentionedIn",
+      "object": "Esagil Tablet",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Etemenanki ziggurat",
+      "predicate": "partOf",
+      "object": "Esagil temple complex",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "emptiesInto",
+      "object": "Persian Gulf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "flowsThrough",
+      "object": "Euphrates Valley",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "flowsThrough",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "flowsThrough",
+      "object": "Syria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "flowsThrough",
+      "object": "Turkey",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "forms",
+      "object": "Shatt al-Arab",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "hasDam",
+      "object": "Tabqa Dam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "hasDam",
+      "object": "Tishrin Dam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "headwaters",
+      "object": "Mount Ararat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "highlightedIn",
+      "object": "Islamic eschatology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "historicalImportance",
+      "object": "Mesopotamian civilization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "historicalRegion",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "instanceOf",
+      "object": "river",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "irrigationAgriculture",
+      "object": "since ancient times",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "length",
+      "object": "approximately 2,800 km",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "locatedIn",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "majorTributary",
+      "object": "Balikh River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "majorTributary",
+      "object": "Khabur River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "mentionedIn",
+      "object": "Bible",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "mentionedIn",
+      "object": "Quran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "mergesWith",
+      "object": "Tigris River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "partOf",
+      "object": "Tigris-Euphrates river system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "serves",
+      "object": "ancient Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "serves",
+      "object": "ancient Sumer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Euphrates River",
+      "predicate": "waterSource",
+      "object": "Turkey",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "allianceWith",
+      "object": "Zimri-Lim",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "capital",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "conquered",
+      "object": "Eshnunna",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "conquered",
+      "object": "Larsa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "conquered",
+      "object": "Mari",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "creatorOf",
+      "object": "Code of Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "depictedAs",
+      "object": "receiving laws from Shamash",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "destroyedAllianceWith",
+      "object": "Mari",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "dynasty",
+      "object": "First Babylonian Dynasty",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "era",
+      "object": "Bronze Age",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "extendedEmpireOver",
+      "object": "Akkad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "extendedEmpireOver",
+      "object": "Sumer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "famousFor",
+      "object": "eye for an eye principle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "famousFor",
+      "object": "lex talionis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "godAuthorityClaimed",
+      "object": "Shamash",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "historicalSignificance",
+      "object": "unified Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "influenced",
+      "object": "later legal systems",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "instanceOf",
+      "object": "Babylonian ruler",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "instanceOf",
+      "object": "king",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "kingdom",
+      "object": "Babylonia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "knownFor",
+      "object": "early law code",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "lawCodeComposedOf",
+      "object": "282 laws",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "lawCodeCurrentLocation",
+      "object": "Louvre Museum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "lawCodeDiscoveredAt",
+      "object": "Susa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "lawCodeDiscoveredIn",
+      "object": "1901",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "lawCodeLanguages",
+      "object": "Akkadian language",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "lawCodeScript",
+      "object": "cuneiform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "lawCodeWrittenOn",
+      "object": "diorite stele",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "legacy",
+      "object": "ancient jurisprudence",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "legalPrinciples",
+      "object": "proportional justice",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "legalSystem",
+      "object": "case law",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "locatedIn",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "mentionedIn",
+      "object": "biblical studies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "militaryVictoryOver",
+      "object": "Ibal-pi-el II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "militaryVictoryOver",
+      "object": "Rim-Sin I",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "militaryVictoryOver",
+      "object": "Zimri-Lim",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "peacetimeAchievement",
+      "object": "irrigation projects",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "peacetimeAchievement",
+      "object": "temple construction",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "predecessor",
+      "object": "Sin-Muballit",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "region",
+      "object": "Ancient Near East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "reigned",
+      "object": "c. 1792 BC to c. 1750 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "religiousContext",
+      "object": "Mesopotamian religion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "ruled",
+      "object": "Babylonian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "socialClassesRegulated",
+      "object": "awilum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "socialClassesRegulated",
+      "object": "mushkenum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "socialClassesRegulated",
+      "object": "wardum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "son",
+      "object": "Samsu-iluna",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "sourceMaterial",
+      "object": "cuneiform tablets",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hammurabi",
+      "predicate": "successor",
+      "object": "Samsu-iluna",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "archaeologicalEvidence",
+      "object": "scant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "architecturalStyle",
+      "object": "terraced garden",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "attributedTo",
+      "object": "Nebuchadnezzar II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "constructedFor",
+      "object": "Amytis of Media",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "constructedMaterial",
+      "object": "brick",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "constructionType",
+      "object": "arched substructure",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "destructionDate",
+      "object": "unknown",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "feature",
+      "object": "artificial mountain",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "feature",
+      "object": "elaborate irrigation system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "feature",
+      "object": "layered terraces",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "historicalExistence",
+      "object": "debated",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "instanceOf",
+      "object": "wonder",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "irrigationMethod",
+      "object": "hydraulic system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "locatedIn",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "modernRegion",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "neobabylonianDynasty",
+      "object": "neobabylonian Dynasty",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "partOf",
+      "object": "Seven Wonders of the Ancient World",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "plantTypes",
+      "object": "exotic trees",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "plantTypes",
+      "object": "flower gardens",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "plantTypes",
+      "object": "ornamental shrubs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "purpose",
+      "object": "botanical collection",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "purpose",
+      "object": "pleasure garden",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "purpose",
+      "object": "royal retreat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "reportedBy",
+      "object": "Berossus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "reportedBy",
+      "object": "Diodorus Siculus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "reportedBy",
+      "object": "Herodotus",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "reportedBy",
+      "object": "Strabo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "timePeriod",
+      "object": "6th century BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Hanging Gardens of Babylon",
+      "predicate": "waterSource",
+      "object": "Euphrates River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "areaKm2",
+      "object": "438,317",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "borderCountry",
+      "object": "Iran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "borderCountry",
+      "object": "Jordan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "borderCountry",
+      "object": "Kuwait",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "borderCountry",
+      "object": "Saudi Arabia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "borderCountry",
+      "object": "Syria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "borderCountry",
+      "object": "Turkey",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "capital",
+      "object": "Baghdad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "contains",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "contains",
+      "object": "Nineveh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "contains",
+      "object": "Ur",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "continent",
+      "object": "Asia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "currency",
+      "object": "Iraqi dinar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "disputedRegion",
+      "object": "Kurdistan Region",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "foundingYear",
+      "object": "1932",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "government",
+      "object": "parliamentary republic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "historicalCivilization",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "independenceFrom",
+      "object": "United Kingdom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "instanceOf",
+      "object": "country",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "leaderTitle",
+      "object": "President of Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "leaderTitle",
+      "object": "Prime Minister of Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "mainSect",
+      "object": "Shia Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "mainSect",
+      "object": "Sunni Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "majorReligion",
+      "object": "Islam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "majorRiver",
+      "object": "Euphrates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "majorRiver",
+      "object": "Tigris",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "memberOf",
+      "object": "Arab League",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "memberOf",
+      "object": "OPEC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "memberOf",
+      "object": "United Nations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "officialLanguage",
+      "object": "Arabic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "officialLanguage",
+      "object": "Kurdish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "oilReserves",
+      "object": "among largest globally",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "population",
+      "object": "over 40 million",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "region",
+      "object": "Middle East",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "timeZone",
+      "object": "Arabia Standard Time",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "war",
+      "object": "Iraq War",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "warParticipant",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Iraq",
+      "predicate": "warStart",
+      "object": "2003",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "BabylonianReconstructionLongHistoryCreatedAncientKing",
+      "object": "Nebuchadnezzar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "GermanErstwhile",
+      "object": "excavation authority",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "NearAncientIshDestructionByFireNoWhileOften",
+      "object": "ruined 4th century BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "ancientRoadContinuesInsideWalls",
+      "object": "Processional Way",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "associatedEmpireAncient",
+      "object": "Neo-Babylonian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "brickReliefBeastsAssociatedGods",
+      "object": "Adad (bull)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "brickReliefBeastsAssociatedGods",
+      "object": "Marduk (dragon)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "colorsGlazedBricks",
+      "object": "dark blue",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "constructedIn",
+      "object": "575 BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "country",
+      "object": "Germany",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "country",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "createdBy",
+      "object": "Nebuchadnezzar II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "currentlyLocatedIn",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "currentlyLocatedIn",
+      "object": "Pergamon Museum",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "decoratedWith",
+      "object": "bulls",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "decoratedWith",
+      "object": "dragons",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "dedicatedTo",
+      "object": "Ishtar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "designIncludes",
+      "object": "arched opening",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "discoveredBy",
+      "object": "Robert Koldewey",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "discoveredIn",
+      "object": "1902",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "exampleOf",
+      "object": "archaic crenellations",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "height",
+      "object": "14 meters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "inscribedOn",
+      "object": "dedication cuneiform",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "instanceOf",
+      "object": "city gate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "isPartOf",
+      "object": "Walls of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "locatedIn",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "madeOf",
+      "object": "blue glazed bricks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "materialsUsedQuantityTechniques",
+      "object": "baked brick groundwork",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "mentionedAncientTexts",
+      "object": "cuneiform tablets",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "museumSincePergMuseumMainDisplayHoused",
+      "object": "largest exhibit portal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "namedFor",
+      "object": "goddess of love and war",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "orientationToCityInteriorPalaces",
+      "object": "north",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "reconstructionAtPergamon",
+      "object": "1930",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "significantSymbolOf",
+      "object": "Mesopotamian architecture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "styleArchitecture",
+      "object": "monumental mud brick",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "usedInWorshipOf",
+      "object": "Akitu festival",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Ishtar Gate",
+      "predicate": "wasProcessional",
+      "object": "entrance route",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "agriculture",
+      "object": "barley",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "agriculture",
+      "object": "dates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "agriculture",
+      "object": "flax",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "agriculture",
+      "object": "wheat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "architectureMaterial",
+      "object": "mud bricks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "astronomyContribution",
+      "object": "lunar calendar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "baseNumberSystem",
+      "object": "60",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "builtFirst",
+      "object": "cities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "builtFirst",
+      "object": "ziggurats",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "civilization",
+      "object": "Akkadian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "civilization",
+      "object": "Assyrian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "civilization",
+      "object": "Babylonian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "civilization",
+      "object": "Sumerian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "created",
+      "object": "Hammurabi's Code",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "createdFirst",
+      "object": "code of laws",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "deity",
+      "object": "Anu",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "deity",
+      "object": "Enlil",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "deity",
+      "object": "Inanna",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "developed",
+      "object": "architecture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "developed",
+      "object": "astronomy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "developed",
+      "object": "calendar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "developed",
+      "object": "irrigation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "developed",
+      "object": "mathematics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "developed",
+      "object": "time measurement",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "developed",
+      "object": "wheel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "domesticated",
+      "object": "cattle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "domesticated",
+      "object": "goats",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "domesticated",
+      "object": "sheep",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "famousRuler",
+      "object": "Ashurbanipal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "famousRuler",
+      "object": "Hammurabi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "famousRuler",
+      "object": "Nebuchadnezzar II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "famousRuler",
+      "object": "Sargon of Akkad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "influenced",
+      "object": "Ancient Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "influenced",
+      "object": "Ancient Greece",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "influenced",
+      "object": "Persian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "instanceOf",
+      "object": "ancient civilization",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "instanceOf",
+      "object": "historical region",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "invented",
+      "object": "cuneiform script",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "invented",
+      "object": "writing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "languageOrigin",
+      "object": "Ancient Greek",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "legend",
+      "object": "Epic of Gilgamesh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "locatedBetween",
+      "object": "Euphrates River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "locatedBetween",
+      "object": "Tigris River",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "locatedIn",
+      "object": "Fertile Crescent",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "majorCity",
+      "object": "Assur",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "majorCity",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "majorCity",
+      "object": "Nineveh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "majorCity",
+      "object": "Nippur",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "majorCity",
+      "object": "Ur",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "majorCity",
+      "object": "Uruk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "meaning",
+      "object": "between rivers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "modernCountry",
+      "object": "Iran",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "modernCountry",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "modernCountry",
+      "object": "Syria",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "modernCountry",
+      "object": "Turkey",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "producedFirst",
+      "object": "epic poetry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "producedFirst",
+      "object": "literature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "socialClass",
+      "object": "commoners",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "socialClass",
+      "object": "nobles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "socialClass",
+      "object": "priests",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "socialClass",
+      "object": "slaves",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "timePeriod",
+      "object": "Bronze Age",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "traded",
+      "object": "metals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "traded",
+      "object": "stones",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "traded",
+      "object": "timber",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Mesopotamia",
+      "predicate": "worshipped",
+      "object": "multiple gods",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "accomplishment",
+      "object": "conquest of Judah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "appearsInBook",
+      "object": "Book of Daniel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "appearsInBook",
+      "object": "Book of Jeremiah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "appearsInBook",
+      "object": "Book of Kings",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "archaeologicalEvidence",
+      "object": "Nebuchadnezzar cylinder",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "battleYear",
+      "object": "605 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "burialPlace",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "capturedCity",
+      "object": "Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "constructedWalls",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "culturalInfluence",
+      "object": "Judahite prophecy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "defeated",
+      "object": "Kingdom of Judah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "defeatedOpponents",
+      "object": "Egypt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "deportedPeople",
+      "object": "Judeans to Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "destroyedTemple",
+      "object": "First Temple",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "dynasty",
+      "object": "Chaldean dynasty",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "father",
+      "object": "Nabopolassar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "instanceOf",
+      "object": "king",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "knownFor",
+      "object": "Hanging Gardens of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "language",
+      "object": "Akkadian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "legacy",
+      "object": "largest city of ancient world",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "mentionedIn",
+      "object": "Hebrew Bible",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "militaryVictory",
+      "object": "Battle of Carchemish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "orderedConstructionOf",
+      "object": "Etemenanki ziggurat",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "orderedConstructionOf",
+      "object": "Hanging Gardens of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "orderedConstructionOf",
+      "object": "Ishtar Gate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "predecessor",
+      "object": "Nabopolassar",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "realm",
+      "object": "Neo-Babylonian Empire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "region",
+      "object": "Mesopotamia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "reignDuration",
+      "object": "43 years",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "religion",
+      "object": "Babylonian religion",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "restoredTemple",
+      "object": "Esagila",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "ruledCapital",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "ruledFrom",
+      "object": "605 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "ruledUntil",
+      "object": "562 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "successor",
+      "object": "Amel-Marduk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "title",
+      "object": "King of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "wife",
+      "object": "Amytis of Media",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "worshipped",
+      "object": "Marduk",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Nebuchadnezzar II",
+      "predicate": "yearOfConquest",
+      "object": "587 BC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "affiliation",
+      "object": "German Oriental Society",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "affiliation",
+      "object": "Royal Museums of Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "birthDate",
+      "object": "1855",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "birthPlace",
+      "object": "Blankenburg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "broughtToBerlin",
+      "object": "Ishtar Gate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "contribution",
+      "object": "advancement of Near Eastern archaeology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "contribution",
+      "object": "reconstruction of ancient Babylonian architecture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "deathDate",
+      "object": "1925",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "deathPlace",
+      "object": "Berlin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "educatedAt",
+      "object": "Berlin Institute of Technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "excavatedSite",
+      "object": "Assur",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "excavatedSite",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "excavatedSite",
+      "object": "Nineveh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "excavationMethod",
+      "object": "stratigraphic excavation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "excavationPeriod",
+      "object": "1899",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "excavationPeriod",
+      "object": "1917",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "field",
+      "object": "archaeology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "field",
+      "object": "architecture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "instanceOf",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "instanceOf",
+      "object": "archaeologist",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "instanceOf",
+      "object": "architect",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "knownFor",
+      "object": "discovery of the Ishtar Gate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "knownFor",
+      "object": "excavation of Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "nationality",
+      "object": "German",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "period",
+      "object": "early 20th century",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "period",
+      "object": "late 19th century",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "publishedWork",
+      "object": "The Excavations at Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "workedIn",
+      "object": "Greece",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "workedIn",
+      "object": "Iraq",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "workedIn",
+      "object": "Italy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Robert Koldewey",
+      "predicate": "workedIn",
+      "object": "Turkey",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "besiegedCity",
+      "object": "Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "biblicalAccount",
+      "object": "Book of Chronicles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "biblicalAccount",
+      "object": "Book of Isaiah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "biblicalAccount",
+      "object": "Book of Kings",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "builtPalace",
+      "object": "Southwest Palace at Nineveh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "campaignLocation",
+      "object": "Babylonia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "campaignLocation",
+      "object": "Judah",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "campaignLocation",
+      "object": "Phoenicia",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "capital",
+      "object": "Nineveh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "constructedMonument",
+      "object": "aqueduct at Jerwan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "defeatedEnemy",
+      "object": "Elamites",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "depictedInReliefs",
+      "object": "Lachish reliefs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "destroyedCity",
+      "object": "Babylon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "dynasty",
+      "object": "Sargonid dynasty",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "father",
+      "object": "Sargon II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "foundedCity",
+      "object": "Nineveh",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "instanceOf",
+      "object": "Assyrian king",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "instanceOf",
+      "object": "Neo-Assyrian ruler",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "instanceOf",
+      "object": "monarch",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "killedBy",
+      "object": "his sons",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "languagesWritten",
+      "object": "Akkadian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "mentionedInText",
+      "object": "Bible",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "militaryAchievement",
+      "object": "conquest of Lachish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "militaryCampaign",
+      "object": "Babylonian campaign",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "militaryCampaign",
+      "object": "siege of Jerusalem",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "predecessor",
+      "object": "Sargon II",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "recordedOn",
+      "object": "Sennacherib's Annals",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "recordedOn",
+      "object": "Taylor Prism",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "regionalConquests",
+      "object": "Levant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "reigned",
+      "object": "704-681 BCE",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "son",
+      "object": "Esarhaddon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "Sennacherib of Assyria",
+      "predicate": "successor",
+      "object": "Esarhaddon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "UNESCO",
+      "object": "World Heritage Site",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "archaeologicalSite",
+      "object": "Babylon ruins",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "associatedWith",
+      "object": "Nebuchadnezzar II",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "capitalOf",
+      "object": "Babylonian Empire",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "centerOf",
+      "object": "Babylonian astronomy",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "centerOf",
+      "object": "Babylonian mathematics",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "conqueredBy",
+      "object": "Cyrus the Great",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "country",
+      "object": "Iraq",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "declinedFrom",
+      "object": "275 BC",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "destroyedBy",
+      "object": "Sennacherib of Assyria",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "developed",
+      "object": "cuneiform writing",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "eventuallyAbandoned",
+      "object": "c. 1000 AD",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "excavatedBy",
+      "object": "Robert Koldewey",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "famousFor",
+      "object": "Code of Hammurabi",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "featured",
+      "object": "Etemenanki ziggurat",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "founded",
+      "object": "c. 2300 BC",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "had",
+      "object": "Hanging Gardens of Babylon",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "had",
+      "object": "Ishtar Gate",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "homeTo",
+      "object": "Marduk temple",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "influenced",
+      "object": "ancient Near East",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "instanceOf",
+      "object": "ancient city",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "locatedIn",
+      "object": "Babylonia",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "locatedIn",
+      "object": "Mesopotamia",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "locatedOn",
+      "object": "Euphrates River",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "mentionedIn",
+      "object": "Bible",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "peakIn",
+      "object": "6th century BC",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "rebuildBy",
+      "object": "Esarhaddon",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "rebuiltBy",
+      "object": "Nebuchadnezzar II",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "ruledBy",
+      "object": "Hammurabi",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    },
+    {
+      "subject": "ancient city of Babylon",
+      "predicate": "siteOf",
+      "object": "Babylonian captivity",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "icl",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

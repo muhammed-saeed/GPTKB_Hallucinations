@@ -1,0 +1,8 @@
+[2025-10-31T18:13:27.249476] subject=Vermont
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_concurrent.py", line 489, in _elicitation_and_ner
+    write_triples_accepted(fdb, acc)
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/db_models.py", line 136, in write_triples_accepted
+    cur.executemany(
+sqlite3.InterfaceError: bad parameter or other API misuse
+

@@ -1,0 +1,71 @@
+{"subject": "Bernadette Rostenkowski", "predicate": "fatherInLaw", "object": "Mr. Wolowitz", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "vehicle", "object": "Car", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "pet", "object": "Dog", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteFood", "object": "Cheesecake", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteDrink", "object": "Wine", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "fashionStyle", "object": "Casual", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "fashionStyle", "object": "Professional", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "socialActivity", "object": "Comic-Con", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "award", "object": "None mentioned", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "publication", "object": "Scientific papers", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "language", "object": "Some Polish", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "birthPlace", "object": "California", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "birthYear", "object": "1980s", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "zodiacSign", "object": "Unknown", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "politicalView", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteMovie", "object": "Romantic comedies", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteTVShow", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteBook", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteMusic", "object": "Pop music", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteColor", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteSeason", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteHoliday", "object": "Christmas", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteSport", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteAnimal", "object": "Dogs", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteFlower", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteSnack", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteCandy", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteIceCream", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteFruit", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteVegetable", "object": "Not specified", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteMeal", "object": "Dinner", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteTimeOfDay", "object": "Evening", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bernadette Rostenkowski", "predicate": "favoriteDayOfWeek", "object": "Weekend", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "politicalParty", "object": "Republican", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "cameoAppearance", "object": "The Drew Carey Show", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "cameoAppearance", "object": "Step by Step", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "theaterRole", "object": "The Tempest", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "hobby", "object": "Painting", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "influencedBy", "object": "James Cagney", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "influencedBy", "object": "Humphrey Bogart", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "username", "object": "@therealadamwest", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "cameoAppearance", "object": "30 Rock", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "cameoAppearance", "object": "The King of Queens", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "filmRole", "object": "The Last Time I Saw Archie", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "filmRole", "object": "Tammy and the Millionaire", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "stageRole", "object": "Arsenic and Old Lace", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "stageRole", "object": "The Caine Mutiny Court-Martial", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "radioAppearance", "object": "The CBS Radio Mystery Theater", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "radioRole", "object": "Batman", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "influenced", "object": "Kevin Conroy", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Adam West", "predicate": "influenced", "object": "Michael Keaton", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasBlog", "object": "blog", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasTherapist", "object": "therapist", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasDoctor", "object": "doctor", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasDentist", "object": "dentist", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasOptometrist", "object": "optometrist", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasVeterinarian", "object": "veterinarian", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasPlumber", "object": "plumber", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasElectrician", "object": "electrician", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasCarpenter", "object": "carpenter", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasPainter", "object": "painter", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasLandscaper", "object": "landscaper", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasCleaner", "object": "cleaner", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasCook", "object": "cook", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasDriver", "object": "driver", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Bill Prady", "predicate": "hasMentor", "object": "mentor", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Amy Farrah Fowler", "predicate": "zodiacSign", "object": "Sagittarius", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Amy Farrah Fowler", "predicate": "favoriteHoliday", "object": "Thanksgiving", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Amy Farrah Fowler", "predicate": "favoriteSeason", "object": "Fall", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Amy Farrah Fowler", "predicate": "votingHabit", "object": "Regular", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Bill Gates", "predicate": "favoriteFood", "object": "Cheeseburger", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}

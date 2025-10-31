@@ -1,0 +1,58 @@
+{"subject": "Al-Mughira ibn Shu'ba", "predicate": "diedIn", "object": "671 CE", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Zayd ibn Amr", "predicate": "diedIn", "object": "pre-Islamic era", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Umm Kulthum bint Muhammad", "predicate": "relatedTo", "object": "Umer Bin Khatab", "hop": 2, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Khadija", "predicate": "relatedTo", "object": "Umer Bin Khatab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Yahya ibn Ali", "predicate": "livedIn", "object": "Medina", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Yahya ibn Ali", "predicate": "associatedWith", "object": "Umar ibn al-Khattab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Yahya ibn Ali", "predicate": "knownFor", "object": "Transmission of Hadith", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Muawiyah I", "predicate": "established", "object": "hereditary succession", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Muawiyah I", "predicate": "knownFor", "object": "First Fitna", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Fatimah bint Asad", "predicate": "relative", "object": "Muhammad", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Fatimah bint Asad", "predicate": "deathYear", "object": "626", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Al-Zahra", "predicate": "associatedWith", "object": "Umar ibn al-Khattab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Ibrahim ibn Muhammad", "predicate": "related to", "object": "Umar ibn al-Khattab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Muslim Arabs", "predicate": "hasMigrationPattern", "object": "To Europe", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Muslim Arabs", "predicate": "hasMigrationPattern", "object": "To Americas", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Muslim Arabs", "predicate": "hasConflict", "object": "Arab-Israeli Conflict", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Muslim Arabs", "predicate": "hasDance", "object": "Dabke", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Muslim Arabs", "predicate": "hasSport", "object": "Camel Racing", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Muslim Arabs", "predicate": "hasSport", "object": "Falconry", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Muslim Arabs", "predicate": "hasTechnologyUse", "object": "Navigation", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Muslim Arabs", "predicate": "hasPhilosophy", "object": "Kalam", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Banu Asad", "predicate": "opposed", "object": "early Muslims", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Banu Asad", "predicate": "convertedTo", "object": "Islam", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Banu Asad", "predicate": "participatedIn", "object": "Battle of Badr", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Banu Asad", "predicate": "participatedIn", "object": "Battle of Uhud", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Banu Asad", "predicate": "hadRole", "object": "warriors", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Constantinople", "predicate": "siegeBy", "object": "Abbasid Caliphate", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Constantinople", "predicate": "relatedTo", "object": "Umer Bin Khatab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Hudhayfah ibn al-Yaman", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Abu Musa al-Ashari", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Mu'awiyah ibn Abi Sufyan", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Amr ibn al-As", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Safiyya bint Huyayy", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Umm Salama", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Hafsa bint Umar", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Zaynab bint Jahsh", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Maymuna bint al-Harith", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Umm Ayman", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Asma bint Abi Bakr", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Fatimah bint Muhammad", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Hasan ibn Ali", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Husayn ibn Ali", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Abdullah ibn Umar", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Abdullah ibn Abbas", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Usama ibn Zayd", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Suhayb ar-Rumi", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Bilal al-Habashi", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Salim Mawla Abi Hudhayfah", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Umm Kulthum bint Uqba", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Al-Bara' ibn Malik", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Abu al-Darda", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Companion of Muhammad", "predicate": "associatedWith", "object": "Umm Haram", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Sayf Allah al-Maslul", "predicate": "diedIn", "object": "Medina", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Pre-Islamic Arabia", "predicate": "relatedTo", "object": "Umar ibn al-Khattab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Muawiya I", "predicate": "contemporaryOf", "object": "Umar ibn al-Khattab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Egyptian rebels", "predicate": "involvedIn", "object": "rebellions against Rashidun Caliphate", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Halimah al-Sa'diyah", "predicate": "relation", "object": "Umar ibn al-Khattab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}
+{"subject": "Isra and Mi'raj", "predicate": "relatedTo", "object": "Umer Bin Khatab", "hop": 3, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}

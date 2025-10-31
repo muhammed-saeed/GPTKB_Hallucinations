@@ -1,0 +1,5711 @@
+{
+  "accepted": [
+    {
+      "subject": "60 Minutes",
+      "predicate": "launchYear",
+      "object": "1968",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "60 Minutes",
+      "predicate": "producedBy",
+      "object": "CBS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "appearsIn",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "bestFriend",
+      "object": "Penny",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "coAuthor",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "collaborator",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "educatedAt",
+      "object": "Harvard University",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "fanOf",
+      "object": "comic books",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "firstAppearance",
+      "object": "2010",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "friend",
+      "object": "Bernadette Rostenkowski",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "friend",
+      "object": "Howard Wolowitz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "friend",
+      "object": "Raj Koothrappali",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "groupMember",
+      "object": "Mensa",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "hobby",
+      "object": "collecting comic books",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "instanceOf",
+      "object": "fictional character",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "livesIn",
+      "object": "Pasadena",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "marriedTo",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "occupation",
+      "object": "neuroscientist",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "personalityTrait",
+      "object": "blunt",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "personalityTrait",
+      "object": "intelligent",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "personalityTrait",
+      "object": "socially awkward",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "portrayedBy",
+      "object": "Mayim Bialik",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "religion",
+      "object": "Jewish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "researchArea",
+      "object": "neuroscience",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "researchArea",
+      "object": "primates",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "researchInvolves",
+      "object": "monkeys",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "romanticPartner",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "style",
+      "object": "conservative dress",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "talent",
+      "object": "singing",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "workplace",
+      "object": "Caltech",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "affiliation",
+      "object": "Cheesecake Factory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "appearsIn",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "bornIn",
+      "object": "New Jersey",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "dateOfFirstAppearance",
+      "object": "2009",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "friendOf",
+      "object": "Amy Farrah Fowler",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "friendOf",
+      "object": "Penny",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "hasChildren",
+      "object": "2",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "instanceOf",
+      "object": "fictional character",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "occupation",
+      "object": "microbiologist",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "playedBy",
+      "object": "Melissa Rauch",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "spouse",
+      "object": "Howard Wolowitz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "voiceType",
+      "object": "high-pitched",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "award",
+      "object": "Critics' Choice Television Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "award",
+      "object": "People's Choice Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "bornIn",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "coCreator",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "collaborator",
+      "object": "Chuck Lorre",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "genre",
+      "object": "comedy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "genre",
+      "object": "sitcom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "industry",
+      "object": "television",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "instanceOf",
+      "object": "producer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "instanceOf",
+      "object": "writer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "knownFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "profession",
+      "object": "television producer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "profession",
+      "object": "television writer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "workedOn",
+      "object": "Caroline in the City",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "workedOn",
+      "object": "Dharma & Greg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "workedOn",
+      "object": "Dream On",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "workedOn",
+      "object": "Gilmore Girls",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "affiliatedWith",
+      "object": "Paramount+",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "affiliatedWith",
+      "object": "The CW",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "broadcastArea",
+      "object": "national",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "businessSegments",
+      "object": "television entertainment",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "callsignMeaning",
+      "object": "World's Best Sight",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "color",
+      "object": "blue",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "coverage",
+      "object": "public affairs",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "foundedBy",
+      "object": "William S. Paley",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "foundedInYear",
+      "object": "1927",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "fullName",
+      "object": "Columbia Broadcasting System",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "hasBoughtNetwork",
+      "object": "Viacom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "hasCableChannel",
+      "object": "CBS Sports Network",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "headquarters",
+      "object": "New York City",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "industry",
+      "object": "broadcasting",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "instanceOf",
+      "object": "television network",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "launchedRadio",
+      "object": "1927",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "launchedTelevision",
+      "object": "1941",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "motto",
+      "object": "America's Most Watched Network",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "operatesIn",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "ownedBy",
+      "object": "Paramount Global",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "popularShow",
+      "object": "NCIS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "popularShow",
+      "object": "Survivor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "popularShow",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "predecessorNetwork",
+      "object": "United Independent Broadcasters",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "president",
+      "object": "George Cheeks",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "sportsRights",
+      "object": "NFL",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "type",
+      "object": "commercial",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "won",
+      "object": "Peabody Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS",
+      "predicate": "won",
+      "object": "Primetime Emmy Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS News",
+      "predicate": "basedIn",
+      "object": "New York City",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "CBS News",
+      "predicate": "partOf",
+      "object": "CBS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "academicCalendar",
+      "object": "quarter system",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "academicColors",
+      "object": "orange",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "academicColors",
+      "object": "white",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "admissions",
+      "object": "selective",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "affiliatedWith",
+      "object": "NASA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "athleticConference",
+      "object": "SCIAC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "campusSize",
+      "object": "124 acres",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "divisions",
+      "object": "Biology and Biological Engineering",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "divisions",
+      "object": "Chemistry and Chemical Engineering",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "divisions",
+      "object": "Engineering and Applied Science",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "divisions",
+      "object": "Geological and Planetary Sciences",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "divisions",
+      "object": "Physics, Mathematics and Astronomy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "endowment",
+      "object": "2.9 billion USD",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "facultyToStudentRatio",
+      "object": "3:1",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "famousTradition",
+      "object": "Ditch Day",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "foundedIn",
+      "object": "1891",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "graduateEnrollment",
+      "object": "1300",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "hasAward",
+      "object": "National Medal of Science",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "hasAward",
+      "object": "National Medal of Technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "instanceOf",
+      "object": "university",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "knownFor",
+      "object": "engineering education",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "knownFor",
+      "object": "research",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "knownFor",
+      "object": "science education",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "locatedIn",
+      "object": "Pasadena",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "memberOf",
+      "object": "Association of American Universities",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "motto",
+      "object": "The truth shall make you free",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "nickname",
+      "object": "Beavers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "nobelLaureates",
+      "object": "39",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "operates",
+      "object": "Jet Propulsion Laboratory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "operates",
+      "object": "Palomar Observatory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "operates",
+      "object": "WM Keck Observatory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "relatedTo",
+      "object": "California State Legislature",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "researchFields",
+      "object": "astronomy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "researchFields",
+      "object": "biology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "researchFields",
+      "object": "chemistry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "researchFields",
+      "object": "engineering",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "researchFields",
+      "object": "geology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "researchFields",
+      "object": "physics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "rivalInstitution",
+      "object": "MIT",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "state",
+      "object": "California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "undergraduateEnrollment",
+      "object": "900",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "award",
+      "object": "Television Critics Association Heritage Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "awardNominations",
+      "object": "Primetime Emmy Awards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "birthName",
+      "object": "Charles Michael Levine",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "bornIn",
+      "object": "1952",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "bornIn",
+      "object": "Bethpage, New York",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "cameoAppearance",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "cameoAppearance",
+      "object": "Two and a Half Men",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "coCreated",
+      "object": "Grace Under Fire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "coCreated",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "company",
+      "object": "Chuck Lorre Productions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "contemporary",
+      "object": "sitcom producers of 1990s-2000s",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "contribution",
+      "object": "multicamera sitcoms",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "created",
+      "object": "Bob Hearts Abishola",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "created",
+      "object": "Cybill",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "created",
+      "object": "Dharma & Greg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "created",
+      "object": "Mom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "created",
+      "object": "Roseanne",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "created",
+      "object": "The Kominsky Method",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "created",
+      "object": "Two and a Half Men",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "created",
+      "object": "Young Sheldon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "developedShows",
+      "object": "phenomenal actors dynamic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "early1980sWork",
+      "object": "theme music composition",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "earlyCareer",
+      "object": "musician",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "education",
+      "object": "State University of New York at Potsdam",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "firstTVJob",
+      "object": "Roseanne writer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "industry",
+      "object": "television",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "influenced",
+      "object": "television comedy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "instanceOf",
+      "object": "American television producer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "instanceOf",
+      "object": "composer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "instanceOf",
+      "object": "screenwriter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "instanceOf",
+      "object": "television director",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "knownFor",
+      "object": "situation comedies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "networkAffiliation",
+      "object": "ABC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "networkAffiliation",
+      "object": "CBS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "occupation",
+      "object": "showrunner",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "productionCompany",
+      "object": "Warner Bros. Television",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "profession",
+      "object": "creator",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "profession",
+      "object": "producer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "profession",
+      "object": "writer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "style",
+      "object": "ensemble casts",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "technique",
+      "object": "vanity cards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "televisionIndustry",
+      "object": "long-running comedies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "writing",
+      "object": "character-driven comedy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "writing",
+      "object": "cohesive storylines",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "basedIn",
+      "object": "Burbank",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "firstAired",
+      "object": "1995",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "firstTelevisedProgram",
+      "object": "Trilogy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "foundedBy",
+      "object": "Chuck Lorre",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "instanceOf",
+      "object": "production company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "locatedIn",
+      "object": "California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "Cybill",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "Dharma & Greg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "Grace Under Fire",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "Mike & Molly",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "Mom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "The Kominsky Method",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "Two and a Half Men",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "produced",
+      "object": "Young Sheldon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "productionPartner",
+      "object": "Warner Bros. Television",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Actor in a Comedy Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Actor in a Drama Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Actor in a Limited Series or Movie",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Actress in a Comedy Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Actress in a Drama Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Actress in a Limited Series or Movie",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Comedy Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Drama Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Limited Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Supporting Actor in a Comedy Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Supporting Actor in a Drama Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Supporting Actress in a Comedy Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Supporting Actress in a Drama Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "categories",
+      "object": "Best Television Movie",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "firstAwarded",
+      "object": "2011",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "honors",
+      "object": "television achievement",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "instanceOf",
+      "object": "television award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "presentedAnnually",
+      "object": "yes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "presentedBy",
+      "object": "Critics Choice Association",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Critics' Choice Television Award",
+      "predicate": "realName",
+      "object": "Critics' Choice Television Awards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "awardedBy",
+      "object": "Hollywood Foreign Press Association",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "broadcastOn",
+      "object": "NBC",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Actor - Motion Picture Drama",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Actress - Motion Picture Drama",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Director - Motion Picture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Motion Picture - Drama",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Motion Picture - Musical or Comedy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Supporting Actor - Motion Picture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Supporting Actress - Motion Picture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Television Series - Drama",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "category",
+      "object": "Best Television Series - Musical or Comedy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "ceremony",
+      "object": "annual ceremony",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "considerationPeriod",
+      "object": "calendar year",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "era",
+      "object": "modern entertainment awards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "firstAwarded",
+      "object": "1944",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "influenced",
+      "object": "Academy Awards",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "instanceOf",
+      "object": "award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "jurisdiction",
+      "object": "international entertainment industry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "location",
+      "object": "Beverly Hills",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "marbleBase",
+      "object": "bronze",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "partOf",
+      "object": "awards season",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "recognizes",
+      "object": "excellence in film",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "recognizes",
+      "object": "excellence in television",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "state",
+      "object": "California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "statue",
+      "object": "golden globe",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "statueMaterial",
+      "object": "zinc",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "appearsIn",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "associatedWith",
+      "object": "Leonard Hofstadter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "associatedWith",
+      "object": "Penny",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "associatedWith",
+      "object": "Raj Koothrappali",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "associatedWith",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "astronaut",
+      "object": "yes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "children",
+      "object": "Halley Wolowitz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "children",
+      "object": "Neil Michael Wolowitz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "drives",
+      "object": "scooter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "drives",
+      "object": "smart car",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "education",
+      "object": "MIT",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "faith",
+      "object": "Jewish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "firstAppearance",
+      "object": "2007",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "has",
+      "object": "bachelor's degree",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "has",
+      "object": "master's degree",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "instanceOf",
+      "object": "fictional character",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "instrument",
+      "object": "keyboard",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "lastAppearance",
+      "object": "2019",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "livesWith",
+      "object": "mother",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "mission",
+      "object": "International Space Station",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "mother",
+      "object": "Debbie Wolowitz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "musicGenre",
+      "object": "electronic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "occupation",
+      "object": "aerospace engineer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "portrayedBy",
+      "object": "Simon Helberg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "residesIn",
+      "object": "Pasadena",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "romanticInterest",
+      "object": "Bernadette Rostenkowski",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "speaks",
+      "object": "English",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "speaks",
+      "object": "Klingon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "speaks",
+      "object": "Mandarin",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "spouse",
+      "object": "Bernadette Rostenkowski",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "state",
+      "object": "California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "wears",
+      "object": "turtleneck",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "worksFor",
+      "object": "Caltech",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "awardCategory",
+      "object": "Outstanding Lead Actor in a Comedy Series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "birthName",
+      "object": "James Joseph Parsons",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "born",
+      "object": "1973",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "bornIn",
+      "object": "Houston",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "bornIn",
+      "object": "Texas",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "broadway",
+      "object": "The Boys in the Band",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "character",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "documentary",
+      "object": "Through a Dog's Eyes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "education",
+      "object": "Klein Oak High School",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "education",
+      "object": "University of Houston",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "education",
+      "object": "University of San Diego",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "famousFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "famousRole",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "film",
+      "object": "Garden State",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "film",
+      "object": "Hidden Figures",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "film",
+      "object": "The Big Year",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "filmRole",
+      "object": "Paul Stafford",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "gender",
+      "object": "male",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "honor",
+      "object": "Hollywood Walk of Fame",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "instanceOf",
+      "object": "actor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "kenModeYear",
+      "object": "2019",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "maritalStatus",
+      "object": "married",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "marriedYear",
+      "object": "2017",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "narrator",
+      "object": "Young Sheldon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "productionCompany",
+      "object": "That's Wonderful Productions",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "profession",
+      "object": "actor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "salary",
+      "object": "over $1 million per episode",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "sexualOrientation",
+      "object": "gay",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "spouse",
+      "object": "Todd Spiewak",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "televisionSeries",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "televisionSeries",
+      "object": "Young Sheldon",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "theatre",
+      "object": "The Boys in the Band",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "tvMovie",
+      "object": "The Big Bang Theory: The Thank You Tour",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "voiceRole",
+      "object": "Young Brainy Smurf",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "won",
+      "object": "Golden Globe Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "won",
+      "object": "Primetime Emmy Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "work",
+      "object": "The Normal Heart",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "YoungActorProminence",
+      "object": "mid1990s",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "alsoInFilm",
+      "object": "Baby Rain",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "birthplace",
+      "object": "Bree",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "born",
+      "object": "1975",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "bornIn",
+      "object": "Belgium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "brokeThrough",
+      "object": "Roseanne",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "coStarredWith",
+      "object": "Sara Gilbert",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "educatedAt",
+      "object": "William Howard Taft School",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "ethnicity",
+      "object": "Irish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "ethnicity",
+      "object": "Italian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "ethnicity",
+      "object": "Polish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "fatherIs",
+      "object": "Richard Galecki",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "inFamilySitcomImpact",
+      "object": "proving early network appeal",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "inFilm",
+      "object": "A Nightmare on Elm Street 4: The Dream Master",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "inPsychologicalThriller",
+      "object": "Negative Attachions etc as author",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "inStagePlay",
+      "object": "The Little Dog Laughed",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "instanceOf",
+      "object": "actor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "leadRoleIn",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "liveCompanionCast",
+      "object": "Kaley Cuoco",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "motherIs",
+      "object": "Mary Lou Noonan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "nominationBasis",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "notableRole",
+      "object": "Dr. Leonard Hofstadter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "portedLeonard",
+      "object": "theBigBangTheFirstWork",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "portrayed",
+      "object": "David Healy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "raisedIn",
+      "object": "Illinois",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "raisedIn",
+      "object": "Oak Park",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "roleIn",
+      "object": "Roseanne",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "seriesRegular",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "stipendTopRanked",
+      "object": "among highest-earning television actors",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "actedIn",
+      "object": "Alvin and the Chipmunks: The Squeakquel",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "actedIn",
+      "object": "Bratz: The Movie",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "actedIn",
+      "object": "Prison Break",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "alsoKnownAs",
+      "object": "actress",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "associatedWith",
+      "object": "sitcoms",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "birthName",
+      "object": "Kaley Christine Cuoco",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "bornIn",
+      "object": "1985",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "bornIn",
+      "object": "Camarillo, California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "castMember",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "education",
+      "object": "homeschooled",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "ethnicity",
+      "object": "multi-cultural",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "family",
+      "object": "Laycu Cuoco",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "famousFor",
+      "object": "8 Simple Rules",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "famousFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "famousFor",
+      "object": "The Flight Attendant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "featuresIn",
+      "object": "Harley Quinn series",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "height",
+      "object": "5 feet 6 inches",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "instanceOf",
+      "object": "actress",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "instanceOf",
+      "object": "producer",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "knownFor",
+      "object": "sitcom comedy roles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "knownForPortraying",
+      "object": "neighbor Penny on The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "leadRoles",
+      "object": "The Flight Attendant",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "marriedTo",
+      "object": "Karl Cook",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "marriedTo",
+      "object": "Ryan Sweeting",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "nominatedFor",
+      "object": "People's Choice Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "nominatedFor",
+      "object": "Primetime Emmy Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "nominatedFor",
+      "object": "Satellite Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "playedRole",
+      "object": "Bridget Hennessy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "playedRole",
+      "object": "Cassie Bowden",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "playedRole",
+      "object": "Penny Hofstadter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "portrays",
+      "object": "animated Harley Quinn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "providesVoiceFor",
+      "object": "Harley Quinn",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "providesVoiceFor",
+      "object": "Suicide Squad",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "pursuedCareer",
+      "object": "acting",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "starredIn",
+      "object": "Charmed",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "vocation",
+      "object": "voice actress",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "voicedHarleyQuinnIn",
+      "object": "DC animated projects",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "winner",
+      "object": "Critics' Choice Television Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "activeYears",
+      "object": "2004-present",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "affiliation",
+      "object": "CBS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "affiliation",
+      "object": "Warner Bros. Television",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "appearedIn",
+      "object": "Ice Age: Continental Drift",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "appearedIn",
+      "object": "The Late Late Show with Craig Ferguson",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "awardNomination",
+      "object": "Screen Actors Guild Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "birthCountry",
+      "object": "England",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "birthYear",
+      "object": "1981",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "bornIn",
+      "object": "London",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "broadcastOn",
+      "object": "television",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "coStarredWith",
+      "object": "Jim Parsons",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "coStarredWith",
+      "object": "Johnny Galecki",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "coStarredWith",
+      "object": "Kaley Cuoco",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "coStarredWith",
+      "object": "Mayim Bialik",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "coStarredWith",
+      "object": "Melissa Rauch",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "coStarredWith",
+      "object": "Simon Helberg",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "educatedAt",
+      "object": "University of Portland",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "ethnicity",
+      "object": "Indian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "famousFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "guestAppeared",
+      "object": "NCIS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "instanceOf",
+      "object": "actor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "instanceOf",
+      "object": "comic",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "knownFor",
+      "object": "comedy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "language",
+      "object": "English",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "language",
+      "object": "Hindi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "marriageYear",
+      "object": "2011",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "marriedTo",
+      "object": "Neha Kapur",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "nationality",
+      "object": "Indian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "network",
+      "object": "CBS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "occupation",
+      "object": "actor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "occupation",
+      "object": "author",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "occupation",
+      "object": "voice actor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "raisedIn",
+      "object": "Delhi",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "residesIn",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "roleIn",
+      "object": "Raj Koothrappali",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "starredInFilm",
+      "object": "The Role",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "voiceRoleIn",
+      "object": "Trolls World Tour",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "writerOf",
+      "object": "Yes, My Accent Is Real",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "PhDFrom",
+      "object": "Princeton University",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "appearsIn",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "colleague",
+      "object": "Leslie Winkle",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "doctoralAdvisor",
+      "object": "Dr. Gablehauser",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "employedAt",
+      "object": "California Institute of Technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "fieldOfStudy",
+      "object": "experimental physics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "friend",
+      "object": "Howard Wolowitz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "friend",
+      "object": "Raj Koothrappali",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "goesTo",
+      "object": "Cheesecake Factory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "instanceOf",
+      "object": "fictional character",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "livesIn",
+      "object": "Pasadena",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "livesWith",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "lovesToEat",
+      "object": "Thai food",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "mother",
+      "object": "Beverly Hofstadter",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "occupation",
+      "object": "physicist",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "portrayedBy",
+      "object": "Johnny Galecki",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "researches",
+      "object": "quantum mechanics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "romanticInterest",
+      "object": "Penny",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "roommate",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "spouse",
+      "object": "Penny",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "area",
+      "object": "about 500 square miles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "borderedBy",
+      "object": "Pacific Ocean",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "borderedBy",
+      "object": "Santa Monica Mountains",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "climate",
+      "object": "Mediterranean climate",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "culturalDistrict",
+      "object": "Beverly Hills",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "culturalDistrict",
+      "object": "Downtown LA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "culturalDistrict",
+      "object": "Hollywood",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "education",
+      "object": "UCLA (University of California, Los Angeles)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "education",
+      "object": "USC (University of Southern California)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "ethnicGroup",
+      "object": "Asian Americans",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "ethnicGroup",
+      "object": "Hispanic and Latino Americans",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "ethnicGroup",
+      "object": "White Americans",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "foundedYear",
+      "object": "1781",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "hosted",
+      "object": "1932 Summer Olympics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "hosted",
+      "object": "1984 Summer Olympics",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "industry",
+      "object": "aerospace",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "industry",
+      "object": "film production",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "industry",
+      "object": "music industry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "industry",
+      "object": "technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "instanceOf",
+      "object": "city",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "knownFor",
+      "object": "entertainment industry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "knownFor",
+      "object": "film industry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "knownFor",
+      "object": "motion picture industry",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "landmark",
+      "object": "Griffith Observatory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "landmark",
+      "object": "Hollywood Sign",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "landmark",
+      "object": "Santa Monica Pier",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "landmark",
+      "object": "Walk of Fame",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "locatedIn",
+      "object": "Southern California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "majorAirport",
+      "object": "LAX (Los Angeles International Airport)",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "mayor",
+      "object": "Karen Bass",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "neighborhood",
+      "object": "Santa Monica",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "neighborhood",
+      "object": "Venice",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "nickname",
+      "object": "City of Angels",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "nickname",
+      "object": "Entertainment Capital of the World",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "nickname",
+      "object": "LA",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "nickname",
+      "object": "film industry hub",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "partOf",
+      "object": "Los Angeles County",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "population",
+      "object": "over 3.8 million",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "representativeDish",
+      "object": "California burrito",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "spokenLanguage",
+      "object": "English",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "spokenLanguage",
+      "object": "Spanish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "sportsTeam",
+      "object": "Los Angeles Clippers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "sportsTeam",
+      "object": "Los Angeles Dodgers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "sportsTeam",
+      "object": "Los Angeles Kings",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "sportsTeam",
+      "object": "Los Angeles Lakers",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "sportsTeam",
+      "object": "Los Angeles Rams",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "state",
+      "object": "California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "timeZone",
+      "object": "Pacific Time Zone",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Los Angeles",
+      "predicate": "transportation",
+      "object": "Los Angeles Metro",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "academicAdvisor",
+      "object": "Joseph Bower",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "activeInField",
+      "object": "neuroscience",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "advocacy",
+      "object": "attachment parenting",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "author",
+      "object": "Beyond the Sling",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "author",
+      "object": "Mayim's Vegan Table",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "award",
+      "object": "Critics' Choice Television Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "award",
+      "object": "Satellite Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "award",
+      "object": "Women in Film Lucy Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "bookGenre",
+      "object": "parenting advice",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "bookGenre",
+      "object": "vegan cookbook",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "born",
+      "object": "December 12, 1975",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "bornIn",
+      "object": "San Diego",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "charityWork",
+      "object": "Holocaust remembrance",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "charityWork",
+      "object": "animal welfare",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "children",
+      "object": "2 sons",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "degree",
+      "object": "Bachelor of Science in Neuroscience",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "degree",
+      "object": "Doctor of Philosophy in Neuroscience",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "diet",
+      "object": "vegan",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "education",
+      "object": "University of California, Los Angeles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "endorsement",
+      "object": "Texas Instruments calculators",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "fieldOfStudy",
+      "object": "neuroscience",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "founded",
+      "object": "Grok Nation",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "guestAppearance",
+      "object": "Curb Your Enthusiasm",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "guestAppearance",
+      "object": "Fat Actress",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "guestAppearance",
+      "object": "The Secret Life of the American Teenager",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "hollywoodWalkOfFame",
+      "object": "No",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "instanceOf",
+      "object": "actress",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "instanceOf",
+      "object": "neuroscientist",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "knownFor",
+      "object": "Amy Farrah Fowler",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "knownFor",
+      "object": "Blossom Russo",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "maritalStatus",
+      "object": "divorced",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "nomination",
+      "object": "Primetime Emmy Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "nomination",
+      "object": "Screen Actors Guild Award",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "philosophy",
+      "object": "attachment parenting",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "podcast",
+      "object": "Mayim Bialik's Breakdown",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "recurringTVRole",
+      "object": "host of Jeopardy!",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "religion",
+      "object": "Jewish",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "role",
+      "object": "Amy Farrah Fowler in The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "role",
+      "object": "Blossom Russo in Blossom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "specialization",
+      "object": "obsessive-compulsive disorder",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "specialization",
+      "object": "parental hypo thalamic-pituitary-adrenal axis",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "state",
+      "object": "California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "thesis",
+      "object": "Hypothalamic activity in adolescents with obsessive-compulsive disorder",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "tvShow",
+      "object": "Blossom",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "tvShow",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "voiceRole",
+      "object": "Kim Possible",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "voiceRole",
+      "object": "Pound Puppies",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "voiceRole",
+      "object": "Squirrel Boy",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "youtubeChannel",
+      "object": "Mayim Bialik",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "birthYear",
+      "object": "1980",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "bornIn",
+      "object": "Marlboro Township, New Jersey",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "broadway",
+      "object": "chick flick",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "co-producer",
+      "object": "Night Club",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "co-wrote",
+      "object": "The Bronze",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "film",
+      "object": "The Bronze",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "graduatedFrom",
+      "object": "Marymount Manhattan College",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "guestStarred",
+      "object": "The Office",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "guestStarred",
+      "object": "True Blood",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "instanceOf",
+      "object": "actress",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "instanceOf",
+      "object": "comedian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "knownFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "portrayed",
+      "object": "Bernadette Rostenkowski-Wolowitz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "portrayedMelanieGolderman",
+      "object": "Protect the Family",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "profession",
+      "object": "actor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "profession",
+      "object": "voice actor",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "role",
+      "object": "Bernadette Rostenkowski-Wolowitz",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "screenplay",
+      "object": "The Bronze",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "starred",
+      "object": "Night Club",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "usNetwork",
+      "object": "CBS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "voiceRole",
+      "object": "The LaTrivian",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "webSeriesAppearance",
+      "object": "The Superhero",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "websiteBoardMember",
+      "object": "Hello It's Me Doll",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "works",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "works",
+      "object": "The Bronze",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "works",
+      "object": "True Blood",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "architecture",
+      "object": "Arts and Crafts architecture",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "country",
+      "object": "United States",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "cuisine",
+      "object": "Pasadena Sandwich Company",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "famousBuildings",
+      "object": "Pasadena City Hall",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "famousBuildings",
+      "object": "Rose Bowl Stadium",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "flora",
+      "object": "rose bushes",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "foundedIn",
+      "object": "1874",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "headquartersOf",
+      "object": "Jet Propulsion Laboratory",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "homeTo",
+      "object": "ArtCenter College of Design",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "homeTo",
+      "object": "California Institute of Technology",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "homeTo",
+      "object": "Pasadena City College",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "incorporatedIn",
+      "object": "1886",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "instanceOf",
+      "object": "city",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "locatedIn",
+      "object": "Los Angeles County",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "mediaBroadcast",
+      "object": "KFWB News 98",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "nearbyTo",
+      "object": "Los Angeles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "notableFor",
+      "object": "Rose Bowl",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "notableFor",
+      "object": "Rose Bowl Game",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "notableFor",
+      "object": "Tournament of Roses Parade",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "populationRanking",
+      "object": "ninth-largest city in Greater Los Angeles",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "shoppingAttraction",
+      "object": "Old Pas Beads stores",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "state",
+      "object": "California",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "characterOccupation",
+      "object": "physicist",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "characterWorkplace",
+      "object": "Caltech",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "createdBy",
+      "object": "Bill Prady",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "createdBy",
+      "object": "Chuck Lorre",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "derivedWork",
+      "object": "Young Sheldon",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "filmedIn",
+      "object": "Los Angeles",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "firstAired",
+      "object": "2007",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "genre",
+      "object": "sitcom",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "inspiredBy",
+      "object": "sitcom tropes",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "instanceOf",
+      "object": "television series",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "lastAired",
+      "object": "2019",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Amy Farrah Fowler",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Bernadette Rostenkowski",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Howard Wolowitz",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Leonard Hofstadter",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Penny",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Rajesh Koothrappali",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Sheldon Cooper",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "network",
+      "object": "CBS",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "nominatedFor",
+      "object": "Critics' Choice Television Award",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "numberOfEpisodes",
+      "object": "279",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "numberOfSeasons",
+      "object": "12",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "productionCompany",
+      "object": "Chuck Lorre Productions",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "productionCompany",
+      "object": "Warner Bros. Television",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "setting",
+      "object": "Pasadena, California",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "starring",
+      "object": "Jim Parsons",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "starring",
+      "object": "Johnny Galecki",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "starring",
+      "object": "Kaley Cuoco",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "starring",
+      "object": "Kunal Nayyar",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "starring",
+      "object": "Mayim Bialik",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "starring",
+      "object": "Melissa Rauch",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "starring",
+      "object": "Simon Helberg",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "theme",
+      "object": "friendship",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "theme",
+      "object": "geek culture",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "theme",
+      "object": "romance",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "theme",
+      "object": "science",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "won",
+      "object": "Golden Globe Award",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "won",
+      "object": "Primetime Emmy Award",
+      "hop": 0,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    },
+    {
+      "subject": "The Late Show",
+      "predicate": "airsOn",
+      "object": "CBS",
+      "hop": 1,
+      "model": "deepseek-chat",
+      "strategy": "dont_know",
+      "confidence": null
+    }
+  ],
+  "sink": []
+}

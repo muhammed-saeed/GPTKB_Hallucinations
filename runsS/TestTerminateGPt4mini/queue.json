@@ -1,0 +1,5567 @@
+[
+  {
+    "subject": "Umer Bin Elkhatab",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:12"
+  },
+  {
+    "subject": "Abu Lulu",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:24"
+  },
+  {
+    "subject": "Al-Masjid an-Nabawi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:24"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:24"
+  },
+  {
+    "subject": "second caliph of Islam",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:24"
+  },
+  {
+    "subject": "Abu Bakr",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:25:32"
+  },
+  {
+    "subject": "Green Dome",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:42"
+  },
+  {
+    "subject": "Hajj",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:51"
+  },
+  {
+    "subject": "Hejaz region",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:51"
+  },
+  {
+    "subject": "Kaaba",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:51"
+  },
+  {
+    "subject": "Masjid al-Haram",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:51"
+  },
+  {
+    "subject": "Medina",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:42"
+  },
+  {
+    "subject": "Muhammad",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:51"
+  },
+  {
+    "subject": "Prophet Muhammad",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:42"
+  },
+  {
+    "subject": "Prophet Muhammad's tomb",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:42"
+  },
+  {
+    "subject": "Saudi Arabia",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:51"
+  },
+  {
+    "subject": "Umar ibn al-Khattab",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:30"
+  },
+  {
+    "subject": "Uthman ibn Affan",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:25:32"
+  },
+  {
+    "subject": "assassination of Umar ibn al-Khattab",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:24:30"
+  },
+  {
+    "subject": "Abdullah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Abu Lu'lu'a",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:03"
+  },
+  {
+    "subject": "Affan ibn Abi al-As",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:46"
+  },
+  {
+    "subject": "Aisha",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Al-Siddiq",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:35"
+  },
+  {
+    "subject": "Ali",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Ali ibn Abi Talib",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:46"
+  },
+  {
+    "subject": "Amina",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Arwa bint Kurayz",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:46"
+  },
+  {
+    "subject": "Battle of Badr",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Battle of Uhud",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Battle of the Trench",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Byzantine Empire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:25:51"
+  },
+  {
+    "subject": "Companion of Muhammad",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:25:51"
+  },
+  {
+    "subject": "Farewell Pilgrimage",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Fatimah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Hajj pilgrimage",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:27:27"
+  },
+  {
+    "subject": "Hijra",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Iraq",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Islam",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:18"
+  },
+  {
+    "subject": "Islamic Caliphate",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:25:51"
+  },
+  {
+    "subject": "Jeddah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Jordan",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Khadijah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Kiswah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:27:27"
+  },
+  {
+    "subject": "Kuwait",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Masjid al-Haram expansion project",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:27:37"
+  },
+  {
+    "subject": "Mount Uhud",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:27:10"
+  },
+  {
+    "subject": "Oman",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Prophet Ibrahim",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:27:27"
+  },
+  {
+    "subject": "Prophet Muhammad's body",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:51"
+  },
+  {
+    "subject": "Qatar",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Red Sea",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:27:10"
+  },
+  {
+    "subject": "Riyadh",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Ruqayyah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "Sassanid Empire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:25:51"
+  },
+  {
+    "subject": "Tawaf area",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:27:27"
+  },
+  {
+    "subject": "The Prophet's Mosque",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:18"
+  },
+  {
+    "subject": "Umar ibn al-Khattab's death",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:03"
+  },
+  {
+    "subject": "Umar's Law",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:25:51"
+  },
+  {
+    "subject": "Umm Kulthum",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "United Arab Emirates",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Yemen",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:25"
+  },
+  {
+    "subject": "Zainab",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:42"
+  },
+  {
+    "subject": "the Battle of Badr",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "the Battle of Uhud",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "the Battle of the Trench",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "the Conquest of Mecca",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "the Farewell Pilgrimage",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "the Hijra",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "the House of Allah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:27:27"
+  },
+  {
+    "subject": "the Night Journey",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "the Treaty of Hudaybiyyah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "the caliphate of Uthman ibn Affan",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:26:03"
+  },
+  {
+    "subject": "the final sermon",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:28:01"
+  },
+  {
+    "subject": "Abbasid Caliphate",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:29:46"
+  },
+  {
+    "subject": "Abu Dhabi",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:41"
+  },
+  {
+    "subject": "Abu Lulu'a al-Majusi",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:48"
+  },
+  {
+    "subject": "Abu al-Aas ibn al-Rabi",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:54"
+  },
+  {
+    "subject": "Al-Aqsa Mosque",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:19"
+  },
+  {
+    "subject": "Al-Khattab ibn Nufayl",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:16"
+  },
+  {
+    "subject": "Amman",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:00"
+  },
+  {
+    "subject": "Arab Caliphate",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Arabian Peninsula",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:48"
+  },
+  {
+    "subject": "Ardashir I",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Badr, Saudi Arabia",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:31:46"
+  },
+  {
+    "subject": "Battle of al-Qadisiyyah",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Battle of the Camel",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:31:37"
+  },
+  {
+    "subject": "Birthplace of Umer Bin Elkhatab",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:48"
+  },
+  {
+    "subject": "Companion of the Prophet",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:57"
+  },
+  {
+    "subject": "Compilation of the Quran",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:57"
+  },
+  {
+    "subject": "Ctesiphon",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Fatimah bint Muhammad",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:54"
+  },
+  {
+    "subject": "First Caliph of Islam",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:57"
+  },
+  {
+    "subject": "Hamza ibn Abdul-Muttalib",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:31:57"
+  },
+  {
+    "subject": "Hasan ibn Ali",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:12"
+  },
+  {
+    "subject": "Hassan",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:29"
+  },
+  {
+    "subject": "Hassan ibn Ali",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:33:14"
+  },
+  {
+    "subject": "Hormizd IV",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Husayn",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:29"
+  },
+  {
+    "subject": "Husayn ibn Ali",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:33:14"
+  },
+  {
+    "subject": "Isra and Mi'raj",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:19"
+  },
+  {
+    "subject": "Jannat al-Baqi",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:29"
+  },
+  {
+    "subject": "Jerash",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:00"
+  },
+  {
+    "subject": "Khosrow I",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Khosrow II",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "King Abdulaziz International Airport",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:53"
+  },
+  {
+    "subject": "Kuwait City",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:08"
+  },
+  {
+    "subject": "Makkah Province",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:53"
+  },
+  {
+    "subject": "Medina, Saudi Arabia",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:33:20"
+  },
+  {
+    "subject": "Middle East",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:48"
+  },
+  {
+    "subject": "Mohamed Abdel Wahab",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:33:05"
+  },
+  {
+    "subject": "Mount Arafat",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:34"
+  },
+  {
+    "subject": "Mount Uhud Cemetery",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:33:26"
+  },
+  {
+    "subject": "Muslims and Quraysh tribe",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:27"
+  },
+  {
+    "subject": "Parthian Empire",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Petra",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:00"
+  },
+  {
+    "subject": "Qasim",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:29"
+  },
+  {
+    "subject": "Quran",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:31:19"
+  },
+  {
+    "subject": "Quraysh",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:31:46"
+  },
+  {
+    "subject": "Quraysh tribe",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:27"
+  },
+  {
+    "subject": "Rashidun Caliphate",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:29:35"
+  },
+  {
+    "subject": "Riad Al Sunbati",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:33:05"
+  },
+  {
+    "subject": "Sana'a",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:48"
+  },
+  {
+    "subject": "Shapur I",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Syria",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:36:00"
+  },
+  {
+    "subject": "Uhud Mountain",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:31:57"
+  },
+  {
+    "subject": "Uhud Mountain, Medina",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:34:36"
+  },
+  {
+    "subject": "Umayyad Caliphate",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:29:46"
+  },
+  {
+    "subject": "Uthman ibn Affan's caliphate",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:48"
+  },
+  {
+    "subject": "Yazdegerd III",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:15"
+  },
+  {
+    "subject": "Zaynab bint Muhammad",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:54"
+  },
+  {
+    "subject": "conquest of Mecca",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:27"
+  },
+  {
+    "subject": "final pilgrimage of Prophet Muhammad",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:00"
+  },
+  {
+    "subject": "its historic district Al-Balad",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:53"
+  },
+  {
+    "subject": "last sermon of Prophet Muhammad",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:34"
+  },
+  {
+    "subject": "migration from Mecca to Medina",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:37"
+  },
+  {
+    "subject": "migration of Muhammad and followers",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:32:37"
+  },
+  {
+    "subject": "the Migration",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:10"
+  },
+  {
+    "subject": "the Quran",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:19"
+  },
+  {
+    "subject": "the caliphate of Umar ibn al-Khattab",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:30:57"
+  },
+  {
+    "subject": "the standing at Arafat",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:35:00"
+  },
+  {
+    "subject": "Abdullah ibn Muhammad",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:41:21"
+  },
+  {
+    "subject": "Abu Dhabi Emirate",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:26"
+  },
+  {
+    "subject": "Abu Muslim",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:42"
+  },
+  {
+    "subject": "Abu al-As ibn al-Rabi",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:41:28"
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:03"
+  },
+  {
+    "subject": "Ahl al-Bayt",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:09"
+  },
+  {
+    "subject": "Aisha bint Abi Bakr",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:07"
+  },
+  {
+    "subject": "Al-Hasan",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:09"
+  },
+  {
+    "subject": "Al-Khazneh",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:06"
+  },
+  {
+    "subject": "Al-Ma'mun",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:42"
+  },
+  {
+    "subject": "Al-Madinah Region",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:12"
+  },
+  {
+    "subject": "Al-Mansur",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:42"
+  },
+  {
+    "subject": "Al-Qadisiyyah",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:22"
+  },
+  {
+    "subject": "Ali ibn Abu al-As",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:41:28"
+  },
+  {
+    "subject": "Arab Conquest",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:20"
+  },
+  {
+    "subject": "Arabian Sea",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:35"
+  },
+  {
+    "subject": "Arafat plain",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:43:26"
+  },
+  {
+    "subject": "Artabanus II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:03"
+  },
+  {
+    "subject": "Artaxerxes IV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:14"
+  },
+  {
+    "subject": "Assassination of Umar ibn al-Khattab",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:26"
+  },
+  {
+    "subject": "Baghdad",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:42"
+  },
+  {
+    "subject": "Bahrain",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:35"
+  },
+  {
+    "subject": "Banu Abd Shams",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:22"
+  },
+  {
+    "subject": "Banu Adi",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:22"
+  },
+  {
+    "subject": "Banu Hashim",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:22"
+  },
+  {
+    "subject": "Banu Makhzum",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:22"
+  },
+  {
+    "subject": "Banu Taym",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:22"
+  },
+  {
+    "subject": "Basra",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:07"
+  },
+  {
+    "subject": "Battle of Carrhae",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:03"
+  },
+  {
+    "subject": "Battle of Karbala",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:41"
+  },
+  {
+    "subject": "Battle of Qadisiyyah",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:28"
+  },
+  {
+    "subject": "Battle of Yarmouk",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:28"
+  },
+  {
+    "subject": "Caliph",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:52"
+  },
+  {
+    "subject": "Conquest of Egypt",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:28"
+  },
+  {
+    "subject": "Conquest of Levant",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:28"
+  },
+  {
+    "subject": "Conquest of Persia",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:28"
+  },
+  {
+    "subject": "Damascus",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:54"
+  },
+  {
+    "subject": "Dome of the Rock",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:40"
+  },
+  {
+    "subject": "Egypt",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:41:42"
+  },
+  {
+    "subject": "First Fitna",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:36"
+  },
+  {
+    "subject": "Haram al-Sharif",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:40"
+  },
+  {
+    "subject": "Harun al-Rashid",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:42"
+  },
+  {
+    "subject": "Hejaz Region",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:05"
+  },
+  {
+    "subject": "Hormizd I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:10"
+  },
+  {
+    "subject": "House of Sasan",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:37"
+  },
+  {
+    "subject": "Iberian Peninsula",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:54"
+  },
+  {
+    "subject": "Iran",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:03"
+  },
+  {
+    "subject": "Islamic Conquests",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:52"
+  },
+  {
+    "subject": "Islamic conquests",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:28"
+  },
+  {
+    "subject": "Israel",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:13"
+  },
+  {
+    "subject": "Jabal al-Rahmah",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:43:26"
+  },
+  {
+    "subject": "Jerusalem",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:40"
+  },
+  {
+    "subject": "Kavad II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:20"
+  },
+  {
+    "subject": "Kavadh I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:43"
+  },
+  {
+    "subject": "Khadijah bint Khuwaylid",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:41:28"
+  },
+  {
+    "subject": "Khodadad",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:51"
+  },
+  {
+    "subject": "Kuwait Governorate",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:19"
+  },
+  {
+    "subject": "Lion of God",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:28"
+  },
+  {
+    "subject": "Louvre Abu Dhabi",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:26"
+  },
+  {
+    "subject": "Makkah",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:43:49"
+  },
+  {
+    "subject": "Mithridates I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:03"
+  },
+  {
+    "subject": "Muawiya I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:54"
+  },
+  {
+    "subject": "Nabataean Kingdom",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:06"
+  },
+  {
+    "subject": "North Africa",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:54"
+  },
+  {
+    "subject": "Old City of Sana'a",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:46"
+  },
+  {
+    "subject": "Orodes II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:03"
+  },
+  {
+    "subject": "Peace Treaty with Muawiya",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:41:48"
+  },
+  {
+    "subject": "Persian Gulf",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:35"
+  },
+  {
+    "subject": "Prophet Muhammad's Mosque",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:05"
+  },
+  {
+    "subject": "Qasim ibn Muhammad",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:41:21"
+  },
+  {
+    "subject": "Rashidun Caliphate and Sassanian Empire",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:22"
+  },
+  {
+    "subject": "Sa'd ibn Abi Waqqas",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:22"
+  },
+  {
+    "subject": "Sahabah",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:52"
+  },
+  {
+    "subject": "Sasanian Dynasty",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:14"
+  },
+  {
+    "subject": "Sasanian Emperor",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:10"
+  },
+  {
+    "subject": "Sasanian Empire",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:14"
+  },
+  {
+    "subject": "Sassanian Empire",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:28"
+  },
+  {
+    "subject": "Saudi Arabian Airlines",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:43:42"
+  },
+  {
+    "subject": "Sheikh Zayed Grand Mosque",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:26"
+  },
+  {
+    "subject": "Shirin",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:37"
+  },
+  {
+    "subject": "Sicily",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:54"
+  },
+  {
+    "subject": "Siege of Jerusalem",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:40"
+  },
+  {
+    "subject": "Surah Al-Isra",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:51"
+  },
+  {
+    "subject": "Talha ibn Ubaydullah",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:07"
+  },
+  {
+    "subject": "The Monastery",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:06"
+  },
+  {
+    "subject": "Turkey",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:44:13"
+  },
+  {
+    "subject": "Uhud",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:28"
+  },
+  {
+    "subject": "Umamah bint Zaynab",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:41:28"
+  },
+  {
+    "subject": "Umar ibn Abd al-Aziz",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:54"
+  },
+  {
+    "subject": "Uncle of Muhammad",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:28"
+  },
+  {
+    "subject": "University of Jordan",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:43:55"
+  },
+  {
+    "subject": "Yazid I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:37:54"
+  },
+  {
+    "subject": "Zoroastrianism",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:39:03"
+  },
+  {
+    "subject": "Zubair ibn al-Awwam",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:07"
+  },
+  {
+    "subject": "burial site of Umer Bin Elkhatab",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:40:49"
+  },
+  {
+    "subject": "site of the Battle of Uhud",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:10"
+  },
+  {
+    "subject": "the Prophet Muhammad's Farewell Sermon",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:42:26"
+  },
+  {
+    "subject": "the Taq Kasra arch",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:38:28"
+  },
+  {
+    "subject": "Abbasid",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:12"
+  },
+  {
+    "subject": "Abdullah ibn Zubair",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:45"
+  },
+  {
+    "subject": "Abdur Rahman ibn Awf",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:10"
+  },
+  {
+    "subject": "Abu Jahl",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:52:16"
+  },
+  {
+    "subject": "Abu Sufyan",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:59"
+  },
+  {
+    "subject": "Abu Sufyan ibn Harb",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:59"
+  },
+  {
+    "subject": "Abu Talib",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:52:42"
+  },
+  {
+    "subject": "Achaemenid Dynasty",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:44"
+  },
+  {
+    "subject": "Adnan",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:59"
+  },
+  {
+    "subject": "Al-Amin",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:12"
+  },
+  {
+    "subject": "Al-Awwam ibn Khuwaylid",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:45"
+  },
+  {
+    "subject": "Al-Khayzuran",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:40"
+  },
+  {
+    "subject": "Al-Mahdi",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:22"
+  },
+  {
+    "subject": "Al-Mu'tasim",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:12"
+  },
+  {
+    "subject": "Al-Mustansiriya School",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:29"
+  },
+  {
+    "subject": "Al-Saffah",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:22"
+  },
+  {
+    "subject": "Al-Saleh Mosque",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:36"
+  },
+  {
+    "subject": "Al-Zahid",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:30"
+  },
+  {
+    "subject": "Arafat",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:27"
+  },
+  {
+    "subject": "Artabanus I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:20"
+  },
+  {
+    "subject": "Artaxerxes III",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:44"
+  },
+  {
+    "subject": "Aurelius Zosime",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:26"
+  },
+  {
+    "subject": "Bahram I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:26"
+  },
+  {
+    "subject": "Bahram II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:26"
+  },
+  {
+    "subject": "Basra Governorate",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:26"
+  },
+  {
+    "subject": "Battle of Ajnadayn",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:46"
+  },
+  {
+    "subject": "Battle of Khandaq",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:10"
+  },
+  {
+    "subject": "Battle of Nahavand",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:56"
+  },
+  {
+    "subject": "Bilal ibn Rabah",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:10"
+  },
+  {
+    "subject": "Byzantine-Sassanian Wars",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:46"
+  },
+  {
+    "subject": "Cavades I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:48:07"
+  },
+  {
+    "subject": "Companion of the Prophet Muhammad",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:48:31"
+  },
+  {
+    "subject": "Companions of the Prophet",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:52:27"
+  },
+  {
+    "subject": "Companions of the Prophet Muhammad",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:10"
+  },
+  {
+    "subject": "Crassus",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:27"
+  },
+  {
+    "subject": "Damas",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:30"
+  },
+  {
+    "subject": "Darius III",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:44"
+  },
+  {
+    "subject": "Death of Umar ibn al-Khattab",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:57"
+  },
+  {
+    "subject": "Establishing the Abbasid Caliphate",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:22"
+  },
+  {
+    "subject": "Governor of Kufa",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:48:31"
+  },
+  {
+    "subject": "Great Mosque of Sana'a",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:36"
+  },
+  {
+    "subject": "Hafez",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:57"
+  },
+  {
+    "subject": "Hejaz",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:53"
+  },
+  {
+    "subject": "Hind bint Utbah",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:59"
+  },
+  {
+    "subject": "Jazira",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:45"
+  },
+  {
+    "subject": "Jeddah, Saudi Arabia",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:38"
+  },
+  {
+    "subject": "Karbala, Iraq",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:52:50"
+  },
+  {
+    "subject": "Kavad I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:05"
+  },
+  {
+    "subject": "Khalid ibn al-Walid",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:31"
+  },
+  {
+    "subject": "Khosrow I's mother",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:05"
+  },
+  {
+    "subject": "King Khalid International Airport",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:38"
+  },
+  {
+    "subject": "Kufa",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:01"
+  },
+  {
+    "subject": "Makkah Region",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:53"
+  },
+  {
+    "subject": "Manama",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:16"
+  },
+  {
+    "subject": "Masjid al-Nabawi",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:57"
+  },
+  {
+    "subject": "Maysun bint Bahdal",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:38"
+  },
+  {
+    "subject": "Mehmed II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:57:33"
+  },
+  {
+    "subject": "Mithridates II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:12"
+  },
+  {
+    "subject": "Mithridates III",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:12"
+  },
+  {
+    "subject": "Mount of Mercy",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:27"
+  },
+  {
+    "subject": "Muawiya",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:54:43"
+  },
+  {
+    "subject": "Muawiya II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:38"
+  },
+  {
+    "subject": "Muawiya ibn Abi Sufyan",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:11"
+  },
+  {
+    "subject": "Muhsin ibn Ali",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:53:28"
+  },
+  {
+    "subject": "Muslim conquests",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:03"
+  },
+  {
+    "subject": "Mustafa Kemal Atatürk",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:57:33"
+  },
+  {
+    "subject": "Night Journey",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:15"
+  },
+  {
+    "subject": "Nizami Ganjavi",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:57"
+  },
+  {
+    "subject": "Omar Khayyam",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:57"
+  },
+  {
+    "subject": "Orhan Gazi",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:57:33"
+  },
+  {
+    "subject": "Peroz I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:05"
+  },
+  {
+    "subject": "Persia",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:56"
+  },
+  {
+    "subject": "Phraates IV",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:12"
+  },
+  {
+    "subject": "Qadisiyyah",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:23"
+  },
+  {
+    "subject": "Rashidun Caliphate expansion",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:46"
+  },
+  {
+    "subject": "Rise of Uthman ibn Affan",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:57"
+  },
+  {
+    "subject": "Roman Empire",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:56"
+  },
+  {
+    "subject": "Roman Republic",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:27"
+  },
+  {
+    "subject": "Roman-Persian Wars",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:50:35"
+  },
+  {
+    "subject": "Rumi",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:57"
+  },
+  {
+    "subject": "Rustam Farrokhzad",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:23"
+  },
+  {
+    "subject": "Sadi",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:57"
+  },
+  {
+    "subject": "Safiyyah bint Abd al-Muttalib",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:45"
+  },
+  {
+    "subject": "Sana'a Governorate",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:36"
+  },
+  {
+    "subject": "Second Fitna",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:11"
+  },
+  {
+    "subject": "Sheikh Zayed bin Sultan Al Nahyan",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:07"
+  },
+  {
+    "subject": "SkyTeam",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:38"
+  },
+  {
+    "subject": "Suleiman ibn Abd al-Malik",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:30"
+  },
+  {
+    "subject": "Surah Al-Kahf",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:15"
+  },
+  {
+    "subject": "Surena",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:27"
+  },
+  {
+    "subject": "Süleyman the Magnificent",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:57:33"
+  },
+  {
+    "subject": "Taif",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:54:53"
+  },
+  {
+    "subject": "Tarsus",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:12"
+  },
+  {
+    "subject": "Ten Promised Paradise",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:48:31"
+  },
+  {
+    "subject": "The Arabian Nights",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:40"
+  },
+  {
+    "subject": "The National Museum of Iraq",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:29"
+  },
+  {
+    "subject": "The Quran",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:15"
+  },
+  {
+    "subject": "Theodore Trithyrius",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:31"
+  },
+  {
+    "subject": "Umayyad",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:30"
+  },
+  {
+    "subject": "Umayyad Caliph",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:59"
+  },
+  {
+    "subject": "Umayyad Mosque",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:46"
+  },
+  {
+    "subject": "Umer Bin Elkhatab's leadership",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:48:38"
+  },
+  {
+    "subject": "Vardanes I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:49:20"
+  },
+  {
+    "subject": "Western Wall",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:55:53"
+  },
+  {
+    "subject": "Yanbu",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:54:53"
+  },
+  {
+    "subject": "Yarmouk River",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:45:31"
+  },
+  {
+    "subject": "Yazid II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:47:30"
+  },
+  {
+    "subject": "Yazid ibn Muawiya",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:52:50"
+  },
+  {
+    "subject": "Zayd ibn Harithah",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:10"
+  },
+  {
+    "subject": "Zubaydah bint Ja'far",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:46:12"
+  },
+  {
+    "subject": "capture of Jerusalem",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:56:03"
+  },
+  {
+    "subject": "conquest of Egypt",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:56"
+  },
+  {
+    "subject": "conquest of North Africa",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:56"
+  },
+  {
+    "subject": "conquest of Persia",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:56"
+  },
+  {
+    "subject": "conquest of the Levant",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:58:56"
+  },
+  {
+    "subject": "final sermon of Prophet Muhammad",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:55:27"
+  },
+  {
+    "subject": "martyrdom of Husayn ibn Ali",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:52:50"
+  },
+  {
+    "subject": "the Battle of the Camel",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:19"
+  },
+  {
+    "subject": "the Green Dome",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:55:07"
+  },
+  {
+    "subject": "the Sasanian Empire",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:48:52"
+  },
+  {
+    "subject": "the death of Muhammad",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:11"
+  },
+  {
+    "subject": "the ruins of Ctesiphon",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:48:52"
+  },
+  {
+    "subject": "the ten promised paradise",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:51:33"
+  },
+  {
+    "subject": "the tomb of Prophet Muhammad",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:55:07"
+  },
+  {
+    "subject": "Abbas ibn Abd al-Muttalib",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:02:20"
+  },
+  {
+    "subject": "Abd al-Awwam ibn Khuwailid",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:12:14"
+  },
+  {
+    "subject": "Abd al-Malik",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:39"
+  },
+  {
+    "subject": "Abd al-Malik ibn Marwan",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:03"
+  },
+  {
+    "subject": "Abdul Malik ibn Marwan",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:14"
+  },
+  {
+    "subject": "Abdulaziz Al-Sharjabi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:53"
+  },
+  {
+    "subject": "Abdullah ibn Umar",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:14"
+  },
+  {
+    "subject": "Abu Ubaidah ibn al-Jarrah",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:06:46"
+  },
+  {
+    "subject": "Ajnadayn",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:00:04"
+  },
+  {
+    "subject": "Al-Mustansir Billah",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:02:28"
+  },
+  {
+    "subject": "Al-Qadisiyyah Governorate",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:00:39"
+  },
+  {
+    "subject": "Al-Walid I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:03"
+  },
+  {
+    "subject": "Al-Wathiq",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:26"
+  },
+  {
+    "subject": "Alexander the Great",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:55"
+  },
+  {
+    "subject": "Alexandria",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:17:12"
+  },
+  {
+    "subject": "Alia bint al-Mahdi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:24"
+  },
+  {
+    "subject": "Artaxerxes II",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:05"
+  },
+  {
+    "subject": "Artaxerxes V",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:15"
+  },
+  {
+    "subject": "Asma bint Abi Bakr",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:11:53"
+  },
+  {
+    "subject": "Augustus",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:53"
+  },
+  {
+    "subject": "Bahrain National Museum",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:45"
+  },
+  {
+    "subject": "Bahrain World Trade Center",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:45"
+  },
+  {
+    "subject": "Battle of Gaugamela",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:15"
+  },
+  {
+    "subject": "Battle of Issus",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:15"
+  },
+  {
+    "subject": "Battle of the Zab",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:02:20"
+  },
+  {
+    "subject": "Bayezid II",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:15:54"
+  },
+  {
+    "subject": "Caliph Al-Hadi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:02:45"
+  },
+  {
+    "subject": "Caliph Al-Ma'mun",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:49"
+  },
+  {
+    "subject": "Caliph Al-Mahdi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:02:45"
+  },
+  {
+    "subject": "Caliph Al-Rashid",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:02:45"
+  },
+  {
+    "subject": "Carthage",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:53"
+  },
+  {
+    "subject": "Conquest of Constantinople",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:15:54"
+  },
+  {
+    "subject": "Constantine the Great",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:53"
+  },
+  {
+    "subject": "Cyrus the Great",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:55"
+  },
+  {
+    "subject": "Darius I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:55"
+  },
+  {
+    "subject": "Divan-e-Hafez",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:08:36"
+  },
+  {
+    "subject": "Edirne",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:15:54"
+  },
+  {
+    "subject": "Fatimah bint Asad",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:11:59"
+  },
+  {
+    "subject": "Fatimah bint Umar",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:14"
+  },
+  {
+    "subject": "First Muezzin in Islam",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:17:59"
+  },
+  {
+    "subject": "General Authority of Civil Aviation",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:15:43"
+  },
+  {
+    "subject": "Gotarzes I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:07:48"
+  },
+  {
+    "subject": "Halkalı",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:15:54"
+  },
+  {
+    "subject": "Hamza ibn Abd al-Muttalib",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:12:14"
+  },
+  {
+    "subject": "Hantamah bint Hashim",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:14"
+  },
+  {
+    "subject": "Hephthalites",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:07:40"
+  },
+  {
+    "subject": "Hisham ibn Abd al-Malik",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:24"
+  },
+  {
+    "subject": "Huma Hatun",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:15:54"
+  },
+  {
+    "subject": "Hurrem Sultan",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:28"
+  },
+  {
+    "subject": "Imam Al-Mahdi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:58"
+  },
+  {
+    "subject": "Imam Hussein Shrine",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:13:11"
+  },
+  {
+    "subject": "Islamic Conquest",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:28"
+  },
+  {
+    "subject": "Islamic Golden Age",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:02:28"
+  },
+  {
+    "subject": "Jordan River",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:58"
+  },
+  {
+    "subject": "Julius Caesar",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:53"
+  },
+  {
+    "subject": "Karbala",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:13:28"
+  },
+  {
+    "subject": "Karbala Governorate",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:13:11"
+  },
+  {
+    "subject": "King of Persia",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:07:40"
+  },
+  {
+    "subject": "Madinah Region",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:01"
+  },
+  {
+    "subject": "Malhun Hatun",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:18"
+  },
+  {
+    "subject": "Marcus Licinius Crassus",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:08:26"
+  },
+  {
+    "subject": "Muharraq Governorate",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:45"
+  },
+  {
+    "subject": "Murad I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:18"
+  },
+  {
+    "subject": "Murad II",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:15:54"
+  },
+  {
+    "subject": "Muslims",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:17:53"
+  },
+  {
+    "subject": "Nahavand",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:00:29"
+  },
+  {
+    "subject": "Najd",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:12:22"
+  },
+  {
+    "subject": "Nero",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:53"
+  },
+  {
+    "subject": "Nishapur",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:09:07"
+  },
+  {
+    "subject": "Opposition to Yazid I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:11:53"
+  },
+  {
+    "subject": "Osman I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:18"
+  },
+  {
+    "subject": "Parthia",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:08:26"
+  },
+  {
+    "subject": "Persepolis",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:55"
+  },
+  {
+    "subject": "Persian Empire",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:53"
+  },
+  {
+    "subject": "Phraates III",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:09:47"
+  },
+  {
+    "subject": "Phraates V",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:09:47"
+  },
+  {
+    "subject": "Pompey",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:08:07"
+  },
+  {
+    "subject": "Rashidun Caliphate and Byzantine Empire",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:00:04"
+  },
+  {
+    "subject": "Restoration of the Sasanian Empire",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:07:26"
+  },
+  {
+    "subject": "Rome",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:05:53"
+  },
+  {
+    "subject": "Rubaiyat",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:09:07"
+  },
+  {
+    "subject": "Sa'id ibn al-As",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:06:33"
+  },
+  {
+    "subject": "Sahabi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:17:44"
+  },
+  {
+    "subject": "Selim II",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:16:28"
+  },
+  {
+    "subject": "Shia Islam",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:58"
+  },
+  {
+    "subject": "Shia Muslims",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:58"
+  },
+  {
+    "subject": "Shiraz",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:08:36"
+  },
+  {
+    "subject": "Taq Kasra",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:07:16"
+  },
+  {
+    "subject": "The Sword of Allah",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:52"
+  },
+  {
+    "subject": "Treaty of Umar",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:56"
+  },
+  {
+    "subject": "Umar II",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:03"
+  },
+  {
+    "subject": "Umar ibn al-Khattab II",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:14"
+  },
+  {
+    "subject": "Umayyad Empire",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:03:37"
+  },
+  {
+    "subject": "Umm Kulthum bint Ali",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:14"
+  },
+  {
+    "subject": "Western Arabia",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:12:22"
+  },
+  {
+    "subject": "Xerxes I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:55"
+  },
+  {
+    "subject": "Yanbu Commercial Port",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:01"
+  },
+  {
+    "subject": "Yanbu University College",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:01"
+  },
+  {
+    "subject": "Yarmouk",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:17:35"
+  },
+  {
+    "subject": "Yazdegerd I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:09:57"
+  },
+  {
+    "subject": "Zayd ibn Umar",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:14"
+  },
+  {
+    "subject": "Zaynab bint al-Khattab",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:14"
+  },
+  {
+    "subject": "building of Samarra",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:26"
+  },
+  {
+    "subject": "grave of Prophet Muhammad",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:18"
+  },
+  {
+    "subject": "her marriage to Umar ibn al-Khattab",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:04:30"
+  },
+  {
+    "subject": "site of the Umayyad Caliphate",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:03:08"
+  },
+  {
+    "subject": "the Abbasid dynasty",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:49"
+  },
+  {
+    "subject": "the Banu Makhzum clan",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:52"
+  },
+  {
+    "subject": "the Battle of Yarmouk",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:52"
+  },
+  {
+    "subject": "the Islamic Caliphate",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:07:08"
+  },
+  {
+    "subject": "the Mahdi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:01:58"
+  },
+  {
+    "subject": "the Rashidun Caliphate",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 04:59:52"
+  },
+  {
+    "subject": "the Roman Empire",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:07:08"
+  },
+  {
+    "subject": "the conquest of Egypt",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:50"
+  },
+  {
+    "subject": "the conquest of Persia",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:50"
+  },
+  {
+    "subject": "the conquest of the Levant",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:50"
+  },
+  {
+    "subject": "the establishment of Caliphates",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:14:50"
+  },
+  {
+    "subject": "the name 'Amr ibn Hisham'",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:12:48"
+  },
+  {
+    "subject": "the spread of Islam",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:17:12"
+  },
+  {
+    "subject": "Abbasid forces",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:25"
+  },
+  {
+    "subject": "Abd al-Walid",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:41"
+  },
+  {
+    "subject": "Abdullah ibn Abi Bakr",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:30:19"
+  },
+  {
+    "subject": "Abdullah ibn Ja'far",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:19:48"
+  },
+  {
+    "subject": "Abu al-Abbas al-Saffah",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:20:32"
+  },
+  {
+    "subject": "Achaemenes",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:11"
+  },
+  {
+    "subject": "Al-Faruq",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:26:44"
+  },
+  {
+    "subject": "Al-Ghazali",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:37"
+  },
+  {
+    "subject": "Al-Hujjah",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:20:40"
+  },
+  {
+    "subject": "Al-Mustakfi Billah",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:31"
+  },
+  {
+    "subject": "Al-Mutawakkil",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:20:08"
+  },
+  {
+    "subject": "Al-Rashid",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:20:23"
+  },
+  {
+    "subject": "Al-Walid II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:30"
+  },
+  {
+    "subject": "Al-Zahir li-I'zaz Din Allah",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:31"
+  },
+  {
+    "subject": "Alchon Huns",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:28:39"
+  },
+  {
+    "subject": "Alexander III of Macedon",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:52"
+  },
+  {
+    "subject": "Amina bint Abd al-Malik",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:22:40"
+  },
+  {
+    "subject": "Arab-Byzantine wars",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:18:57"
+  },
+  {
+    "subject": "Aristotle",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:52"
+  },
+  {
+    "subject": "Artaxerxes I",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:39"
+  },
+  {
+    "subject": "Ashura",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:31:35"
+  },
+  {
+    "subject": "Atia Balba Caesonia",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:28"
+  },
+  {
+    "subject": "Atossa",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:39"
+  },
+  {
+    "subject": "Aurelia Cotta",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:28"
+  },
+  {
+    "subject": "Babylon",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:52"
+  },
+  {
+    "subject": "Bahram V",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:30:06"
+  },
+  {
+    "subject": "Bajazet I",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:33:52"
+  },
+  {
+    "subject": "Bayezid I",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:34:04"
+  },
+  {
+    "subject": "Bey",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:34:15"
+  },
+  {
+    "subject": "Byzantine Empire and Rashidun Caliphate",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:18:36"
+  },
+  {
+    "subject": "Caliph Al-Mansur",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:59"
+  },
+  {
+    "subject": "Cambyses II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:11"
+  },
+  {
+    "subject": "Carrhae",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:09"
+  },
+  {
+    "subject": "Claudius",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:26:10"
+  },
+  {
+    "subject": "Conquest of Syria",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:19:05"
+  },
+  {
+    "subject": "Constans",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:47"
+  },
+  {
+    "subject": "Constantine II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:47"
+  },
+  {
+    "subject": "Constantius Chlorus",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:47"
+  },
+  {
+    "subject": "Constantius II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:47"
+  },
+  {
+    "subject": "Cyrus II of Persia",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:11"
+  },
+  {
+    "subject": "Darius II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:47"
+  },
+  {
+    "subject": "Darius III of Persia",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:05"
+  },
+  {
+    "subject": "Dead Sea",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:18:51"
+  },
+  {
+    "subject": "Diwaniya",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:19:15"
+  },
+  {
+    "subject": "Edict of Milan",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:47"
+  },
+  {
+    "subject": "Eid al-Adha",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:35:29"
+  },
+  {
+    "subject": "Eid al-Fitr",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:35:29"
+  },
+  {
+    "subject": "Expansion of the Umayyad Caliphate",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:41"
+  },
+  {
+    "subject": "Fatimid Caliphate",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:31"
+  },
+  {
+    "subject": "First Triumvirate",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:09"
+  },
+  {
+    "subject": "Founding of Constantinople",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:47"
+  },
+  {
+    "subject": "Gaius Octavius",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:28"
+  },
+  {
+    "subject": "Galba",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:26:10"
+  },
+  {
+    "subject": "Gnaeus Pompeius Magnus",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:01"
+  },
+  {
+    "subject": "Great Fire of Rome",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:26:10"
+  },
+  {
+    "subject": "Great Mosque of Samarra",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:20:14"
+  },
+  {
+    "subject": "Gülbahar Hatun",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:33:22"
+  },
+  {
+    "subject": "Hamedan Province",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:19:09"
+  },
+  {
+    "subject": "Hashim ibn Abd Manaf",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:19:33"
+  },
+  {
+    "subject": "Helena",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:47"
+  },
+  {
+    "subject": "Heliopolis",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:32:25"
+  },
+  {
+    "subject": "Hephthalitic",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:28:39"
+  },
+  {
+    "subject": "Imam Hussein",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:31:35"
+  },
+  {
+    "subject": "Islamic conquest of Persia",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:28:31"
+  },
+  {
+    "subject": "Jaffa",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:26:44"
+  },
+  {
+    "subject": "Julia",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:01"
+  },
+  {
+    "subject": "Khawla bint Al-Ash'ath",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:48"
+  },
+  {
+    "subject": "Khorasan",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:37"
+  },
+  {
+    "subject": "Kushan Empire",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:28:39"
+  },
+  {
+    "subject": "Lebanon",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:32:51"
+  },
+  {
+    "subject": "Livia Drusilla",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:28"
+  },
+  {
+    "subject": "Madinah",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:31:58"
+  },
+  {
+    "subject": "Malwiya Tower",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:20:14"
+  },
+  {
+    "subject": "Martyrdom of Husayn ibn Ali",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:31:50"
+  },
+  {
+    "subject": "Marwan I",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:22:40"
+  },
+  {
+    "subject": "Mucia Tertia",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:01"
+  },
+  {
+    "subject": "Muhammad II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:33:22"
+  },
+  {
+    "subject": "Muharraq",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:34:46"
+  },
+  {
+    "subject": "Murad III",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:34:31"
+  },
+  {
+    "subject": "Nile Delta",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:32:25"
+  },
+  {
+    "subject": "Nilüfer Hatun",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:34:04"
+  },
+  {
+    "subject": "Olympias",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:52"
+  },
+  {
+    "subject": "Orhan",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:34:04"
+  },
+  {
+    "subject": "Ottoman Empire",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:33:30"
+  },
+  {
+    "subject": "Palestine",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:18:51"
+  },
+  {
+    "subject": "Parysatis",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:47"
+  },
+  {
+    "subject": "Peace of Antalcidas",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:47"
+  },
+  {
+    "subject": "Pella",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:52"
+  },
+  {
+    "subject": "Persecution of Christians",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:26:10"
+  },
+  {
+    "subject": "Philip II of Macedon",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:52"
+  },
+  {
+    "subject": "Prince Mohammed bin Fahd University",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:32:09"
+  },
+  {
+    "subject": "Prophet's Mosque",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:32:15"
+  },
+  {
+    "subject": "Roxelana",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:34:23"
+  },
+  {
+    "subject": "Rubaiyat of Omar Khayyam",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:46"
+  },
+  {
+    "subject": "Samarra",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:20:14"
+  },
+  {
+    "subject": "Selim I",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:33:22"
+  },
+  {
+    "subject": "Selimiye Mosque",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:33:39"
+  },
+  {
+    "subject": "Sextus Pompeius",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:29:01"
+  },
+  {
+    "subject": "Shapur III",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:30:06"
+  },
+  {
+    "subject": "Sitt al-Mulk",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:31"
+  },
+  {
+    "subject": "Sulayman ibn Abd al-Malik",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:22:57"
+  },
+  {
+    "subject": "Suleiman the Magnificent",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:34:23"
+  },
+  {
+    "subject": "The Trustworthy",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:26:44"
+  },
+  {
+    "subject": "Tiberius",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:28"
+  },
+  {
+    "subject": "Tunisia",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:37"
+  },
+  {
+    "subject": "Umar Bin Elkhatab",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:33:07"
+  },
+  {
+    "subject": "Umayyad defeat",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:25"
+  },
+  {
+    "subject": "Umayyad forces",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:25"
+  },
+  {
+    "subject": "Western Saudi Arabia",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:31:58"
+  },
+  {
+    "subject": "Zab River",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:21:25"
+  },
+  {
+    "subject": "the Achaemenid Empire",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:11"
+  },
+  {
+    "subject": "the Apadana Palace",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:30"
+  },
+  {
+    "subject": "the Babylonian Empire",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:11"
+  },
+  {
+    "subject": "the Cyrus Cylinder",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:11"
+  },
+  {
+    "subject": "the Gate of All Nations",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:30"
+  },
+  {
+    "subject": "the Muslim conquests",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:32:25"
+  },
+  {
+    "subject": "the Punic Wars",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:25:37"
+  },
+  {
+    "subject": "the Tomb of Cyrus the Great",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:24:30"
+  },
+  {
+    "subject": "the Umayyad Caliphate",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:33:01"
+  },
+  {
+    "subject": "the city of Alexandria",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:23:52"
+  },
+  {
+    "subject": "Abd al-Muttalib",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:39"
+  },
+  {
+    "subject": "Achaemenid dynasty",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:40:38"
+  },
+  {
+    "subject": "Aegae",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:40:25"
+  },
+  {
+    "subject": "Al-Anbar",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:37:34"
+  },
+  {
+    "subject": "Al-Farooq",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:50:25"
+  },
+  {
+    "subject": "Al-Hakam ibn Abi al-Aas",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:39:04"
+  },
+  {
+    "subject": "Al-Husayn ibn Ali",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:19"
+  },
+  {
+    "subject": "Al-Mu'tazz",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:57"
+  },
+  {
+    "subject": "Al-Muntasir",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:57"
+  },
+  {
+    "subject": "Al-Muqtadi Billah",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:15"
+  },
+  {
+    "subject": "Al-Mustazhir Billah",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:15"
+  },
+  {
+    "subject": "Al-Walid ibn Abd al-Malik",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:57"
+  },
+  {
+    "subject": "Ali Zayn al-Abidin",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:19"
+  },
+  {
+    "subject": "Amasya",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:50:44"
+  },
+  {
+    "subject": "Amina bint al-Hakam",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:39:04"
+  },
+  {
+    "subject": "Amyntas III of Macedon",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:40:25"
+  },
+  {
+    "subject": "Arab League",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:12"
+  },
+  {
+    "subject": "Arab-Byzantine Wars",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:35:41"
+  },
+  {
+    "subject": "As-Saffah",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:37:34"
+  },
+  {
+    "subject": "Astyages",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:00"
+  },
+  {
+    "subject": "Ayyubid Sultanate",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:32"
+  },
+  {
+    "subject": "Ayyubid dynasty",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:24"
+  },
+  {
+    "subject": "Baalbek",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:48:36"
+  },
+  {
+    "subject": "Bahram IV",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:45"
+  },
+  {
+    "subject": "Battle of Nicopolis",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:51:16"
+  },
+  {
+    "subject": "Battle of Opis",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:00"
+  },
+  {
+    "subject": "Battle of Pasargadae",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:00"
+  },
+  {
+    "subject": "Beirut",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:48:36"
+  },
+  {
+    "subject": "Byblos",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:48:36"
+  },
+  {
+    "subject": "Cairo",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:32"
+  },
+  {
+    "subject": "Caligula",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:04"
+  },
+  {
+    "subject": "Caliph Al-Saffah",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:51"
+  },
+  {
+    "subject": "Caliphate",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:32"
+  },
+  {
+    "subject": "Cassandane",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:00"
+  },
+  {
+    "subject": "Constantine I",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:27"
+  },
+  {
+    "subject": "Constantinian dynasty",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:27"
+  },
+  {
+    "subject": "Constantinople",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:35:41"
+  },
+  {
+    "subject": "Cornelia",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:45:46"
+  },
+  {
+    "subject": "East Jerusalem",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:35:58"
+  },
+  {
+    "subject": "Edward FitzGerald",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:29"
+  },
+  {
+    "subject": "Erbil Governorate",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:09"
+  },
+  {
+    "subject": "Eurydice of Macedon",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:40:25"
+  },
+  {
+    "subject": "Expansion of Islam",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:35:41"
+  },
+  {
+    "subject": "First Punic War",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:19"
+  },
+  {
+    "subject": "Gaius Julius Caesar",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:45:53"
+  },
+  {
+    "subject": "Gnaeus Pompeius Magnus (the younger)",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:45:46"
+  },
+  {
+    "subject": "Hagia Sophia",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:44:07"
+  },
+  {
+    "subject": "Hamedan",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:28"
+  },
+  {
+    "subject": "Harran",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:37:34"
+  },
+  {
+    "subject": "Hijaz region",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:38"
+  },
+  {
+    "subject": "Imam Hasan",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:19"
+  },
+  {
+    "subject": "Ismaili Shia Islam",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:32"
+  },
+  {
+    "subject": "Ja'far ibn Abi Talib",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:46"
+  },
+  {
+    "subject": "Jeita Grotto",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:48:36"
+  },
+  {
+    "subject": "Julian",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:50"
+  },
+  {
+    "subject": "Kanuni",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:51:43"
+  },
+  {
+    "subject": "King Nebuchadnezzar II",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:23"
+  },
+  {
+    "subject": "Kurdistan Province",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:28"
+  },
+  {
+    "subject": "Levant",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:32"
+  },
+  {
+    "subject": "Lorestan Province",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:28"
+  },
+  {
+    "subject": "Markazi Province",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:28"
+  },
+  {
+    "subject": "Mausoleum of Augustus",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:42:54"
+  },
+  {
+    "subject": "Mehmed III",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:51:51"
+  },
+  {
+    "subject": "Mesopotamia",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:23"
+  },
+  {
+    "subject": "Mihirakula",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:45:19"
+  },
+  {
+    "subject": "Mimar Sinan",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:50:59"
+  },
+  {
+    "subject": "Muhammad I",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:51:06"
+  },
+  {
+    "subject": "Muharram",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:19"
+  },
+  {
+    "subject": "One of the Rightly Guided Caliphs",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:45:01"
+  },
+  {
+    "subject": "Ottoman Dynasty",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:50:36"
+  },
+  {
+    "subject": "Pasargadae",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:55"
+  },
+  {
+    "subject": "Persepolis complex",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:42"
+  },
+  {
+    "subject": "Phoenician civilization",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:48:36"
+  },
+  {
+    "subject": "Prince Mohammed bin Fahd Foundation",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:47"
+  },
+  {
+    "subject": "Qutaylah bint Abd al-Uzza",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:52"
+  },
+  {
+    "subject": "Rawdah",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:54"
+  },
+  {
+    "subject": "Salah ad-Din Governorate",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:37:16"
+  },
+  {
+    "subject": "Second Caliph",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:45:01"
+  },
+  {
+    "subject": "Second Punic War",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:19"
+  },
+  {
+    "subject": "Shahrbanu",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:37"
+  },
+  {
+    "subject": "Shapur II",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:45"
+  },
+  {
+    "subject": "Siege of Constantinople",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:51:16"
+  },
+  {
+    "subject": "Siege of Damascus",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:19"
+  },
+  {
+    "subject": "Smerdis",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:00"
+  },
+  {
+    "subject": "Sulaymaniyah Governorate",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:09"
+  },
+  {
+    "subject": "Suleiman the Lawgiver",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:51:43"
+  },
+  {
+    "subject": "Tabriz, Iran",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:16"
+  },
+  {
+    "subject": "Tacitus",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:44:22"
+  },
+  {
+    "subject": "The Battle of Uhud",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:38"
+  },
+  {
+    "subject": "The Incoherence of the Philosophers",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:16"
+  },
+  {
+    "subject": "The Revival of the Religious Sciences",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:16"
+  },
+  {
+    "subject": "Third Punic War",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:19"
+  },
+  {
+    "subject": "Tigris River",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:09"
+  },
+  {
+    "subject": "Tunis",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:43:12"
+  },
+  {
+    "subject": "Tus, Iran",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:16"
+  },
+  {
+    "subject": "Ubayd Allah al-Mahdi Billah",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:32"
+  },
+  {
+    "subject": "Yazdegerd II",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:46:37"
+  },
+  {
+    "subject": "Yıldırım",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:51:06"
+  },
+  {
+    "subject": "Zainab bint Ali",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:46"
+  },
+  {
+    "subject": "Zanjan Province",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:36:28"
+  },
+  {
+    "subject": "fall of the Sasanian Empire",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:45:11"
+  },
+  {
+    "subject": "overthrowing Umayyad Caliphate",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:37:47"
+  },
+  {
+    "subject": "the Battle of Karbala",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:47:19"
+  },
+  {
+    "subject": "the Persian Empire",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:41:23"
+  },
+  {
+    "subject": "the Prophet Muhammad",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:38:43"
+  },
+  {
+    "subject": "Abbasid revolution",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:41"
+  },
+  {
+    "subject": "Abdallah al-Mahdi Billah",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:10"
+  },
+  {
+    "subject": "Ahmed Aboul Gheit",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:58:51"
+  },
+  {
+    "subject": "Ahmed I",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:07:28"
+  },
+  {
+    "subject": "Al-Adil",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:33"
+  },
+  {
+    "subject": "Al-Kamil",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:33"
+  },
+  {
+    "subject": "Al-Mu'tamid",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:01"
+  },
+  {
+    "subject": "Al-Muqtadir Billah",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:10"
+  },
+  {
+    "subject": "Al-Mustadi",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:07"
+  },
+  {
+    "subject": "Al-Mustanjid",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:07"
+  },
+  {
+    "subject": "Al-Mustarshid Billah",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:17"
+  },
+  {
+    "subject": "Al-Qadir Billah",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:10"
+  },
+  {
+    "subject": "Al-Qaim bi-Amr Allah",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:10"
+  },
+  {
+    "subject": "Al-Sayyida",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:01"
+  },
+  {
+    "subject": "Al-Zahir",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:33"
+  },
+  {
+    "subject": "Alexander IV of Macedon",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:57:08"
+  },
+  {
+    "subject": "Amel-Marduk",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:57:48"
+  },
+  {
+    "subject": "Amina bint Al-Walid",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:40"
+  },
+  {
+    "subject": "Arab Muslim invasions",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:00:14"
+  },
+  {
+    "subject": "Arak",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:21"
+  },
+  {
+    "subject": "Ardashir II",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:02:07"
+  },
+  {
+    "subject": "Ayasofya",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:59:42"
+  },
+  {
+    "subject": "Baghdad Governorate",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:20"
+  },
+  {
+    "subject": "Bahram III",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:01:51"
+  },
+  {
+    "subject": "Bardiya",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:57:39"
+  },
+  {
+    "subject": "Battle of Hattin",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:33"
+  },
+  {
+    "subject": "Battle of Mu'tah",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:43"
+  },
+  {
+    "subject": "Cairo, Egypt",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:58:51"
+  },
+  {
+    "subject": "Central Iraq",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:20"
+  },
+  {
+    "subject": "Chaldean dynasty",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:57:48"
+  },
+  {
+    "subject": "East Azerbaijan Province",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:29"
+  },
+  {
+    "subject": "Erbil",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:10"
+  },
+  {
+    "subject": "Euphrates River",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:00"
+  },
+  {
+    "subject": "Fatimid Caliph",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:10"
+  },
+  {
+    "subject": "Fatimid Dynasty",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:10"
+  },
+  {
+    "subject": "Gaius Julius Caesar Augustus Germanicus",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:58:43"
+  },
+  {
+    "subject": "Hannibal Barca",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:59:09"
+  },
+  {
+    "subject": "Hormizd II",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:02:07"
+  },
+  {
+    "subject": "Hormizd III",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:01:40"
+  },
+  {
+    "subject": "Ibrahim",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:24"
+  },
+  {
+    "subject": "Istanbul",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:59:42"
+  },
+  {
+    "subject": "Ja'far al-Tayyar",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:43"
+  },
+  {
+    "subject": "Julian the Apostate",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:59:28"
+  },
+  {
+    "subject": "Khorramabad",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:17"
+  },
+  {
+    "subject": "Kurdistan Region",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:51"
+  },
+  {
+    "subject": "Mamluk Sultanate",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:22"
+  },
+  {
+    "subject": "Mediterranean Sea",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:00"
+  },
+  {
+    "subject": "Nabopolassar",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:57:48"
+  },
+  {
+    "subject": "Nejd region",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:03:16"
+  },
+  {
+    "subject": "Nicopolis",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:06:49"
+  },
+  {
+    "subject": "Nineveh Governorate",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:20"
+  },
+  {
+    "subject": "Ottoman Empire and Crusader forces",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:06:49"
+  },
+  {
+    "subject": "Pre-Islamic Arabia",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:35"
+  },
+  {
+    "subject": "Prince Mohammed bin Fahd",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:03:42"
+  },
+  {
+    "subject": "Punic Wars",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:59:09"
+  },
+  {
+    "subject": "Qazvin Province",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:29"
+  },
+  {
+    "subject": "Ramadi",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:20"
+  },
+  {
+    "subject": "Rüstem Pasha Mosque",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:06:39"
+  },
+  {
+    "subject": "Safar",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:02:56"
+  },
+  {
+    "subject": "Saladin",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:22"
+  },
+  {
+    "subject": "Scipio Africanus",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:59:09"
+  },
+  {
+    "subject": "Second Caliph of Islam",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:06:08"
+  },
+  {
+    "subject": "Shatt al-Arab",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:00"
+  },
+  {
+    "subject": "Sidon",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:05:47"
+  },
+  {
+    "subject": "Sulaymaniyah",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:51"
+  },
+  {
+    "subject": "Süleymaniye Mosque",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:06:39"
+  },
+  {
+    "subject": "Taurus Mountains",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:00"
+  },
+  {
+    "subject": "Tikrit",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:12"
+  },
+  {
+    "subject": "Tomb of Cyrus",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:58:28"
+  },
+  {
+    "subject": "Tyre",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:05:47"
+  },
+  {
+    "subject": "Valentinian dynasty",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:59:28"
+  },
+  {
+    "subject": "W. B. Yeats",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:01:25"
+  },
+  {
+    "subject": "West Azerbaijan Province",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:29"
+  },
+  {
+    "subject": "Western Iran",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:17"
+  },
+  {
+    "subject": "Zain al-Abidin",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:02:37"
+  },
+  {
+    "subject": "Zanjan",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:53:29"
+  },
+  {
+    "subject": "Zayd ibn Umer",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:01:32"
+  },
+  {
+    "subject": "Zayd ibn al-Khattab",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:52"
+  },
+  {
+    "subject": "Zaynab bint al-Muqtadir",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:10"
+  },
+  {
+    "subject": "ancient Mesopotamia",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:55:00"
+  },
+  {
+    "subject": "companion of the Prophet Muhammad",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:56:47"
+  },
+  {
+    "subject": "end of the Sasanian dynasty",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:00:14"
+  },
+  {
+    "subject": "establishment of Abbasid Caliphate",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:54:41"
+  },
+  {
+    "subject": "her marriage to Umer Bin Elkhatab",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:01:32"
+  },
+  {
+    "subject": "mourning of Husayn ibn Ali",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:02:56"
+  },
+  {
+    "subject": "rise of the Umayyad Caliphate",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 06:00:14"
+  },
+  {
+    "subject": "the Hanging Gardens of Babylon",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:57:48"
+  },
+  {
+    "subject": "the conquest of Jerusalem",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 05:57:48"
+  }
+]

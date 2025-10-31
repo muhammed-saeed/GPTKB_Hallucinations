@@ -1,0 +1,235 @@
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "born", "object": "March 11, 1890", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "bornIn", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "died", "object": "June 28, 1974", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "diedIn", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Harvard University", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Electrical Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution for Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Philosophical Society", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "spouse", "object": "Phoebe Davis", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "Richard Davis Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "John Hathaway Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "James Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "instanceOf", "object": "mechanical computer", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "inventedBy", "object": "Vannevar Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "inventedInYear", "object": "1931", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "usedFor", "object": "solving differential equations", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "type", "object": "analog computer", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "operatedUsing", "object": "mechanical integrators", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "predecessorOf", "object": "electronic computers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "developedAt", "object": "Massachusetts Institute of Technology", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Differential Analyzer", "predicate": "influenced", "object": "early computing technology", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "birthDate", "object": "1948-07-22", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "birthPlace", "object": "New York City", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "deathDate", "object": "2021-02-10", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "deathPlace", "object": "New York City", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "occupation", "object": "Investment banker", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "almaMater", "object": "Yale University", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "relative", "object": "George H. W. Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "relative", "object": "George W. Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "relative", "object": "Jeb Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Hathaway Bush", "predicate": "spouse", "object": "Michele Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "hasOccupation", "object": "Politician", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "memberOfPoliticalParty", "object": "Republican Party", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "hasRelative", "object": "George H. W. Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "hasRelative", "object": "George W. Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "hasRelative", "object": "Jeb Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "bornIn", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "bornIn", "object": "Texas", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "bornOn", "object": "1922-06-12", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "diedOn", "object": "2006-01-08", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "servedIn", "object": "United States Navy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "educatedAt", "object": "Yale University", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "James Bush", "predicate": "educatedAt", "object": "Phillips Academy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "instanceOf", "object": "award", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "namedAfter", "object": "Thomas Edison", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "awardedBy", "object": "Institute of Electrical and Electronics Engineers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "firstAwarded", "object": "1909", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "purpose", "object": "recognize contributions to electrical engineering", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "field", "object": "electrical engineering", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "category", "object": "science and engineering award", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "recipientCriteria", "object": "outstanding career in electrical engineering", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "material", "object": "gold medal", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "associatedOrganization", "object": "American Institute of Electrical Engineers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "associatedOrganization", "object": "Institute of Electrical and Electronics Engineers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "status", "object": "active", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "IEEE Edison Medal", "predicate": "frequency", "object": "annual", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "instanceOf", "object": "honorary society", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "founded", "object": "1780", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "headquarters", "object": "Cambridge, Massachusetts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "founder", "object": "John Adams", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "founder", "object": "James Bowdoin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "founder", "object": "John Hancock", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "purpose", "object": "advance knowledge", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "purpose", "object": "serve society", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "membership", "object": "elected", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "membership", "object": "honorary", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "field", "object": "arts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "field", "object": "humanities", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "field", "object": "sciences", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "field", "object": "public affairs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "publication", "object": "Daedalus", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "award", "object": "Rumford Prize", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "award", "object": "Talcott Parsons Prize", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "president", "object": "David W. Oxtoby", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "country", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Academy of Arts and Sciences", "predicate": "state", "object": "Massachusetts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "instanceOf", "object": "award", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "namedAfter", "object": "John Fritz", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "awardedFor", "object": "scientific or industrial achievement", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "firstAwarded", "object": "1902", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "presentedBy", "object": "American Association of Engineering Societies", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "field", "object": "engineering", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "country", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "material", "object": "gold", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Thomas Edison", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Nikola Tesla", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Alexander Graham Bell", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Guglielmo Marconi", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Orville Wright", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Wilbur Wright", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Henry Ford", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Herbert Hoover", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Alfred P. Sloan", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Charles F. Kettering", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Vannevar Bush", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "John Bardeen", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Walter H. Brattain", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "William Shockley", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Jack Kilby", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Robert Noyce", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Gordon Moore", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Andrew S. Grove", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Steve Jobs", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "John Fritz Medal", "predicate": "recipientsInclude", "object": "Bill Gates", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "instanceOf", "object": "learned society", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "foundedIn", "object": "1743", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "foundedBy", "object": "Benjamin Franklin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "headquartersLocation", "object": "Philadelphia", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "headquartersLocation", "object": "Pennsylvania", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "country", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "purpose", "object": "promoting knowledge", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "purpose", "object": "scientific research", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "purpose", "object": "humanities", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "hasLibrary", "object": "American Philosophical Society Library", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "hasMuseum", "object": "American Philosophical Society Museum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "awardedPrize", "object": "Magellanic Premium", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "awardedPrize", "object": "John Frederick Lewis Award", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "membershipType", "object": "elected", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "notableMember", "object": "Thomas Jefferson", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "notableMember", "object": "George Washington", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "notableMember", "object": "Charles Darwin", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "notableMember", "object": "Albert Einstein", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "publication", "object": "Proceedings of the American Philosophical Society", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "publication", "object": "Transactions of the American Philosophical Society", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "historicalEvent", "object": "first meeting in 1743", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "historicalEvent", "object": "incorporated in 1780", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "building", "object": "Philosophical Hall", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "building", "object": "Library Hall", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "collection", "object": "manuscripts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "collection", "object": "rare books", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "collection", "object": "scientific instruments", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "field", "object": "science", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "field", "object": "philosophy", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "American Philosophical Society", "predicate": "field", "object": "history", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "instanceOf", "object": "town", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "locatedIn", "object": "Middlesex County", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "locatedIn", "object": "Massachusetts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "locatedIn", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "population", "object": "27147", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "area", "object": "4.7 square miles", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "founded", "object": "1859", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "namedAfter", "object": "Bellmont Farm", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "timeZone", "object": "Eastern Time Zone", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "elevation", "object": "42 feet", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "partOf", "object": "Greater Boston", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "borders", "object": "Cambridge", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "borders", "object": "Watertown", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "borders", "object": "Waltham", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "borders", "object": "Arlington", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "borders", "object": "Lexington", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasSchoolDistrict", "object": "Belmont Public Schools", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasLibrary", "object": "Belmont Public Library", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasPoliceDepartment", "object": "Belmont Police Department", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasFireDepartment", "object": "Belmont Fire Department", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "zipCode", "object": "02478", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "areaCode", "object": "617", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "areaCode", "object": "857", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "medianHouseholdIncome", "object": "$150,000", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "medianHomeValue", "object": "$1,000,000", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasCollege", "object": "Belmont Hill School", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasPark", "object": "Belmont Hill Reservation", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasPark", "object": "Rock Meadow", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasPark", "object": "Clay Pit Pond", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasTransportation", "object": "MBTA bus service", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasTransportation", "object": "MBTA commuter rail", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "governmentType", "object": "Representative town meeting", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Belmont, Massachusetts", "predicate": "hasHospital", "object": "McLean Hospital", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "instanceOf", "object": "city", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "locatedIn", "object": "Middlesex County", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "locatedIn", "object": "Massachusetts", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "locatedIn", "object": "United States", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "population", "object": "49328", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "area", "object": "9.5 square kilometers", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "founded", "object": "1870", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "mayor", "object": "Carlo DeMaria", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "timeZone", "object": "Eastern Time Zone", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "borders", "object": "Boston", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "borders", "object": "Chelsea", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "borders", "object": "Malden", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "borders", "object": "Medford", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "borders", "object": "Revere", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "borders", "object": "Somerville", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "nearbyBodyOfWater", "object": "Mystic River", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "nearbyBodyOfWater", "object": "Boston Harbor", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasAirport", "object": "Logan International Airport", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasStadium", "object": "Gillette Stadium", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasCasino", "object": "Encore Boston Harbor", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasTeam", "object": "New England Patriots", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasTeam", "object": "New England Revolution", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasPublicTransportation", "object": "MBTA", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasHighway", "object": "Interstate 93", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasHighway", "object": "Route 16", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasHighway", "object": "Route 99", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasBridge", "object": "Tobin Bridge", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasSchoolDistrict", "object": "Everett Public Schools", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasCollege", "object": "Everett Community College", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasHospital", "object": "Whidden Hospital", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasPark", "object": "Glendale Park", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasPark", "object": "Rivergreen Park", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasLibrary", "object": "Everett Public Library", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasMuseum", "object": "Everett Historical Society Museum", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasIndustry", "object": "manufacturing", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasIndustry", "object": "healthcare", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasIndustry", "object": "education", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasIndustry", "object": "retail", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasEvent", "object": "Everett Fourth of July Celebration", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "hasEvent", "object": "Everett Farmers Market", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "zipCode", "object": "02149", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "areaCode", "object": "617", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "areaCode", "object": "857", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "elevation", "object": "3 meters", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Everett, Massachusetts", "predicate": "climate", "object": "humid continental", "hop": 1, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}

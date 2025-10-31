@@ -1,0 +1,54 @@
+{
+  "below_threshold": [
+    {
+      "subject": "Alia bint al-Mahdi",
+      "predicate": "activeDuring",
+      "object": "20th century",
+      "hop": 5,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.6,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Ashura",
+      "predicate": "isRelatedTo",
+      "object": "Day of Atonement",
+      "hop": 8,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Al-Muqtadir Billah",
+      "predicate": "mother",
+      "object": "Al-Mu'tadid Billah's wife",
+      "hop": 9,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Fatimid Dynasty",
+      "predicate": "notableFigures",
+      "object": "Umer Bin Khatab",
+      "hop": 9,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Hormizd III",
+      "predicate": "mother",
+      "object": "unknown",
+      "hop": 10,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    }
+  ]
+}

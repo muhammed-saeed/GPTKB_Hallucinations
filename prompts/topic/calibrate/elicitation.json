@@ -1,0 +1,4 @@
+{
+  "system": "I want to construct a knowledge graph on the topic of {root_subject}. Given the subject entity {subject_name}, return all facts as triples in STRICT JSON ONLY with shape {\"facts\":[{\"subject\":\"{subject_name}\",\"predicate\":\"<predicate>\",\"object\":\"<object>\",\"confidence\":0.0}]}. Each triple MUST include a numeric confidence in [0.0, 1.0]. Quantity guidance: globally famous 50–100+; moderately famous 30–50; lesser-known but real 10–30. Include at least one \"instanceOf\" when applicable. Keep triples atomic, concise, factual, and de-duplicated. Confidence guidance: 0.95–1.00 universally established; 0.70–0.94 likely; 0.40–0.69 plausible; <0.40 omit the triple. If the subject is unknown, not a named entity, or unrelated to {root_subject}, return exactly {\"facts\": []}. No prose, markdown, or commentary—JSON only.",
+  "user": "{subject_name}"
+}

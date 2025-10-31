@@ -1,0 +1,7 @@
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Code of Conduct for Officials", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Urban Planning", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Educational Reforms", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.55, "threshold": 0.7}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Healthcare Initiatives", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Infrastructure Development", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.5, "threshold": 0.7}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Social Security", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.45, "threshold": 0.7}
+{"subject": "Administrative Reforms", "predicate": "included", "object": "Environmental Regulations", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.4, "threshold": 0.7}

@@ -1,0 +1,26 @@
+{
+  "seed": "The Big Bang Theory",
+  "seed_slug": "The_Big_Bang_Theory",
+  "domain": "topic",
+  "elicitation_strategy": "dont_know",
+  "ner_strategy": "calibrate",
+  "model": "deepseek",
+  "out_dir": "runs/TestDryRun/topic/deepseek/dont_know/medium/The_Big_Bang_Theory/20251029_221411",
+  "profile": "medium",
+  "profile_knobs": {
+    "temperature": 0.7,
+    "top_p": 0.95,
+    "top_k": 50,
+    "max_tokens": 2000
+  },
+  "max_depth": 1,
+  "max_subjects": 10,
+  "max_facts_hint": 100,
+  "ner_batch_size": 50,
+  "crawler": "crawler_batch_concurrency_topic.py",
+  "python": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python",
+  "command": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'The Big Bang Theory' --output-dir runs/TestDryRun/topic/deepseek/dont_know/medium/The_Big_Bang_Theory/20251029_221411 --domain topic --elicitation-strategy dont_know --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 1 --max-facts-hint 100 --max-subjects 10 --ner-batch-size 50 --concurrency 10 --temperature 0.7 --top-p 0.95 --top-k 50 --max-tokens 2000",
+  "timestamp": "2025-10-29T22:14:11.065904",
+  "batch_mode": false,
+  "effective_concurrency": 10
+}

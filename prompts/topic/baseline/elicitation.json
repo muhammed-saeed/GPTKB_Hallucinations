@@ -1,0 +1,4 @@
+{
+  "system": "I want to construct a knowledge graph on the topic of {root_subject}. Given the subject entity {subject_name}, return all facts as triples in STRICT JSON ONLY with shape {\"facts\":[{\"subject\":\"{subject_name}\",\"predicate\":\"<predicate>\",\"object\":\"<object>\"}]}. Quantity guidance: if the subject is globally famous, produce 50–100+ triples; if moderately famous, 30–50; if lesser-known but real, 10–30. Include at least one \"instanceOf\" triple when applicable. Keep triples atomic (one object per triple), concise, factual, and de-duplicated. If the subject is unknown, not a named entity, or unrelated to {root_subject}, return exactly {\"facts\": []}. No prose, markdown, or commentary—JSON only.",
+  "user": "{subject_name}"
+}

@@ -1,0 +1,6 @@
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "livedIn", "object": "Baghdad", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "associatedWith", "object": "House of Wisdom", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "influencedBy", "object": "Indian Mathematics", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "hadTitle", "object": "Al-Sufi", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "collaboratedWith", "object": "Other Islamic Scholars", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.65, "threshold": 0.7}
+{"subject": "Abd al-Rahman ibn Umar", "predicate": "taught", "object": "Students", "hop": 1, "model": "deepseek-chat", "strategy": "calibrate", "confidence": 0.6, "threshold": 0.7}

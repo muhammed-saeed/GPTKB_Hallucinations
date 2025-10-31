@@ -1,0 +1,308 @@
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "bornOnDate", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "bornInLocation", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "diedOnDate", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "diedInLocation", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "hasOccupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "hasOccupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "hasOccupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "educatedAt", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "educatedAt", "object": "Harvard University", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "educatedAt", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "hasNationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "awarded", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "awarded", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "workedAs", "object": "Dean of Engineering at MIT", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "workedAs", "object": "President of Carnegie Institution of Washington", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "workedAs", "object": "Director of the Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Development of the Internet", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "authorOf", "object": "Science: The Endless Frontier", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthDate", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathDate", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathPlace", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution of Washington", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Electrical Engineering", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Public Policy", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Philosophical Society", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "spouse", "object": "Phoebe Davis", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "Richard Davis Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "John Hathaway Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthDate", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathDate", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathPlace", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Harvard University", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution for Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Philosophical Society", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Electrical Engineering", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Public Policy", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "spouse", "object": "Phoebe Davis", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "Richard Davis Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "John Hathaway Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "born", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "died", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathPlace", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution for Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Philosophical Society", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Douglas Engelbart", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Ted Nelson", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "J.C.R. Licklider", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Electrical Engineering", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Information Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "notableWork", "object": "Science: The Endless Frontier", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "spouse", "object": "Phoebe Davis", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "Richard Davis Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "John Hathaway Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "militaryService", "object": "United States Navy", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "militaryRank", "object": "Lieutenant Commander", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthDate", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathDate", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathPlace", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution of Washington", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Electrical Engineering", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Information Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Philosophical Society", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "spouse", "object": "Phoebe Davis", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "Richard Davis Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "John Hathaway Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthDate", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathDate", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathPlace", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Harvard University", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Electrical Engineering", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution for Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthDate", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathDate", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathPlace", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution of Washington", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Electrical Engineering", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Information Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "spouse", "object": "Phoebe Davis", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "Richard Davis Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "John Hathaway Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthDate", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathDate", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathPlace", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution of Washington", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "born", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "bornIn", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "died", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "diedIn", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Harvard University", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Electrical Engineering", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Professor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Government Official", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "workedAt", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "workedAt", "object": "Carnegie Institution for Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "position", "object": "Director of the Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "position", "object": "Vice President of MIT", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Philosophical Society", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "patent", "object": "Profile Tracer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "patent", "object": "Network Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "author", "object": "Science: The Endless Frontier", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "author", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "spouse", "object": "Phoebe Davis", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "Richard Davis Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "John Hathaway Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "militaryService", "object": "United States Navy", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "militaryRank", "object": "Lieutenant Commander", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "religion", "object": "Unitarian", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "buried", "object": "Mount Auburn Cemetery", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "instanceOf", "object": "Human", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthDate", "object": "1890-03-11", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "birthPlace", "object": "Everett, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathDate", "object": "1974-06-28", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "deathPlace", "object": "Belmont, Massachusetts", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "nationality", "object": "American", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Engineer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Inventor", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "occupation", "object": "Science Administrator", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Tufts College", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "almaMater", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Memex", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "Differential Analyzer", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "knownFor", "object": "As We May Think", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Massachusetts Institute of Technology", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Carnegie Institution of Washington", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "employer", "object": "Office of Scientific Research and Development", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "National Medal of Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "IEEE Edison Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "award", "object": "John Fritz Medal", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Electrical Engineering", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Computer Science", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "field", "object": "Public Policy", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "Hypertext", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "influenced", "object": "World Wide Web", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "National Academy of Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "memberOf", "object": "American Academy of Arts and Sciences", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "spouse", "object": "Phoebe Davis", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "Richard Davis Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}
+{"subject": "Vannevar Bush", "predicate": "child", "object": "John Hathaway Bush", "hop": 0, "model": "deepseek-chat", "strategy": "baseline", "confidence": null}

@@ -1,0 +1,46 @@
+{
+  "batches": {
+    "batch_69027e90869c819096e38ff030ec98b8": {
+      "id": "batch_69027e90869c819096e38ff030ec98b8",
+      "type": "elicitation",
+      "status": "parsed",
+      "input_file_id": "file-FV4HMxuG1zF3G1RJ2c6Pau",
+      "output_file_id": "file-UHWgkk2xzxRL9fBy8pLoVe",
+      "subjects": [
+        {
+          "subject": "DAX 40 Index",
+          "hop": 0
+        }
+      ],
+      "requests_path": "runs/SmokeOpenAI/topic/gpt4o-mini/DAX_40_Index/icl/det/20251029_215227/batches/elicitation_20251029_215229_205372_requests.jsonl",
+      "results_path": "runs/SmokeOpenAI/topic/gpt4o-mini/DAX_40_Index/icl/det/20251029_215227/batches/elicitation_20251029_215507_900510_results.jsonl"
+    },
+    "batch_69027f3c89d481908278253be44d6dd2": {
+      "id": "batch_69027f3c89d481908278253be44d6dd2",
+      "type": "elicitation",
+      "status": "parsed",
+      "input_file_id": "file-GpG4jA7cXFRghiuo7N12yc",
+      "output_file_id": "file-MzurCHFGjyPgwZHXmEN2cF",
+      "subjects": [
+        {
+          "subject": "DAX 30 Index",
+          "hop": 1
+        },
+        {
+          "subject": "Deutsche Börse",
+          "hop": 1
+        },
+        {
+          "subject": "Deutsche Börse AG",
+          "hop": 1
+        },
+        {
+          "subject": "Euro",
+          "hop": 1
+        }
+      ],
+      "requests_path": "runs/SmokeOpenAI/topic/gpt4o-mini/DAX_40_Index/icl/det/20251029_215227/batches/elicitation_20251029_215523_407734_requests.jsonl",
+      "results_path": "runs/SmokeOpenAI/topic/gpt4o-mini/DAX_40_Index/icl/det/20251029_215227/batches/elicitation_20251029_215626_636046_results.jsonl"
+    }
+  }
+}

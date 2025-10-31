@@ -1,0 +1,394 @@
+[
+  {
+    "subject": "Umer Bin Ekhatab",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:47:05"
+  },
+  {
+    "subject": "Abd al-Rahman ibn Umar",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Abdullah ibn Umar",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Abu Bakr",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Abu Lu'lu'a Firuz",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Administrative Reforms",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Al-Farooq",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Al-Masjid an-Nabawi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Asim ibn Umar",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Assassination",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Atika bint Zayd",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Banu Adi",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Battle of Badr",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Battle of Uhud",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Battle of the Trench",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Commander of the Faithful",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Companion of Prophet Muhammad",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Conquest of Egypt",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Conquest of Jerusalem",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Conquest of Persia",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Construction of Cities",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Establishment of Diwan",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Expansion of Islamic Empire",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Fatimah bint al-Khattab",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Founder of Islamic Governance",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Hafsa bint Umar",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Hantamah bint Hisham",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Hijra to Medina",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Introduction of Islamic Calendar",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Islamic Conquests",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Judicial Reforms",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Khattab ibn Nufayl",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Mecca",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Medina",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Promoter of Justice",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Quraysh",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Second Caliph of Rashidun Caliphate",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Ubaydullah ibn Umar",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Umm Kulthum bint Ali",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Uthman ibn Affan",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Zayd ibn Umar",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Zayd ibn al-Khattab",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Zaynab bint Madhun",
+    "hop": 1,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:48:51"
+  },
+  {
+    "subject": "Companion of Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:49:27"
+  },
+  {
+    "subject": "Death of Umar ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:54:23"
+  },
+  {
+    "subject": "Judge",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:49:27"
+  },
+  {
+    "subject": "Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:53:28"
+  },
+  {
+    "subject": "Postal System",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:51:39"
+  },
+  {
+    "subject": "Rashidun Caliphate",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:51:39"
+  },
+  {
+    "subject": "Scholar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:49:27"
+  },
+  {
+    "subject": "Standardization of Weights and Measures",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:51:39"
+  },
+  {
+    "subject": "Succession by Uthman ibn Affan",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:54:23"
+  },
+  {
+    "subject": "Tomb of Abu Bakr",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:53:28"
+  },
+  {
+    "subject": "Tomb of Muhammad",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:53:28"
+  },
+  {
+    "subject": "Tomb of Umar",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:53:28"
+  },
+  {
+    "subject": "Umar ibn al-Khattab",
+    "hop": 2,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-10-31 08:49:27"
+  }
+]

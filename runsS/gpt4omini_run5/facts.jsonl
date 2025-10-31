@@ -1,0 +1,525 @@
+{"subject": "Google", "predicate": "instanceOf", "object": "Company", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "founded", "object": "September 4, 1998", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "founders", "object": "Larry Page", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "founders", "object": "Sergey Brin", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "headquarters", "object": "Mountain View, California", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "parentCompany", "object": "Alphabet Inc.", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "services", "object": "Search Engine", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "services", "object": "Advertising Services", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "services", "object": "Cloud Computing", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "acquisition", "object": "YouTube", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "acquisition", "object": "Android Inc.", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "acquisition", "object": "DoubleClick", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "acquisition", "object": "Waze", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "acquisition", "object": "Nest Labs", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "employees", "object": "Over 156,500", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "revenue", "object": "$282.8 billion (2020)", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "CEO", "object": "Sundar Pichai", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Search", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Gmail", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Drive", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Maps", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Chrome", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Photos", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Assistant", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Play Store", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Ads", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Cloud Platform", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "products", "object": "Google Workspace", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "marketCap", "object": "$1.8 trillion (2021)", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "website", "object": "www.google.com", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "slogan", "object": "Don't be evil", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google", "predicate": "slogan", "object": "Organize the world's information", "hop": 0, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "instanceOf", "object": "corporation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "founded", "object": "October 2, 2015", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "founder", "object": "Larry Page", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "founder", "object": "Sergey Brin", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "headquarters", "object": "Mountain View, California", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "parentCompany", "object": "Google LLC", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "type", "object": "multinational conglomerate", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "revenue", "object": "$282.8 billion (2020)", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "CEO", "object": "Sundar Pichai", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "subsidiary", "object": "Waymo", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "subsidiary", "object": "Verily", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "subsidiary", "object": "Google Fiber", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "subsidiary", "object": "Calico", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "subsidiary", "object": "GV", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "subsidiary", "object": "CapitalG", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Alphabet Inc.", "predicate": "subsidiary", "object": "X Development", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "instanceOf", "object": "company", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "founded", "object": "2003", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "founder", "object": "Andy Rubin", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "acquiredBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "industry", "object": "software", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "headquarters", "object": "Palo Alto, California", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "product", "object": "Android operating system", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "keyPerson", "object": "Rich Miner", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "keyPerson", "object": "Nick Sears", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Android Inc.", "predicate": "keyPerson", "object": "Chris White", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "instanceOf", "object": "digital advertising company", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "founded", "object": "1996", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "founder", "object": "Kevin O'Connor", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "acquiredBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "acquisitionYear", "object": "2008", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "headquarters", "object": "New York City", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "services", "object": "online advertising", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "services", "object": "ad management", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "services", "object": "ad serving", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "DoubleClick", "predicate": "services", "object": "analytics", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "instanceOf", "object": "email service", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "developer", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "launchDate", "object": "April 1, 2004", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "storage", "object": "15 GB", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "features", "object": "email organization", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "features", "object": "spam filtering", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "features", "object": "conversation view", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "platforms", "object": "web", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "platforms", "object": "Android", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "platforms", "object": "iOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "userBase", "object": "over 1.5 billion users", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "acquisition", "object": "Google acquired from the team of Paul Buchheit", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "interface", "object": "user-friendly", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "security", "object": "two-factor authentication", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "integration", "object": "Google Drive", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "integration", "object": "Google Calendar", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "integration", "object": "Google Meet", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "languageSupport", "object": "multiple languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "emailSizeLimit", "object": "25 MB", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "customDomainSupport", "object": "available for Google Workspace users", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "mobileApp", "object": "available for Android and iOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "searchFunctionality", "object": "powerful search capabilities", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "labels", "object": "used for email categorization", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "filters", "object": "automate email management", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "themes", "object": "customizable themes", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "offlineAccess", "object": "available through Gmail Offline", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "emailClientSupport", "object": "IMAP and POP3 support", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "calendarIntegration", "object": "integrated with Google Calendar", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "chatIntegration", "object": "integrated with Google Chat", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "videoCallIntegration", "object": "integrated with Google Meet", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "advertising", "object": "uses targeted advertising", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "spamDetection", "object": "uses machine learning for spam detection", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "userInterface", "object": "clean and minimalistic", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "emailEncryption", "object": "supports TLS encryption", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "dataRetentionPolicy", "object": "follows Google's data retention policy", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "emailForwarding", "object": "supports email forwarding", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "emailAliases", "object": "supports email aliases", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "contactManagement", "object": "integrated with Google Contacts", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "calendarReminders", "object": "supports calendar reminders", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "taskManagement", "object": "integrated with Google Tasks", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "userFeedback", "object": "receives user feedback for improvements", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "mobileNotifications", "object": "supports push notifications on mobile devices", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "emailTemplates", "object": "supports email templates", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "emailTracking", "object": "supports email tracking features", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "dataExport", "object": "allows data export through Google Takeout", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Gmail", "predicate": "userSupport", "object": "provides user support through help center", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "instanceOf", "object": "online advertising platform", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "developedBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "launchDate", "object": "October 2000", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "primaryFunction", "object": "advertising", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "supports", "object": "text ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "supports", "object": "display ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "supports", "object": "video ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "supports", "object": "shopping ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "supports", "object": "app promotion ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "operatesOn", "object": "pay-per-click model", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "provides", "object": "keyword targeting", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "provides", "object": "location targeting", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "provides", "object": "ad scheduling", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "provides", "object": "conversion tracking", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "provides", "object": "performance metrics", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "integratesWith", "object": "Google Analytics", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "integratesWith", "object": "YouTube", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "integratesWith", "object": "Google Merchant Center", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasCompetitors", "object": "Facebook Ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasCompetitors", "object": "Bing Ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasCompetitors", "object": "Amazon Advertising", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasCompetitors", "object": "Twitter Ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasCompetitors", "object": "LinkedIn Ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "offers", "object": "ad extensions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "offers", "object": "remarketing options", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "offers", "object": "dynamic ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "offers", "object": "responsive ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "offers", "object": "smart bidding strategies", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasUserBase", "object": "businesses", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasUserBase", "object": "advertisers", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasUserBase", "object": "marketers", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "hasUserBase", "object": "agencies", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "isAvailableIn", "object": "multiple languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "isAvailableIn", "object": "multiple countries", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "isPartOf", "object": "Google Marketing Platform", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "isUsedFor", "object": "brand awareness", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "isUsedFor", "object": "lead generation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "isUsedFor", "object": "sales conversion", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Ads", "predicate": "isUsedFor", "object": "customer engagement", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "instanceOf", "object": "virtual assistant", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "developedBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "released", "object": "2016", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "supports", "object": "voice commands", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "availableOn", "object": "smartphones", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "availableOn", "object": "smart speakers", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "availableOn", "object": "smart displays", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "integratesWith", "object": "Google services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "integratesWith", "object": "third-party applications", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "uses", "object": "natural language processing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "web searches", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "set reminders", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "control smart home devices", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "play music", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide weather updates", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "send messages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "make phone calls", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide navigation assistance", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "supports", "object": "multiple languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "answer trivia questions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "manage calendar events", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide news updates", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "control media playback", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "create shopping lists", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide recipe suggestions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "tell jokes", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide sports scores", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "translate languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "set alarms", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "control lights", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "control thermostats", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "control security systems", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide traffic updates", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "play games", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide health tips", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "manage to-do lists", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide flight information", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide stock market updates", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide currency conversion", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide unit conversion", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide movie showtimes", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide local business information", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide event information", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide product information", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Assistant", "predicate": "canPerform", "object": "provide recommendations", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "instanceOf", "object": "web browser", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "developer", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "initialReleaseDate", "object": "September 2, 2008", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "latestReleaseDate", "object": "October 2023", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "platform", "object": "Windows", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "platform", "object": "macOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "platform", "object": "Linux", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "platform", "object": "Android", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "platform", "object": "iOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "engine", "object": "Blink", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "license", "object": "freeware", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "features", "object": "tabbed browsing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "features", "object": "incognito mode", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "features", "object": "automatic updates", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "features", "object": "syncing across devices", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "marketShare", "object": "over 65% as of 2023", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "userBase", "object": "over 2 billion users", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "securityFeature", "object": "sandboxing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "securityFeature", "object": "safe browsing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "extensionSupport", "object": "Chrome Web Store", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "defaultSearchEngine", "object": "Google Search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "defaultSearchEngine", "object": "Bing (optional)", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "defaultSearchEngine", "object": "Yahoo (optional)", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "defaultSearchEngine", "object": "DuckDuckGo (optional)", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "updateFrequency", "object": "every six weeks", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "userInterface", "object": "minimalist design", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "syncFeature", "object": "bookmarks", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "syncFeature", "object": "history", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "syncFeature", "object": "passwords", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "syncFeature", "object": "open tabs", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "developerTools", "object": "Chrome DevTools", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "performance", "object": "fast browsing speed", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "performance", "object": "low memory usage", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "performance", "object": "high compatibility with web standards", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "privacyFeature", "object": "site isolation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "privacyFeature", "object": "ad blocker (optional)", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Chrome", "predicate": "privacyFeature", "object": "tracking prevention", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "instanceOf", "object": "cloud computing service", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "developedBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "offers", "object": "computing services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "offers", "object": "data storage services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "offers", "object": "machine learning services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "offers", "object": "big data services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "offers", "object": "networking services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "offers", "object": "security services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "launched", "object": "April 2011", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "competesWith", "object": "Amazon Web Services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "competesWith", "object": "Microsoft Azure", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Google Kubernetes Engine", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Functions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Run", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Storage", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "BigQuery", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud SQL", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Spanner", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Pub/Sub", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Firestore", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Dataflow", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Dataproc", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud AI Platform", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Identity", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Armor", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Load Balancing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud CDN", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Monitoring", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Logging", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Trace", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Debugger", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Profiler", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Tasks", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Scheduler", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Endpoints", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Source Repositories", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Build", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Cloud Functions for Firebase", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Firebase Hosting", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Firebase Realtime Database", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Firebase Cloud Messaging", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Firebase Authentication", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Firebase Analytics", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Firebase Test Lab", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Firebase Crashlytics", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Cloud Platform", "predicate": "provides", "object": "Firebase Performance Monitoring", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "instanceOf", "object": "cloud storage service", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "developer", "object": "Google LLC", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "releaseDate", "object": "April 24, 2012", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "platform", "object": "web", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "platform", "object": "Android", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "platform", "object": "iOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "features", "object": "file storage", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "features", "object": "file synchronization", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "features", "object": "collaboration tools", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "storage capacity", "object": "15 GB (free)", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "storage capacity", "object": "up to 30 TB (paid)", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "integratesWith", "object": "Google Docs", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "integratesWith", "object": "Google Sheets", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "integratesWith", "object": "Google Slides", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "integratesWith", "object": "Google Photos", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "uses", "object": "Google Account", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "availableIn", "object": "multiple languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "security", "object": "encryption at rest", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "security", "object": "encryption in transit", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "user base", "object": "millions of users worldwide", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "accessMethod", "object": "web browser", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "accessMethod", "object": "mobile app", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file types supported", "object": "documents", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file types supported", "object": "spreadsheets", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file types supported", "object": "presentations", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file types supported", "object": "images", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file types supported", "object": "videos", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file types supported", "object": "PDFs", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file types supported", "object": "archives", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file sharing", "object": "public sharing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file sharing", "object": "private sharing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "file sharing", "object": "link sharing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "collaboration", "object": "real-time editing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "collaboration", "object": "commenting", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "collaboration", "object": "version history", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "backup", "object": "computer files", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "backup", "object": "mobile device files", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "sync", "object": "Google Backup and Sync", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Drive", "predicate": "sync", "object": "Drive File Stream", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "instanceOf", "object": "Web mapping service", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "developedBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "launchDate", "object": "February 8, 2005", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "availableIn", "object": "multiple languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "features", "object": "satellite imagery", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "features", "object": "street maps", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "features", "object": "real-time traffic conditions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "features", "object": "route planning", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "platforms", "object": "iOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "platforms", "object": "Android", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "platforms", "object": "Web", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "acquiredBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "uses", "object": "GPS data", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "provides", "object": "directions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "provides", "object": "business information", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "provides", "object": "street view", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "integratesWith", "object": "Google Earth", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "integratesWith", "object": "Google Assistant", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "integratesWith", "object": "Google Search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasAPI", "object": "Google Maps API", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasAPI", "object": "Directions API", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasAPI", "object": "Geocoding API", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasAPI", "object": "Places API", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasAPI", "object": "Distance Matrix API", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "userBase", "object": "millions of users", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "updates", "object": "frequently", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "supports", "object": "public transit information", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "supports", "object": "bicycling directions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "supports", "object": "walking directions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "supports", "object": "offline maps", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasPart", "object": "Google Maps for Business", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasPart", "object": "Google Maps Platform", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasPart", "object": "Google Maps Go", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasPart", "object": "Google Maps Navigation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasPart", "object": "Google Maps Timeline", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Maps", "predicate": "hasPart", "object": "Google Maps Street View", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "instanceOf", "object": "cloud storage service", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "developedBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "launched", "object": "May 28, 2015", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "platform", "object": "Android", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "platform", "object": "iOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "platform", "object": "Web", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "features", "object": "photo sharing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "features", "object": "photo storage", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "features", "object": "automatic backup", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "features", "object": "photo editing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "features", "object": "search functionality", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "features", "object": "album creation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "features", "object": "video storage", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "features", "object": "collaborative albums", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "acquiredFrom", "object": "Picasa", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "availableIn", "object": "multiple languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "userBase", "object": "over 1 billion users", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "storageLimit", "object": "15 GB free storage", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "subscriptionService", "object": "Google One", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "uses", "object": "machine learning", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "supports", "object": "RAW image formats", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "integratesWith", "object": "Google Assistant", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "integratesWith", "object": "Google Drive", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "integratesWith", "object": "Google Lens", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "privacyPolicy", "object": "data encryption", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "privacyPolicy", "object": "user control over data", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "availableOn", "object": "smartphones", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "availableOn", "object": "tablets", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "availableOn", "object": "computers", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "supports", "object": "photo printing services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "supports", "object": "video editing tools", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "offers", "object": "photo book creation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "offers", "object": "shared albums", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "offers", "object": "memories feature", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "offers", "object": "live albums", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "offers", "object": "photo scanning feature", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Photos", "predicate": "offers", "object": "photo collage creation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "instanceOf", "object": "digital distribution service", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "developedBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "launchDate", "object": "March 6, 2012", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "availableOn", "object": "Android", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "category", "object": "application store", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "features", "object": "apps", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "features", "object": "games", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "features", "object": "music", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "features", "object": "movies", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "features", "object": "books", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "supports", "object": "in-app purchases", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "supports", "object": "subscriptions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "supports", "object": "user reviews", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "supports", "object": "ratings", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "monetization", "object": "free apps", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "monetization", "object": "paid apps", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Play Store", "predicate": "monetization", "object": "advertising", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "instanceOf", "object": "search engine", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "developedBy", "object": "Google LLC", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "launched", "object": "September 1997", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "uses", "object": "PageRank algorithm", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "provides", "object": "web search results", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "supports", "object": "multiple languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "offers", "object": "image search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "offers", "object": "video search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "offers", "object": "news search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "offers", "object": "shopping search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "offers", "object": "maps search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is available on", "object": "mobile devices", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is available on", "object": "desktop computers", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is part of", "object": "Google services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "has", "object": "search algorithms", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is used by", "object": "millions of users daily", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "competes with", "object": "Bing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "competes with", "object": "Yahoo Search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "competes with", "object": "DuckDuckGo", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "has", "object": "search filters", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "provides", "object": "local search results", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "offers", "object": "voice search", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is known for", "object": "autocomplete feature", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is known for", "object": "featured snippets", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is known for", "object": "knowledge graph", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is known for", "object": "search ads", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is known for", "object": "personalized search results", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is integrated with", "object": "Google Assistant", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is integrated with", "object": "Google Chrome", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is integrated with", "object": "Android OS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "has", "object": "mobile-friendly search results", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "has", "object": "secure search options", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is accessible via", "object": "web browsers", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is used for", "object": "academic research", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is used for", "object": "shopping", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is used for", "object": "navigation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is used for", "object": "news aggregation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is used for", "object": "image discovery", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is used for", "object": "video discovery", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is used for", "object": "product discovery", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is updated with", "object": "algorithm changes", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "has", "object": "user interface", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is available in", "object": "various countries", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is subject to", "object": "local regulations", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "has", "object": "search history feature", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is known for", "object": "data privacy concerns", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "is part of", "object": "digital advertising ecosystem", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Search", "predicate": "has", "object": "search result pages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "instanceOf", "object": "cloud computing service", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "developedBy", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "includes", "object": "Gmail", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "includes", "object": "Google Drive", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "includes", "object": "Google Docs", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "includes", "object": "Google Sheets", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "includes", "object": "Google Slides", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "includes", "object": "Google Meet", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "includes", "object": "Google Calendar", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "includes", "object": "Google Chat", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "availableOn", "object": "web", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "availableOn", "object": "mobile devices", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "collaboration tools", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "cloud storage", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "email services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "video conferencing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "targetAudience", "object": "businesses", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "targetAudience", "object": "educational institutions", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "targetAudience", "object": "nonprofits", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "launched", "object": "October 2020", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "replaces", "object": "G Suite", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "provides", "object": "custom email addresses", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "provides", "object": "administrative controls", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "provides", "object": "security features", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "supports", "object": "third-party applications", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "integrations with other Google services", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "real-time collaboration", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "file sharing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "document editing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "task management tools", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "calendar sharing", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "video calls", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "chat functionality", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "offers", "object": "cloud-based applications", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "isAvailableIn", "object": "multiple languages", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "isCompatibleWith", "object": "Windows", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "isCompatibleWith", "object": "macOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "isCompatibleWith", "object": "Android", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Google Workspace", "predicate": "isCompatibleWith", "object": "iOS", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "instanceOf", "object": "Person", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "co-founder", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "born", "object": "March 26, 1973", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "nationality", "object": "American", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "education", "object": "Stanford University", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "occupation", "object": "Computer Scientist", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "knownFor", "object": "PageRank algorithm", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "spouse", "object": "Lucinda Southworth", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "children", "object": "2", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "netWorth", "object": "$100 billion (2021)", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Larry Page", "predicate": "awards", "object": "Marconi Prize", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "instanceOf", "object": "City", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "locatedIn", "object": "Santa Clara County", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "partOf", "object": "Silicon Valley", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "population", "object": "82,739", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "area", "object": "12.3 square miles", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "elevation", "object": "69 feet", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "founded", "object": "1902", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "zipCode", "object": "94040", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "zipCode", "object": "94041", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "zipCode", "object": "94043", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "homeTo", "object": "Google", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "homeTo", "object": "LinkedIn", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "homeTo", "object": "Symantec", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "homeTo", "object": "Mozilla Corporation", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "timeZone", "object": "Pacific Time Zone", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "areaCode", "object": "650", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}
+{"subject": "Mountain View, California", "predicate": "website", "object": "mountainview.gov", "hop": 1, "model": "gpt-4o-mini", "strategy": "baseline", "confidence": null}

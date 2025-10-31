@@ -1,0 +1,29 @@
+{
+  "seed": "ancient city of Babylon",
+  "seed_slug": "ancient_city_of_Babylon",
+  "domain": "topic",
+  "elicitation_strategy": "baseline",
+  "ner_strategy": "calibrate",
+  "model": "deepseek",
+  "out_dir": "runs/AllParallelTest/topic/deepseek/baseline/wild/ancient_city_of_Babylon/20251030_002408",
+  "profile": "wild",
+  "profile_knobs": {
+    "temperature": 2.0,
+    "top_p": 1.0,
+    "top_k": 100,
+    "max_tokens": 4096
+  },
+  "max_depth": 10,
+  "max_subjects": 0,
+  "max_facts_hint": 100,
+  "ner_batch_size": 50,
+  "crawler": "crawler_batch_concurrency_topic.py",
+  "python": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python",
+  "command": "/Users/muhammedsaeed/anaconda3/envs/KB/bin/python crawler_batch_concurrency_topic.py --seed 'ancient city of Babylon' --output-dir runs/AllParallelTest/topic/deepseek/baseline/wild/ancient_city_of_Babylon/20251030_002408 --domain topic --elicitation-strategy baseline --ner-strategy calibrate --elicit-model-key deepseek --ner-model-key deepseek --max-depth 10 --max-facts-hint 100 --max-subjects 0 --ner-batch-size 50 --concurrency 20 --temperature 2.0 --top-p 1.0 --top-k 100 --max-tokens 4096 --http-timeout 60.0 --http-retries 6 --http-backoff 0.5",
+  "timestamp": "2025-10-30T00:24:08.130721",
+  "batch_mode": false,
+  "effective_concurrency": 20,
+  "net_timeout": 60.0,
+  "net_retries": 6,
+  "net_backoff": 0.5
+}

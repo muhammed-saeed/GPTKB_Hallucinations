@@ -1,0 +1,204 @@
+{
+  "below_threshold": [
+    {
+      "subject": "Riad Al Sunbati",
+      "predicate": "associatedWith",
+      "object": "Umer Bin Elkhatab",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Kavadh I",
+      "predicate": "mother",
+      "object": "Khosrow I's mother",
+      "hop": 5,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Kavad I",
+      "predicate": "mother",
+      "object": "Khosrow I's mother",
+      "hop": 6,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Bahram I",
+      "predicate": "birthYear",
+      "object": "unknown",
+      "hop": 6,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Bahram I",
+      "predicate": "deathYear",
+      "object": "unknown",
+      "hop": 6,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Zayd ibn Harithah",
+      "predicate": "wasA",
+      "object": "Poet",
+      "hop": 6,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Hephthalites",
+      "predicate": "language",
+      "object": "Hephthalitic",
+      "hop": 7,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.6,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Nishapur",
+      "predicate": "population",
+      "object": "approximately 250,000",
+      "hop": 7,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.6,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Phraates III",
+      "predicate": "mother",
+      "object": "unknown",
+      "hop": 7,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Phraates III",
+      "predicate": "deathPlace",
+      "object": "unknown",
+      "hop": 7,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "the spread of Islam",
+      "predicate": "isSpreadThrough",
+      "object": "intermarriage",
+      "hop": 7,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.65,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Alchon Huns",
+      "predicate": "relatedTo",
+      "object": "Mihirakula",
+      "hop": 8,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.6,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Harran",
+      "predicate": "hasPopulation",
+      "object": "approximately 10,000",
+      "hop": 9,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.6,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Tus, Iran",
+      "predicate": "associatedWith",
+      "object": "Umer Bin Elkhatab",
+      "hop": 9,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Zaynab bint al-Muqtadir",
+      "predicate": "isRelatedTo",
+      "object": "Umer Bin Elkhatab",
+      "hop": 10,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Fatimid Dynasty",
+      "predicate": "notableFigure",
+      "object": "Umar ibn al-Khattab",
+      "hop": 10,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Scipio Africanus",
+      "predicate": "successor",
+      "object": "Lucius Cornelius Sulla",
+      "hop": 10,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Bahram III",
+      "predicate": "birthPlace",
+      "object": "Persia",
+      "hop": 10,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.6,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Hormizd II",
+      "predicate": "mother",
+      "object": "Daughter of Khosrow I",
+      "hop": 10,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    },
+    {
+      "subject": "Hormizd II",
+      "predicate": "birth",
+      "object": "unknown",
+      "hop": 10,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.4,
+      "threshold": 0.7
+    }
+  ]
+}

@@ -1,139 +1,84 @@
-# # prompter_parser.py
-# import os
-# from jinja2 import Environment, FileSystemLoader, TemplateNotFound, StrictUndefined, Undefined
-
-# _THIS_DIR = os.path.dirname(os.path.abspath(__file__))
-# _PROMPTS_DIR = os.path.join(_THIS_DIR, "prompts")
-
-# # In debug, fail loudly on missing template vars.
-# _DEBUG = bool(os.getenv("DEBUG_PROMPTS"))
-# _ENV = Environment(
-#     loader=FileSystemLoader(_PROMPTS_DIR),
-#     autoescape=False,
-#     undefined=StrictUndefined if _DEBUG else Undefined,
-# )
-
-# def _try(path: str):
-#     try:
-#         return _ENV.get_template(path)
-#     except TemplateNotFound:
-#         return None
-
-# def get_prompt_template(
-#     strategy: str,
-#     task: str,                    # "elicitation" | "ner"
-#     domain: str = "general",      # "general" | "topic"
-#     topic: str | None = None,     # e.g., "entertainment"
-# ):
-#     """
-#     Resolution order (first hit wins):
-#       1) topic/<topic>/<strategy>/<task>.j2   (when domain=="topic" and topic provided)
-#       2) topic/<topic>/baseline/<task>.j2
-#       3) general/<strategy>/<task>.j2
-#       4) general/baseline/<task>.j2
-#       5) baseline/<task>.j2                   (legacy)
-#     """
-#     candidates = []
-#     if domain == "topic" and topic:
-#         candidates += [
-#             f"topic/{topic}/{strategy}/{task}.j2",
-#             f"topic/{topic}/baseline/{task}.j2",
-#         ]
-#     candidates += [
-#         f"general/{strategy}/{task}.j2",
-#         f"general/baseline/{task}.j2",
-#         f"baseline/{task}.j2",
-#     ]
-#     for c in candidates:
-#         tpl = _try(c)
-#         if tpl:
-#             if _DEBUG:
-#                 print(f"[prompts] using: {c} (root={_PROMPTS_DIR})")
-#             return tpl
-#     search_roots = "\n - ".join(candidates)
-#     raise FileNotFoundError(
-#         f"No prompt found for domain='{domain}', topic='{topic}', strategy='{strategy}', task='{task}'. "
-#         f"Searched:\n - {search_roots}\nRoot: {_PROMPTS_DIR}"
-#     )
-
-
 # prompter_parser.py
-import os
-from jinja2 import Environment, FileSystemLoader, TemplateNotFound, StrictUndefined, Undefined
+from __future__ import annotations
+import json
+from pathlib import Path
+from typing import Dict, List
 
-_THIS_DIR = os.path.dirname(os.path.abspath(__file__))
-_PROMPTS_DIR = os.path.join(_THIS_DIR, "prompts")
+# Only replace known {placeholder} keys; never interpret other braces.
+_ALLOWED_KEYS = {"subject_name", "phrases_block", "root_subject"}
 
-# In debug, fail loudly on missing template vars and show chosen template path.
-_DEBUG = bool(os.getenv("DEBUG_PROMPTS"))
-_ENV = Environment(
-    loader=FileSystemLoader(_PROMPTS_DIR),
-    autoescape=False,
-    undefined=StrictUndefined if _DEBUG else Undefined,
+# Canonical footer we want in every elicitation *system* message
+_ELICITATION_SYSTEM_FOOTER = (
+    "\n\nImportant:\n"
+    "- If you don’t know the subject, return an empty list.\n"
+    "- If the subject is not a named entity, return an empty list.\n"
+    "- If the subject is a named entity, include at least one triple where predicate is \"instanceOf\".\n"
+    "- Do not get too wordy.\n"
+    "- Separate several objects into multiple triples with one object."
 )
 
-# Map common variants to your on-disk folder names
-# (case-insensitive input → exact folder spelling you use)
-_STRATEGY_ALIASES = {
-    "baseline": "baseline",
-    "icl": "ICL",
-    "dont_know": "dont_know",
-    "dont-know": "dont_know",
-    "dontknow": "dont_know",
-    "calibrate": "calibration",
-    "calibration": "calibration",
-}
+def _prompt_path(domain: str, strategy: str, ptype: str) -> Path:
+    # prompts/<domain>/<strategy>/<ptype>.json
+    return Path("prompts") / domain / strategy / f"{ptype}.json"
 
-def _normalize_strategy(name: str) -> str:
-    if not name:
-        return "baseline"
-    key = name.strip().lower()
-    return _STRATEGY_ALIASES.get(key, name)  # fallback to raw name if unknown
+def _safe_render(template: str, variables: Dict[str, str] | None) -> str:
+    if not template:
+        return ""
+    if not variables:
+        return template
+    out = template
+    for k, v in variables.items():
+        if k in _ALLOWED_KEYS:
+            out = out.replace("{" + k + "}", str(v))
+    # leave ALL other { ... } untouched (JSON braces, examples, etc.)
+    return out
 
-def _try(path: str):
-    try:
-        return _ENV.get_template(path)
-    except TemplateNotFound:
-        return None
+def _ensure_footer(system_txt: str, ptype: str) -> str:
+    """
+    Append the canonical elicitation footer to system text iff:
+      - ptype == 'elicitation', and
+      - the distinctive line isn't already present.
+    """
+    if ptype != "elicitation":
+        return system_txt or ""
+    marker = "include at least one triple where predicate is \"instanceOf\""
+    st = (system_txt or "")
+    if marker.lower() in st.lower():
+        # Assume the Important block (or equivalent) is already there.
+        return st
+    return (st.rstrip() + _ELICITATION_SYSTEM_FOOTER)
 
-def get_prompt_template(
+def get_prompt_messages(
     strategy: str,
-    task: str,                    # "elicitation" | "ner" | (anything else you add)
-    domain: str = "general",      # "general" | "topic"
-    topic: str | None = None,     # e.g., "entertainment"
-):
+    ptype: str,
+    *,
+    domain: str = "general",
+    variables: Dict[str, str] | None = None,
+) -> List[dict]:
     """
-    Resolution order (first hit wins):
-      1) topic/<topic>/<strategy>/<task>.j2   (when domain=="topic" and topic provided)
-      2) topic/<topic>/baseline/<task>.j2
-      3) general/<strategy>/<task>.j2
-      4) general/baseline/<task>.j2
-      5) baseline/<task>.j2                   (legacy)
-    """
-    norm_strategy = _normalize_strategy(strategy)
+    Load a prompt JSON with keys: {"system": "...", "user": "..."} and render
+    only whitelisted placeholders. Returns OpenAI-style messages list.
 
-    candidates = []
-    if domain == "topic" and topic:
-        candidates += [
-            f"topic/{topic}/{norm_strategy}/{task}.j2",
-            f"topic/{topic}/baseline/{task}.j2",
-        ]
-    candidates += [
-        f"general/{norm_strategy}/{task}.j2",
-        f"general/baseline/{task}.j2",
-        f"baseline/{task}.j2",
+    Additionally, for ptype == 'elicitation', we append a canonical "Important:"
+    footer to the system message if it's not already present.
+    """
+    path = _prompt_path(domain, strategy, ptype)
+    if not path.exists():
+        raise FileNotFoundError(f"Prompt file not found: {path}")
+
+    with path.open("r", encoding="utf-8") as f:
+        obj = json.load(f)
+
+    system_tmpl = obj.get("system", "") or ""
+    user_tmpl   = obj.get("user", "") or ""
+
+    system_txt = _safe_render(system_tmpl, variables).strip()
+    user_txt   = _safe_render(user_tmpl, variables).strip()
+
+    # Ensure footer for elicitation system messages
+    system_txt = _ensure_footer(system_txt, ptype).strip()
+
+    return [
+        {"role": "system", "content": system_txt},
+        {"role": "user",   "content": user_txt},
     ]
-
-    for c in candidates:
-        tpl = _try(c)
-        if tpl:
-            if _DEBUG:
-                print(f"[prompts] using: {c} (root={_PROMPTS_DIR})")
-            return tpl
-
-    search_roots = "\n - ".join(candidates)
-    raise FileNotFoundError(
-        f"No prompt found for domain='{domain}', topic='{topic}', "
-        f"strategy='{strategy}' -> '{norm_strategy}', task='{task}'. "
-        f"Searched:\n - {search_roots}\nRoot: {_PROMPTS_DIR}"
-    )
