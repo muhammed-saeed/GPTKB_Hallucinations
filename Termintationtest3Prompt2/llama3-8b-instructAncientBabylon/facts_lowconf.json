@@ -1,0 +1,52 @@
+[
+  {
+    "subject": "Babylonian statues",
+    "predicate": "locatedIn",
+    "object": "",
+    "hop": 16,
+    "model": "meta/meta-llama-3-8b-instruct",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.8
+  },
+  {
+    "subject": "Babylonian Priesthood",
+    "predicate": "socialStatus",
+    "object": "highly respected and influential in Babylonian society",
+    "hop": 20,
+    "model": "meta/meta-llama-3-8b-instruct",
+    "strategy": "calibrate",
+    "confidence": 0.75,
+    "threshold": 0.8
+  },
+  {
+    "subject": "Babylonian Astronomical Tablets",
+    "predicate": "locatedIn",
+    "object": "",
+    "hop": 22,
+    "model": "meta/meta-llama-3-8b-instruct",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.8
+  },
+  {
+    "subject": "Deities",
+    "predicate": "mythologicalRole",
+    "object": "Supreme",
+    "hop": 22,
+    "model": "meta/meta-llama-3-8b-instruct",
+    "strategy": "calibrate",
+    "confidence": 0.75,
+    "threshold": 0.8
+  },
+  {
+    "subject": "Ancient Babylonian Empire",
+    "predicate": "founder",
+    "object": "",
+    "hop": 25,
+    "model": "meta/meta-llama-3-8b-instruct",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.8
+  }
+]

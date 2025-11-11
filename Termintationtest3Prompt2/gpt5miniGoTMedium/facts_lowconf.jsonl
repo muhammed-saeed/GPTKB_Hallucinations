@@ -1,0 +1,11 @@
+{"subject": "Tollymore Forest Park", "predicate": "areaHectares", "object": "630", "hop": 2, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.85}
+{"subject": "khalasars", "predicate": "sizeRange", "object": "hundreds to thousands of horsemen", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "Faceless Men", "predicate": "clientContactMethod", "object": "Braavosi iron coin given to request their service", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "khalasar", "predicate": "typicalSize", "object": "thousands", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.75, "threshold": 0.85}
+{"subject": "Khal", "predicate": "selectionMethod", "object": "battle prowess and strength", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "Daenerys Targaryen and Khal Drogo's khalasar", "predicate": "estimatedSize", "object": "approximately 40,000 riders", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "Old Volantis", "predicate": "languagesSpoken", "object": "Valyrian", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "Rickon Stark", "predicate": "religion", "object": "Old Gods of the Forest", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "Common Tongue", "predicate": "hasDialect", "object": "regional dialects (e.g., North, Dorne, Riverlands)", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "seven-pointed star", "predicate": "carvedAbove", "object": "sept doors", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "High Septon", "predicate": "presidesOver", "object": "royal and state religious ceremonies", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}

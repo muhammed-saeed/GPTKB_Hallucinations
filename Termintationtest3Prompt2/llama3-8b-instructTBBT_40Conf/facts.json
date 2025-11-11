@@ -1,0 +1,239 @@
+{
+  "accepted": [
+    {
+      "subject": "Broadcast Television Network",
+      "predicate": "broadcasts",
+      "object": "The Big Bang Theory TV Series",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Broadcast Television Network",
+      "predicate": "instanceOf",
+      "object": "Television Network",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "Broadcast Television Network",
+      "predicate": "operatesIn",
+      "object": "United States",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "CBS",
+      "predicate": "foundedYear",
+      "object": "1927",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "CBS",
+      "predicate": "headquarters",
+      "object": "New York City, New York",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "CBS",
+      "predicate": "instanceOf",
+      "object": "Broadcast Television Network",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "creatorOf",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "creatorOf",
+      "object": "Two and a Half Men",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "writerOf",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "New York City, New York",
+      "predicate": "capitalOf",
+      "object": "New York State",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "New York City, New York",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "New York City, New York",
+      "predicate": "locatedIn",
+      "object": "New York State",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "creator",
+      "object": "Chuck Lorre",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "genre",
+      "object": "Sitcom",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "instanceOf",
+      "object": "Television series",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "network",
+      "object": "CBS",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "number of episodes",
+      "object": "279",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "number of seasons",
+      "object": "12",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.93
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "runtime",
+      "object": "22 minutes",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.94
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "createdBy",
+      "object": "Chuck Lorre",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "firstAired",
+      "object": "2007-09-24",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "genre",
+      "object": "Sitcom",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "instanceOf",
+      "object": "Television series",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "lastAired",
+      "object": "2019-05-16",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "network",
+      "object": "CBS",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    }
+  ],
+  "sink": []
+}

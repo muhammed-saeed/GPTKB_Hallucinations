@@ -1,0 +1,7 @@
+{"subject": "International Space Station", "predicate": "estimatedCost", "object": "approximately 150 billion USD", "hop": 2, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.75, "threshold": 0.85}
+{"subject": "Cinnamon (dog)", "predicate": "gender", "object": "Female", "hop": 2, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.75, "threshold": 0.85}
+{"subject": "Mary Cooper", "predicate": "occupation", "object": "Homemaker", "hop": 2, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "Sheldon Cooper (fictional character)", "predicate": "iq", "object": "187", "hop": 2, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.75, "threshold": 0.85}
+{"subject": "Sheldon Cooper (fictional character)", "predicate": "earnedPhDAge", "object": "16", "hop": 2, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "Mark Cendrowski", "predicate": "collaboratedWith", "object": "creators and production team of that sitcom", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}
+{"subject": "Estelle Wolowitz", "predicate": "spouse", "object": "Sam Wolowitz", "hop": 3, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.8, "threshold": 0.85}

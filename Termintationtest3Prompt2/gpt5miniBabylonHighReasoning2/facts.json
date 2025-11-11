@@ -1,0 +1,15 @@
+{
+  "accepted": [],
+  "sink": [
+    {
+      "subject": "Ancient City of Babylon",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 0,
+      "model": "gpt-5-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    }
+  ]
+}

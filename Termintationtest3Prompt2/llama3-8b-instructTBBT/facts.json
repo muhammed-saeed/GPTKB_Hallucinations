@@ -1,0 +1,1202 @@
+{
+  "accepted": [
+    {
+      "subject": "Academy of Television Arts & Sciences",
+      "predicate": "award",
+      "object": "Emmy Award",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Academy of Television Arts & Sciences",
+      "predicate": "headquarters",
+      "object": "North Hollywood, California",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Academy of Television Arts & Sciences",
+      "predicate": "instanceOf",
+      "object": "Professional association",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Actor",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Actor",
+      "predicate": "playedCharacter",
+      "object": "Howard Wolowitz",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Actor",
+      "predicate": "playedCharacter",
+      "object": "Leonard Hofstadter",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Actor",
+      "predicate": "playedCharacter",
+      "object": "Penny",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Actor",
+      "predicate": "playedCharacter",
+      "object": "Rajesh Koothrappali",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Actor",
+      "predicate": "playedCharacter",
+      "object": "Sheldon Cooper",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Award",
+      "predicate": "category",
+      "object": "Best Television Series",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Award",
+      "predicate": "instanceOf",
+      "object": "TV Series Award",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Award",
+      "predicate": "receivedBy",
+      "object": "The Big Bang Theory TV Series",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "characterIn",
+      "object": "The Big Bang Theory",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "occupation",
+      "object": "Research Scientist",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Bernadette Rostenkowski",
+      "predicate": "playedBy",
+      "object": "Melissa Rauch",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Best Television Series",
+      "predicate": "awardedBy",
+      "object": "Emmy Awards",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Best Television Series",
+      "predicate": "duration",
+      "object": "12 seasons",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Best Television Series",
+      "predicate": "genre",
+      "object": "Sitcom",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Best Television Series",
+      "predicate": "instanceOf",
+      "object": "Television Series",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Best Television Series",
+      "predicate": "network",
+      "object": "CBS",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "CBS",
+      "predicate": "founded",
+      "object": "1927",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "CBS",
+      "predicate": "headquarters",
+      "object": "New York City",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "CBS",
+      "predicate": "instanceOf",
+      "object": "Television network",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "California Institute of Technology",
+      "predicate": "instanceOf",
+      "object": "University",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "California Institute of Technology",
+      "predicate": "location",
+      "object": "Pasadena, California, USA",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "California Institute of Technology",
+      "predicate": "type",
+      "object": "Private research university",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "California, USA",
+      "predicate": "capital",
+      "object": "Sacramento",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "California, USA",
+      "predicate": "instanceOf",
+      "object": "State",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "California, USA",
+      "predicate": "location",
+      "object": "West Coast",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Character",
+      "predicate": "hasPersonality",
+      "object": "Confident, Sarcastic, Loyal",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Character",
+      "predicate": "hasRole",
+      "object": "The Big Bang Theory",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Character",
+      "predicate": "hasTraits",
+      "object": "Intelligent, Quirky, Loyal",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Character",
+      "predicate": "instanceOf",
+      "object": "TV Character",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Character",
+      "predicate": "type",
+      "object": "Fictional",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "awarded",
+      "object": "Emmy Award",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "creatorOf",
+      "object": "The Big Bang Theory TV Series",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "creatorOf",
+      "object": "Two and a Half Men TV Series",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Emmy Award",
+      "predicate": "category",
+      "object": "Outstanding Comedy Series",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Emmy Award",
+      "predicate": "category",
+      "object": "Outstanding Drama Series",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Emmy Award",
+      "predicate": "instanceOf",
+      "object": "Television Award",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Emmy Award",
+      "predicate": "presentedBy",
+      "object": "Academy of Television Arts & Sciences",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Emmy Awards",
+      "predicate": "category",
+      "object": "Outstanding Comedy Series",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "Emmy Awards",
+      "predicate": "firstAwarded",
+      "object": "1949",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Emmy Awards",
+      "predicate": "instanceOf",
+      "object": "Television award",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Emmy Awards",
+      "predicate": "presentedBy",
+      "object": "Academy of Television Arts & Sciences",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "annual",
+      "object": "",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "firstAwarded",
+      "object": "1944",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "instanceOf",
+      "object": "Award",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Golden Globe Award",
+      "predicate": "presentedBy",
+      "object": "Hollywood Foreign Press Association",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Golden Globe Awards",
+      "predicate": "firstAwards",
+      "object": "1944",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Golden Globe Awards",
+      "predicate": "heldAnnually",
+      "object": "",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Golden Globe Awards",
+      "predicate": "instanceOf",
+      "object": "Award",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Golden Globe Awards",
+      "predicate": "presentedBy",
+      "object": "Hollywood Foreign Press Association",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Hollywood Foreign Press Association",
+      "predicate": "award",
+      "object": "Golden Globe Awards",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Hollywood Foreign Press Association",
+      "predicate": "foundedYear",
+      "object": "1943",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Hollywood Foreign Press Association",
+      "predicate": "founder",
+      "object": "Moss Hart",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Hollywood Foreign Press Association",
+      "predicate": "instanceOf",
+      "object": "Organization",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Hollywood Foreign Press Association Award",
+      "predicate": "categorizes",
+      "object": "Motion Picture",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Hollywood Foreign Press Association Award",
+      "predicate": "instanceOf",
+      "object": "Award",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Hollywood Foreign Press Association Award",
+      "predicate": "presentedBy",
+      "object": "Hollywood Foreign Press Association",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "instanceOf",
+      "object": "Character",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "occupation",
+      "object": "Aerospace Engineer",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "spouse",
+      "object": "Bernadette Rostenkowski",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Internet Personality",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "instanceOf",
+      "object": "Actor",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "playedRole",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "wonAward",
+      "object": "Emmy Award",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "wonAward",
+      "object": "Golden Globe Award",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.94
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "bornDate",
+      "object": "April 30, 1975",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "bornIn",
+      "object": "Bree, California, USA",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "instanceOf",
+      "object": "Actor",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "playedCharacter",
+      "object": "Leonard Hofstadter",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "actorPlayedBy",
+      "object": "Johnny Galecki",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "hasWife",
+      "object": "Penny",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "instanceOf",
+      "object": "Character",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "livesIn",
+      "object": "Pasadena, California",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "worksAt",
+      "object": "California Institute of Technology",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "actedIn",
+      "object": "The Big Bang Theory",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "playedCharacter",
+      "object": "Bernadette Rostenkowski",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Motion Picture",
+      "predicate": "instanceOf",
+      "object": "Film",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Pasadena",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Pasadena",
+      "predicate": "location",
+      "object": "California",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "locatedIn",
+      "object": "California",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "locatedIn",
+      "object": "Los Angeles County",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Pasadena, California, USA",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Pasadena, California, USA",
+      "predicate": "locatedIn",
+      "object": "California",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Pasadena, California, USA",
+      "predicate": "locatedIn",
+      "object": "United States",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Penny",
+      "predicate": "instanceOf",
+      "object": "Character",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Penny",
+      "predicate": "relatesTo",
+      "object": "Leonard Hofstadter",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Penny",
+      "predicate": "relatesTo",
+      "object": "Sheldon Cooper",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Penny",
+      "predicate": "worksAs",
+      "object": "Waitress",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "bestFriend",
+      "object": "Howard Wolowitz",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "instanceOf",
+      "object": "Character",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "jobTitle",
+      "object": "Astrophysicist",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "nationality",
+      "object": "Indian",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sacramento",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": " roommate",
+      "object": "Leonard Hofstadter",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "colleague",
+      "object": "Howard Wolowitz",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "colleague",
+      "object": "Rajesh Koothrappali",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "enemy",
+      "object": "Wil Wheaton",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "physicist",
+      "object": "",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sitcom",
+      "predicate": "genre",
+      "object": "Comedy",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sitcom",
+      "predicate": "instanceOf",
+      "object": "Television genre",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Star Trek: The Next Generation",
+      "predicate": "instanceOf",
+      "object": "TV series",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "TableTop",
+      "predicate": "instanceOf",
+      "object": "Furniture",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Television Award",
+      "predicate": "categories",
+      "object": "Multiple categories including Drama, Comedy, and Reality TV",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.94
+    },
+    {
+      "subject": "Television Award",
+      "predicate": "ceremony",
+      "object": "Annual ceremony honoring outstanding achievements in television",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "Television Award",
+      "predicate": "instanceOf",
+      "object": "Award",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Television Award",
+      "predicate": "presentedBy",
+      "object": "Academy of Television Arts & Sciences",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Television Series",
+      "predicate": "genre",
+      "object": "Science fiction",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Television Series",
+      "predicate": "instanceOf",
+      "object": "Form of media",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Television Series",
+      "predicate": "number of episodes",
+      "object": "279",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Television Series",
+      "predicate": "number of seasons",
+      "object": "12",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Television Series",
+      "predicate": "runtime",
+      "object": "22 minutes",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Television Series",
+      "predicate": "type",
+      "object": "Serialized drama",
+      "hop": 6,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "creator",
+      "object": "Chuck Lorre",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "genre",
+      "object": "Sitcom",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "instanceOf",
+      "object": "Television series",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "number of episodes",
+      "object": "279",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "number of seasons",
+      "object": "12",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "original run",
+      "object": "2007-2019",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Jim Parsons",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Johnny Galecki",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Waitress",
+      "predicate": "instanceOf",
+      "object": "Character",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Wil Wheaton",
+      "predicate": "appearedIn",
+      "object": "Star Trek: The Next Generation",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Wil Wheaton",
+      "predicate": "hosted",
+      "object": "TableTop",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Wil Wheaton",
+      "predicate": "instanceOf",
+      "object": "Actor",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Wil Wheaton",
+      "predicate": "instanceOf",
+      "object": "Internet Personality",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    }
+  ],
+  "sink": []
+}

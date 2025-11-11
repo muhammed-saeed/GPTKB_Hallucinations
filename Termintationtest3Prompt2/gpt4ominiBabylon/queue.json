@@ -1,0 +1,2431 @@
+[
+  {
+    "subject": "Ancient City of Babylon",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:07:32"
+  },
+  {
+    "subject": "Akitu",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Ancient Mesopotamia",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Babylonian Empire",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Battle of Babylon",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Code of Hammurabi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Epic of Gilgamesh",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Etemenanki",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Fall of Babylon",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Hammurabi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Hanging Gardens",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Hanging Gardens of Babylon",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Ishtar Gate",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Mesopotamian civilization",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Nabonidus",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Nebuchadnezzar I",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Neo-Babylonian Empire",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "The Tower of Babel",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Ziggurat of Babylon",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:16"
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:11"
+  },
+  {
+    "subject": "Akkadian",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:23"
+  },
+  {
+    "subject": "Alexander the Great",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:24"
+  },
+  {
+    "subject": "Amat-Mamu",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:42"
+  },
+  {
+    "subject": "Amel-Marduk",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:12"
+  },
+  {
+    "subject": "Amytis of Media",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:48"
+  },
+  {
+    "subject": "Assyrians",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:56"
+  },
+  {
+    "subject": "Babylon",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:21"
+  },
+  {
+    "subject": "Babylonian art",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:00"
+  },
+  {
+    "subject": "Babylonian culture",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:00"
+  },
+  {
+    "subject": "Babylonians",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:56"
+  },
+  {
+    "subject": "Belshazzar",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:09"
+  },
+  {
+    "subject": "Construction of the Hanging Gardens",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:00"
+  },
+  {
+    "subject": "Cuneiform writing",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:17"
+  },
+  {
+    "subject": "Euphrates River",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:56"
+  },
+  {
+    "subject": "First Babylonian Dynasty",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:42"
+  },
+  {
+    "subject": "Marduk",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:24"
+  },
+  {
+    "subject": "Nabonassar",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:12"
+  },
+  {
+    "subject": "Nabopolassar",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:12"
+  },
+  {
+    "subject": "Old Babylonian period",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:42"
+  },
+  {
+    "subject": "Persian Empire",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:11"
+  },
+  {
+    "subject": "Processional Way",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:09"
+  },
+  {
+    "subject": "Robert Koldewey",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:09"
+  },
+  {
+    "subject": "Tigris River",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:56"
+  },
+  {
+    "subject": "Uruk",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:31"
+  },
+  {
+    "subject": "Ziggurat",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:10"
+  },
+  {
+    "subject": "cuneiform",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:56"
+  },
+  {
+    "subject": "the Babylonian Exile",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:48"
+  },
+  {
+    "subject": "the Babylonian captivity",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:48"
+  },
+  {
+    "subject": "ziggurats",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:56"
+  },
+  {
+    "subject": "Alexandria",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:36"
+  },
+  {
+    "subject": "Ashurbanipal",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:10:04"
+  },
+  {
+    "subject": "Assyrian",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:58"
+  },
+  {
+    "subject": "Assyrian Empire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:18"
+  },
+  {
+    "subject": "Babylonian",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:58"
+  },
+  {
+    "subject": "Baghdad",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:46"
+  },
+  {
+    "subject": "Chaldean Dynasty",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:06"
+  },
+  {
+    "subject": "Cuneiform script",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:58"
+  },
+  {
+    "subject": "Cyrus the Great",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:08"
+  },
+  {
+    "subject": "Damkina",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:57"
+  },
+  {
+    "subject": "Darius I",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:08"
+  },
+  {
+    "subject": "Darius III",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:36"
+  },
+  {
+    "subject": "Ea",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:57"
+  },
+  {
+    "subject": "Esagila",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:57"
+  },
+  {
+    "subject": "Excavation of Babylon",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:47"
+  },
+  {
+    "subject": "German Archaeological Institute",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:47"
+  },
+  {
+    "subject": "Iraq",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:57"
+  },
+  {
+    "subject": "Jewish diaspora",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:06"
+  },
+  {
+    "subject": "Mesopotamia",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:58"
+  },
+  {
+    "subject": "Nabonid",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:06"
+  },
+  {
+    "subject": "Nineveh",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:10:04"
+  },
+  {
+    "subject": "Olympias",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:36"
+  },
+  {
+    "subject": "Pella",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:36"
+  },
+  {
+    "subject": "Philip II of Macedon",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:36"
+  },
+  {
+    "subject": "Philip III of Macedon",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:36"
+  },
+  {
+    "subject": "Seleucid Empire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:29"
+  },
+  {
+    "subject": "Shatt al-Arab",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:57"
+  },
+  {
+    "subject": "Sumerian",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:58"
+  },
+  {
+    "subject": "Sumerian architecture",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:45"
+  },
+  {
+    "subject": "Sumerians",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:10"
+  },
+  {
+    "subject": "Susa",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:36"
+  },
+  {
+    "subject": "Syria",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:57"
+  },
+  {
+    "subject": "The Palace of Xerxes",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:29"
+  },
+  {
+    "subject": "The Royal Road",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:29"
+  },
+  {
+    "subject": "The Tomb of Cyrus",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:29"
+  },
+  {
+    "subject": "The Tomb of Darius",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:29"
+  },
+  {
+    "subject": "The Tomb of Xerxes",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:29"
+  },
+  {
+    "subject": "Tiamat",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:57"
+  },
+  {
+    "subject": "Turkey",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:09:57"
+  },
+  {
+    "subject": "Xerxes I",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:08"
+  },
+  {
+    "subject": "Ziggurat of Marduk",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:44"
+  },
+  {
+    "subject": "destruction of the First Temple",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:12:06"
+  },
+  {
+    "subject": "feast of Belshazzar",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:44"
+  },
+  {
+    "subject": "the Neo-Babylonian period",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:11:57"
+  },
+  {
+    "subject": "Akkadians",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:40"
+  },
+  {
+    "subject": "Amestris",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:04"
+  },
+  {
+    "subject": "Antioch",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "Artaxerxes I",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:04"
+  },
+  {
+    "subject": "Ashur-etil-ilani",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:25"
+  },
+  {
+    "subject": "Ashurbanipal's Cylinder",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:25"
+  },
+  {
+    "subject": "Assyria",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:52"
+  },
+  {
+    "subject": "Atossa",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "Babylonian mythology",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:38"
+  },
+  {
+    "subject": "Battle of Nineveh",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:25"
+  },
+  {
+    "subject": "Book of Daniel",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:36"
+  },
+  {
+    "subject": "Cambyses II",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "Cyrus Cylinder",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "Eridu",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:58"
+  },
+  {
+    "subject": "Esagila temple complex",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:38"
+  },
+  {
+    "subject": "Esarhaddon",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:25"
+  },
+  {
+    "subject": "Gate of All Nations",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:04"
+  },
+  {
+    "subject": "Greco-Persian Wars",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:04"
+  },
+  {
+    "subject": "Jerusalem",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:45"
+  },
+  {
+    "subject": "Lagash",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:58"
+  },
+  {
+    "subject": "Library of Ashurbanipal",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:25"
+  },
+  {
+    "subject": "Persepolis",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:04"
+  },
+  {
+    "subject": "Persia",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "Ptolemaic Kingdom",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "Sargon II",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:42"
+  },
+  {
+    "subject": "Seleucus I Nicator",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "Sumerian ziggurats",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:38"
+  },
+  {
+    "subject": "Tiglath-Pileser III",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:42"
+  },
+  {
+    "subject": "Ur",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:58"
+  },
+  {
+    "subject": "Xerxes' canal",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:04"
+  },
+  {
+    "subject": "Ziggurat of Etemenanki",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:34"
+  },
+  {
+    "subject": "the Behistun Inscription",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "the Edict of Cyrus",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:52"
+  },
+  {
+    "subject": "the Great Ziggurat of Ur",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:35"
+  },
+  {
+    "subject": "Adad-Nirari II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Adad-nirari I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Adad-nirari III",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:13"
+  },
+  {
+    "subject": "Akkad",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:13"
+  },
+  {
+    "subject": "Antiochus I Soter",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:56"
+  },
+  {
+    "subject": "Ashur",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-dan II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-dan III",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli C",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli CI",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli CII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli III",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli IV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli IX",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli L",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LI",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LIII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LIV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LIX",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LVI",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LVII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LVIII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LX",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXI",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXIII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXIV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXIX",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXVI",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXVII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXVIII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXX",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXI",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXIII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXIV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXIX",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXVI",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXVII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXVIII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXX",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Ashur-nasir-apli LXXXI",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:50"
+  },
+  {
+    "subject": "Babylonian religion",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:07"
+  },
+  {
+    "subject": "Cassandane",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:15"
+  },
+  {
+    "subject": "City of Antioch",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:56"
+  },
+  {
+    "subject": "City of Babylon",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:56"
+  },
+  {
+    "subject": "Cleopatra VII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Darius the Great",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:16"
+  },
+  {
+    "subject": "Dur-Sharrukin",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:11"
+  },
+  {
+    "subject": "Egypt",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Enki",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:11"
+  },
+  {
+    "subject": "Enlil",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:03"
+  },
+  {
+    "subject": "Ezida",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:04"
+  },
+  {
+    "subject": "Ishtar",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:03"
+  },
+  {
+    "subject": "Library of Alexandria",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Lions and Bulls reliefs",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:46"
+  },
+  {
+    "subject": "Ptolemy I Soter",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy II Philadelphus",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy III Euergetes",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy IV Philopator",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy IX Soter II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy V Epiphanes",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy VI Philometor",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy VII Neos Philopator",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy VIII Euergetes II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy X Alexander I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy XI Alexander II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy XII Auletes",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy XIII Theos Philopator",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy XIV Philopator",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Ptolemy XV Caesarion",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:39"
+  },
+  {
+    "subject": "Sargon of Akkad",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:13"
+  },
+  {
+    "subject": "Sennacherib",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:11"
+  },
+  {
+    "subject": "Shalmaneser V",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:13"
+  },
+  {
+    "subject": "Sumer",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:10"
+  },
+  {
+    "subject": "Sumerian civilization",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:04"
+  },
+  {
+    "subject": "Ziggurat of Eridu",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:11"
+  },
+  {
+    "subject": "Ziggurat of Ur",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:10"
+  },
+  {
+    "subject": "Achaemenid",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:12"
+  },
+  {
+    "subject": "Akkadian conquest",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:16"
+  },
+  {
+    "subject": "Ancient Egyptian religion",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:56"
+  },
+  {
+    "subject": "Antiochus II Theos",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:50"
+  },
+  {
+    "subject": "Arsinoe II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:48"
+  },
+  {
+    "subject": "Arsinoe IV",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:51"
+  },
+  {
+    "subject": "Ashur-nirari IV",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:05"
+  },
+  {
+    "subject": "Ashurnasirpal II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:36"
+  },
+  {
+    "subject": "Assur",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:05"
+  },
+  {
+    "subject": "Battle of Raphia",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:51"
+  },
+  {
+    "subject": "Berenice II of Egypt",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:48"
+  },
+  {
+    "subject": "Berenice III",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:51"
+  },
+  {
+    "subject": "Cleopatra I Syra",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:45"
+  },
+  {
+    "subject": "Cleopatra II of Egypt",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:45"
+  },
+  {
+    "subject": "Cleopatra IV of Egypt",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:53"
+  },
+  {
+    "subject": "Cleopatra Selene II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:53"
+  },
+  {
+    "subject": "Cleopatra V Tryphaena",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:56"
+  },
+  {
+    "subject": "Cleopatra VII Philopator",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Destruction of Babylon",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:22"
+  },
+  {
+    "subject": "Enuma Elish",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:15"
+  },
+  {
+    "subject": "Hystaspes",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:12"
+  },
+  {
+    "subject": "King Hammurabi",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:14"
+  },
+  {
+    "subject": "Nabu",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:15"
+  },
+  {
+    "subject": "Naram-Sin",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:08"
+  },
+  {
+    "subject": "Neo-Babylonian art",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:49"
+  },
+  {
+    "subject": "New Year Festival",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:15"
+  },
+  {
+    "subject": "Ninlil",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:06"
+  },
+  {
+    "subject": "Nippur",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:53"
+  },
+  {
+    "subject": "Ptolemaic Dynasty",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:34"
+  },
+  {
+    "subject": "Ptolemy L Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LI Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LIII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LIV Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LIX Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LV Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LVI Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LVII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LVIII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LX Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXI Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXIII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXIV Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXIX Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXV Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXVI Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXVII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXVIII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXX Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXI Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXIII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXIV Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXIX Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXV Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXVI Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXVII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXVIII Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXX Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy LXXXI Philopator Philometor Caesar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:40"
+  },
+  {
+    "subject": "Ptolemy XI Alexander",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:56"
+  },
+  {
+    "subject": "Ptolemy XIII",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:56"
+  },
+  {
+    "subject": "Shalmaneser I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:05"
+  },
+  {
+    "subject": "Shalmaneser III",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:31"
+  },
+  {
+    "subject": "Shalmaneser IV",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:05"
+  },
+  {
+    "subject": "Siege of Jerusalem",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:22"
+  },
+  {
+    "subject": "Stratonice of Syria",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:50"
+  },
+  {
+    "subject": "Tell Brak",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:08"
+  },
+  {
+    "subject": "Temple of Ashur",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:36"
+  },
+  {
+    "subject": "Tiglath-Pileser I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:31"
+  },
+  {
+    "subject": "Tukulti-Ninurta I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:05"
+  },
+  {
+    "subject": "Tukulti-Ninurta II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:05"
+  },
+  {
+    "subject": "Umma",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:53"
+  },
+  {
+    "subject": "Akkadian Empire",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:02"
+  },
+  {
+    "subject": "Alexander Helios",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:26"
+  },
+  {
+    "subject": "Amat-Mutu",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:24"
+  },
+  {
+    "subject": "Amorite dynasty",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:24"
+  },
+  {
+    "subject": "Antiochus III the Great",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:52"
+  },
+  {
+    "subject": "Apsu",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:12"
+  },
+  {
+    "subject": "Arameans",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:36"
+  },
+  {
+    "subject": "Arsinoe II of Egypt",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:13"
+  },
+  {
+    "subject": "Ashur-nadin-apal",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:13"
+  },
+  {
+    "subject": "Ashur-nasir-apli",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:06"
+  },
+  {
+    "subject": "Ashur-nasir-pal I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:09"
+  },
+  {
+    "subject": "Ashur-nerari I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:36"
+  },
+  {
+    "subject": "Ashur-resh-ishi I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:06"
+  },
+  {
+    "subject": "Battle of the Lullubi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:02"
+  },
+  {
+    "subject": "Borsippa",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:11"
+  },
+  {
+    "subject": "Caesarion",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:26"
+  },
+  {
+    "subject": "Formation of the Babylonian Empire",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:24"
+  },
+  {
+    "subject": "Gudea of Lagash",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:02"
+  },
+  {
+    "subject": "Hammurabi's Code",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:24"
+  },
+  {
+    "subject": "Ishme-Dagan",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:36"
+  },
+  {
+    "subject": "Julius Caesar",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:26"
+  },
+  {
+    "subject": "Kalhu",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:22"
+  },
+  {
+    "subject": "Laodice I",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:52"
+  },
+  {
+    "subject": "Mark Antony",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:26"
+  },
+  {
+    "subject": "Ninurta",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:23"
+  },
+  {
+    "subject": "Ptolemy Philadelphus",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:26"
+  },
+  {
+    "subject": "Roman Empire",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:12"
+  },
+  {
+    "subject": "Samsu-iluna",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:24"
+  },
+  {
+    "subject": "Sin-Muballit",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:24"
+  },
+  {
+    "subject": "Stele of Hammurabi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:24"
+  },
+  {
+    "subject": "Sumu-abum",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:24"
+  },
+  {
+    "subject": "Temple of Enlil",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:23:06"
+  },
+  {
+    "subject": "Ancient Near East",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:33"
+  },
+  {
+    "subject": "Antiochus IV Epiphanes",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:10"
+  },
+  {
+    "subject": "Apil-Sin",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:21"
+  },
+  {
+    "subject": "Aram",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:33"
+  },
+  {
+    "subject": "Arsinoe I",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:13"
+  },
+  {
+    "subject": "First Dynasty of Babylon",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:20"
+  },
+  {
+    "subject": "Gudea Cylinders",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:01"
+  },
+  {
+    "subject": "King Ashurnasirpal II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:33"
+  },
+  {
+    "subject": "Louvre Museum",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:22"
+  },
+  {
+    "subject": "Ninhursag",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:39"
+  },
+  {
+    "subject": "Ptolemy II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:13"
+  },
+  {
+    "subject": "Rome",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:11"
+  },
+  {
+    "subject": "Seleucus II Callinicus",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:10"
+  },
+  {
+    "subject": "Statue of Gudea",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:01"
+  },
+  {
+    "subject": "Sumerian culture",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:34"
+  },
+  {
+    "subject": "Temple of Marduk",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:21"
+  },
+  {
+    "subject": "Temple of Ningirsu",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:01"
+  },
+  {
+    "subject": "the Great Ziggurat",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:33"
+  },
+  {
+    "subject": "the Temple of Nabu",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:33"
+  },
+  {
+    "subject": "Antiochus V Eupator",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:32"
+  },
+  {
+    "subject": "E-Kur",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:32"
+  },
+  {
+    "subject": "Gudea",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:30"
+  },
+  {
+    "subject": "King Gudea",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:35"
+  },
+  {
+    "subject": "Museum of the Ancient Orient, Istanbul",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:32"
+  },
+  {
+    "subject": "the Seleucids",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:24"
+  },
+  {
+    "subject": "Gudeid Dynasty",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:54"
+  },
+  {
+    "subject": "Ur-Bau",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:54"
+  },
+  {
+    "subject": "Ur-Ningirsu",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:43"
+  },
+  {
+    "subject": "Ur-Ninurta",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:27:54"
+  }
+]

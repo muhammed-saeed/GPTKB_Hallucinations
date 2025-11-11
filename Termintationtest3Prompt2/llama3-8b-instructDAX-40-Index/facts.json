@@ -1,0 +1,437 @@
+{
+  "accepted": [
+    {
+      "subject": "Berlin",
+      "predicate": "capitalOf",
+      "object": "Germany",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Berlin",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Berlin",
+      "predicate": "locatedIn",
+      "object": "Europe",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Börse Frankfurt",
+      "predicate": "instanceOf",
+      "object": "Stock exchange",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Börse Frankfurt",
+      "predicate": "location",
+      "object": "Frankfurt, Germany",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Börse Frankfurt",
+      "predicate": "tradingHours",
+      "object": "Monday to Friday, 9:00 AM to 5:30 PM",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "City",
+      "predicate": "hasStockExchange",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "City",
+      "predicate": "hosts",
+      "object": "DAX 40 Index",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "City",
+      "predicate": "instanceOf",
+      "object": "Location",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "City",
+      "predicate": "locationOf",
+      "object": "Deutsche Börse",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "City",
+      "predicate": "partOf",
+      "object": "Germany",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "basedIn",
+      "object": "Frankfurt",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "components",
+      "object": "40",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "instanceOf",
+      "object": "Stock market index",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "representative",
+      "object": "German stock market",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.92
+    },
+    {
+      "subject": "DAX 40 Index",
+      "predicate": "startedIn",
+      "object": "1987",
+      "hop": 0,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "founded",
+      "object": "1585",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "headquarteredIn",
+      "object": "Frankfurt",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Deutsche Börse",
+      "predicate": "instanceOf",
+      "object": "Stock Exchange",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Deutsche Börse AG",
+      "predicate": "founded",
+      "object": "1585",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse AG",
+      "predicate": "headquarteredIn",
+      "object": "Frankfurt",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse AG",
+      "predicate": "instanceOf",
+      "object": "Stock exchange",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Deutsche Börse AG",
+      "predicate": "operates",
+      "object": "XETRA",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt",
+      "predicate": "homeTo",
+      "object": "Deutsche Börse AG",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt",
+      "predicate": "homeTo",
+      "object": "Frankfurt Stock Exchange",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "Frankfurt",
+      "predicate": "locatedIn",
+      "object": "Germany",
+      "hop": 1,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "founded",
+      "object": "1585",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "instanceOf",
+      "object": "Stock exchange",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "location",
+      "object": "Frankfurt, Germany",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt Stock Exchange",
+      "predicate": "type",
+      "object": "Börse Frankfurt",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Frankfurt, Germany",
+      "predicate": "homeTo",
+      "object": "Deutsche Börse",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Frankfurt, Germany",
+      "predicate": "instanceOf",
+      "object": "City",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Frankfurt, Germany",
+      "predicate": "locatedIn",
+      "object": "Hesse",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Frankfurt, Germany",
+      "predicate": "seatOf",
+      "object": "German Federal Bank",
+      "hop": 4,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "German Federal Bank",
+      "predicate": "establisheDate",
+      "object": "1957",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "German Federal Bank",
+      "predicate": "headquarteredIn",
+      "object": "Berlin",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "German Federal Bank",
+      "predicate": "instanceOf",
+      "object": "Central Bank",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Germany",
+      "predicate": "ISOCode",
+      "object": "DE",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "capital",
+      "object": "Berlin",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "currency",
+      "object": "Euro",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "instanceOf",
+      "object": "Country",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Germany",
+      "predicate": "locatedIn",
+      "object": "Europe",
+      "hop": 2,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 1.0
+    },
+    {
+      "subject": "Hesse",
+      "predicate": "instanceOf",
+      "object": "German state",
+      "hop": 5,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.99
+    },
+    {
+      "subject": "XETRA",
+      "predicate": "currency",
+      "object": "EUR",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "XETRA",
+      "predicate": "instanceOf",
+      "object": "stock exchange",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "XETRA",
+      "predicate": "location",
+      "object": "Frankfurt, Germany",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "XETRA",
+      "predicate": "tradingHours",
+      "object": "9:00 AM - 5:30 PM CET",
+      "hop": 3,
+      "model": "meta/meta-llama-3-8b-instruct",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    }
+  ],
+  "sink": []
+}

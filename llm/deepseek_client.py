@@ -1,130 +1,107 @@
 # llm/deepseek_client.py
-"""
-DeepSeek client with debug logging to identify JSON parsing issues.
-"""
-
 from __future__ import annotations
 from typing import Any, Dict, List, Optional
 import json
-import os
+import time
 import requests
-from dotenv import load_dotenv
 
+from llm.json_utils import best_json, strip_fences as _strip_fences  # unified utils
+
+def _schema_hint(schema: Dict[str, Any]) -> str:
+    return (
+        "Return ONLY one valid JSON object that matches this JSON Schema exactly. "
+        "No prose, no markdown, no code fences. "
+        "If unsure, return an empty but valid object per schema.\nSCHEMA:\n"
+        + json.dumps(schema, ensure_ascii=False)
+    )
+
+def _best_json(text: str) -> Dict[str, Any]:
+    obj = best_json(text)
+    return obj if isinstance(obj, dict) else {}
 
 class DeepSeekClient:
     """
-    DeepSeek client with detailed logging.
+    Minimal DeepSeek client (Chat-like).
+    We never use OpenAI 'response_format', since DeepSeek won't accept json_schema.
     """
 
     def __init__(
         self,
         model: str,
         api_key: str,
-        base_url: str = "https://api.deepseek.com",
-        max_tokens: int = 2048,
-        temperature: float = 0.2,
-        top_p: float = 1.0,
+        base_url: Optional[str] = "https://api.deepseek.com",
+        max_tokens: Optional[int] = 1024,
+        temperature: Optional[float] = 0.2,
+        top_p: Optional[float] = 1.0,
+        extra_inputs: Optional[Dict[str, Any]] = None,
+        request_timeout: float = 120.0,
     ):
-        load_dotenv()
         self.model = model
-        self.api_key = api_key or os.getenv("DEEPSEEK_API_KEY")
-        self.base_url = base_url.rstrip("/")
         self.max_tokens = max_tokens
         self.temperature = temperature
         self.top_p = top_p
-
-    def __call__(
-        self,
-        messages: List[Dict[str, str]],
-        json_schema: Optional[Dict[str, Any]] = None,
-    ) -> Dict[str, Any]:
-        """Direct callable interface"""
-        return self.generate(messages, json_schema=json_schema)
-
-    def generate(
-        self,
-        messages: List[Dict[str, str]],
-        *,
-        json_schema: Optional[Dict[str, Any]] = None,
-        temperature: Optional[float] = None,
-        top_p: Optional[float] = None,
-        max_tokens: Optional[int] = None,
-        **kwargs,
-    ) -> Dict[str, Any]:
-        """Generate response with detailed debug logging"""
-        
-        # Use provided params or fall back to defaults
-        temp = temperature if temperature is not None else self.temperature
-        tp = top_p if top_p is not None else self.top_p
-        mt = max_tokens if max_tokens is not None else self.max_tokens
-        
-        # Make the API request
-        url = f"{self.base_url}/v1/chat/completions"
-        headers = {
-            "Authorization": f"Bearer {self.api_key}",
+        self.extra = extra_inputs or {}
+        self.url = f"{base_url.rstrip('/')}/chat/completions"
+        self.headers = {
+            "Authorization": f"Bearer {api_key}",
             "Content-Type": "application/json",
         }
+        self.request_timeout = request_timeout
 
-        body = {
-            "model": self.model,
-            "messages": messages,
-            "temperature": temp,
-            "top_p": tp,
-            "max_tokens": mt,
-        }
-
-        # Tell DeepSeek to return JSON when we request it
+    def __call__(self, messages: List[Dict[str, str]], json_schema: Optional[Dict[str, Any]] = None):
+        # Inject strict schema instructions in the system message instead of response_format
+        msgs = list(messages)
         if json_schema:
-            body["response_format"] = {"type": "json_object"}
-
-        # POST request
-        response = requests.post(url, headers=headers, json=body, timeout=90.0)
-        
-        if response.status_code != 200:
-            raise RuntimeError(f"DeepSeek API error: {response.status_code} {response.text[:200]}")
-
-        # Extract the text response
-        data = response.json()
-        text = (data["choices"][0]["message"]["content"] or "").strip()
-
-        # If no schema requested, just return text
-        if not json_schema:
-            return {"text": text}
-
-        # DEBUG: Print what we're trying to parse
-        # print(f"[DeepSeekClient] text length: {len(text)}")
-        # print(f"[DeepSeekClient] text starts with: {text[:100]}")
-        # print(f"[DeepSeekClient] text ends with: {text[-100:]}")
-        # print(f"[DeepSeekClient] text type: {type(text)}")
-        
-        # Check if it's wrapped in quotes (string representation of JSON)
-        if text.startswith('"') and text.endswith('"'):
-            # print("[DeepSeekClient] WARNING: Text is quoted! Unquoting...")
-            text = text[1:-1]
-            # print(f"[DeepSeekClient] After unquote: {text[:100]}")
-
-        # If schema requested, try to parse as JSON
-        try:
-            result = json.loads(text)
-            # print(f"[DeepSeekClient] ✓ json.loads() succeeded!")
-            # print(f"[DeepSeekClient] result type: {type(result)}")
-            # print(f"[DeepSeekClient] result keys: {result.keys() if isinstance(result, dict) else 'N/A'}")
-            
-            if isinstance(result, dict):
-                return result
+            if msgs and msgs[0].get("role") == "system":
+                msgs[0] = {"role": "system", "content": msgs[0]["content"] + "\n\n" + _schema_hint(json_schema)}
             else:
-                # print(f"[DeepSeekClient] ✗ Result is not dict, got: {type(result)}")
-                return {"_raw": text}
-                
-        except json.JSONDecodeError as e:
-            # print(f"[DeepSeekClient] ✗ json.loads() FAILED!")
-            # print(f"[DeepSeekClient] Error: {e}")
-            # print(f"[DeepSeekClient] Error position: {e.pos}")
-            if e.pos is not None and e.pos < len(text):
-                # print(f"[DeepSeekClient] Text around error: {text[max(0,e.pos-50):e.pos+50]}")
-                a = "ok"
-            return {"_raw": text}
+                msgs.insert(0, {"role": "system", "content": _schema_hint(json_schema)})
 
+        payload: Dict[str, Any] = {
+            "model": self.model,
+            "messages": msgs,
+            "temperature": self.temperature,
+            "top_p": self.top_p,
+            "max_tokens": self.max_tokens,
+        }
+        # allow user extras (e.g., penalties) but remove Nones
+        for k, v in (self.extra or {}).items():
+            if v is not None:
+                payload[k] = v
 
-# For compatibility with code that expects DeepSeekLLM
-DeepSeekLLM = DeepSeekClient
+        # modest retry for transient HTTP errors
+        last_exc = None
+        for attempt in range(3):
+            try:
+                r = requests.post(self.url, headers=self.headers, json=payload, timeout=self.request_timeout)
+                r.raise_for_status()
+                data = r.json()
+                break
+            except requests.HTTPError as e:
+                last_exc = e
+                status = getattr(e.response, "status_code", None) if e.response else None
+                if status in (429, 500, 502, 503, 504) and attempt < 2:
+                    time.sleep(2 ** attempt)
+                    continue
+                raise
+            except Exception as e:
+                last_exc = e
+                if attempt < 2:
+                    time.sleep(2 ** attempt)
+                    continue
+                raise last_exc  # re-raise after retries
+
+        # content
+        try:
+            text = (data["choices"][0]["message"]["content"] or "").strip()
+        except Exception:
+            text = ""
+
+        if not json_schema:
+            return {"text": text, "_raw": text}
+
+        # parse/salvage
+        obj = _best_json(text)
+        if obj:
+            return obj
+        return {"_raw": text}

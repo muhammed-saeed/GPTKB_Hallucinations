@@ -2,7 +2,10 @@
 from __future__ import annotations
 import json
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Any
+
+# Only these placeholders will be replaced; all other braces are left intact.
+_ALLOWED_KEYS = {"subject_name", "phrases_block", "root_subject"}
 
 def _resolve(path: str | Path) -> Path:
     p = Path(path)
@@ -17,11 +20,26 @@ def _resolve(path: str | Path) -> Path:
         return p3
     raise FileNotFoundError(f"Prompt not found. Tried: {p}, {p2}, {p3}")
 
+def _safe_render(template: str, variables: Dict[str, Any] | None) -> str:
+    """
+    Replace ONLY whitelisted placeholders like {subject_name} or {phrases_block}.
+    Leave ALL other { ... } untouched (e.g., JSON braces, schema examples).
+    """
+    if not template:
+        return ""
+    if not variables:
+        return template
+    out = template
+    for k, v in variables.items():
+        if k in _ALLOWED_KEYS:
+            out = out.replace("{" + k + "}", str(v))
+    return out
+
 def load_messages_from_prompt_json(path: str | Path, **vars) -> List[Dict[str, str]]:
     obj = json.loads(_resolve(path).read_text(encoding="utf-8"))
-    system = (obj.get("system") or "").format(**vars)
-    user   = (obj.get("user") or "").format(**vars)
+    system = _safe_render(obj.get("system") or "", vars).strip()
+    user   = _safe_render(obj.get("user") or "", vars).strip()
     return [
-        {"role": "system", "content": system.strip()},
-        {"role": "user",   "content": user.strip()},
+        {"role": "system", "content": system},
+        {"role": "user",   "content": user},
     ]

@@ -1,0 +1,93 @@
+[
+  {
+    "subject": "DAX 40 Index",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:05"
+  },
+  {
+    "subject": "Frankfurt",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:21"
+  },
+  {
+    "subject": "City",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:36"
+  },
+  {
+    "subject": "Deutsche Börse AG",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:36"
+  },
+  {
+    "subject": "Frankfurt Stock Exchange",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:36"
+  },
+  {
+    "subject": "Germany",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:36"
+  },
+  {
+    "subject": "Berlin",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:53"
+  },
+  {
+    "subject": "Börse Frankfurt",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:53"
+  },
+  {
+    "subject": "XETRA",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:53"
+  },
+  {
+    "subject": "Frankfurt, Germany",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:08"
+  },
+  {
+    "subject": "Deutsche Börse",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:22"
+  },
+  {
+    "subject": "German Federal Bank",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:22"
+  },
+  {
+    "subject": "Hesse",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:22"
+  }
+]

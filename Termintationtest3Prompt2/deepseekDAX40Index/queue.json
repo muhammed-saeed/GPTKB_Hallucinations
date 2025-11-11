@@ -1,0 +1,548 @@
+[
+  {
+    "subject": "DAX 40 Index",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:08:40"
+  },
+  {
+    "subject": "DAX 30 Index",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:10:54"
+  },
+  {
+    "subject": "Deutsche Börse",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:10:54"
+  },
+  {
+    "subject": "Deutsche Börse AG",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:10:54"
+  },
+  {
+    "subject": "Frankfurt Stock Exchange",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:10:54"
+  },
+  {
+    "subject": ".GDAXI",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:10"
+  },
+  {
+    "subject": "BaFin",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:18"
+  },
+  {
+    "subject": "Börse Frankfurt",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:33"
+  },
+  {
+    "subject": "Clearstream",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:06"
+  },
+  {
+    "subject": "DAX",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:06"
+  },
+  {
+    "subject": "DB1",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:06"
+  },
+  {
+    "subject": "Eurex",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:06"
+  },
+  {
+    "subject": "MDAX",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:06"
+  },
+  {
+    "subject": "SDAX",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:18"
+  },
+  {
+    "subject": "TecDAX",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:18"
+  },
+  {
+    "subject": "Theodor Weimer",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:06"
+  },
+  {
+    "subject": "Xetra",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:06"
+  },
+  {
+    "subject": "Xetra trading platform",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:13:33"
+  },
+  {
+    "subject": "DAX Index Committee",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:00"
+  },
+  {
+    "subject": "Deutsche Börse Group",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:14:19"
+  },
+  {
+    "subject": "Deutsche Börse Management Board",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:31"
+  },
+  {
+    "subject": "Eurex Clearing",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:27"
+  },
+  {
+    "subject": "Frankfurt",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:27"
+  },
+  {
+    "subject": "German Federal Financial Supervisory Authority",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:17"
+  },
+  {
+    "subject": "London Stock Exchange Group",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:27"
+  },
+  {
+    "subject": "Nasdaq",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:27"
+  },
+  {
+    "subject": "STOXX",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:15:27"
+  },
+  {
+    "subject": "Bundesanstalt für Finanzdienstleistungsaufsicht",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:56"
+  },
+  {
+    "subject": "Christoph Böhm",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:58"
+  },
+  {
+    "subject": "Clearstream Banking AG",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:57"
+  },
+  {
+    "subject": "Eurex Frankfurt AG",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:57"
+  },
+  {
+    "subject": "European Central Bank",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:24"
+  },
+  {
+    "subject": "FTSE Russell",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:20"
+  },
+  {
+    "subject": "Frankfurt am Main",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:17:06"
+  },
+  {
+    "subject": "Heike Eckert",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:58"
+  },
+  {
+    "subject": "New York Stock Exchange",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:18:45"
+  },
+  {
+    "subject": "Stephan Leithner",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:58"
+  },
+  {
+    "subject": "Thomas Book",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:16:58"
+  },
+  {
+    "subject": "Deutsche Bank",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:21:00"
+  },
+  {
+    "subject": "Deutsche Bundesbank",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:22:10"
+  },
+  {
+    "subject": "Germany",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:25"
+  },
+  {
+    "subject": "S&P Dow Jones Indices",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:20:36"
+  },
+  {
+    "subject": "Siemens AG",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:19:19"
+  },
+  {
+    "subject": "Christian Sewing",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:10"
+  },
+  {
+    "subject": "DWS Group",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:10"
+  },
+  {
+    "subject": "Deutsche Mark",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:13"
+  },
+  {
+    "subject": "Dow Jones Industrial Average",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:28"
+  },
+  {
+    "subject": "Euro",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:07"
+  },
+  {
+    "subject": "European Union",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:07"
+  },
+  {
+    "subject": "Federal Financial Supervisory Authority",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:13"
+  },
+  {
+    "subject": "International Monetary Fund",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:13"
+  },
+  {
+    "subject": "MSCI",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:28"
+  },
+  {
+    "subject": "S&P 500",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:28"
+  },
+  {
+    "subject": "S&P Global",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:24:28"
+  },
+  {
+    "subject": "Bundesbank",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:40"
+  },
+  {
+    "subject": "Charles Dow",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:34"
+  },
+  {
+    "subject": "Edward Jones",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:34"
+  },
+  {
+    "subject": "Eurozone",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:21"
+  },
+  {
+    "subject": "Kristalina Georgieva",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:25:53"
+  },
+  {
+    "subject": "NYSE",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:34"
+  },
+  {
+    "subject": "The Wall Street Journal",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:34"
+  },
+  {
+    "subject": "World Economic Forum",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:26:30"
+  },
+  {
+    "subject": "11 Wall Street",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:28:27"
+  },
+  {
+    "subject": "Dow Jones & Company",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:28:30"
+  },
+  {
+    "subject": "Dow Theory",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:28:30"
+  },
+  {
+    "subject": "Black Monday 1987",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:30:43"
+  },
+  {
+    "subject": "Black Thursday 1929",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:30:43"
+  },
+  {
+    "subject": "Bloomberg L.P.",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:31:01"
+  },
+  {
+    "subject": "Dow Jones Transportation Average",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:30:22"
+  },
+  {
+    "subject": "Financial Times",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:31:01"
+  },
+  {
+    "subject": "Reuters",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:31:01"
+  },
+  {
+    "subject": "Hong Kong Stock Exchange",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:31:39"
+  },
+  {
+    "subject": "London Stock Exchange",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:31:39"
+  },
+  {
+    "subject": "Refinitiv",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:32:50"
+  },
+  {
+    "subject": "Thomson Reuters",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:32:50"
+  },
+  {
+    "subject": "FTSE 100",
+    "hop": 11,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:35:08"
+  },
+  {
+    "subject": "FactSet",
+    "hop": 11,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:34:55"
+  },
+  {
+    "subject": "Moody's",
+    "hop": 11,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:35:00"
+  }
+]

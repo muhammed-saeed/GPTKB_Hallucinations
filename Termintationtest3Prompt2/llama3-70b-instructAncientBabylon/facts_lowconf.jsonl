@@ -1,0 +1,26 @@
+{"subject": "Akkadian", "predicate": "extinctionYear", "object": "", "hop": 1, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Hanging Gardens of Babylon", "predicate": "locatedIn", "object": "", "hop": 1, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Hanging Gardens of Babylon", "predicate": "constructionDate", "object": "", "hop": 1, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Hanging Gardens of Babylon", "predicate": "destroyedBy", "object": "", "hop": 1, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Nebuchadnezzar II", "predicate": "son", "object": "", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Settlement", "predicate": "established", "object": "", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Mari", "predicate": "founded", "object": "", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Urban Settlement", "predicate": "hasLocation", "object": "", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Old Persian", "predicate": "extinct", "object": "", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Ancient Period", "predicate": "startedIn", "object": "", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Neuchadnezzar II", "predicate": "son", "object": "", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Africa", "predicate": "locatedIn", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Neo-Babylonian Empire", "predicate": "capital", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Epic of Gilgamesh", "predicate": "influenced", "object": "Homer's epics", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Epic of Gilgamesh", "predicate": "discoveredIn", "object": "Library of Ashurbanipal", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.75, "threshold": 0.8}
+{"subject": "Monarch", "predicate": "reignsOver", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Colonies", "predicate": "locatedIn", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Government", "predicate": "hadCapital", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Ancient Mesopotamia", "predicate": "climate", "object": "Arid, Semi-arid", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Ancient Mesopotamia", "predicate": "economy", "object": "Agriculture, Trade", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.75, "threshold": 0.8}
+{"subject": "Cambyses II", "predicate": "born", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Ancient Kingdom", "predicate": "wasFormed", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Ancient Civilization", "predicate": "believedIn", "object": "Polytheism", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Ancient Civilization", "predicate": "created", "object": "Artifacts", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.76, "threshold": 0.8}
+{"subject": "Cuneiform writing system", "predicate": "decipheredBy", "object": "Henry Creswicke Rawlinson", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Deioces", "predicate": "reigned", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}

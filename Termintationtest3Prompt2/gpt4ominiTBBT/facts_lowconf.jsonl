@@ -1,0 +1,16 @@
+{"subject": "Bill Prady", "predicate": "spouse", "object": "", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.85}
+{"subject": "Barenaked Ladies", "predicate": "associatedAct", "object": "The Barenaked Ladies' Holiday Album", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Chuck Lorre", "predicate": "netWorth", "object": "$600 million", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Jim Parsons", "predicate": "hasInfluenceOn", "object": "comedy television", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Kaley Cuoco", "predicate": "hasChild", "object": "", "hop": 1, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.85}
+{"subject": "Rajesh Koothrappali", "predicate": "hasPet", "object": "Dog", "hop": 2, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Leonard Hofstadter", "predicate": "hasChild", "object": "", "hop": 2, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.85}
+{"subject": "Sheldon Cooper", "predicate": "hasPet", "object": "Dog", "hop": 2, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Sheldon Cooper", "predicate": "favoriteFood", "object": "Thai Food", "hop": 2, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Penny", "predicate": "hasChild", "object": "", "hop": 2, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.85}
+{"subject": "Beverly Hofstadter", "predicate": "notableEvent", "object": "Leonard's marriage to Penny", "hop": 3, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Beverly Hofstadter", "predicate": "notableEvent", "object": "Sheldon and Beverly's interactions", "hop": 3, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Caltech", "predicate": "notableAlumni", "object": "Caltech Alumni Association", "hop": 3, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}
+{"subject": "Halley Wolowitz", "predicate": "fatherOf", "object": "", "hop": 3, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.85}
+{"subject": "Penny Hofstadter", "predicate": "hasChild", "object": "", "hop": 4, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.85}
+{"subject": "Penny Hofstadter", "predicate": "hasPet", "object": "Dog", "hop": 4, "model": "gpt-4o-mini", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.85}

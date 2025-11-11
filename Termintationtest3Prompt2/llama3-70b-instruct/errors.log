@@ -1,0 +1,77 @@
+[2025-11-06T20:21:59.801634] subject=Over-the-top reactions
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_transports/default.py", line 72, in map_httpcore_exceptions
+    yield
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_transports/default.py", line 236, in handle_request
+    resp = self._pool.handle_request(req)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
+    raise exc from None
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
+    response = connection.handle_request(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpcore/_sync/connection.py", line 103, in handle_request
+    return self._connection.handle_request(request)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 136, in handle_request
+    raise exc
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 106, in handle_request
+    ) = self._receive_response_headers(**kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 177, in _receive_response_headers
+    event = self._receive_event(timeout=timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpcore/_sync/http11.py", line 231, in _receive_event
+    raise RemoteProtocolError(msg)
+httpcore.RemoteProtocolError: Server disconnected without sending a response.
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/crawler_runner_heuristics3.py", line 1865, in _elicitation_and_ner
+    resp = el_llm(el_messages)
+           ^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/replicate_client.py", line 1472, in __call__
+    return self.generate(messages, json_schema=json_schema, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/replicate_client.py", line 1645, in generate
+    text = self._blocking_once(inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/Downloads/TU Dresden/GPTKB_Hallucinations/llm/replicate_client.py", line 1592, in _blocking_once
+    pred = self._client.predictions.create(model=self.model, input=inputs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/replicate/prediction.py", line 467, in create
+    return Models(self._client).predictions.create(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/replicate/model.py", line 405, in create
+    resp = self._client._request("POST", path, json=body, **extras)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/replicate/client.py", line 88, in _request
+    resp = self._client.request(method, path, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_client.py", line 837, in request
+    return self.send(request, auth=auth, follow_redirects=follow_redirects)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_client.py", line 926, in send
+    response = self._send_handling_auth(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_client.py", line 954, in _send_handling_auth
+    response = self._send_handling_redirects(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_client.py", line 991, in _send_handling_redirects
+    response = self._send_single_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_client.py", line 1027, in _send_single_request
+    response = transport.handle_request(request)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/replicate/client.py", line 293, in handle_request
+    response = self._wrapped_transport.handle_request(request)  # type: ignore
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_transports/default.py", line 235, in handle_request
+    with map_httpcore_exceptions():
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/contextlib.py", line 158, in __exit__
+    self.gen.throw(typ, value, traceback)
+  File "/Users/muhammedsaeed/anaconda3/envs/KB/lib/python3.11/site-packages/httpx/_transports/default.py", line 89, in map_httpcore_exceptions
+    raise mapped_exc(message) from exc
+httpx.RemoteProtocolError: Server disconnected without sending a response.
+

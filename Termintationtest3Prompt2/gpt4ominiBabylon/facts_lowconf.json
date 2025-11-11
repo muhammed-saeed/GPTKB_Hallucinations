@@ -1,0 +1,2252 @@
+[
+  {
+    "subject": "Epic of Gilgamesh",
+    "predicate": "publishedYear",
+    "object": "",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Hammurabi",
+    "predicate": "spouse",
+    "object": "Sammu-ramat",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "The Tower of Babel",
+    "predicate": "height",
+    "object": "Unknown",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "The Tower of Babel",
+    "predicate": "culturalSignificance",
+    "object": "Mythological narrative",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.8,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar I",
+    "predicate": "mother",
+    "object": "Zababa-zer",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Babylon",
+    "predicate": "archaeologicalSite",
+    "object": "",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "reputation",
+    "object": "tyrant",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "influenced",
+    "object": "later cultures",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his inscriptions",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his diplomacy",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his interactions with the Jewish people",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his influence on Mesopotamian culture",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his legacy",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his conflicts with the Assyrians",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his role in the fall of Jerusalem",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his military strategies",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his political alliances",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his economic policies",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his cultural contributions",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his religious policies",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his impact on Babylonian society",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his role in the history of Babylon",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his interactions with neighboring kingdoms",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his military campaigns against the Egyptians",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his efforts to expand the Babylonian Empire",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his impact on the ancient Near East",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his legacy in historical texts",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his role in the development of Babylonian law",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his contributions to Babylonian astronomy",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his influence on subsequent empires",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his role in the cultural exchange between Babylon and other civilizations",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his impact on the arts in Babylon",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "predicate": "knownFor",
+    "object": "his role in the preservation of Babylonian knowledge",
+    "hop": 1,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Akkadian",
+    "predicate": "languageFamily",
+    "object": "Afro-Asiatic",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "ziggurats",
+    "predicate": "servedAs",
+    "object": "astronomical observatory",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Robert Koldewey",
+    "predicate": "influencedBy",
+    "object": "Heinrich Schliemann",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Robert Koldewey",
+    "predicate": "spouse",
+    "object": "",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nabonassar",
+    "predicate": "birthYear",
+    "object": "<unknown>",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nabonassar",
+    "predicate": "deathYear",
+    "object": "<unknown>",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Amel-Marduk",
+    "predicate": "birthYear",
+    "object": "unknown",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Amel-Marduk",
+    "predicate": "deathYear",
+    "object": "unknown",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "Qanat",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "Ecbatana",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "Bactra",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Hanging Gardens",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Apadana",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Gate of All Nations",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Tomb of Cyrus",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Tomb of Darius",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Tomb of Xerxes",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Apadana Palace",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Hall of a Hundred Columns",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Hall of the Audience",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Xerxes",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Artaxerxes",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Cyrus",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Cambyses",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius II",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Artaxerxes II",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Artaxerxes III",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Artaxerxes IV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius III",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius IV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius V",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius VI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius VII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius VIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius IX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius X",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XXXIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XL",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XLIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius L",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius LXXXIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XC",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCIV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCV",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCVI",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCVII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCVIII",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "predicate": "notableConstruction",
+    "object": "The Palace of Darius XCIX",
+    "hop": 2,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Darius III",
+    "predicate": "children",
+    "object": "Tissaphernes",
+    "hop": 3,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Susa",
+    "predicate": "notableArtifact",
+    "object": "The Code of Hammurabi",
+    "hop": 3,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.8,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Darius I",
+    "predicate": "father",
+    "object": "Cyrus the Great",
+    "hop": 3,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Seleucid Empire",
+    "predicate": "alliance",
+    "object": "Ptolemaic Kingdom",
+    "hop": 3,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sargon II",
+    "predicate": "birthYear",
+    "object": "unknown",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tiglath-Pileser III",
+    "predicate": "birthYear",
+    "object": "unknown",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Assyria",
+    "predicate": "foundedYear",
+    "object": "",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Assyria",
+    "predicate": "tradeRoute",
+    "object": "Silk Road",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Esagila temple complex",
+    "predicate": "rebuiltDuring",
+    "object": "Seleucid period",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.8,
+    "threshold": 0.85
+  },
+  {
+    "subject": "the Great Ziggurat of Ur",
+    "predicate": "discoveredBy",
+    "object": "archaeologists",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Seleucus I Nicator",
+    "predicate": "children",
+    "object": "Agenor",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Seleucus I Nicator",
+    "predicate": "children",
+    "object": "Stratonice",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Seleucus I Nicator",
+    "predicate": "established",
+    "object": "City of Apamea",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Seleucus I Nicator",
+    "predicate": "established",
+    "object": "City of Edessa",
+    "hop": 4,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Adad-Nirari II",
+    "predicate": "mother",
+    "object": "Unnamed queen",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Adad-nirari I",
+    "predicate": "father",
+    "object": "Tukulti-Ninurta I",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Adad-nirari I",
+    "predicate": "mother",
+    "object": "Unnamed Queen",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Akkad",
+    "predicate": "archaeologicalSite",
+    "object": "Tell Brak",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "notableEvent",
+    "object": "Construction of the city of Dur-Sharrukin",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "children",
+    "object": "Shamash-shum-ukin",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "children",
+    "object": "Sennacherib's daughters",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "notableWork",
+    "object": "Sennacherib's campaign records",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "notableWork",
+    "object": "Sennacherib's building projects",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "notableWork",
+    "object": "Sennacherib's military records",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "notableWork",
+    "object": "Sennacherib's letters",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "notableWork",
+    "object": "Sennacherib's treaties",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Sennacherib",
+    "predicate": "notableWork",
+    "object": "Sennacherib's religious texts",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ashur-nasir-apli I",
+    "predicate": "mother",
+    "object": "Iltani",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ashur-nasir-apli III",
+    "predicate": "father",
+    "object": "Tiglath-Pileser III",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ashur-nasir-apli III",
+    "predicate": "templeBuilt",
+    "object": "Temple of Ashur",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ashur-nasir-apli III",
+    "predicate": "dateOfBirth",
+    "object": "",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ashur-nasir-apli III",
+    "predicate": "dateOfDeath",
+    "object": "",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ptolemy IV Philopator",
+    "predicate": "burialPlace",
+    "object": "Somtus",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ptolemy IV Philopator",
+    "predicate": "portrait",
+    "object": "",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ptolemy X Alexander I",
+    "predicate": "birthYear",
+    "object": "unknown",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ptolemy X Alexander I",
+    "predicate": "placeOfBirth",
+    "object": "",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ptolemy X Alexander I",
+    "predicate": "placeOfDeath",
+    "object": "",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tukulti-Ninurta I",
+    "predicate": "mother",
+    "object": "Unnamed queen",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tukulti-Ninurta I",
+    "predicate": "birthYear",
+    "object": "Unknown",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.5,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Shalmaneser I",
+    "predicate": "mother",
+    "object": "Amasu",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "City of Babylon",
+    "predicate": "hasPopulation",
+    "object": "",
+    "hop": 5,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tukulti-Ninurta II",
+    "predicate": "dynasty",
+    "object": "Tiglath-Pileser III",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tukulti-Ninurta II",
+    "predicate": "mother",
+    "object": "unknown",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.5,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tukulti-Ninurta II",
+    "predicate": "burialPlace",
+    "object": "unknown",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.5,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ninlil",
+    "predicate": "associatedWith",
+    "object": "agriculture",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Shalmaneser III",
+    "predicate": "mother",
+    "object": "Nisroch",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tiglath-Pileser I",
+    "predicate": "dynasty",
+    "object": "Pahlavi dynasty",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tiglath-Pileser I",
+    "predicate": "mother",
+    "object": "Ishme-Dagan",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tiglath-Pileser I",
+    "predicate": "militaryInnovations",
+    "object": "Siege warfare",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tiglath-Pileser I",
+    "predicate": "reforms",
+    "object": "Administrative reforms",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Tiglath-Pileser I",
+    "predicate": "religiousPolicy",
+    "object": "Promotion of Ashur worship",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Nabu",
+    "predicate": "symbol",
+    "object": "tablet and stylus",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.8,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Berenice II of Egypt",
+    "predicate": "buriedAt",
+    "object": "Ptolemaic tombs",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.8,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ashur-nasir-pal I",
+    "predicate": "dynasty",
+    "object": "Pahlavi dynasty",
+    "hop": 7,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Ptolemy XI Alexander",
+    "predicate": "birthYear",
+    "object": "unknown",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "King Hammurabi",
+    "predicate": "mother",
+    "object": "Amat-Mutu",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "King Hammurabi",
+    "predicate": "associatedWith",
+    "object": "Sumerian culture",
+    "hop": 6,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Kalhu",
+    "predicate": "populationEstimate",
+    "object": "approximately 100,000 at its peak",
+    "hop": 7,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Kalhu",
+    "predicate": "declinePeriod",
+    "object": "after the fall of the Assyrian Empire",
+    "hop": 7,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Samsu-iluna",
+    "predicate": "father",
+    "object": "Hammurabi",
+    "hop": 7,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Samsu-iluna",
+    "predicate": "knownFor",
+    "object": "Legal reforms",
+    "hop": 7,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "the Temple of Nabu",
+    "predicate": "rebuiltBy",
+    "object": "the Seleucids",
+    "hop": 8,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Gudea Cylinders",
+    "predicate": "dimensions",
+    "object": "Height 1.5 meters",
+    "hop": 8,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.7,
+    "threshold": 0.85
+  },
+  {
+    "subject": "Temple of Ningirsu",
+    "predicate": "archaeologicalSite",
+    "object": "",
+    "hop": 8,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.8,
+    "threshold": 0.85
+  },
+  {
+    "subject": "King Gudea",
+    "predicate": "birthPlace",
+    "object": "",
+    "hop": 9,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  },
+  {
+    "subject": "King Gudea",
+    "predicate": "deathPlace",
+    "object": "",
+    "hop": 9,
+    "model": "gpt-4o-mini",
+    "strategy": "calibrate",
+    "confidence": 0.0,
+    "threshold": 0.85
+  }
+]

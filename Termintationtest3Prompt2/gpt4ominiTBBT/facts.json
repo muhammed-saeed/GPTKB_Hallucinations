@@ -1,0 +1,5435 @@
+{
+  "accepted": [
+    {
+      "subject": "Alfred Hofstadter",
+      "predicate": "appearsIn",
+      "object": "",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Alfred Hofstadter",
+      "predicate": "fatherOf",
+      "object": "Leonard Hofstadter",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Alfred Hofstadter",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Alfred Hofstadter",
+      "predicate": "occupation",
+      "object": "Physicist",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Alfred Hofstadter",
+      "predicate": "spouseOf",
+      "object": "Beverly Hofstadter",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "appearanceCount",
+      "object": "9 seasons",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "characterTraits",
+      "object": "Intelligent, quirky, socially awkward",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "firstAppearance",
+      "object": "Season 3, Episode 23",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "friendOf",
+      "object": "Bernadette Rostenkowski-Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "friendOf",
+      "object": "Penny",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "hasPhDIn",
+      "object": "Neuroscience",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "hobby",
+      "object": "Playing the harp",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "knownFor",
+      "object": "Being a main character on The Big Bang Theory",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "occupation",
+      "object": "Neuroscientist",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "pet",
+      "object": "Dog named Sheldon",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "portrayedBy",
+      "object": "Mayim Bialik",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "relationshipStatus",
+      "object": "Married",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "relationshipWith",
+      "object": "Sheldon Cooper",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Amy Farrah Fowler",
+      "predicate": "residesIn",
+      "object": "Pasadena, California",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "associatedAct",
+      "object": "Bif Naked",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "associatedAct",
+      "object": "Gordon Lightfoot",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "associatedAct",
+      "object": "The Big Bang Theory Theme Song",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "associatedAct",
+      "object": "The Muppets",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "formedYear",
+      "object": "1988",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "genre",
+      "object": "Rock",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "hitSong",
+      "object": "One Week",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "instanceOf",
+      "object": "Band",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "member",
+      "object": "Ed Robertson",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "member",
+      "object": "Jim Creeggan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "member",
+      "object": "Kevin Hearn",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "member",
+      "object": "Tyler Stewart",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Barenaked Ladies",
+      "predicate": "notableAlbum",
+      "object": "Stunt",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "firstAppearance",
+      "object": "Season 9, Episode 16",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "hasChild",
+      "object": "Halley Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "hasChild",
+      "object": "Neil Michael Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "isMotherOf",
+      "object": "Halley Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "isMotherOf",
+      "object": "Neil Michael Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "maidenName",
+      "object": "Rostenkowski",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "marriedTo",
+      "object": "Howard Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "nickname",
+      "object": "Bernie",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bernadette Rostenkowski-Wolowitz",
+      "predicate": "occupation",
+      "object": "Microbiologist",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "firstAppearance",
+      "object": "Season 2, Episode 15",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "motherOf",
+      "object": "Leonard Hofstadter",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "notableEvent",
+      "object": "Leonard's childhood trauma",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "occupation",
+      "object": "Neuroscientist",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "personalityTrait",
+      "object": "Cold",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "personalityTrait",
+      "object": "Intellectual",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "personalityTrait",
+      "object": "Overbearing",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "relationshipWith",
+      "object": "Howard Wolowitz",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "relationshipWith",
+      "object": "Penny Hofstadter",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Beverly Hofstadter",
+      "predicate": "relationshipWith",
+      "object": "Sheldon Cooper",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "birthDate",
+      "object": "1968-01-29",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "birthPlace",
+      "object": "Grand Rapids, Michigan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "coCreatorOf",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "education",
+      "object": "University of Michigan",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "notableWork",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Bill Prady",
+      "predicate": "occupation",
+      "object": "Television producer",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Brittany Cuoco",
+      "predicate": "birthPlace",
+      "object": "California",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Brittany Cuoco",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Brittany Cuoco",
+      "predicate": "siblingOf",
+      "object": "Kaley Cuoco",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "CBS",
+      "predicate": "foundedYear",
+      "object": "1927",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "CBS",
+      "predicate": "headquartersLocation",
+      "object": "New York City",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "CBS",
+      "predicate": "instanceOf",
+      "object": "Organization",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "CBS",
+      "predicate": "notableShow",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "CBS",
+      "predicate": "parentOrganization",
+      "object": "ViacomCBS",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "CBS",
+      "predicate": "type",
+      "object": "Television Network",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "affiliatedInstitutions",
+      "object": "NASA Jet Propulsion Laboratory",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "affiliation",
+      "object": "Association of American Universities",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "campusSize",
+      "object": "124 acres",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "foundedYear",
+      "object": "1891",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.96
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "instanceOf",
+      "object": "Organization",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "location",
+      "object": "Pasadena, California",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "mascot",
+      "object": "Beaver",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "motto",
+      "object": "The Truth Shall Make You Free",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableAlumni",
+      "object": "Frank Oppenheimer",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableAlumni",
+      "object": "Gordon Moore",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableAlumni",
+      "object": "Richard Feynman",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableFaculty",
+      "object": "Albert A. Michelson",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableFaculty",
+      "object": "David Baltimore",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableFaculty",
+      "object": "Maria Goeppert Mayer",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableFaculty",
+      "object": "Robert F. Engle",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Artificial Intelligence",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Artificial Life",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Astrobiology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Astrophysics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Biochemistry",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Bioinformatics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Biophysics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Biostatistics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Cell Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Chemical Engineering",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Chemistry",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Climate Change",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Cognitive Science",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Complex Networks",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Computational Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Computational Neuroscience",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Computer Science",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Conservation Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Control Theory",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Cryptography",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Data Science",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Developmental Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Dynamical Systems",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Earth Sciences",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Ecology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Engineering",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Environmental Policy",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Environmental Science",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Epidemiology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Ethics of Technology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Game Theory",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Genetics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Global Health",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Graph Theory",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Advocacy",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Behavior",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Communication",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Disparities",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Economics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Education",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Equity",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Informatics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Literacy",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Policy",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Policy Analysis",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Policy Research",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Promotion",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Research",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Accessibility",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Affordability",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Alliances",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Analysis",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Analytics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Approaches",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Associations",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Attitudes",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Behaviors",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Beliefs",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Campaigns",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Coalitions",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Collaborations",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Corporations",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Data",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Delivery",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Effectiveness",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Efficiency",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Enterprises",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Ethics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Evaluation",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Foundations",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Frameworks",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Guidelines",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Indicators",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Informatics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Initiatives",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Innovation",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Innovations",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Institutions",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Interventions",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Management",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Metrics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Models",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Morals",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Networks",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Organizations",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Outcomes",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Outreach",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Paradigms",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Partnerships",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Philosophies",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Policies",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Policy",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Practices",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Principles",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Programs",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Protocols",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Quality",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Regulations",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Research",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Research Methods",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Solutions",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Standards",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Startups",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Strategies",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Sustainability",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Technology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Theories",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Values",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Services Ventures",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Systems Analysis",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Systems Management",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Systems Research",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Health Technology Assessment",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "History of Science",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Immunology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Information Theory",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Machine Learning",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Marine Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Materials Science",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Mathematical Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Mathematics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Microbiology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Molecular Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Nanotechnology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Neurobiology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Neuroscience",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Optics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Pathology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Pharmacology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Philosophy of Science",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Physics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Physics of Complex Systems",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Physiology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Plant Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Plasma Physics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Public Health",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Public Understanding of Science",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Quantum Computing",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Renewable Energy",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Robotics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Science Communication",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Science and Technology Studies",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Social Sciences",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Statistical Mechanics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Sustainability",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Theoretical Physics",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Toxicology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Virology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "notableResearchAreas",
+      "object": "Wildlife Biology",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "numberOfFaculty",
+      "object": "approximately 300",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "numberOfStudents",
+      "object": "approximately 2200",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "researchExpenditure",
+      "object": "approximately $350 million",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Caltech",
+      "predicate": "typeOfInstitution",
+      "object": "Research University",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "almaMater",
+      "object": "Valley College",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "awards",
+      "object": "Hollywood Walk of Fame",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "awards",
+      "object": "Producers Guild of America Award",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "birthDate",
+      "object": "1952-10-18",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "birthPlace",
+      "object": "Bethpage, New York, USA",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "children",
+      "object": "4",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "creatorOf",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "knownFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "knownFor",
+      "object": "Two and a Half Men",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "occupation",
+      "object": "Director",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "occupation",
+      "object": "Screenwriter",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "occupation",
+      "object": "Television producer",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "spouse",
+      "object": "Karen Witter",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "website",
+      "object": "http://www.chucklorre.com",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Chuck Lorre",
+      "predicate": "yearsActive",
+      "object": "1979–present",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Emily Sweeney",
+      "predicate": "firstAppearance",
+      "object": "Season 9, Episode 14",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Emily Sweeney",
+      "predicate": "instanceOf",
+      "object": "Character",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Emily Sweeney",
+      "predicate": "portrayedBy",
+      "object": "Laura Spencer",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Emily Sweeney",
+      "predicate": "relationshipWith",
+      "object": "Rajesh Koothrappali",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Gary Cuoco",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Halley Wolowitz",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Halley Wolowitz",
+      "predicate": "motherOf",
+      "object": "Howard Wolowitz",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "bestFriend",
+      "object": "Rajesh Koothrappali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "children",
+      "object": "Halley Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "friend",
+      "object": "Leonard Hofstadter",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "friend",
+      "object": "Penny",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "friend",
+      "object": "Sheldon Cooper",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "hobby",
+      "object": "Magic tricks",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "mother",
+      "object": "Mrs. Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "notableFeature",
+      "object": "Belly dancing",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "notableFeature",
+      "object": "Space missions",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "occupation",
+      "object": "Engineer",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "relationship",
+      "object": "Bernadette Rostenkowski-Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "relationship",
+      "object": "Emily Sweeney",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "spouse",
+      "object": "Bernadette Rostenkowski-Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Howard Wolowitz",
+      "predicate": "universityAttended",
+      "object": "MIT",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "activeYears",
+      "object": "2001–present",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "appearedIn",
+      "object": "The Muppets",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "birthDate",
+      "object": "1973-03-24",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "birthPlace",
+      "object": "Houston, Texas",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "education",
+      "object": "University of Houston",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "hasRoleIn",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "height",
+      "object": "6 ft 1 in",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "knownFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "portrayedCharacter",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "receivedAward",
+      "object": "Golden Globe Award nomination",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "spouse",
+      "object": "Todd Spiewak",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "voiceRole",
+      "object": "Lego Movie character",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Jim Parsons",
+      "predicate": "wonAward",
+      "object": "Primetime Emmy Award for Outstanding Lead Actor in a Comedy Series",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "birthDate",
+      "object": "1975-04-30",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "birthPlace",
+      "object": "Bree, Belgium",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "knownFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Johnny Galecki",
+      "predicate": "role",
+      "object": "Leonard Hofstadter",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "activeYears",
+      "object": "1992–present",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "birthDate",
+      "object": "1985-11-30",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "birthPlace",
+      "object": "Camarillo, California",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasAward",
+      "object": "Critics' Choice Television Award for Best Supporting Actress in a Comedy Series",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasAward",
+      "object": "People's Choice Award for Favorite TV Comedy Actress",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasAward",
+      "object": "Teen Choice Award for Choice TV Actress – Comedy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "ASPCA",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "American Humane Society",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "Make-A-Wish Foundation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "PETA",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "St. Jude Children's Research Hospital",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "Stand Up to Cancer",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The Alzheimer's Association",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The American Cancer Society",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The American Diabetes Association",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The American Foundation for Suicide Prevention",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The American Heart Association",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The Humane Society of the United States",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Alliance on Mental Illness",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Breast Cancer Foundation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Center for Learning Disabilities",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Down Syndrome Society",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Eating Disorders Association",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Federation of the Blind",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Kidney Foundation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Multiple Sclerosis Society",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Organization for Rare Disorders",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Organization for Women",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Women's Business Council",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Women's Hall of Fame",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Women's History Alliance",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Women's History Museum",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Women's History Project",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Women's Law Center",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Women's Political Caucus",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The National Women's Sports Foundation",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The Red Cross",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasCharity",
+      "object": "The Trevor Project",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasPet",
+      "object": "cat",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasPet",
+      "object": "dog",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasPet",
+      "object": "horse",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasRole",
+      "object": "lead role in 8 Simple Rules",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasRole",
+      "object": "lead role in The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasRole",
+      "object": "lead role in The Flight Attendant",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasRole",
+      "object": "voice of Harley Quinn",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasSibling",
+      "object": "Brittany Cuoco",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasSibling",
+      "object": "Gary Cuoco",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasSocialMedia",
+      "object": "Facebook",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasSocialMedia",
+      "object": "Instagram",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasSocialMedia",
+      "object": "TikTok",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "hasSocialMedia",
+      "object": "Twitter",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "height",
+      "object": "1.68 m",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "playedCharacter",
+      "object": "Penny",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "spouse",
+      "object": "Karl Cook",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kaley Cuoco",
+      "predicate": "spouse",
+      "object": "Ryan Sweeting",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "activeYears",
+      "object": "2004–present",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "birthDate",
+      "object": "1981-04-30",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "birthPlace",
+      "object": "London, England",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "education",
+      "object": "University of Portland",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "nationality",
+      "object": "Indian",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "portrayedCharacter",
+      "object": "Rajesh Koothrappali",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Kunal Nayyar",
+      "predicate": "spouse",
+      "object": "Neha Kapur",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Laura Spencer",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Laura Spencer",
+      "predicate": "portrayedCharacter",
+      "object": "Emily Sweeney",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "almaMater",
+      "object": "Princeton University",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "bestFriend",
+      "object": "Sheldon Cooper",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "birthPlace",
+      "object": "New Jersey",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "father",
+      "object": "Alfred Hofstadter",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "friendOf",
+      "object": "Howard Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "friendOf",
+      "object": "Rajesh Koothrappali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "height",
+      "object": "5'5\"",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "hobby",
+      "object": "Video Games",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "livesWith",
+      "object": "Penny",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "mother",
+      "object": "Beverly Hofstadter",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "occupation",
+      "object": "Experimental Physicist",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "personalityTrait",
+      "object": "Nerdy",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "relationshipStatus",
+      "object": "Married",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "sibling",
+      "object": "Michael Hofstadter",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "spouse",
+      "object": "Penny",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Leonard Hofstadter",
+      "predicate": "worksAt",
+      "object": "Caltech",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Maria Goeppert Mayer",
+      "predicate": "born",
+      "object": "June 28, 1906",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Maria Goeppert Mayer",
+      "predicate": "died",
+      "object": "February 20, 1972",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Maria Goeppert Mayer",
+      "predicate": "field",
+      "object": "Physics",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Maria Goeppert Mayer",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Maria Goeppert Mayer",
+      "predicate": "knownFor",
+      "object": "Nuclear shell model",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.94
+    },
+    {
+      "subject": "Maria Goeppert Mayer",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Maria Goeppert Mayer",
+      "predicate": "spouse",
+      "object": "Joseph Edward Mayer",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Maria Goeppert Mayer",
+      "predicate": "wonAward",
+      "object": "Nobel Prize in Physics",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "activeYears",
+      "object": "1988–present",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "birthDate",
+      "object": "1975-12-12",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "birthPlace",
+      "object": "San Diego, California",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "children",
+      "object": "2",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "education",
+      "object": "University of California, Los Angeles",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "hasOccupation",
+      "object": "Actress",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "hasOccupation",
+      "object": "Author",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "hasOccupation",
+      "object": "Neuroscientist",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "hasSpouse",
+      "object": "Michael Stone",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "portrayedCharacter",
+      "object": "Amy Farrah Fowler",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Mayim Bialik",
+      "predicate": "wonAward",
+      "object": "Primetime Emmy Award",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "birthDate",
+      "object": "1980-06-23",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "birthPlace",
+      "object": "Marlboro, New Jersey, USA",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "education",
+      "object": "Marymount Manhattan College",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Melissa Rauch",
+      "predicate": "portrayedCharacter",
+      "object": "Bernadette Rostenkowski-Wolowitz",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Missy Cooper",
+      "predicate": "appearsIn",
+      "object": "The Big Bang Theory",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Missy Cooper",
+      "predicate": "hasOccupation",
+      "object": "Waitress",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Missy Cooper",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Missy Cooper",
+      "predicate": "portrayedBy",
+      "object": "Melissa Rauch",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Missy Cooper",
+      "predicate": "siblingOf",
+      "object": "Sheldon Cooper",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "bestFriend",
+      "object": "Howard Wolowitz",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "hasChild",
+      "object": "Halley Wolowitz",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "hasChild",
+      "object": "Neil Wolowitz",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "hobby",
+      "object": "Magic",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "hobby",
+      "object": "Video games",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "instanceOf",
+      "object": "Character",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "livesIn",
+      "object": "Pasadena, California",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "occupation",
+      "object": "Engineer",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "portrayedBy",
+      "object": "Simon Helberg",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Neil Michael Wolowitz",
+      "predicate": "relationshipWith",
+      "object": "Bernadette Rostenkowski-Wolowitz",
+      "hop": 3,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "hasArea",
+      "object": "23.1 square miles",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "hasPopulation",
+      "object": "141371",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "hasTimezone",
+      "object": "Pacific Time Zone",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "instanceOf",
+      "object": "Location",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "isFamousFor",
+      "object": "Tournament of Roses",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "isHomeTo",
+      "object": "California Institute of Technology",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "isKnownFor",
+      "object": "The Rose Bowl",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "isLocatedIn",
+      "object": "California",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "isPartOf",
+      "object": "Los Angeles County",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Pasadena, California",
+      "predicate": "wasFoundedIn",
+      "object": "1886",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.9
+    },
+    {
+      "subject": "Penny",
+      "predicate": "hasOccupation",
+      "object": "Waitress",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Penny",
+      "predicate": "hasRelationshipWith",
+      "object": "Howard Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Penny",
+      "predicate": "hasRelationshipWith",
+      "object": "Rajesh Koothrappali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Penny",
+      "predicate": "hasRelationshipWith",
+      "object": "Sheldon Cooper",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Penny",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Penny",
+      "predicate": "marriedTo",
+      "object": "Leonard Hofstadter",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Penny",
+      "predicate": "worksAt",
+      "object": "The Cheesecake Factory",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "firstAppearance",
+      "object": "Season 1",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "friendOf",
+      "object": "Bernadette Rostenkowski-Wolowitz",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "friendOf",
+      "object": "Howard Wolowitz",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "friendOf",
+      "object": "Rajesh Koothrappali",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "friendOf",
+      "object": "Sheldon Cooper",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "lastAppearance",
+      "object": "Season 12",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "livesIn",
+      "object": "Pasadena",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "marriedTo",
+      "object": "Leonard Hofstadter",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Penny Hofstadter",
+      "predicate": "occupation",
+      "object": "Waitress",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "bestFriend",
+      "object": "Howard Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "hasLoveInterest",
+      "object": "Emily Sweeney",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "hasLoveInterest",
+      "object": "Lucy",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "hasLoveInterest",
+      "object": "Penny",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "hasPhDIn",
+      "object": "Astrophysics",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "hasSibling",
+      "object": "Adoot Koothrappali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "isKnownFor",
+      "object": "His inability to speak to women without alcohol",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "livesIn",
+      "object": "Pasadena",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "nationality",
+      "object": "Indian",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "occupation",
+      "object": "Astrophysicist",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "portrayedBy",
+      "object": "Kunal Nayyar",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "speaks",
+      "object": "English",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Rajesh Koothrappali",
+      "predicate": "speaks",
+      "object": "Hindi",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "birthYear",
+      "object": "1980",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "hasFriend",
+      "object": "Howard Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "hasFriend",
+      "object": "Leonard Hofstadter",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "hasFriend",
+      "object": "Penny",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "hasFriend",
+      "object": "Rajesh Koothrappali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "hasPhD",
+      "object": "Physics",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "hasSibling",
+      "object": "Missy Cooper",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "knownFor",
+      "object": "String Theory",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "livesIn",
+      "object": "Pasadena, California",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "occupation",
+      "object": "Theoretical Physicist",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "relationshipStatus",
+      "object": "Single",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Sheldon Cooper",
+      "predicate": "worksAt",
+      "object": "Caltech",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "activeYearsStart",
+      "object": "2001",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "birthDate",
+      "object": "1980-12-09",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "birthPlace",
+      "object": "Los Angeles, California, USA",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "children",
+      "object": "2",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "education",
+      "object": "University of California, Los Angeles",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "knownFor",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "nationality",
+      "object": "American",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "role",
+      "object": "Howard Wolowitz",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Simon Helberg",
+      "predicate": "spouse",
+      "object": "Jocelyn Towne",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Steven Molaro",
+      "predicate": "birthPlace",
+      "object": "New Jersey",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Steven Molaro",
+      "predicate": "birthYear",
+      "object": "1975",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Steven Molaro",
+      "predicate": "executiveProducerFor",
+      "object": "The Big Bang Theory",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Steven Molaro",
+      "predicate": "instanceOf",
+      "object": "Person",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Steven Molaro",
+      "predicate": "knownFor",
+      "object": "The Big Bang Theory",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Steven Molaro",
+      "predicate": "producerFor",
+      "object": "The Big Bang Theory",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Steven Molaro",
+      "predicate": "role",
+      "object": "Writer and Producer",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Steven Molaro",
+      "predicate": "writerFor",
+      "object": "The Big Bang Theory",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "countryOfOrigin",
+      "object": "United States",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "creator",
+      "object": "Bill Prady",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "creator",
+      "object": "Chuck Lorre",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "ended",
+      "object": "2019",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "firstAired",
+      "object": "2007",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "genre",
+      "object": "Sitcom",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "instanceOf",
+      "object": "TV Series",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "language",
+      "object": "English",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Howard Wolowitz",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Leonard Hofstadter",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Penny",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Rajesh Koothrappali",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "mainCharacter",
+      "object": "Sheldon Cooper",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "network",
+      "object": "CBS",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "numberOfEpisodes",
+      "object": "279",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory",
+      "predicate": "numberOfSeasons",
+      "object": "12",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "awardsNominations",
+      "object": "46 Primetime Emmy Awards",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "awardsWon",
+      "object": "10 Primetime Emmy Awards",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "countryOfOrigin",
+      "object": "United States",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "createdBy",
+      "object": "Bill Prady",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "createdBy",
+      "object": "Chuck Lorre",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "distributor",
+      "object": "CBS",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "firstAired",
+      "object": "September 24, 2007",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "instanceOf",
+      "object": "TV Series",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "language",
+      "object": "English",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "lastAired",
+      "object": "May 16, 2019",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "mainGenre",
+      "object": "Sitcom",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "numberOfEpisodes",
+      "object": "279",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "numberOfSeasons",
+      "object": "12",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "originalNetwork",
+      "object": "CBS",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "productionCompany",
+      "object": "Chuck Lorre Productions",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "productionCompany",
+      "object": "Warner Bros. Television",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "spinOff",
+      "object": "Young Sheldon",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Jim Parsons",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Johnny Galecki",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Kaley Cuoco",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Kunal Nayyar",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Mayim Bialik",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Melissa Rauch",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "starring",
+      "object": "Simon Helberg",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory TV Series",
+      "predicate": "themeMusicComposer",
+      "object": "Barenaked Ladies",
+      "hop": 0,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory Theme Song",
+      "predicate": "associatedWith",
+      "object": "The Big Bang Theory TV Series",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory Theme Song",
+      "predicate": "genre",
+      "object": "Rock",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "The Big Bang Theory Theme Song",
+      "predicate": "instanceOf",
+      "object": "Song",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "The Big Bang Theory Theme Song",
+      "predicate": "length",
+      "object": "1:40",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "The Big Bang Theory Theme Song",
+      "predicate": "performedBy",
+      "object": "Barenaked Ladies",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "The Big Bang Theory Theme Song",
+      "predicate": "releasedYear",
+      "object": "2007",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "acquiredBy",
+      "object": "WarnerMedia",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "distributes",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "foundedYear",
+      "object": "1923",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "headquartersLocation",
+      "object": "Burbank, California",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "instanceOf",
+      "object": "Organization",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Bob Greenblatt",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Brett Paul",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Channing Dungey",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Craig Hunegs",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "David Janollari",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "David S. Goyer",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Dawn Ostroff",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Greg Berlanti",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Jeffrey Katzenberg",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Kevin Tsujihara",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Lisa Katz",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Michael Wright",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Mike Darnell",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Peter Roth",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "keyPeople",
+      "object": "Susan Rovner",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "notableWorks",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "parentCompany",
+      "object": "Warner Bros.",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "produced",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "subsidiaryOf",
+      "object": "Warner Bros.",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Warner Bros. Television",
+      "predicate": "typeOfContent",
+      "object": "Television series",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "creator",
+      "object": "Chuck Lorre",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "creator",
+      "object": "Steven Molaro",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "follows",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "genre",
+      "object": "Comedy",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "instanceOf",
+      "object": "Television Series",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "language",
+      "object": "English",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "mainCharacter",
+      "object": "Sheldon Cooper",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.98
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "network",
+      "object": "CBS",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "numberOfEpisodes",
+      "object": "136",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "numberOfSeasons",
+      "object": "6",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "premieredYear",
+      "object": "2017",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "setIn",
+      "object": "East Texas",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "spinOffOf",
+      "object": "The Big Bang Theory",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.85
+    },
+    {
+      "subject": "Young Sheldon",
+      "predicate": "themeMusicComposer",
+      "object": "Barenaked Ladies",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": 0.95
+    }
+  ],
+  "sink": [
+    {
+      "subject": "Albert A. Michelson",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Bob Greenblatt",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "California Institute of Technology",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 5,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Channing Dungey",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Chuck Lorre Productions",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 1,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "David Baltimore",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Ed Robertson",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Frank Oppenheimer",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Gordon Moore",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Jim Creeggan",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Joseph Edward Mayer",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 5,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Karl Cook",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Kevin Hearn",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "NASA Jet Propulsion Laboratory",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Neha Kapur",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "One Week",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Richard Feynman",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 4,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Ryan Sweeting",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Two and a Half Men",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    },
+    {
+      "subject": "Tyler Stewart",
+      "predicate": "__empty__",
+      "object": "__empty__",
+      "hop": 2,
+      "model": "gpt-4o-mini",
+      "strategy": "calibrate",
+      "confidence": null,
+      "reason": "empty_or_unparseable_output"
+    }
+  ]
+}

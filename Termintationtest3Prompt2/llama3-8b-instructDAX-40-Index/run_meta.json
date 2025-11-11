@@ -1,0 +1,70 @@
+{
+  "timestamp_utc": "2025-11-07T01:52:38Z",
+  "seed": "DAX 40 Index",
+  "domain": "topic",
+  "elicitation_strategy": "calibrate",
+  "ner_strategy": "calibrate",
+  "max_depth": 0,
+  "max_subjects": 0,
+  "concurrency": {
+    "batch_size": 1,
+    "concurrency": 8,
+    "max_inflight": null,
+    "timeout_s": 60.0,
+    "openai_batch_mode": false
+  },
+  "models": {
+    "elicitation": {
+      "provider": "replicate",
+      "model": "meta/meta-llama-3-8b-instruct",
+      "use_responses_api": false,
+      "temperature": 0.3,
+      "top_p": 0.95,
+      "top_k": 0,
+      "max_tokens": 4096
+    },
+    "ner": {
+      "provider": "replicate",
+      "model": "meta/meta-llama-3-8b-instruct",
+      "use_responses_api": false,
+      "temperature": 0.2,
+      "top_p": 0.9,
+      "top_k": 0,
+      "max_tokens": 4096
+    }
+  },
+  "args_raw": {
+    "seed": "DAX 40 Index",
+    "output_dir": "Termintationtest3Prompt2/llama3-8b-instructDAX-40-Index",
+    "elicitation_strategy": "calibrate",
+    "ner_strategy": "calibrate",
+    "domain": "topic",
+    "max_depth": 0,
+    "max_subjects": 0,
+    "ner_batch_size": 50,
+    "max_facts_hint": "50",
+    "conf_threshold": 0.8,
+    "ner_conf_threshold": 0.8,
+    "footer_mode": true,
+    "elicit_model_key": "llama3-8b-instruct",
+    "ner_model_key": "llama3-8b-instruct",
+    "elicit_temperature": 0.3,
+    "ner_temperature": 0.2,
+    "elicit_top_p": 0.95,
+    "ner_top_p": 0.9,
+    "elicit_top_k": null,
+    "ner_top_k": null,
+    "elicit_max_tokens": 4096,
+    "ner_max_tokens": 4096,
+    "batch_size": 1,
+    "concurrency": 8,
+    "max_inflight": null,
+    "timeout": 60.0,
+    "max_retries": 3,
+    "openai_batch_mode": false,
+    "debug": true,
+    "progress_metrics": true,
+    "resume": true,
+    "reset_working": false
+  }
+}

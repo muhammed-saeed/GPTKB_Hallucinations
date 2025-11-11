@@ -1,0 +1,57 @@
+{"subject": "Humor", "predicate": "employedBy", "object": "Penny", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Miles Roosevelt Bialik Stone", "predicate": "father", "object": "", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Sheldon Cooper", "predicate": "hasFriend", "object": "Howard Wolowitz", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Sheldon Cooper", "predicate": "hasFriend", "object": "Raj Koothrappali", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.75, "threshold": 0.8}
+{"subject": "Sheldon Cooper", "predicate": "hasGirlfriend", "object": "Amy Farrah Fowler", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.72, "threshold": 0.8}
+{"subject": "Sheldon Cooper", "predicate": "hasSoftSpotFor", "object": "Penny", "hop": 2, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.8}
+{"subject": "Astrophysicist", "predicate": "maySpecializeIn", "object": "Cosmology", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Astrophysicist", "predicate": "mayUse", "object": "Computational Models", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.76, "threshold": 0.8}
+{"subject": "Emmy Awards", "predicate": "annual", "object": "", "hop": 3, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Television Network", "predicate": "foundedYear", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "United Kingdom", "predicate": "population", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Apartment 4A", "predicate": "mainSetting", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Data", "predicate": "mainCharacter", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Data", "predicate": "firstAppearance", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Episode", "predicate": "hasScriptwriter", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "International Emmy Awards", "predicate": "heldAnnually", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Daytime Emmy Awards", "predicate": "annual", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "US State", "predicate": "hasCapital", "object": "", "hop": 4, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Johnny Galecki and Kaley Cuoco", "predicate": "dated", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "John S. Hendricks", "predicate": "televisionProducer", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Display device", "predicate": "outputDevice", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Speculative fiction", "predicate": "oftenExplores", "object": "Philosophical themes", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Jupiter Ascending", "predicate": "basedOn", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Television industry", "predicate": "employs", "object": "Actors", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Television industry", "predicate": "employs", "object": "Writers", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.76, "threshold": 0.8}
+{"subject": "Television industry", "predicate": "employs", "object": "Directors", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.74, "threshold": 0.8}
+{"subject": "Television industry", "predicate": "influencedBy", "object": "Film industry", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.72, "threshold": 0.8}
+{"subject": "Television industry", "predicate": "influencedBy", "object": "Radio broadcasting", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.7, "threshold": 0.8}
+{"subject": "Leonard Hofstadter and Sheldon Cooper", "predicate": "bestFriends", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Leonard Hofstadter and Sheldon Cooper", "predicate": "roommates", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Warner Bros. Studios, Burbank, California", "predicate": "headquarters", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Jesus Christ", "predicate": "performedMiracles", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "The Bible", "predicate": "writtenBetween", "object": "circa 8th century BCE to 2nd century CE", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.75, "threshold": 0.8}
+{"subject": "Red Herring", "predicate": "intentionalMisdirection", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Sheldon Cooper and Leonard Hofstadter", "predicate": "bestFriends", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Screen Actors Guild Award", "predicate": "annual", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Golden Globe Award", "predicate": "annual", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Rupert Murdoch", "predicate": "netWorth", "object": "", "hop": 5, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Television episode segment", "predicate": "hasDuration", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Scientific Concept", "predicate": "example", "object": "Black Hole", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Howard's mother", "predicate": "isOverbearing", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Silent film era", "predicate": "influenced", "object": "The Big Bang Theory TV Series", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Television Series", "predicate": "hasGenre", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Popular culture", "predicate": "isAffectedBy", "object": "Technology", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Television Personality", "predicate": "knownFor", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Biologist", "predicate": "profession", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Mr. Johnson", "predicate": "highSchoolPrincipal", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "South East England", "predicate": "location", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Les Charles", "predicate": "coCreatorOf", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Hinduism", "predicate": "foundedBy", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "MedicalSpecialty", "predicate": "hasSubspecialties", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "John F. Kennedy Jr.", "predicate": "pilotLicense", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Vatican City", "predicate": "capitalOf", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Old Testament", "predicate": "writtenBy", "object": "", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.0, "threshold": 0.8}
+{"subject": "Massachusetts Institute of Technology", "predicate": "researchExpenditure", "object": "$848 million", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.78, "threshold": 0.8}
+{"subject": "Massachusetts Institute of Technology", "predicate": "endowment", "object": "$18.4 billion", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.76, "threshold": 0.8}
+{"subject": "Massachusetts Institute of Technology", "predicate": "SchoolsAndColleges", "object": "5", "hop": 6, "model": "meta/meta-llama-3-70b-instruct", "strategy": "calibrate", "confidence": 0.74, "threshold": 0.8}

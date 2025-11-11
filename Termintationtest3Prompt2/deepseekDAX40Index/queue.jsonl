@@ -1,0 +1,78 @@
+{"subject": "DAX 40 Index", "hop": 0, "event": "inserted"}
+{"subject": "DAX 30 Index", "hop": 1, "event": "inserted"}
+{"subject": "Deutsche Börse", "hop": 1, "event": "inserted"}
+{"subject": "Deutsche Börse AG", "hop": 1, "event": "inserted"}
+{"subject": "Frankfurt Stock Exchange", "hop": 1, "event": "inserted"}
+{"subject": "Clearstream", "hop": 2, "event": "inserted"}
+{"subject": "DAX", "hop": 2, "event": "inserted"}
+{"subject": "DB1", "hop": 2, "event": "inserted"}
+{"subject": "Eurex", "hop": 2, "event": "inserted"}
+{"subject": "MDAX", "hop": 2, "event": "inserted"}
+{"subject": "Theodor Weimer", "hop": 2, "event": "inserted"}
+{"subject": "Xetra", "hop": 2, "event": "inserted"}
+{"subject": ".GDAXI", "hop": 2, "event": "inserted"}
+{"subject": "BaFin", "hop": 2, "event": "inserted"}
+{"subject": "SDAX", "hop": 2, "event": "inserted"}
+{"subject": "TecDAX", "hop": 2, "event": "inserted"}
+{"subject": "Börse Frankfurt", "hop": 2, "event": "inserted"}
+{"subject": "Xetra trading platform", "hop": 2, "event": "inserted"}
+{"subject": "Deutsche Börse Group", "hop": 3, "event": "inserted"}
+{"subject": "Eurex Clearing", "hop": 3, "event": "inserted"}
+{"subject": "Frankfurt", "hop": 3, "event": "inserted"}
+{"subject": "London Stock Exchange Group", "hop": 3, "event": "inserted"}
+{"subject": "Nasdaq", "hop": 3, "event": "inserted"}
+{"subject": "STOXX", "hop": 3, "event": "inserted"}
+{"subject": "Deutsche Börse Management Board", "hop": 3, "event": "inserted"}
+{"subject": "DAX Index Committee", "hop": 3, "event": "inserted"}
+{"subject": "German Federal Financial Supervisory Authority", "hop": 3, "event": "inserted"}
+{"subject": "Bundesanstalt für Finanzdienstleistungsaufsicht", "hop": 4, "event": "inserted"}
+{"subject": "Christoph Böhm", "hop": 4, "event": "inserted"}
+{"subject": "Heike Eckert", "hop": 4, "event": "inserted"}
+{"subject": "Stephan Leithner", "hop": 4, "event": "inserted"}
+{"subject": "Thomas Book", "hop": 4, "event": "inserted"}
+{"subject": "Frankfurt am Main", "hop": 4, "event": "inserted"}
+{"subject": "Clearstream Banking AG", "hop": 4, "event": "inserted"}
+{"subject": "Eurex Frankfurt AG", "hop": 4, "event": "inserted"}
+{"subject": "FTSE Russell", "hop": 4, "event": "inserted"}
+{"subject": "European Central Bank", "hop": 4, "event": "inserted"}
+{"subject": "New York Stock Exchange", "hop": 4, "event": "inserted"}
+{"subject": "Siemens AG", "hop": 5, "event": "inserted"}
+{"subject": "Germany", "hop": 5, "event": "inserted"}
+{"subject": "S&P Dow Jones Indices", "hop": 5, "event": "inserted"}
+{"subject": "Deutsche Bank", "hop": 5, "event": "inserted"}
+{"subject": "Deutsche Bundesbank", "hop": 5, "event": "inserted"}
+{"subject": "Euro", "hop": 6, "event": "inserted"}
+{"subject": "European Union", "hop": 6, "event": "inserted"}
+{"subject": "Christian Sewing", "hop": 6, "event": "inserted"}
+{"subject": "DWS Group", "hop": 6, "event": "inserted"}
+{"subject": "Deutsche Mark", "hop": 6, "event": "inserted"}
+{"subject": "Federal Financial Supervisory Authority", "hop": 6, "event": "inserted"}
+{"subject": "International Monetary Fund", "hop": 6, "event": "inserted"}
+{"subject": "Dow Jones Industrial Average", "hop": 6, "event": "inserted"}
+{"subject": "MSCI", "hop": 6, "event": "inserted"}
+{"subject": "S&P 500", "hop": 6, "event": "inserted"}
+{"subject": "S&P Global", "hop": 6, "event": "inserted"}
+{"subject": "Kristalina Georgieva", "hop": 7, "event": "inserted"}
+{"subject": "Eurozone", "hop": 7, "event": "inserted"}
+{"subject": "World Economic Forum", "hop": 7, "event": "inserted"}
+{"subject": "NYSE", "hop": 7, "event": "inserted"}
+{"subject": "Charles Dow", "hop": 7, "event": "inserted"}
+{"subject": "Edward Jones", "hop": 7, "event": "inserted"}
+{"subject": "The Wall Street Journal", "hop": 7, "event": "inserted"}
+{"subject": "Bundesbank", "hop": 7, "event": "inserted"}
+{"subject": "11 Wall Street", "hop": 8, "event": "inserted"}
+{"subject": "Dow Jones & Company", "hop": 8, "event": "inserted"}
+{"subject": "Dow Theory", "hop": 8, "event": "inserted"}
+{"subject": "Dow Jones Transportation Average", "hop": 9, "event": "inserted"}
+{"subject": "Black Monday 1987", "hop": 9, "event": "inserted"}
+{"subject": "Black Thursday 1929", "hop": 9, "event": "inserted"}
+{"subject": "Bloomberg L.P.", "hop": 9, "event": "inserted"}
+{"subject": "Financial Times", "hop": 9, "event": "inserted"}
+{"subject": "Reuters", "hop": 9, "event": "inserted"}
+{"subject": "Hong Kong Stock Exchange", "hop": 10, "event": "inserted"}
+{"subject": "London Stock Exchange", "hop": 10, "event": "inserted"}
+{"subject": "Refinitiv", "hop": 10, "event": "inserted"}
+{"subject": "Thomson Reuters", "hop": 10, "event": "inserted"}
+{"subject": "FactSet", "hop": 11, "event": "inserted"}
+{"subject": "Moody's", "hop": 11, "event": "inserted"}
+{"subject": "FTSE 100", "hop": 11, "event": "inserted"}

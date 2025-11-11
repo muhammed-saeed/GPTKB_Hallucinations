@@ -1,0 +1,70 @@
+{
+  "timestamp_utc": "2025-11-07T02:37:03Z",
+  "seed": "DAX 40 Index",
+  "domain": "topic",
+  "elicitation_strategy": "calibrate",
+  "ner_strategy": "calibrate",
+  "max_depth": 0,
+  "max_subjects": 0,
+  "concurrency": {
+    "batch_size": 1,
+    "concurrency": 20,
+    "max_inflight": null,
+    "timeout_s": 90.0,
+    "openai_batch_mode": false
+  },
+  "models": {
+    "elicitation": {
+      "provider": "deepseek",
+      "model": "deepseek-chat",
+      "use_responses_api": false,
+      "temperature": 0.3,
+      "top_p": 0.95,
+      "top_k": null,
+      "max_tokens": 4096
+    },
+    "ner": {
+      "provider": "deepseek",
+      "model": "deepseek-chat",
+      "use_responses_api": false,
+      "temperature": 0.2,
+      "top_p": 0.9,
+      "top_k": null,
+      "max_tokens": 4096
+    }
+  },
+  "args_raw": {
+    "seed": "DAX 40 Index",
+    "output_dir": "Termintationtest3Prompt2/deepseekDAX40Index",
+    "elicitation_strategy": "calibrate",
+    "ner_strategy": "calibrate",
+    "domain": "topic",
+    "max_depth": 0,
+    "max_subjects": 0,
+    "ner_batch_size": 50,
+    "max_facts_hint": "50",
+    "conf_threshold": 0.95,
+    "ner_conf_threshold": 0.95,
+    "footer_mode": false,
+    "elicit_model_key": "deepseek",
+    "ner_model_key": "deepseek",
+    "elicit_temperature": 0.3,
+    "ner_temperature": 0.2,
+    "elicit_top_p": 0.95,
+    "ner_top_p": 0.9,
+    "elicit_top_k": null,
+    "ner_top_k": null,
+    "elicit_max_tokens": 4096,
+    "ner_max_tokens": 4096,
+    "batch_size": 1,
+    "concurrency": 20,
+    "max_inflight": null,
+    "timeout": 90.0,
+    "max_retries": 3,
+    "openai_batch_mode": false,
+    "debug": true,
+    "progress_metrics": true,
+    "resume": false,
+    "reset_working": false
+  }
+}

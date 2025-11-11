@@ -387,66 +387,37 @@ GPTKB_Hallucinations/
 │       main()
 │   --- File Content End ---
 
+├── gpt20p.py
+│   --- File Content Start ---
+│   from dotenv import load_dotenv
+│   import os
+│   from openai import OpenAI
+│   
+│   load_dotenv()
+│   
+│   client = OpenAI(api_key=os.getenv("ANTHROPIC_API_KEY"))
+│   
+│   from llm.anthropic_client import AnthropicLLM
+│   
+│   client = AnthropicLLM()  # loads ANTHROPIC_API_KEY from .env
+│   
+│   msgs = [
+│       {"role": "system", "content": "You are a helpful assistant."},
+│       {"role": "user", "content": "Give me 3 facts about Saturn."},
+│   ]
+│   
+│   print("=== plain text call ===")
+│   out = client(msgs, model="claude-sonnet-4-5-20250929", max_tokens=400)
+│   print(out.get("text") if isinstance(out, dict) else out)
+│   
+│   print("\n=== reasoning/thinking call ===")
+│   think = {"type": "enabled", "budget_tokens": 1024}
+│   out2 = client(msgs, model="claude-sonnet-4-5-20250929", max_tokens=2000, reasoning=think)
+│   print(out2.get("text") if isinstance(out2, dict) else out2)
+│   --- File Content End ---
+
 ├── prompter_parser.py
 │   --- File Content Start ---
-│   # # prompter_parser.py  (minimal edit)
-│   # from __future__ import annotations
-│   # import json
-│   # from pathlib import Path
-│   # from typing import Dict
-│   
-│   # # Only replace known {placeholder} keys; never interpret other braces.
-│   # _ALLOWED_KEYS = {"subject_name", "phrases_block", "root_subject"}  # removed max_facts_hint
-│   
-│   # def _prompt_path(domain: str, strategy: str, ptype: str) -> Path:
-│   #     # prompts/<domain>/<strategy>/<ptype>.json
-│   #     return Path("prompts") / domain / strategy / f"{ptype}.json"
-│   
-│   # def _safe_render(template: str, vars: Dict[str, str] | None) -> str:
-│   #     if not template:
-│   #         return ""
-│   #     if not vars:
-│   #         return template
-│   #     out = template
-│   #     for k, v in vars.items():
-│   #         if k in _ALLOWED_KEYS:
-│   #             out = out.replace("{" + k + "}", str(v))
-│   #     # leave ALL other { ... } untouched (JSON braces, examples, etc.)
-│   #     return out
-│   
-│   # def get_prompt_messages(
-│   #     strategy: str,
-│   #     ptype: str,
-│   #     *,
-│   #     domain: str = "general",
-│   #     vars: Dict[str, str] | None = None,
-│   # ) -> list[dict]:
-│   #     """
-│   #     Load a prompt JSON with keys: {"system": "...", "user": "..."} and render
-│   #     only whitelisted placeholders. Returns OpenAI-style messages list.
-│   #     """
-│   #     path = _prompt_path(domain, strategy, ptype)
-│   #     if not path.exists():
-│   #         raise FileNotFoundError(f"Prompt file not found: {path}")
-│   
-│   #     with path.open("r", encoding="utf-8") as f:
-│   #         obj = json.load(f)
-│   
-│   #     if "system" not in obj or "user" not in obj:
-│   #         raise ValueError(f"Prompt JSON must contain 'system' and 'user' keys: {path}")
-│   
-│   #     system_tmpl = obj.get("system", "") or ""
-│   #     user_tmpl   = obj.get("user", "") or ""
-│   
-│   #     system_txt = _safe_render(system_tmpl, vars).strip()
-│   #     user_txt   = _safe_render(user_tmpl, vars).strip()
-│   
-│   #     return [
-│   #         {"role": "system", "content": system_txt},
-│   #         {"role": "user",   "content": user_txt},
-│   #     ]
-│   
-│   
 │   # prompter_parser.py
 │   from __future__ import annotations
 │   import json
@@ -454,17 +425,10 @@ GPTKB_Hallucinations/
 │   from typing import Dict, List
 │   
 │   # Only replace known {placeholder} keys; never interpret other braces.
-│   _ALLOWED_KEYS = {"subject_name", "phrases_block", "root_subject"}
+│   _ALLOWED_KEYS = {"subject_name", "phrases_block", "root_subject", "max_facts_hint"}
 │   
 │   # Canonical footer we want in every elicitation *system* message
-│   _ELICITATION_SYSTEM_FOOTER = (
-│       "\n\nImportant:\n"
-│       "- If you don’t know the subject, return an empty list.\n"
-│       "- If the subject is not a named entity, return an empty list.\n"
-│       "- If the subject is a named entity, include at least one triple where predicate is \"instanceOf\".\n"
-│       "- Do not get too wordy.\n"
-│       "- Separate several objects into multiple triples with one object."
-│   )
+│   _ELICITATION_SYSTEM_FOOTER = ( "" )
 │   
 │   def _prompt_path(domain: str, strategy: str, ptype: str) -> Path:
 │       # prompts/<domain>/<strategy>/<ptype>.json
@@ -483,17 +447,11 @@ GPTKB_Hallucinations/
 │       return out
 │   
 │   def _ensure_footer(system_txt: str, ptype: str) -> str:
-│       """
-│       Append the canonical elicitation footer to system text iff:
-│         - ptype == 'elicitation', and
-│         - the distinctive line isn't already present.
-│       """
 │       if ptype != "elicitation":
 │           return system_txt or ""
 │       marker = "include at least one triple where predicate is \"instanceOf\""
 │       st = (system_txt or "")
 │       if marker.lower() in st.lower():
-│           # Assume the Important block (or equivalent) is already there.
 │           return st
 │       return (st.rstrip() + _ELICITATION_SYSTEM_FOOTER)
 │   
@@ -504,13 +462,6 @@ GPTKB_Hallucinations/
 │       domain: str = "general",
 │       variables: Dict[str, str] | None = None,
 │   ) -> List[dict]:
-│       """
-│       Load a prompt JSON with keys: {"system": "...", "user": "..."} and render
-│       only whitelisted placeholders. Returns OpenAI-style messages list.
-│   
-│       Additionally, for ptype == 'elicitation', we append a canonical "Important:"
-│       footer to the system message if it's not already present.
-│       """
 │       path = _prompt_path(domain, strategy, ptype)
 │       if not path.exists():
 │           raise FileNotFoundError(f"Prompt file not found: {path}")
@@ -918,31 +869,237 @@ GPTKB_Hallucinations/
 
 ├── db_models.py
 │   --- File Content Start ---
+│   # # db_models.py
+│   # from __future__ import annotations
+│   # import sqlite3
+│   # import unicodedata, re
+│   # from typing import Iterable, Tuple, Literal
+│   
+│   # from settings import QUEUE_DDL, FACTS_DDL
+│   
+│   # _WS = re.compile(r"\s+")
+│   
+│   # def normalize_subject(s: str) -> str:
+│   #     if not isinstance(s, str):
+│   #         return ""
+│   #     s = unicodedata.normalize("NFKC", s)
+│   #     s = _WS.sub(" ", s.strip())
+│   #     return s.lower()
+│   
+│   # def _open_sqlite(path: str) -> sqlite3.Connection:
+│   #     conn = sqlite3.connect(path, check_same_thread=False)
+│   #     conn.execute("PRAGMA journal_mode=WAL;")
+│   #     conn.execute("PRAGMA synchronous=NORMAL;")
+│   #     conn.execute("PRAGMA temp_store=MEMORY;")
+│   #     conn.execute("PRAGMA busy_timeout=5000;")
+│   #     # mmap_size may fail on some platforms; you can keep or drop:
+│   #     try:
+│   #         conn.execute("PRAGMA mmap_size=30000000000;")
+│   #     except sqlite3.OperationalError:
+│   #         pass
+│   #     conn.commit()
+│   #     return conn
+│   
+│   # def _ensure_queue_indexes(conn: sqlite3.Connection):
+│   #     cur = conn.cursor()
+│   #     cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS uq_queue_subject_hop ON queue(subject, hop)")
+│   #     cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS uq_queue_subject_norm ON queue(subject_norm)")
+│   #     conn.commit()
+│   
+│   # def _ensure_facts_indexes(conn: sqlite3.Connection):
+│   #     cur = conn.cursor()
+│   #     cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS uq_triples ON triples_accepted(subject, predicate, object, hop)")
+│   #     conn.commit()
+│   
+│   # def open_queue_db(path: str) -> sqlite3.Connection:
+│   #     conn = _open_sqlite(path)
+│   #     conn.executescript(QUEUE_DDL)
+│   #     _ensure_queue_indexes(conn)
+│   #     return conn
+│   
+│   # def open_facts_db(path: str) -> sqlite3.Connection:
+│   #     conn = _open_sqlite(path)
+│   #     conn.executescript(FACTS_DDL)
+│   #     _ensure_facts_indexes(conn)
+│   #     return conn
+│   
+│   # EnqResult = Tuple[str, int, Literal["inserted", "hop_reduced", "ignored"]]
+│   
+│   # def enqueue_subjects(db: sqlite3.Connection, items: Iterable[Tuple[str, int]]) -> list[EnqResult]:
+│   #     """
+│   #     (Kept for backward-compat; not used by the processed queue.)
+│   #     """
+│   #     cur = db.cursor()
+│   #     results: list[EnqResult] = []
+│   
+│   #     for subject, hop in items:
+│   #         subj_norm = normalize_subject(subject)
+│   
+│   #         cur.execute("SELECT hop FROM queue WHERE subject_norm=?", (subj_norm,))
+│   #         row = cur.fetchone()
+│   #         before_hop = row[0] if row else None
+│   
+│   #         cur.execute(
+│   #             """
+│   #             INSERT INTO queue(subject, subject_norm, hop, status, retries)
+│   #             VALUES (?, ?, ?, 'pending', 0)
+│   #             ON CONFLICT(subject_norm) DO UPDATE SET
+│   #               hop = CASE WHEN excluded.hop < hop THEN excluded.hop ELSE hop END
+│   #             """,
+│   #             (subject, subj_norm, hop),
+│   #         )
+│   
+│   #         cur.execute("SELECT hop FROM queue WHERE subject_norm=?", (subj_norm,))
+│   #         kept_hop = cur.fetchone()[0]
+│   
+│   #         if before_hop is None:
+│   #             results.append((subject, kept_hop, "inserted"))
+│   #         elif kept_hop < before_hop:
+│   #             results.append((subject, kept_hop, "hop_reduced"))
+│   #         else:
+│   #             results.append((subject, kept_hop, "ignored"))
+│   
+│   #     db.commit()
+│   #     return results
+│   
+│   # def reset_working_to_pending(conn: sqlite3.Connection) -> int:
+│   #     cur = conn.cursor()
+│   #     cur.execute("UPDATE queue SET status='pending' WHERE status='working'")
+│   #     conn.commit()
+│   #     return cur.rowcount
+│   
+│   # def queue_has_rows(conn: sqlite3.Connection) -> bool:
+│   #     cur = conn.cursor()
+│   #     cur.execute("SELECT 1 FROM queue LIMIT 1")
+│   #     return cur.fetchone() is not None
+│   
+│   # def count_queue(conn: sqlite3.Connection):
+│   #     cur = conn.cursor()
+│   #     cur.execute("SELECT COUNT(1) FROM queue WHERE status='pending'"); pending = cur.fetchone()[0]
+│   #     cur.execute("SELECT COUNT(1) FROM queue WHERE status='working'"); working = cur.fetchone()[0]
+│   #     cur.execute("SELECT COUNT(1) FROM queue WHERE status='done'");    done    = cur.fetchone()[0]
+│   #     return done, working, pending, done + working + pending
+│   
+│   # # -----------------------
+│   # # Hardened triple writes
+│   # # -----------------------
+│   
+│   # def _sanitize_row(row):
+│   #     # row: (subject, predicate, object, hop, model_name, strategy, confidence)
+│   #     s, p, o, h, m, st, c = row
+│   
+│   #     def as_str(x):
+│   #         if x is None:
+│   #             return ""
+│   #         if isinstance(x, str):
+│   #             return x
+│   #         return str(x)
+│   
+│   #     s = as_str(s)
+│   #     p = as_str(p)
+│   #     o = as_str(o)
+│   #     m = as_str(m)
+│   #     st = as_str(st)
+│   
+│   #     try:
+│   #         h = int(h)
+│   #     except Exception:
+│   #         h = 0
+│   
+│   #     try:
+│   #         c = float(c) if c is not None else None
+│   #     except Exception:
+│   #         c = None
+│   
+│   #     return (s, p, o, h, m, st, c)
+│   
+│   # def write_triples_accepted(db: sqlite3.Connection, rows: Iterable[Tuple[str, str, str, int, str, str, float | None]]):
+│   #     rows = [ _sanitize_row(r) for r in rows if r ]
+│   #     if not rows:
+│   #         return
+│   #     cur = db.cursor()
+│   #     cur.executemany(
+│   #         """INSERT OR IGNORE INTO triples_accepted
+│   #            (subject, predicate, object, hop, model_name, strategy, confidence)
+│   #            VALUES (?, ?, ?, ?, ?, ?, ?)""",
+│   #         rows,
+│   #     )
+│   #     db.commit()
+│   
+│   # def write_triples_sink(db: sqlite3.Connection, rows: Iterable[Tuple[str, str, str, int, str, str, float | None, str]]):
+│   #     if not rows:
+│   #         return
+│   #     # sanitize + pad reason
+│   #     clean_rows = []
+│   #     for r in rows:
+│   #         s, p, o, h, m, st, c, reason = r
+│   #         s, p, o, h, m, st, c = _sanitize_row((s, p, o, h, m, st, c))
+│   #         reason = "" if reason is None else (reason if isinstance(reason, str) else str(reason))
+│   #         clean_rows.append((s, p, o, h, m, st, c, reason))
+│   
+│   #     cur = db.cursor()
+│   #     cur.executemany(
+│   #         """INSERT INTO triples_sink
+│   #            (subject, predicate, object, hop, model_name, strategy, confidence, reason)
+│   #            VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+│   #         clean_rows,
+│   #     )
+│   #     db.commit()
+│   # db_models.py
+│   from __future__ import annotations
 │   import sqlite3
-│   from typing import Iterable, Tuple
+│   import unicodedata, re
+│   from typing import Iterable, Tuple, Literal
+│   
 │   from settings import QUEUE_DDL, FACTS_DDL
+│   
+│   _WS = re.compile(r"\s+")
+│   
+│   def normalize_subject(s: str) -> str:
+│       if not isinstance(s, str):
+│           return ""
+│       s = unicodedata.normalize("NFKC", s)
+│       s = _WS.sub(" ", s.strip())
+│       return s.lower()
 │   
 │   def _open_sqlite(path: str) -> sqlite3.Connection:
 │       conn = sqlite3.connect(path, check_same_thread=False)
 │       conn.execute("PRAGMA journal_mode=WAL;")
 │       conn.execute("PRAGMA synchronous=NORMAL;")
 │       conn.execute("PRAGMA temp_store=MEMORY;")
-│       conn.execute("PRAGMA mmap_size=30000000000;")
+│       conn.execute("PRAGMA busy_timeout=5000;")
+│       try:
+│           conn.execute("PRAGMA mmap_size=30000000000;")
+│       except sqlite3.OperationalError:
+│           pass
 │       conn.commit()
 │       return conn
 │   
+│   def _ensure_queue_indexes(conn: sqlite3.Connection):
+│       cur = conn.cursor()
+│       cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS uq_queue_subject_norm  ON queue(subject_norm)")
+│       cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS uq_queue_subject_canon ON queue(subject_canon)")
+│       cur.execute("CREATE INDEX IF NOT EXISTS ix_queue_status_hop ON queue(status, hop)")
+│       conn.commit()
+│   
+│   def _ensure_facts_indexes(conn: sqlite3.Connection):
+│       cur = conn.cursor()
+│       cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS uq_triples ON triples_accepted(subject, predicate, object, hop)")
+│       conn.commit()
+│   
 │   def open_queue_db(path: str) -> sqlite3.Connection:
-│       conn = _open_sqlite(path); conn.executescript(QUEUE_DDL); return conn
+│       conn = _open_sqlite(path)
+│       conn.executescript(QUEUE_DDL)
+│       _ensure_queue_indexes(conn)
+│       return conn
 │   
 │   def open_facts_db(path: str) -> sqlite3.Connection:
-│       conn = _open_sqlite(path); conn.executescript(FACTS_DDL); return conn
+│       conn = _open_sqlite(path)
+│       conn.executescript(FACTS_DDL)
+│       _ensure_facts_indexes(conn)
+│       return conn
 │   
-│   def enqueue_subjects(db: sqlite3.Connection, items: Iterable[Tuple[str, int]]):
-│       cur = db.cursor()
-│       for subject, hop in items:
-│           cur.execute("""INSERT OR IGNORE INTO queue(subject, hop, status, retries)
-│                          VALUES (?, ?, 'pending', 0)""", (subject, hop))
-│       db.commit()
+│   EnqResult = Tuple[str, int, Literal["inserted", "hop_reduced", "ignored"]]
 │   
 │   def reset_working_to_pending(conn: sqlite3.Connection) -> int:
 │       cur = conn.cursor()
@@ -951,7 +1108,9 @@ GPTKB_Hallucinations/
 │       return cur.rowcount
 │   
 │   def queue_has_rows(conn: sqlite3.Connection) -> bool:
-│       cur = conn.cursor(); cur.execute("SELECT 1 FROM queue LIMIT 1"); return cur.fetchone() is not None
+│       cur = conn.cursor()
+│       cur.execute("SELECT 1 FROM queue LIMIT 1")
+│       return cur.fetchone() is not None
 │   
 │   def count_queue(conn: sqlite3.Connection):
 │       cur = conn.cursor()
@@ -960,481 +1119,55 @@ GPTKB_Hallucinations/
 │       cur.execute("SELECT COUNT(1) FROM queue WHERE status='done'");    done    = cur.fetchone()[0]
 │       return done, working, pending, done + working + pending
 │   
+│   # -------- triple writers --------
+│   
+│   def _sanitize_row(row):
+│       s, p, o, h, m, st, c = row
+│       def as_str(x):
+│           if x is None: return ""
+│           return x if isinstance(x, str) else str(x)
+│       s, p, o, m, st = as_str(s), as_str(p), as_str(o), as_str(m), as_str(st)
+│       try: h = int(h)
+│       except Exception: h = 0
+│       try: c = float(c) if c is not None else None
+│       except Exception: c = None
+│       return (s, p, o, h, m, st, c)
+│   
 │   def write_triples_accepted(db: sqlite3.Connection, rows: Iterable[Tuple[str, str, str, int, str, str, float | None]]):
-│       if not rows: return
+│       rows = [ _sanitize_row(r) for r in rows if r ]
+│       if not rows:
+│           return
 │       cur = db.cursor()
-│       cur.executemany("""INSERT OR IGNORE INTO triples_accepted
-│                          (subject, predicate, object, hop, model_name, strategy, confidence)
-│                          VALUES (?, ?, ?, ?, ?, ?, ?)""", rows)
+│       cur.executemany(
+│           """INSERT OR IGNORE INTO triples_accepted
+│              (subject, predicate, object, hop, model_name, strategy, confidence)
+│              VALUES (?, ?, ?, ?, ?, ?, ?)""",
+│           rows,
+│       )
 │       db.commit()
 │   
 │   def write_triples_sink(db: sqlite3.Connection, rows: Iterable[Tuple[str, str, str, int, str, str, float | None, str]]):
-│       if not rows: return
+│       if not rows:
+│           return
+│       clean_rows = []
+│       for r in rows:
+│           s, p, o, h, m, st, c, reason = r
+│           s, p, o, h, m, st, c = _sanitize_row((s, p, o, h, m, st, c))
+│           reason = "" if reason is None else (reason if isinstance(reason, str) else str(reason))
+│           clean_rows.append((s, p, o, h, m, st, c, reason))
+│   
 │       cur = db.cursor()
-│       cur.executemany("""INSERT INTO triples_sink
-│                          (subject, predicate, object, hop, model_name, strategy, confidence, reason)
-│                          VALUES (?, ?, ?, ?, ?, ?, ?, ?)""", rows)
+│       cur.executemany(
+│           """INSERT INTO triples_sink
+│              (subject, predicate, object, hop, model_name, strategy, confidence, reason)
+│              VALUES (?, ?, ?, ?, ?, ?, ?, ?)""",
+│           clean_rows,
+│       )
 │       db.commit()
-│   --- File Content End ---
-
-├── crawler_simple.py
-│   --- File Content Start ---
-│   # crawler_simple.py
-│   from __future__ import annotations
-│   import argparse
-│   import datetime
-│   import json
-│   import os
-│   import sqlite3
-│   import time
-│   import traceback
-│   from typing import Dict, List, Tuple
-│   
-│   from dotenv import load_dotenv
-│   
-│   from settings import (
-│       settings,
-│       ELICIT_SCHEMA_BASE,
-│       ELICIT_SCHEMA_CAL,
-│       NER_SCHEMA_BASE,
-│       NER_SCHEMA_CAL,
-│   )
-│   from prompter_parser import get_prompt_messages
-│   from llm.factory import make_llm_from_config
-│   from db_models import (
-│       open_queue_db,
-│       open_facts_db,
-│       enqueue_subjects,
-│       write_triples_accepted,
-│       write_triples_sink,
-│       queue_has_rows,
-│       reset_working_to_pending,
-│   )
-│   
-│   load_dotenv()
-│   
-│   
-│   def _dbg(msg: str):
-│       print(msg, flush=True)
-│   
-│   
-│   def _ensure_output_dir(base_dir: str | None) -> str:
-│       out = base_dir or os.path.join("runs", datetime.datetime.now().strftime("%Y%m%d_%H%M%S"))
-│       os.makedirs(out, exist_ok=True)
-│       return out
-│   
-│   
-│   def _build_paths(out_dir: str) -> dict:
-│       return {
-│           "queue_sqlite": os.path.join(out_dir, "queue.sqlite"),
-│           "facts_sqlite": os.path.join(out_dir, "facts.sqlite"),
-│           "queue_jsonl": os.path.join(out_dir, "queue.jsonl"),
-│           "facts_jsonl": os.path.join(out_dir, "facts.jsonl"),
-│           "queue_json": os.path.join(out_dir, "queue.json"),
-│           "facts_json": os.path.join(out_dir, "facts.json"),
-│           "errors_log": os.path.join(out_dir, "errors.log"),
-│           "ner_jsonl": os.path.join(out_dir, "ner_decisions.jsonl"),
-│           "lowconf_json": os.path.join(out_dir, "facts_lowconf.json"),
-│           "lowconf_jsonl": os.path.join(out_dir, "facts_lowconf.jsonl"),
-│       }
-│   
-│   
-│   def _append_jsonl(path: str, obj: dict):
-│       with open(path, "a", encoding="utf-8") as f:
-│           f.write(json.dumps(obj, ensure_ascii=False) + "\n")
-│   
-│   
-│   # -------------------- DB helpers --------------------
-│   
-│   def _fetch_one_pending(conn: sqlite3.Connection, max_depth: int) -> Tuple[str, int] | None:
-│       cur = conn.cursor()
-│       cur.execute("SELECT subject, hop FROM queue WHERE status='pending' AND hop<=? LIMIT 1", (max_depth,))
-│       row = cur.fetchone()
-│       if not row:
-│           return None
-│       s, h = row
-│       cur.execute("UPDATE queue SET status='working' WHERE subject=?", (s,))
-│       conn.commit()
-│       return s, h
-│   
-│   
-│   def _mark_done(conn: sqlite3.Connection, subject: str):
-│       conn.execute("UPDATE queue SET status='done' WHERE subject=?", (subject,))
-│       conn.commit()
-│   
-│   
-│   def _counts(conn: sqlite3.Connection, max_depth: int):
-│       cur = conn.cursor()
-│       cur.execute("SELECT COUNT(1) FROM queue WHERE status='done' AND hop<=?", (max_depth,))
-│       done = cur.fetchone()[0]
-│       cur.execute("SELECT COUNT(1) FROM queue WHERE status='working' AND hop<=?", (max_depth,))
-│       working = cur.fetchone()[0]
-│       cur.execute("SELECT COUNT(1) FROM queue WHERE status='pending' AND hop<=?", (max_depth,))
-│       pending = cur.fetchone()[0]
-│       return done, working, pending, done + working + pending
-│   
-│   
-│   # -------------------- Output normalization --------------------
-│   
-│   def _parse_obj(maybe_json) -> dict:
-│       if isinstance(maybe_json, dict):
-│           return maybe_json
-│       if isinstance(maybe_json, str):
-│           try:
-│               return json.loads(maybe_json)
-│           except Exception:
-│               return {}
-│       return {}
-│   
-│   def _normalize_elicitation_output(out) -> Dict[str, list]:
-│       obj = _parse_obj(out)
-│       facts = obj.get("facts")
-│       if isinstance(facts, list):
-│           return {"facts": [t for t in facts if isinstance(t, dict)]}
-│       triples = obj.get("triples")
-│       if isinstance(triples, list):
-│           return {"facts": [t for t in triples if isinstance(t, dict)]}
-│       return {"facts": []}
-│   
-│   def _normalize_ner_output(out) -> Dict[str, list]:
-│       obj = _parse_obj(out)
-│       if isinstance(obj.get("phrases"), list):
-│           got = []
-│           for ph in obj["phrases"]:
-│               phrase = ph.get("phrase")
-│               is_ne = bool(ph.get("is_ne"))
-│               if isinstance(phrase, str):
-│                   got.append({"phrase": phrase, "is_ne": is_ne})
-│           return {"phrases": got}
-│       ents = obj.get("entities")
-│       if isinstance(ents, list):
-│           mapped = []
-│           for e in ents:
-│               name = e.get("name") or e.get("phrase")
-│               etype = (e.get("type") or "").strip().lower()
-│               keep = e.get("keep")
-│               is_ne = (etype == "ne") or (keep is True)
-│               if isinstance(name, str):
-│                   mapped.append({"phrase": name, "is_ne": bool(is_ne)})
-│           return {"phrases": mapped}
-│       return {"phrases": []}
-│   
-│   def _route_facts(args, facts: List[dict], hop: int, model_name: str):
-│       acc, lowconf, objs = [], [], []
-│       use_threshold = (args.elicitation_strategy == "calibrate")
-│       thr = float(args.conf_threshold)
-│   
-│       for f in facts:
-│           s, p, o = f.get("subject"), f.get("predicate"), f.get("object")
-│           if not (isinstance(s, str) and isinstance(p, str) and isinstance(o, str)):
-│               continue
-│           conf = f.get("confidence")
-│   
-│           if use_threshold and isinstance(conf, (int, float)):
-│               if conf < thr:
-│                   lowconf.append({
-│                       "subject": s, "predicate": p, "object": o,
-│                       "hop": hop, "model": model_name,
-│                       "strategy": args.elicitation_strategy,
-│                       "confidence": float(conf),
-│                       "threshold": thr
-│                   })
-│                   continue
-│   
-│           acc.append((s, p, o, hop, model_name, args.elicitation_strategy,
-│                       conf if isinstance(conf, (int, float)) else None))
-│           objs.append(o)
-│   
-│       return acc, lowconf, objs
-│   
-│   def _filter_ner_candidates(objs: List[str]) -> List[str]:
-│       return sorted({o for o in objs if isinstance(o, str) and 1 <= len(o.split()) <= 6})
-│   
-│   def _enqueue_next(qdb, paths, phrases: List[str], hop: int, max_depth: int):
-│       if not phrases:
-│           return
-│       next_hop = hop + 1
-│       if next_hop > max_depth:
-│           return
-│       enqueue_subjects(qdb, ((s, next_hop) for s in phrases))
-│       for s in phrases:
-│           _append_jsonl(paths["queue_jsonl"], {"subject": s, "hop": next_hop})
-│   
-│   
-│   # -------------------- Main --------------------
-│   
-│   def main():
-│       ap = argparse.ArgumentParser(description="Simple crawler (system+user prompts from JSON).")
-│       ap.add_argument("--seed", required=True)
-│       ap.add_argument("--output-dir", default=None)
-│   
-│       # Strategies / domain
-│       ap.add_argument("--elicitation-strategy", default="baseline", choices=["baseline","icl","dont_know","calibrate"])
-│       ap.add_argument("--ner-strategy", default="baseline", choices=["baseline","icl","dont_know","calibrate"])
-│       ap.add_argument("--domain", default="general", choices=["general","topic"])
-│   
-│       # Depth / batching
-│       ap.add_argument("--max-depth", type=int, default=settings.MAX_DEPTH)
-│       ap.add_argument("--ner-batch-size", type=int, default=settings.NER_BATCH_SIZE)
-│       ap.add_argument("--max-facts-hint", default=str(settings.MAX_FACTS_HINT))
-│       ap.add_argument("--conf-threshold", type=float, default=0.7)
-│   
-│       # Models
-│       ap.add_argument("--elicit-model-key", default=settings.ELICIT_MODEL_KEY)
-│       ap.add_argument("--ner-model-key", default=settings.NER_MODEL_KEY)
-│   
-│       # Sampler knobs (for non-Responses models)
-│       ap.add_argument("--temperature", type=float, default=None)
-│       ap.add_argument("--top-p", type=float, default=None)
-│       ap.add_argument("--top-k", type=int, default=None)
-│       ap.add_argument("--max-tokens", type=int, default=None)
-│   
-│       # Hard cap
-│       ap.add_argument("--max-subjects", type=int, default=0)
-│   
-│       # Responses API extras
-│       ap.add_argument("--reasoning-effort", choices=["minimal","low","medium","high"], default=None)
-│       ap.add_argument("--verbosity", choices=["low","medium","high"], default=None)
-│   
-│       # Resume
-│       ap.add_argument("--resume", action="store_true")
-│       ap.add_argument("--reset-working", action="store_true")
-│   
-│       # Debug
-│       ap.add_argument("--debug", action="store_true")
-│   
-│       args = ap.parse_args()
-│   
-│       out_dir = _ensure_output_dir(args.output_dir)
-│       paths = _build_paths(out_dir)
-│       _dbg(f"[simple] output_dir: {out_dir}")
-│   
-│       # DBs
-│       qdb = open_queue_db(paths["queue_sqlite"])
-│       fdb = open_facts_db(paths["facts_sqlite"])
-│   
-│       # Seed or resume
-│       if args.resume and queue_has_rows(qdb):
-│           if args.reset_working:
-│               n = reset_working_to_pending(qdb)
-│               _dbg(f"[simple] resume: reset {n} 'working' → 'pending'")
-│           d0, w0, p0, t0 = _counts(qdb, args.max_depth)
-│           _dbg(f"[simple] resume: queue found: done={d0} working={w0} pending={p0} total={t0}")
-│       else:
-│           enqueue_subjects(qdb, [(args.seed, 0)])
-│           _dbg(f"[simple] seeded: {args.seed}")
-│   
-│       # Build LLMs
-│       el_cfg = settings.MODELS[args.elicit_model_key].model_copy(deep=True)
-│       ner_cfg = settings.MODELS[args.ner_model_key].model_copy(deep=True)
-│   
-│       # Respect per-provider rules
-│       for cfg in (el_cfg, ner_cfg):
-│           if getattr(cfg, "use_responses_api", False):
-│               cfg.temperature = None
-│               cfg.top_p = None
-│               cfg.top_k = None
-│               if cfg.extra_inputs is None:
-│                   cfg.extra_inputs = {}
-│               cfg.extra_inputs.setdefault("reasoning", {})
-│               cfg.extra_inputs.setdefault("text", {})
-│               if args.reasoning_effort:
-│                   cfg.extra_inputs["reasoning"]["effort"] = args.reasoning_effort
-│               if args.verbosity:
-│                   cfg.extra_inputs["text"]["verbosity"] = args.verbosity
-│           else:
-│               if args.temperature is not None: cfg.temperature = args.temperature
-│               if args.top_p is not None: cfg.top_p = args.top_p
-│               if args.top_k is not None: cfg.top_k = args.top_k
-│           if args.max_tokens is not None:
-│               cfg.max_tokens = args.max_tokens
-│           if cfg.max_tokens is None:
-│               cfg.max_tokens = 2048
-│   
-│       el_llm = make_llm_from_config(el_cfg)
-│       ner_llm = make_llm_from_config(ner_cfg)
-│   
-│       start = time.time()
-│       subjects_elicited_total = 0
-│       lowconf_accum: List[dict] = []
-│   
-│       while True:
-│           if args.max_subjects and subjects_elicited_total >= args.max_subjects:
-│               _dbg(f"[simple] max-subjects reached ({subjects_elicited_total}); stopping.")
-│               break
-│   
-│           nxt = _fetch_one_pending(qdb, args.max_depth)
-│           if not nxt:
-│               d, w, p, t = _counts(qdb, args.max_depth)
-│               if t == 0:
-│                   _dbg("[simple] nothing to do.")
-│               else:
-│                   _dbg(f"[simple] queue drained: done={d} working={w} pending={p} total={t}")
-│               break
-│   
-│           subject, hop = nxt
-│           _dbg(f"[simple] eliciting '{subject}' (hop={hop})")
-│   
-│           try:
-│               # ---------- ELICITATION ----------
-│               el_messages = get_prompt_messages(
-│                   args.elicitation_strategy, "elicitation",
-│                   domain=args.domain,
-│                   variables=dict(
-│                       subject_name=subject,
-│                       root_subject=args.seed,          # use seed as the topic anchor when domain == "topic"
-│                       max_facts_hint=args.max_facts_hint,
-│                   ),
-│               )
-│               if args.debug:
-│                   print("\n--- ELICITATION MESSAGES ---")
-│                   for m in el_messages: print(m["role"].upper()+":", m["content"][:4000])
-│                   print("----------------------------\n")
-│   
-│               el_schema = ELICIT_SCHEMA_CAL if (args.elicitation_strategy == "calibrate") else ELICIT_SCHEMA_BASE
-│               resp = el_llm(el_messages, json_schema=el_schema)
-│   
-│               # Normalize/salvage
-│               obj = resp if isinstance(resp, dict) else _parse_obj(resp)
-│               facts = []
-│               if isinstance(obj.get("facts"), list):
-│                   facts = [t for t in obj["facts"] if isinstance(t, dict)]
-│               elif isinstance(obj.get("triples"), list):
-│                   facts = [t for t in obj["triples"] if isinstance(t, dict)]
-│   
-│               acc, lowconf, objs = _route_facts(args, facts, hop, el_cfg.model)
-│               write_triples_accepted(fdb, acc)
-│   
-│               for s, p, o, _, m, strat, c in acc:
-│                   _append_jsonl(paths["facts_jsonl"], {
-│                       "subject": s, "predicate": p, "object": o,
-│                       "hop": hop, "model": m, "strategy": strat, "confidence": c
-│                   })
-│   
-│               if lowconf:
-│                   for item in lowconf:
-│                       _append_jsonl(paths["lowconf_jsonl"], item)
-│                   lowconf_accum.extend(lowconf)
-│   
-│               write_triples_sink(fdb, [])
-│   
-│               # ---------- NER ----------
-│               cand = _filter_ner_candidates([t.get("object") for t in facts if isinstance(t, dict)])
-│               next_subjects: List[str] = []
-│               i = 0
-│               while i < len(cand):
-│                   chunk = cand[i: i + args.ner_batch_size]
-│                   ner_messages = get_prompt_messages(
-│                       args.ner_strategy, "ner",
-│                       domain=args.domain,
-│                       variables=dict(
-│                           phrases_block="\n".join(chunk),
-│                           root_subject=args.seed,
-│                       ),
-│                   )
-│                   if args.debug:
-│                       print("\n--- NER MESSAGES ---")
-│                       for m in ner_messages: print(m["role"].upper()+":", m["content"][:4000])
-│                       print("---------------------\n")
-│   
-│                   ner_schema = NER_SCHEMA_CAL if (args.ner_strategy == "calibrate") else NER_SCHEMA_BASE
-│                   out = ner_llm(ner_messages, json_schema=ner_schema)
-│   
-│                   norm_ner = _normalize_ner_output(out)
-│                   for ph in norm_ner.get("phrases", []):
-│                       phrase = ph.get("phrase")
-│                       is_ne = bool(ph.get("is_ne"))
-│                       _append_jsonl(paths["ner_jsonl"], {
-│                           "parent_subject": subject, "hop": hop,
-│                           "phrase": phrase, "is_ne": is_ne,
-│                           "ner_model": ner_cfg.model, "ner_strategy": args.ner_strategy,
-│                           "domain": args.domain, "root_subject": args.seed if (args.domain == "topic") else None,
-│                       })
-│                       if is_ne and isinstance(phrase, str):
-│                           next_subjects.append(phrase)
-│   
-│                   i += args.ner_batch_size
-│   
-│               _enqueue_next(qdb, paths, next_subjects, hop, args.max_depth)
-│               _mark_done(qdb, subject)
-│               subjects_elicited_total += 1
-│   
-│               if args.max_subjects and subjects_elicited_total >= args.max_subjects:
-│                   _dbg(f"[simple] max-subjects reached ({subjects_elicited_total}); stopping.")
-│                   break
-│   
-│           except KeyboardInterrupt:
-│               n = reset_working_to_pending(qdb)
-│               print(f"\n[simple] Interrupted. reset {n} 'working' → 'pending' for resume.")
-│               break
-│           except Exception:
-│               with open(paths["errors_log"], "a", encoding="utf-8") as ef:
-│                   ef.write(f"[{datetime.datetime.now().isoformat()}] subject={subject}\n{traceback.format_exc()}\n")
-│               qdb.execute("UPDATE queue SET status='pending', retries=retries+1 WHERE subject=?", (subject,))
-│               qdb.commit()
-│   
-│       # ----- Final snapshots -----
-│       conn = sqlite3.connect(paths["queue_sqlite"])
-│       cur = conn.cursor()
-│       cur.execute("SELECT subject, hop, status, retries, created_at FROM queue ORDER BY hop, subject")
-│       rows = cur.fetchall()
-│       with open(paths["queue_json"], "w", encoding="utf-8") as f:
-│           json.dump(
-│               [{"subject": s, "hop": h, "status": st, "retries": r, "created_at": ts} for (s, h, st, r, ts) in rows],
-│               f, ensure_ascii=False, indent=2
-│           )
-│       conn.close()
-│   
-│       conn = sqlite3.connect(paths["facts_sqlite"])
-│       cur = conn.cursor()
-│       cur.execute(
-│           "SELECT subject, predicate, object, hop, model_name, strategy, confidence "
-│           "FROM triples_accepted ORDER BY subject, predicate, object"
-│       )
-│       rows_acc = cur.fetchall()
-│       cur.execute(
-│           "SELECT subject, predicate, object, hop, model_name, strategy, confidence, reason "
-│           "FROM triples_sink ORDER BY subject, predicate, object"
-│       )
-│       rows_sink = cur.fetchall()
-│       with open(paths["facts_json"], "w", encoding="utf-8") as f:
-│           json.dump(
-│               {
-│                   "accepted": [
-│                       {"subject": s, "predicate": p, "object": o, "hop": h,
-│                        "model": m, "strategy": st, "confidence": c}
-│                       for (s, p, o, h, m, st, c) in rows_acc
-│                   ],
-│                   "sink": [
-│                       {"subject": s, "predicate": p, "object": o, "hop": h,
-│                        "model": m, "strategy": st, "confidence": c, "reason": r}
-│                       for (s, p, o, h, m, st, c, r) in rows_sink
-│                   ],
-│               },
-│               f, ensure_ascii=False, indent=2
-│           )
-│       conn.close()
-│   
-│       with open(paths["lowconf_json"], "w", encoding="utf-8") as f:
-│           json.dump({"below_threshold": lowconf_accum}, f, ensure_ascii=False, indent=2)
-│   
-│       dur = time.time() - start
-│       print(f"[simple] finished in {dur:.1f}s → outputs in {out_dir}")
-│       print(f"[simple] queue.json        : {paths['queue_json']}")
-│       print(f"[simple] facts.json        : {paths['facts_json']}")
-│       print(f"[simple] facts.jsonl       : {paths['facts_jsonl']}")
-│       print(f"[simple] lowconf.json      : {paths['lowconf_json']}")
-│       print(f"[simple] lowconf.jsonl     : {paths['lowconf_jsonl']}")
-│       print(f"[simple] ner log           : {paths['ner_jsonl']}")
-│       print(f"[simple] errors.log        : {paths['errors_log']}")
-│   
-│   if __name__ == "__main__":
-│       main()
 │   --- File Content End ---
 
 ├── settings.py
 │   --- File Content Start ---
-│   # settings.py
 │   from __future__ import annotations
 │   from typing import Dict
 │   from pydantic import BaseModel
@@ -1444,64 +1177,84 @@ GPTKB_Hallucinations/
 │   
 │   ELICIT_SCHEMA_BASE = {
 │     "type": "object",
+│     "additionalProperties": False,
 │     "properties": {
-│       "facts": {"type": "array", "items": {
-│         "type": "object",
-│         "properties": {
-│           "subject": {"type": "string"},
-│           "predicate": {"type": "string"},
-│           "object": {"type": "string"}
-│         },
-│         "required": ["subject", "predicate", "object"]
-│       }}
+│       "facts": {
+│         "type": "array",
+│         "items": {
+│           "type": "object",
+│           "additionalProperties": False,
+│           "properties": {
+│             "subject":   {"type": "string"},
+│             "predicate": {"type": "string"},
+│             "object":    {"type": "string"}
+│           },
+│           "required": ["subject", "predicate", "object"]
+│         }
+│       }
 │     },
 │     "required": ["facts"]
 │   }
 │   
 │   ELICIT_SCHEMA_CAL = {
 │     "type": "object",
+│     "additionalProperties": False,
 │     "properties": {
-│       "facts": {"type": "array", "items": {
-│         "type": "object",
-│         "properties": {
-│           "subject": {"type": "string"},
-│           "predicate": {"type": "string"},
-│           "object": {"type": "string"},
-│           "confidence": {"type": "number", "minimum": 0.0, "maximum": 1.0}
-│         },
-│         "required": ["subject", "predicate", "object", "confidence"]
-│       }}
+│       "facts": {
+│         "type": "array",
+│         "items": {
+│           "type": "object",
+│           "additionalProperties": False,
+│           "properties": {
+│             "subject":    {"type": "string"},
+│             "predicate":  {"type": "string"},
+│             "object":     {"type": "string"},
+│             "confidence": {"type": "number", "minimum": 0.0, "maximum": 1.0}
+│           },
+│           "required": ["subject", "predicate", "object", "confidence"]
+│         }
+│       }
 │     },
 │     "required": ["facts"]
 │   }
 │   
 │   NER_SCHEMA_BASE = {
 │     "type": "object",
+│     "additionalProperties": False,
 │     "properties": {
-│       "phrases": {"type": "array", "items": {
-│         "type": "object",
-│         "properties": {
-│           "phrase": {"type": "string"},
-│           "is_ne": {"type": "boolean"}
-│         },
-│         "required": ["phrase", "is_ne"]
-│       }}
+│       "phrases": {
+│         "type": "array",
+│         "items": {
+│           "type": "object",
+│           "additionalProperties": False,
+│           "properties": {
+│             "phrase": {"type": "string"},
+│             "is_ne":  {"type": "boolean"}
+│           },
+│           "required": ["phrase", "is_ne"]
+│         }
+│       }
 │     },
 │     "required": ["phrases"]
 │   }
 │   
 │   NER_SCHEMA_CAL = {
 │     "type": "object",
+│     "additionalProperties": False,
 │     "properties": {
-│       "phrases": {"type": "array", "items": {
-│         "type": "object",
-│         "properties": {
-│           "phrase": {"type": "string"},
-│           "is_ne": {"type": "boolean"},
-│           "confidence": {"type": "number", "minimum": 0.0, "maximum": 1.0}
-│         },
-│         "required": ["phrase", "is_ne", "confidence"]
-│       }}
+│       "phrases": {
+│         "type": "array",
+│         "items": {
+│           "type": "object",
+│           "additionalProperties": False,
+│           "properties": {
+│             "phrase":     {"type": "string"},
+│             "is_ne":      {"type": "boolean"},
+│             "confidence": {"type": "number", "minimum": 0.0, "maximum": 1.0}
+│           },
+│           "required": ["phrase", "is_ne", "confidence"]
+│         }
+│       }
 │     },
 │     "required": ["phrases"]
 │   }
@@ -1510,23 +1263,37 @@ GPTKB_Hallucinations/
 │   
 │   QUEUE_DDL = """
 │   CREATE TABLE IF NOT EXISTS queue(
-│     subject TEXT PRIMARY KEY,
-│     hop INT DEFAULT 0,
-│     status TEXT DEFAULT 'pending',
-│     retries INT DEFAULT 0,
-│     created_at DATETIME DEFAULT CURRENT_TIMESTAMP
+│     subject        TEXT NOT NULL,
+│     subject_norm   TEXT NOT NULL,
+│     subject_canon  TEXT NOT NULL DEFAULT '',
+│     hop            INT  NOT NULL DEFAULT 0,
+│     status         TEXT NOT NULL DEFAULT 'pending',
+│     retries        INT  NOT NULL DEFAULT 0,
+│     created_at     DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP
 │   );
 │   """
 │   
 │   FACTS_DDL = """
 │   CREATE TABLE IF NOT EXISTS triples_accepted(
-│     subject TEXT, predicate TEXT, object TEXT,
-│     hop INT, model_name TEXT, strategy TEXT, confidence REAL,
-│     PRIMARY KEY(subject,predicate,object)
+│     subject     TEXT, 
+│     predicate   TEXT, 
+│     object      TEXT,
+│     hop         INT, 
+│     model_name  TEXT, 
+│     strategy    TEXT, 
+│     confidence  REAL,
+│     PRIMARY KEY(subject, predicate, object, hop)
 │   );
+│   
 │   CREATE TABLE IF NOT EXISTS triples_sink(
-│     subject TEXT, predicate TEXT, object TEXT,
-│     hop INT, model_name TEXT, strategy TEXT, confidence REAL, reason TEXT
+│     subject     TEXT, 
+│     predicate   TEXT, 
+│     object      TEXT,
+│     hop         INT, 
+│     model_name  TEXT, 
+│     strategy    TEXT, 
+│     confidence  REAL, 
+│     reason      TEXT
 │   );
 │   """
 │   
@@ -1543,19 +1310,19 @@ GPTKB_Hallucinations/
 │           "gpt4o": ModelConfig(
 │               provider="openai", model="gpt-4o",
 │               api_key_env="OPENAI_API_KEY",
-│               temperature=0.0, top_p=1.0, max_tokens=2000,
+│               temperature=0.0, top_p=1.0, max_tokens=4096,
 │               use_responses_api=False
 │           ),
 │           "gpt4o-mini": ModelConfig(
 │               provider="openai", model="gpt-4o-mini",
 │               api_key_env="OPENAI_API_KEY",
-│               temperature=0.0, top_p=1.0, max_tokens=2000,
+│               temperature=0.0, top_p=1.0, max_tokens=4096,
 │               use_responses_api=False
 │           ),
 │           "gpt4-turbo": ModelConfig(
 │               provider="openai", model="gpt-4-turbo",
 │               api_key_env="OPENAI_API_KEY",
-│               temperature=0.0, top_p=1.0, max_tokens=2000,
+│               temperature=0.0, top_p=1.0, max_tokens=4096,
 │               use_responses_api=False
 │           ),
 │   
@@ -1564,7 +1331,7 @@ GPTKB_Hallucinations/
 │               provider="openai",
 │               model="gpt-5",
 │               api_key_env="OPENAI_API_KEY",
-│               temperature=None, top_p=None, max_tokens=2000,
+│               temperature=None, top_p=None, max_tokens=4096,
 │               use_responses_api=True,
 │               extra_inputs={
 │                   "reasoning": {"effort": "medium"},
@@ -1575,7 +1342,7 @@ GPTKB_Hallucinations/
 │               provider="openai",
 │               model="gpt-5-mini",
 │               api_key_env="OPENAI_API_KEY",
-│               temperature=None, top_p=None, max_tokens=2000,
+│               temperature=None, top_p=None, max_tokens=4096,
 │               use_responses_api=True,
 │               extra_inputs={
 │                   "reasoning": {"effort": "low"},
@@ -1591,7 +1358,7 @@ GPTKB_Hallucinations/
 │                   "reasoning": {"effort": "minimal"},
 │                   "text": {"verbosity": "low"},
 │               },
-│               max_tokens=2000,
+│               max_tokens=4096,
 │           ),
 │   
 │           # -------- DeepSeek --------
@@ -1599,93 +1366,157 @@ GPTKB_Hallucinations/
 │               provider="deepseek", model="deepseek-chat",
 │               api_key_env="DEEPSEEK_API_KEY",
 │               base_url="https://api.deepseek.com",
-│               temperature=0.0, top_p=0.95, max_tokens=2000
+│               temperature=0.0, top_p=0.95, max_tokens=4096
 │           ),
 │           "deepseek-reasoner": ModelConfig(
 │               provider="deepseek", model="deepseek-reasoner",
 │               api_key_env="DEEPSEEK_API_KEY",
 │               base_url="https://api.deepseek.com",
-│               temperature=0.0, top_p=0.95, max_tokens=2000
+│               temperature=0.0, top_p=0.95, max_tokens=4096
 │           ),
 │   
-│           # -------- Replicate core LLMs --------
-│           "llama8b": ModelConfig(
-│               provider="replicate", model="meta/meta-llama-3.1-8b-instruct",
+│           # -------- Replicate (various) --------
+│   
+│           # Add these inside Settings.MODELS in settings.py
+│   
+│           # ------- Replicate (Meta Llama-3 70B Instruct) -------
+│           "llama3-70b-instruct": ModelConfig(
+│               provider="replicate",
+│               model="meta/meta-llama-3-70b-instruct",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.6, top_p=0.9, top_k=50, max_tokens=1024,
-│               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
+│               temperature=0.6,
+│               top_p=0.9,
+│               top_k=0,
+│               max_tokens=4096,  # you can lower per-run; example snippet used 512
+│               extra_inputs={
+│                   # keep this EXACTLY — your pipeline will pass {system_prompt} and {prompt}
+│                   "system_prompt": "You are a helpful assistant",
+│                   "prompt_template": (
+│                       "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\n"
+│                       "{system_prompt}<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n"
+│                       "{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+│                   ),
+│                   "length_penalty": 1,
+│                   "presence_penalty": 1.15,
+│                   # Replicate runners typically prefer list form; your example showed a CSV string —
+│                   # we include both-friendly variant; your factory should map to what the runner expects.
+│                   "stop_sequences": ["<|end_of_text|>", "<|eot_id|>"],
+│                   "log_performance_metrics": False,
+│               },
 │           ),
-│           "llama70b": ModelConfig(
-│               provider="replicate", model="meta/meta-llama-3.1-70b-instruct",
+│   
+│           # ------- Replicate (Meta Llama-3 8B Instruct) -------
+│           "llama3-8b-instruct": ModelConfig(
+│               provider="replicate",
+│               model="meta/meta-llama-3-8b-instruct",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.6, top_p=0.9, top_k=50, max_tokens=1024,
-│               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
+│               temperature=0.7,
+│               top_p=0.95,
+│               top_k=0,
+│               max_tokens=4096,  # example used 512; keep 4096 default and cap per-run if needed
+│               extra_inputs={
+│                   # keep this EXACTLY — note this template uses {system_prompt} placeholder too
+│                   "system_prompt": "You are a helpful assistant",
+│                   "prompt_template": (
+│                       "<|begin_of_text|><|start_header_id|>system<|end_header_id|>\n\n"
+│                       "{system_prompt}<|eot_id|><|start_header_id|>user<|end_header_id|>\n\n"
+│                       "{prompt}<|eot_id|><|start_header_id|>assistant<|end_header_id|>\n\n"
+│                   ),
+│                   "length_penalty": 1,
+│                   "presence_penalty": 0,
+│                   "max_new_tokens": 512,  # optional; some runners accept both max_tokens + max_new_tokens
+│                   "stop_sequences": ["<|end_of_text|>", "<|eot_id|>"],
+│                   "log_performance_metrics": False,
+│               },
 │           ),
+│           # ------- Replicate (Meta Llama-3 8B — BASE, non-instruct) -------
+│   "llama3-8b": ModelConfig(
+│       provider="replicate",
+│       model="meta/meta-llama-3-8b",           # BASE model (no -instruct)
+│       api_key_env="REPLICATE_API_TOKEN",
+│       temperature=0.6,
+│       top_p=0.9,
+│       top_k=0,
+│       max_tokens=4096,
+│       extra_inputs={
+│           # Your factory should format: prompt_template.format(system_prompt=..., prompt=...)
+│           # For BASE models we emulate chat by concatenating system + user.
+│           "system_prompt": "You are a helpful assistant that returns STRICT JSON per schema.",
+│           "prompt_template": "{system_prompt}\n\n{prompt}",
+│           # Runners typically accept list or string for stop; list is safer:
+│           "stop_sequences": ["<|end_of_text|>"],
+│           "length_penalty": 1,
+│           "presence_penalty": 0,
+│           "log_performance_metrics": False,
+│       },
+│   ),
+│   
+│   # ------- Replicate (Meta Llama-3 70B — BASE, non-instruct) -------
+│   "llama3-70b": ModelConfig(
+│       provider="replicate",
+│       model="meta/meta-llama-3-70b",          # BASE model (no -instruct)
+│       api_key_env="REPLICATE_API_TOKEN",
+│       temperature=0.6,
+│       top_p=0.9,
+│       top_k=0,
+│       max_tokens=4096,
+│       extra_inputs={
+│           "system_prompt": "You are a helpful assistant that returns STRICT JSON per schema.",
+│           "prompt_template": "{system_prompt}\n\n{prompt}",
+│           "stop_sequences": ["<|end_of_text|>"],
+│           "length_penalty": 1,
+│           "presence_penalty": 0,
+│           "log_performance_metrics": False,
+│       },
+│   ),
+│   
 │           "llama405b": ModelConfig(
 │               provider="replicate", model="meta/meta-llama-3.1-405b-instruct",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.6, top_p=0.9, top_k=50, max_tokens=1024,
+│               temperature=0.6, top_p=0.9, top_k=50, max_tokens=4096,
 │               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
 │           ),
 │           "mistral7b": ModelConfig(
 │               provider="replicate", model="mistralai/mistral-7b-instruct",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.6, top_p=0.95, top_k=50, max_tokens=1024,
+│               temperature=0.6, top_p=0.95, top_k=50, max_tokens=4096,
 │               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
 │           ),
 │           "mixtral8x7b": ModelConfig(
 │               provider="replicate", model="mistralai/mixtral-8x7b-instruct",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.6, top_p=0.95, top_k=50, max_tokens=1024,
+│               temperature=0.6, top_p=0.95, top_k=50, max_tokens=4096,
 │               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
 │           ),
 │   
-│           # -------- Replicate (Gemini / Grok / Claude) --------
 │           "gemini-flash": ModelConfig(
 │               provider="replicate",
 │               model="google/gemini-2.5-flash",
 │               api_key_env="REPLICATE_API_TOKEN",
 │               temperature=0.2,
 │               top_p=0.9,
-│               max_tokens=1024,
-│               extra_inputs={
-│                   "prefer": "prompt",
-│                   "dynamic_thinking": False
-│               },
+│               max_tokens=4096,
+│               extra_inputs={"prefer": "prompt", "dynamic_thinking": False},
 │           ),
 │           "grok4": ModelConfig(
 │               provider="replicate",
 │               model="xai/grok-4",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.1,
-│               top_p=1.0,
-│               max_tokens=2048,
-│               extra_inputs={
-│                   "presence_penalty": 0,
-│                   "frequency_penalty": 0,
-│                   "system_prompt": "You are a helpful assistant.",
-│                   "prompt_template": "",
-│               },
+│               temperature=0.1, top_p=1.0, max_tokens=2048,
+│               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""},
 │           ),
 │           "claude35h": ModelConfig(
 │               provider="replicate",
 │               model="anthropic/claude-3.5-haiku",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.3,
-│               top_p=0.9,
-│               max_tokens=8192,
-│               extra_inputs={
-│                   "system_prompt": "You are a concise and creative assistant.",
-│                   "prompt_template": "",
-│               },
+│               temperature=0.3, top_p=0.9, max_tokens=8192,
+│               extra_inputs={"system_prompt": "You are a concise and creative assistant.", "prompt_template": ""},
 │           ),
 │           "claude37s": ModelConfig(
 │               provider="replicate",
 │               model="anthropic/claude-3.7-sonnet",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.2,
-│               top_p=0.9,
-│               max_tokens=8192,
+│               temperature=0.2, top_p=0.9, max_tokens=8192,
 │               extra_inputs={
 │                   "extended_thinking": False,
 │                   "max_image_resolution": 0.5,
@@ -1694,73 +1525,42 @@ GPTKB_Hallucinations/
 │               },
 │           ),
 │   
-│           # -------- Replicate (others) --------
-│           "gemma2b": ModelConfig(
-│               provider="replicate", model="google-deepmind/gemma-2b-it",
-│               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.7, top_p=0.95, top_k=50, max_tokens=200,
-│               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
-│           ),
-│           "qwen2-7b": ModelConfig(
-│               provider="replicate", model="alibaba-nlp/qwen2-7b-instruct",
-│               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.6, top_p=0.95, top_k=50, max_tokens=1024,
-│               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
-│           ),
-│           "falcon180b": ModelConfig(
-│               provider="replicate", model="tiiuae/falcon-180b-instruct",
-│               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.6, top_p=0.95, top_k=50, max_tokens=1024,
-│               extra_inputs={"system_prompt": "You are a helpful assistant.", "prompt_template": ""}
-│           ),
-│   
-│           # ------- Replicate (IBM Granite 3.3 8B Instruct) -------
 │           "granite8b": ModelConfig(
 │               provider="replicate",
 │               model="ibm-granite/granite-3.3-8b-instruct",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.6,
-│               top_p=0.9,
-│               top_k=50,
-│               max_tokens=1024,
+│               temperature=0.6, top_p=0.9, top_k=50, max_tokens=4096,
 │               extra_inputs={
-│                   "presence_penalty": 0,
-│                   "frequency_penalty": 0,
-│                   "add_generation_prompt": True,
-│                   "stop": [],
-│                   "tools": [],
-│                   "chat_template_kwargs": {},
-│                   "documents": [],
-│                   "min_tokens": 0,
 │                   "system_prompt": "Return ONLY strict JSON that validates against the provided schema.",
 │               },
 │           ),
-│   
-│           # ------- Replicate (OpenAI gpt-oss-20b) -------
 │           "gpt-oss-20b": ModelConfig(
 │               provider="replicate",
 │               model="openai/gpt-oss-20b",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.1,
-│               top_p=1.0,
-│               max_tokens=1024,
-│               extra_inputs={
-│                   "presence_penalty": 0,
-│                   "frequency_penalty": 0,
-│               },
+│               temperature=0.1, top_p=1.0, max_tokens=4096,
 │           ),
+│           "gpt-oss-120b": ModelConfig(
+│       provider="replicate",
+│       model="openai/gpt-oss-120b",
+│       api_key_env="REPLICATE_API_TOKEN",
+│       temperature=0.1, top_p=1.0, max_tokens=4096,
+│   ),
 │   
-│           # ------- Replicate (Qwen 3-235B) -------
 │           "qwen3-235b": ModelConfig(
 │               provider="replicate",
 │               model="qwen/qwen3-235b-a22b-instruct-2507",
 │               api_key_env="REPLICATE_API_TOKEN",
-│               temperature=0.3,
-│               top_p=0.9,
-│               max_tokens=1536,
-│               extra_inputs={
-│                   "system_prompt": "Return ONLY strict JSON per schema; no prose; no fences."
-│               },
+│               temperature=0.3, top_p=0.9, max_tokens=1536,
+│               extra_inputs={"system_prompt": "Return ONLY strict JSON per schema; no prose; no fences."},
+│           ),
+│   
+│           "granite20b": ModelConfig(
+│               provider="replicate",
+│               model="ibm-granite/granite-20b-code-instruct-8k",
+│               api_key_env="REPLICATE_API_TOKEN",
+│               temperature=0.6, top_p=0.9, top_k=50, max_tokens=512,
+│               extra_inputs={"system_prompt": "", "prompt_template": ""},
 │           ),
 │   
 │           # -------- Local via Unsloth (optional) --------
@@ -1769,22 +1569,14 @@ GPTKB_Hallucinations/
 │               model="unsloth/SmolLM2-1.7B-Instruct-bnb-4bit",
 │               api_key_env=None,
 │               temperature=0.2, top_p=0.95, top_k=40, max_tokens=800,
-│               extra_inputs={
-│                   "max_seq_length": 2048,
-│                   "load_in_4bit": False,
-│                   "dtype": "float16",
-│                   "device": "mps",
-│               },
+│               extra_inputs={"max_seq_length": 2048, "load_in_4bit": False, "dtype": "float16", "device": "mps"},
 │           ),
 │           "smollm2-360m": ModelConfig(
 │               provider="unsloth",
 │               model="unsloth/SmolLM2-360M-Instruct-bnb-4bit",
 │               api_key_env=None,
 │               temperature=0.2, top_p=0.95, top_k=40, max_tokens=512,
-│               extra_inputs={
-│                   "max_seq_length": 2048,
-│                   "load_in_4bit": True,
-│               },
+│               extra_inputs={"max_seq_length": 2048, "load_in_4bit": True},
 │           ),
 │       }
 │   
@@ -1795,7 +1587,1579 @@ GPTKB_Hallucinations/
 │   settings = Settings()
 │   --- File Content End ---
 
-├── crawler_concurrent.py
+├── processing_queue.py
+│   --- File Content Start ---
+│   # processing_queue.py
+│   from __future__ import annotations
+│   
+│   import re
+│   import sqlite3
+│   import unicodedata
+│   from typing import Iterable, Tuple, List
+│   
+│   import threading
+│   _thread_local = threading.local()
+│   
+│   DEFAULT_LEADING_ARTICLES = ("the", "a", "an")
+│   
+│   _ws = re.compile(r"\s+")
+│   _nonword = re.compile(r"[^a-z0-9]")
+│   
+│   def get_thread_queue_conn(db_path: str) -> sqlite3.Connection:
+│       key = f"queue_conn__{db_path}"
+│       conn = getattr(_thread_local, key, None)
+│       if conn is None:
+│           conn = sqlite3.connect(db_path, check_same_thread=False, isolation_level=None)
+│           conn.execute("PRAGMA journal_mode=WAL;")
+│           conn.execute("PRAGMA synchronous=NORMAL;")
+│           conn.execute("PRAGMA busy_timeout=5000;")
+│           conn.execute("PRAGMA temp_store=MEMORY;")
+│           setattr(_thread_local, key, conn)
+│       return conn
+│   
+│   def _canonical_key(s: str, leading_articles=DEFAULT_LEADING_ARTICLES) -> str:
+│       """
+│       Aggressive canonical form used to dedupe subject variants:
+│       - Unicode NFKC, lowercased, collapse whitespace
+│       - strip leading articles ("the", "a", "an")
+│       - remove all non-alphanumerics
+│       """
+│       if not isinstance(s, str):
+│           return ""
+│       s = unicodedata.normalize("NFKC", s).strip().lower()
+│       s = _ws.sub(" ", s)
+│       for art in leading_articles:
+│           if s.startswith(art + " "):
+│               s = s[len(art) + 1:]
+│               break
+│       return _nonword.sub("", s)
+│   
+│   def _subject_norm(s: str) -> str:
+│       """
+│       Gentler normalization used for presentation:
+│       - NFKC, lower, collapse spaces
+│       """
+│       if not isinstance(s, str):
+│           return ""
+│       s = unicodedata.normalize("NFKC", s).strip().lower()
+│       return _ws.sub(" ", s)
+│   
+│   # ----- bootstrap / indices -----
+│   
+│   def ensure_processed_index(conn: sqlite3.Connection):
+│       cur = conn.cursor()
+│       cur.execute("""
+│           CREATE TABLE IF NOT EXISTS processed_map (
+│               canon_key TEXT PRIMARY KEY,
+│               sample_original TEXT
+│           )
+│       """)
+│       cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS uq_queue_subject_norm   ON queue(subject_norm)")
+│       cur.execute("CREATE UNIQUE INDEX IF NOT EXISTS uq_queue_subject_canon  ON queue(subject_canon)")
+│       conn.commit()
+│   
+│   # ----- API -----
+│   
+│   EnqResult = Tuple[str, int, str]  # (subject original, kept_hop, outcome: inserted | hop_reduced | ignored)
+│   
+│   def init_cache(conn_or_path):
+│       if isinstance(conn_or_path, str):
+│           conn = get_thread_queue_conn(conn_or_path)
+│       else:
+│           conn = conn_or_path
+│       ensure_processed_index(conn)
+│   
+│   def enqueue_subjects_processed(
+│       db_path_or_conn,
+│       items: Iterable[Tuple[str, int]],
+│       leading_articles=DEFAULT_LEADING_ARTICLES
+│   ) -> List[EnqResult]:
+│       """
+│       Enqueue with **canonical dedupe**:
+│         - canonical key (subject_canon) ensures only *one* row ever exists per real-world subject
+│         - if a new variant arrives with a *lower hop*, we *lower* the hop of the existing row (keep status as-is)
+│         - if it’s a true duplicate with same-or-higher hop → outcome 'ignored'
+│   
+│       Returns: list of (subject, kept_hop, outcome)
+│       """
+│       conn = db_path_or_conn if not isinstance(db_path_or_conn, str) else get_thread_queue_conn(db_path_or_conn)
+│       ensure_processed_index(conn)
+│   
+│       results: List[EnqResult] = []
+│       cur = conn.cursor()
+│   
+│       with conn:
+│           for subject, hop in items:
+│               if not isinstance(subject, str) or not subject.strip():
+│                   continue
+│   
+│               canon = _canonical_key(subject, leading_articles=leading_articles)
+│               s_norm = _subject_norm(subject)
+│   
+│               # keep one sample per canonical key (for visibility)
+│               cur.execute(
+│                   "INSERT OR IGNORE INTO processed_map(canon_key, sample_original) VALUES (?, ?)",
+│                   (canon, subject)
+│               )
+│   
+│               # Read any existing row for this canonical key to determine outcome precisely
+│               cur.execute("SELECT hop FROM queue WHERE subject_canon=?", (canon,))
+│               row = cur.fetchone()
+│               before_hop = row[0] if row else None
+│   
+│               # Upsert by canonical key; DO NOT touch status/retries if conflicting
+│               cur.execute(
+│                   """
+│                   INSERT INTO queue(subject, subject_norm, subject_canon, hop, status, retries)
+│                   VALUES (?, ?, ?, ?, 'pending', 0)
+│                   ON CONFLICT(subject_canon) DO UPDATE SET
+│                       hop = CASE WHEN excluded.hop < hop THEN excluded.hop ELSE hop END
+│                   """,
+│                   (subject, s_norm, canon, hop)
+│               )
+│   
+│               # Read back the kept hop
+│               cur.execute("SELECT hop FROM queue WHERE subject_canon=?", (canon,))
+│               kept_hop = cur.fetchone()[0]
+│   
+│               if before_hop is None:
+│                   outcome = "inserted"
+│               elif kept_hop < before_hop:
+│                   outcome = "hop_reduced"
+│               else:
+│                   outcome = "ignored"
+│   
+│               results.append((subject, kept_hop, outcome))
+│   
+│       return results
+│   --- File Content End ---
+
+├── crawler_runner_heuristics3.py
+│   --- File Content Start ---
+│   # crawler_runner_heuristics3.py
+│   from __future__ import annotations
+│   
+│   import argparse, datetime, json, os, re, sqlite3, threading, time, traceback
+│   from concurrent.futures import ThreadPoolExecutor, as_completed
+│   from typing import Dict, List, Tuple, Set, Optional
+│   
+│   from dotenv import load_dotenv
+│   load_dotenv()
+│   
+│   # ---------- locks & tiny utils ----------
+│   _jsonl_lock = threading.Lock()
+│   _seen_facts_lock = threading.Lock()
+│   _lowconf_lock = threading.Lock()
+│   _ner_lowconf_lock = threading.Lock()
+│   
+│   def _append_jsonl(path: str, obj: dict):
+│       line = json.dumps(obj, ensure_ascii=False) + "\n"
+│       with _jsonl_lock:
+│           with open(path, "a", encoding="utf-8") as f:
+│               f.write(line)
+│   
+│   def _dbg(msg: str): print(msg, flush=True)
+│   
+│   def _print_messages(tag: str, msgs: List[dict], limit: int | None = None):
+│       print(f"\n--- {tag} MESSAGES ({len(msgs)}) ---")
+│       for i, m in enumerate(msgs, 1):
+│           role = (m.get("role") or "").upper()
+│           content = m.get("content")
+│           if isinstance(content, str) and limit:
+│               content = (content[:limit] + "…") if len(content) > limit else content
+│           print(f"[{i:02d}] {role}: {content if isinstance(content, str) else content}")
+│       print(f"--- END {tag} ---\n")
+│   
+│   def _print_enqueue_summary(results: List[Tuple[str,int,str]]):
+│       if not results:
+│           print("[enqueue] (no results)")
+│           return
+│       ins = sum(1 for *_r, out in results if out == "inserted")
+│       red = sum(1 for *_r, out in results if out == "hop_reduced")
+│       ign = sum(1 for *_r, out in results if out == "ignored")
+│       print(f"[enqueue] inserted={ins} hop_reduced={red} ignored={ign}")
+│   
+│   # ---------- repo imports ----------
+│   from processing_queue import (
+│       init_cache as procq_init_cache,
+│       enqueue_subjects_processed as procq_enqueue,
+│       DEFAULT_LEADING_ARTICLES as PROCQ_LEADING,
+│       get_thread_queue_conn as procq_get_thread_conn,
+│   )
+│   from settings import (
+│       settings,
+│       ELICIT_SCHEMA_BASE, ELICIT_SCHEMA_CAL,
+│       NER_SCHEMA_BASE,   NER_SCHEMA_CAL,
+│   )
+│   from prompter_parser import get_prompt_messages
+│   from llm.factory import make_llm_from_config
+│   from db_models import (
+│       open_queue_db, open_facts_db,
+│       write_triples_accepted, write_triples_sink,
+│       queue_has_rows, reset_working_to_pending,
+│   )
+│   
+│   # NEW: shared JSON extractor
+│   from llm.json_utils import best_json
+│   
+│   # Optional OpenAI SDK (for Batch API)
+│   try:
+│       from openai import OpenAI as _OpenAI
+│   except Exception:
+│       _OpenAI = None
+│   
+│   # ---------- paths ----------
+│   def _ensure_output_dir(base_dir: Optional[str]) -> str:
+│       out = base_dir or os.path.join("runs", datetime.datetime.now().strftime("%Y%m%d_%H%M%S"))
+│       os.makedirs(out, exist_ok=True)
+│       return out
+│   
+│   def _build_paths(out_dir: str) -> dict:
+│       tmp = os.path.join(out_dir, "tmp")
+│       os.makedirs(tmp, exist_ok=True)
+│       return {
+│           "queue_sqlite": os.path.join(out_dir, "queue.sqlite"),
+│           "facts_sqlite": os.path.join(out_dir, "facts.sqlite"),
+│           "queue_jsonl": os.path.join(out_dir, "queue.jsonl"),
+│           "facts_jsonl": os.path.join(out_dir, "facts.jsonl"),
+│           "queue_json": os.path.join(out_dir, "queue.json"),
+│           "facts_json": os.path.join(out_dir, "facts.json"),
+│           "errors_log": os.path.join(out_dir, "errors.log"),
+│           "ner_jsonl": os.path.join(out_dir, "ner_decisions.jsonl"),
+│           "lowconf_json": os.path.join(out_dir, "facts_lowconf.json"),
+│           "lowconf_jsonl": os.path.join(out_dir, "facts_lowconf.jsonl"),
+│           "ner_lowconf_jsonl": os.path.join(out_dir, "ner_lowconf.jsonl"),
+│           "ner_lowconf_json": os.path.join(out_dir, "ner_lowconf.json"),
+│           "run_meta_json": os.path.join(out_dir, "run_meta.json"),
+│           "tmp_dir": tmp,
+│           "batch_req_jsonl": os.path.join(tmp, "batch_requests.jsonl"),
+│           "batch_out_jsonl": os.path.join(tmp, "batch_results.jsonl"),
+│       }
+│   
+│   def _write_queue_snapshot(qdb: sqlite3.Connection, snapshot_path: str, max_depth: int):
+│       cur = qdb.cursor()
+│       if max_depth == 0:
+│           cur.execute("SELECT subject, hop, status, retries, created_at FROM queue ORDER BY hop, subject")
+│       else:
+│           cur.execute("SELECT subject, hop, status, retries, created_at FROM queue WHERE hop<=? ORDER BY hop, subject", (max_depth,))
+│       rows = cur.fetchall()
+│       with open(snapshot_path, "w", encoding="utf-8") as f:
+│           json.dump(
+│               [{"subject": s, "hop": h, "status": st, "retries": r, "created_at": ts} for (s, h, st, r, ts) in rows],
+│               f, ensure_ascii=False, indent=2
+│           )
+│   
+│   # ---------- per-thread sqlite ----------
+│   _thread_local = threading.local()
+│   
+│   def get_thread_queue_conn(db_path: str) -> sqlite3.Connection:
+│       return procq_get_thread_conn(db_path)
+│   
+│   def get_thread_facts_conn(db_path: str) -> sqlite3.Connection:
+│       key = f"facts_conn__{db_path}"
+│       conn = getattr(_thread_local, key, None)
+│       if conn is None:
+│           conn = sqlite3.connect(db_path, check_same_thread=False, isolation_level=None)
+│           conn.execute("PRAGMA journal_mode=WAL;")
+│           conn.execute("PRAGMA synchronous=NORMAL;")
+│           conn.execute("PRAGMA busy_timeout=5000;")
+│           conn.execute("PRAGMA temp_store=MEMORY;")
+│           setattr(_thread_local, key, conn)
+│       return conn
+│   
+│   def mark_done_threadsafe(queue_db_path: str, subject: str, hop: int):
+│       conn = get_thread_queue_conn(queue_db_path)
+│       with conn:
+│           conn.execute("UPDATE queue SET status='done' WHERE subject=? AND hop=? AND status='working'", (subject, hop))
+│   
+│   def mark_pending_on_error(queue_db_path: str, subject: str, hop: int):
+│       conn = get_thread_queue_conn(queue_db_path)
+│       with conn:
+│           conn.execute("UPDATE queue SET status='pending', retries=retries+1 WHERE subject=? AND hop=? AND status='working'", (subject, hop))
+│   
+│   def _get_retries(queue_db_path: str, subject: str, hop: int) -> int:
+│       conn = get_thread_queue_conn(queue_db_path)
+│       cur = conn.cursor()
+│       cur.execute("SELECT retries FROM queue WHERE subject=? AND hop=?", (subject, hop))
+│       row = cur.fetchone()
+│       return int(row[0]) if row else 0
+│   
+│   def _inc_retries_and_pending(queue_db_path: str, subject: str, hop: int):
+│       conn = get_thread_queue_conn(queue_db_path)
+│       with conn:
+│           conn.execute("UPDATE queue SET status='pending', retries=retries+1 WHERE subject=? AND hop=?", (subject, hop))
+│   
+│   # ---------- claim helpers ----------
+│   def _fetch_one_pending(conn: sqlite3.Connection, max_depth: int) -> Tuple[str,int] | None:
+│       cur = conn.cursor()
+│       try:
+│           if max_depth == 0:
+│               cur.execute("""
+│                   UPDATE queue SET status='working'
+│                   WHERE rowid = (SELECT rowid FROM queue WHERE status='pending' ORDER BY hop, created_at LIMIT 1)
+│                   RETURNING subject, hop
+│               """)
+│           else:
+│               cur.execute("""
+│                   UPDATE queue SET status='working'
+│                   WHERE rowid = (SELECT rowid FROM queue WHERE status='pending' AND hop<=?
+│                                  ORDER BY hop, created_at LIMIT 1)
+│                   RETURNING subject, hop
+│               """, (max_depth,))
+│           row = cur.fetchone()
+│           conn.commit()
+│           return (row[0], row[1]) if row else None
+│       except sqlite3.OperationalError:
+│           cur.execute("BEGIN IMMEDIATE")
+│           if max_depth == 0:
+│               cur.execute("SELECT rowid, subject, hop FROM queue WHERE status='pending' ORDER BY hop, created_at LIMIT 1")
+│           else:
+│               cur.execute("SELECT rowid, subject, hop FROM queue WHERE status='pending' AND hop<=? ORDER BY hop, created_at LIMIT 1", (max_depth,))
+│           row = cur.fetchone()
+│           if not row:
+│               conn.commit(); return None
+│           rowid, subject, hop = row
+│           cur.execute("UPDATE queue SET status='working' WHERE rowid=? AND status='pending'", (rowid,))
+│           changed = cur.rowcount
+│           conn.commit()
+│           return (subject, hop) if changed else None
+│   
+│   def _fetch_many_pending(conn: sqlite3.Connection, max_depth: int, limit: int) -> List[Tuple[str,int]]:
+│       got = []
+│       for _ in range(max(1,limit)):
+│           one = _fetch_one_pending(conn, max_depth)
+│           if not one: break
+│           got.append(one)
+│       return got
+│   
+│   def _counts(conn: sqlite3.Connection, max_depth: int):
+│       cur = conn.cursor()
+│       if max_depth == 0:
+│           cur.execute("SELECT COUNT(1) FROM queue WHERE status='done'"); done = cur.fetchone()[0]
+│           cur.execute("SELECT COUNT(1) FROM queue WHERE status='working'"); working = cur.fetchone()[0]
+│           cur.execute("SELECT COUNT(1) FROM queue WHERE status='pending'"); pending = cur.fetchone()[0]
+│       else:
+│           cur.execute("SELECT COUNT(1) FROM queue WHERE status='done' AND hop<=?", (max_depth,)); done = cur.fetchone()[0]
+│           cur.execute("SELECT COUNT(1) FROM queue WHERE status='working' AND hop<=?", (max_depth,)); working = cur.fetchone()[0]
+│           cur.execute("SELECT COUNT(1) FROM queue WHERE status='pending' AND hop<=?", (max_depth,)); pending = cur.fetchone()[0]
+│       return done, working, pending, done + working + pending
+│   
+│   # ---------- unwrap & salvage ----------
+│   def _parse_obj(maybe_json) -> dict:
+│       if isinstance(maybe_json, dict): return maybe_json
+│       if isinstance(maybe_json, str):
+│           try: return json.loads(maybe_json)
+│           except Exception: return {}
+│       return {}
+│   
+│   def _unwrap_text(resp):
+│       if isinstance(resp, str): return resp
+│       if isinstance(resp, dict):
+│           for k in ("text","output_text","content","message","response"):
+│               v = resp.get(k)
+│               if isinstance(v, str): return v
+│           ch = resp.get("choices")
+│           if isinstance(ch, list) and ch:
+│               c0 = ch[0] or {}
+│               msg = c0.get("message") or {}
+│               if isinstance(msg, dict) and isinstance(msg.get("content"), str):
+│                   return msg["content"]
+│               if isinstance(c0.get("text"), str): return c0["text"]
+│           # NEW: handle our client wrappers
+│           if isinstance(resp.get("_raw"), str): return resp["_raw"]
+│           if isinstance(resp.get("raw"), str):  return resp["raw"]
+│           if isinstance(resp.get("raw"), dict): return _unwrap_text(resp["raw"])
+│       return ""
+│   
+│   def _extract_json_block(text: str):
+│       obj = best_json(text)
+│       return obj if isinstance(obj, (dict, list)) else {}
+│   
+│   def _normalize_fact_keys(d: dict) -> dict | None:
+│       if not isinstance(d, dict): return None
+│       key_map = {
+│           "subject": ["subject","subj","s","head","h"],
+│           "predicate": ["predicate","pred","p","relation","rel","r"],
+│           "object": ["object","obj","o","tail","t","value","val"],
+│           "confidence": ["confidence","conf","c","score","prob"]
+│       }
+│       out = {}
+│       for std, alts in key_map.items():
+│           for k in alts:
+│               if k in d and isinstance(d[k], (str, float, int)):
+│                   out[std] = d[k]
+│                   break
+│       s,p,o = out.get("subject"), out.get("predicate"), out.get("object")
+│       if not (isinstance(s,str) and isinstance(p,str) and isinstance(o,str)):
+│           return None
+│       if "confidence" in out:
+│           try: out["confidence"] = float(out["confidence"])
+│           except Exception: out["confidence"] = None
+│       else:
+│           out["confidence"] = None
+│       return out
+│   
+│   _TRIPLE_OBJ_RX = re.compile(r"\{[^{}]*?(\"subject\"|\"subj\"|\"s\"|\"head\")[^{}]*?\}", re.I)
+│   _FLEX_TRIPLE_RX = re.compile(r"\{[^{}]*\}", re.S)
+│   
+│   def _salvage_facts_from_text(text: str, debug=False) -> List[dict]:
+│       salvaged: List[dict] = []
+│   
+│       obj = _extract_json_block(text)
+│       if obj:
+│           if isinstance(obj, dict):
+│               for key in ("facts","triples"):
+│                   val = obj.get(key)
+│                   if isinstance(val, list):
+│                       for item in val:
+│                           norm = _normalize_fact_keys(item)
+│                           if norm: salvaged.append(norm)
+│               if not salvaged:
+│                   norm = _normalize_fact_keys(obj)
+│                   if norm: salvaged.append(norm)
+│           elif isinstance(obj, list):
+│               for item in obj:
+│                   norm = _normalize_fact_keys(item)
+│                   if norm: salvaged.append(norm)
+│   
+│       if not salvaged:
+│           for m in _TRIPLE_OBJ_RX.finditer(text or ""):
+│               chunk = m.group(0)
+│               try:
+│                   d = json.loads(chunk)
+│                   norm = _normalize_fact_keys(d)
+│                   if norm: salvaged.append(norm)
+│               except Exception:
+│                   patched = chunk
+│                   open_br = chunk.count("{")
+│                   close_br = chunk.count("}")
+│                   patched += "}" * max(0, open_br - close_br)
+│                   try:
+│                       d = json.loads(patched)
+│                       norm = _normalize_fact_keys(d)
+│                       if norm: salvaged.append(norm)
+│                   except Exception:
+│                       continue
+│   
+│       # extra flexible pass: any dicts
+│       if not salvaged:
+│           for m in _FLEX_TRIPLE_RX.finditer(text or ""):
+│               try:
+│                   d = json.loads(m.group(0))
+│               except Exception:
+│                   continue
+│               norm = _normalize_fact_keys(d)
+│               if norm:
+│                   salvaged.append(norm)
+│   
+│       if debug and salvaged:
+│           print(f"[salvage] recovered {len(salvaged)} triples from noisy output")
+│   
+│       facts = []
+│       for t in salvaged:
+│           facts.append({
+│               "subject": t["subject"],
+│               "predicate": t["predicate"],
+│               "object": t["object"],
+│               "confidence": t.get("confidence")
+│           })
+│       return facts
+│   
+│   def _extract_facts_from_resp(resp, debug=False) -> Tuple[List[dict], str]:
+│       if isinstance(resp, list):
+│           facts = [t for t in resp if isinstance(t, dict)]
+│           return facts, ""
+│       if isinstance(resp, dict):
+│           for key in ("facts","triples"):
+│               val = resp.get(key)
+│               if isinstance(val, list):
+│                   return [t for t in val if isinstance(t, dict)], ""
+│       txt = _unwrap_text(resp)
+│       obj = _extract_json_block(txt)
+│       if isinstance(obj, dict):
+│           for key in ("facts","triples"):
+│               val = obj.get(key)
+│               if isinstance(val, list):
+│                   return [t for t in val if isinstance(t, dict)], txt
+│       if isinstance(obj, list):
+│           return [t for t in obj if isinstance(t, dict)], txt
+│       return [], txt
+│   
+│   # ---------- NER heuristics ----------
+│   _date_rx = re.compile(r"^\d{4}([-/]\d{2}){0,2}$|^(January|February|March|April|May|June|July|August|September|October|November|December)\b", re.I)
+│   _url_rx  = re.compile(r"^https?://", re.I)
+│   def _is_date_like(s:str)->bool: return bool(_date_rx.search(s or ""))
+│   def _is_literal_like(s:str)->bool:
+│       s = s or ""
+│       if _url_rx.search(s): return True
+│       if s.isdigit(): return True
+│       if s.strip().lower() in {"human","engineer","inventor","person","male","female"}: return True
+│       return False
+│   def _titlecase_ratio(s:str)->float:
+│       words = [w for w in re.split(r"\s+", (s or "").strip()) if w]
+│       if not words: return 0.0
+│       caps = sum(1 for w in words if w[:1].isupper())
+│       return caps/len(words)
+│   _variant_rx = re.compile(r"[\(\)\[\]\{\}:–—\-]")
+│   def _norm(s:str)->str: return re.sub(r"\s+"," ",(s or "")).strip().lower()
+│   def _is_subject_variant(phrase:str, subject:str)->bool:
+│       ps, ss = _norm(phrase), _norm(subject)
+│       if not ps or not ss: return False
+│       if ps == ss: return True
+│       if ps.startswith(ss+" (") or ps.startswith(ss+" -") or ps.startswith(ss+":"): return True
+│       if _variant_rx.sub("", ps) == _variant_rx.sub("", ss): return True
+│       if ps.startswith(ss) and any(ch in ps[len(ss):len(ss)+3] for ch in "():-—–[]{}"): return True
+│       return False
+│   def _maybe_is_ne_heuristic(phrase:str)->bool:
+│       if not isinstance(phrase,str): return False
+│       p = phrase.strip()
+│       if not p: return False
+│       if _is_date_like(p) or _is_literal_like(p): return False
+│       if " " not in p and p.islower(): return False
+│       if _titlecase_ratio(p) >= 0.6: return True
+│       if " " in p and not p.islower(): return True
+│       return False
+│   def _filter_ner_candidates(objs: List[str], subject: Optional[str]=None)->List[str]:
+│       uniq:Set[str] = set()
+│       for o in objs:
+│           if not isinstance(o,str): continue
+│           o2 = o.strip()
+│           if not o2: continue
+│           if len(o2.split())>6: continue
+│           if subject and _is_subject_variant(o2, subject): continue
+│           if _is_date_like(o2) or _is_literal_like(o2): continue
+│           uniq.add(o2)
+│       return sorted(uniq)
+│   
+│   # ---------- prompts ----------
+│   def _ensure_json_keyword_in_msgs(msgs: List[dict], shape_hint: str):
+│       has_json = any(isinstance(m.get("content"),str) and "json" in (m.get("content") or "").lower() for m in msgs)
+│       if not has_json:
+│           # Prepend as system for maximum priority
+│           msgs.insert(0, {"role":"system","content":f"Output ONLY JSON; shape: {shape_hint}"})
+│   
+│   def _build_elicitation_messages(args, subject:str)->List[dict]:
+│       msgs = get_prompt_messages(
+│           args.elicitation_strategy, "elicitation",
+│           domain=args.domain,
+│           variables=dict(subject_name=subject, root_subject=args.seed, max_facts_hint=args.max_facts_hint),
+│       )
+│       if getattr(args,"footer_mode",False):
+│           footer = ("\n\nFinal important note:\n"
+│                     "If the entity is famous, aim ~50 distinct triplets; else ~10 if any exist. "
+│                     "Only concrete, verifiable info.")
+│           for m in msgs:
+│               if m.get("role")=="system":
+│                   m["content"] = (m.get("content") or "") + footer
+│                   break
+│           else:
+│               msgs.insert(0, {"role":"system","content":footer})
+│       return msgs
+│   
+│   # ---------- provider helpers ----------
+│   def _is_openai_model(cfg)->bool:
+│       prov = (getattr(cfg,"provider","") or "").lower()
+│       if "openai" in prov: return True
+│       name = (getattr(cfg,"model","") or "").lower()
+│       return "openai" in name or name.startswith("gpt-")
+│   
+│   def _route_facts(args, facts: List[dict], hop:int, model_name:str):
+│       acc, lowconf, objs = [], [], []
+│       use_thr = (args.elicitation_strategy == "calibrate")
+│       thr = float(args.conf_threshold)
+│       for f in facts:
+│           s, p, o = f.get("subject"), f.get("predicate"), f.get("object")
+│           if not (isinstance(s,str) and isinstance(p,str) and isinstance(o,str)): continue
+│           conf = f.get("confidence")
+│           if use_thr and isinstance(conf,(int,float)) and conf < thr:
+│               lowconf.append({
+│                   "subject": s, "predicate": p, "object": o,
+│                   "hop": hop, "model": model_name, "strategy": args.elicitation_strategy,
+│                   "confidence": float(conf), "threshold": thr
+│               })
+│               continue
+│           acc.append((s,p,o,hop,model_name,args.elicitation_strategy, float(conf) if isinstance(conf,(int,float)) else None))
+│           objs.append(o)
+│       return acc, lowconf, objs
+│   
+│   # ---------- OpenAI Batch helpers ----------
+│   def _make_openai_client_for_batch(el_cfg):
+│       if _OpenAI is None:
+│           raise RuntimeError("OpenAI SDK not installed. `pip install openai`")
+│       api_key_env = getattr(el_cfg, "api_key_env", "OPENAI_API_KEY")
+│       api_key = os.getenv(api_key_env or "OPENAI_API_KEY")
+│       if not api_key: raise RuntimeError(f"Missing {api_key_env or 'OPENAI_API_KEY'} for Batch mode.")
+│       base_url = getattr(el_cfg, "base_url", None)
+│       return _OpenAI(api_key=api_key, base_url=base_url) if base_url else _OpenAI(api_key=api_key)
+│   
+│   def _write_batch_requests_jsonl(fp: str, subjects: List[str], el_cfg, messages_builder, args):
+│       os.makedirs(os.path.dirname(fp), exist_ok=True)
+│       schema = ELICIT_SCHEMA_CAL if (args.elicitation_strategy == "calibrate") else ELICIT_SCHEMA_BASE
+│       with open(fp, "w", encoding="utf-8") as f:
+│           for subject in subjects:
+│               msgs = messages_builder(args, subject)
+│               _ensure_json_keyword_in_msgs(msgs, shape_hint='{"facts":[{"subject":"...","predicate":"...","object":"..."}]}')
+│               body = {
+│                   "model": el_cfg.model,
+│                   "messages": msgs,
+│                   "temperature": getattr(el_cfg,"temperature", None),
+│                   "top_p": getattr(el_cfg,"top_p", None),
+│                   "max_tokens": getattr(el_cfg,"max_tokens", 2048),
+│                   "response_format": {
+│                       "type":"json_schema",
+│                       "json_schema": {"name":"schema","schema": schema, "strict": True}
+│                   }
+│               }
+│               line = {"custom_id": subject, "method":"POST", "url":"/v1/chat/completions", "body": body}
+│               f.write(json.dumps(line, ensure_ascii=False) + "\n")
+│   
+│   def _parse_openai_batch_output_line(line: str, debug: bool=False) -> Tuple[str, List[dict], str]:
+│       try:
+│           obj = json.loads(line)
+│       except Exception:
+│           if debug: print(f"[batch-parse] not JSON line: {line[:200]} ...")
+│           return "", [], ""
+│   
+│       subject = obj.get("custom_id") or ""
+│       resp_body = ((obj.get("response") or {}).get("body")) or {}
+│       choices = resp_body.get("choices") or []
+│       content_text = ""
+│       if choices:
+│           msg = (choices[0] or {}).get("message") or {}
+│           content_text = (msg.get("content") or "").strip()
+│           if not content_text:
+│               tool_calls = msg.get("tool_calls") or []
+│               if tool_calls:
+│                   try:
+│                       arguments = ((tool_calls[0] or {}).get("function") or {}).get("arguments")
+│                       if isinstance(arguments, str):
+│                           content_text = arguments
+│                       elif isinstance(arguments, dict):
+│                           content_text = json.dumps(arguments)
+│                   except Exception:
+│                       pass
+│   
+│       parsed = {}
+│       if content_text:
+│           try:
+│               parsed = json.loads(content_text)
+│           except Exception:
+│               parsed = best_json(content_text) or {}
+│   
+│       if not parsed and isinstance(resp_body, dict):
+│           parsed = best_json(json.dumps(resp_body)) or {}
+│   
+│       facts: List[dict] = []
+│       if isinstance(parsed, dict):
+│           facts = parsed.get("facts") or parsed.get("triples") or []
+│       elif isinstance(parsed, list):
+│           facts = parsed
+│   
+│       facts = [t for t in facts if isinstance(t, dict)]
+│       return subject, facts, content_text
+│   
+│   # ---------- main ----------
+│   def main():
+│       ap = argparse.ArgumentParser(description="Crawler v3: salvage & retries; max-inflight only for OpenAI Batch.")
+│       ap.add_argument("--seed", required=True)
+│       ap.add_argument("--output-dir", default=None)
+│   
+│       ap.add_argument("--elicitation-strategy", default="baseline", choices=["baseline","icl","dont_know","calibrate"])
+│       ap.add_argument("--ner-strategy", default="baseline", choices=["baseline","icl","dont_know","calibrate"])
+│       ap.add_argument("--domain", default="general", choices=["general","topic"])
+│   
+│       ap.add_argument("--max-depth", type=int, default=settings.MAX_DEPTH, help="0 = unlimited depth (stop when queue empty)")
+│       ap.add_argument("--max-subjects", type=int, default=0, help="0 = unlimited subjects")
+│       ap.add_argument("--ner-batch-size", type=int, default=settings.NER_BATCH_SIZE)
+│       ap.add_argument("--max-facts-hint", default=str(settings.MAX_FACTS_HINT))
+│       ap.add_argument("--conf-threshold", type=float, default=0.7)
+│       ap.add_argument("--ner-conf-threshold", type=float, default=0.9)
+│       ap.add_argument("--footer-mode", action="store_true")
+│   
+│       ap.add_argument("--elicit-model-key", default=settings.ELICIT_MODEL_KEY)
+│       ap.add_argument("--ner-model-key", default=settings.NER_MODEL_KEY)
+│   
+│       ap.add_argument("--elicit-temperature", type=float, default=0.7)
+│       ap.add_argument("--ner-temperature", type=float, default=0.3)
+│       ap.add_argument("--elicit-top-p", type=float, default=None)
+│       ap.add_argument("--ner-top-p", type=float, default=None)
+│       ap.add_argument("--elicit-top-k", type=int, default=None)
+│       ap.add_argument("--ner-top-k", type=int, default=None)
+│       ap.add_argument("--elicit-max-tokens", type=int, default=4096)
+│       ap.add_argument("--ner-max-tokens", type=int, default=4096)
+│   
+│       ap.add_argument("--batch-size", type=int, default=1, help="Subjects grouped per realtime .batch() call (if supported)")
+│       ap.add_argument("--concurrency", type=int, default=8, help="Workers for providers without realtime batching")
+│       ap.add_argument("--max-inflight", type=int, default=None, help="[OpenAI Batch ONLY] subjects to claim per batch")
+│       ap.add_argument("--timeout", type=float, default=90.0)
+│       ap.add_argument("--max-retries", type=int, default=3, help="Max attempts per subject (non-batch) or per subject line (batch).")
+│   
+│       ap.add_argument("--openai-batch-mode", action="store_true", help="Use OpenAI Batch API for elicitation (chat-completions only)")
+│   
+│       ap.add_argument("--debug", action="store_true")
+│       ap.add_argument("--progress-metrics", dest="progress_metrics", action="store_true", default=True)
+│       ap.add_argument("--no-progress-metrics", dest="progress_metrics", action="store_false")
+│   
+│       ap.add_argument("--resume", action="store_true")
+│       ap.add_argument("--reset-working", action="store_true")
+│   
+│       args = ap.parse_args()
+│   
+│       out_dir = _ensure_output_dir(args.output_dir)
+│       paths = _build_paths(out_dir)
+│       _dbg(f"[runner] output_dir: {out_dir}")
+│   
+│       qdb = open_queue_db(paths["queue_sqlite"])
+│       fdb = open_facts_db(paths["facts_sqlite"])
+│       procq_init_cache(qdb)
+│   
+│       # seed/resume
+│       if args.resume:
+│           if not queue_has_rows(qdb):
+│               for s, kept_hop, outcome in procq_enqueue(paths["queue_sqlite"], [(args.seed, 0)], leading_articles=PROCQ_LEADING):
+│                   if outcome in ("inserted","hop_reduced"):
+│                       _append_jsonl(paths["queue_jsonl"], {"subject": s, "hop": kept_hop, "event": outcome})
+│               _write_queue_snapshot(qdb, paths["queue_json"], args.max_depth)
+│           else:
+│               if args.reset_working:
+│                   n = reset_working_to_pending(qdb)
+│                   _dbg(f"[resume] reset {n} working→pending")
+│       else:
+│           for s, kept_hop, outcome in procq_enqueue(paths["queue_sqlite"], [(args.seed, 0)], leading_articles=PROCQ_LEADING):
+│               if outcome in ("inserted","hop_reduced"):
+│                   _append_jsonl(paths["queue_jsonl"], {"subject": s, "hop": kept_hop, "event": outcome})
+│           _write_queue_snapshot(qdb, paths["queue_json"], args.max_depth)
+│   
+│       # build cfgs + apply stage params
+│       el_cfg = settings.MODELS[args.elicit_model_key].model_copy(deep=True)
+│       ner_cfg = settings.MODELS[args.ner_model_key].model_copy(deep=True)
+│   
+│       def _apply_stage(which, cfg):
+│           if getattr(cfg,"use_responses_api", False):
+│               cfg.temperature = None; cfg.top_p = None; cfg.top_k = None
+│               if cfg.extra_inputs is None: cfg.extra_inputs = {}
+│               cfg.extra_inputs.setdefault("reasoning", {})
+│               cfg.extra_inputs.setdefault("text", {})
+│           else:
+│               t  = getattr(args, f"{which}_temperature")
+│               tp = getattr(args, f"{which}_top_p")
+│               tk = getattr(args, f"{which}_top_k")
+│               if t  is not None: cfg.temperature = t
+│               if tp is not None: cfg.top_p = tp
+│               if tk is not None: cfg.top_k = tk
+│           mt = getattr(args, f"{which}_max_tokens")
+│           if mt is not None: cfg.max_tokens = mt
+│           if getattr(cfg,"max_tokens", None) is None:
+│               cfg.max_tokens = 2048
+│           if hasattr(cfg,"request_timeout"): cfg.request_timeout = args.timeout
+│           elif hasattr(cfg,"timeout"):       cfg.timeout = args.timeout
+│   
+│       _apply_stage("elicit", el_cfg)
+│       _apply_stage("ner", ner_cfg)
+│   
+│       el_llm = make_llm_from_config(el_cfg)
+│       ner_llm = make_llm_from_config(ner_cfg)
+│   
+│       is_openai_el = _is_openai_model(el_cfg)
+│       uses_responses = bool(getattr(el_cfg,"use_responses_api", False))
+│       supports_realtime_batch = hasattr(el_llm, "batch")
+│   
+│       # ---- enforce policy for max-inflight ----
+│       if args.openai_batch_mode:
+│           if not is_openai_el:
+│               raise SystemExit("--openai-batch-mode requires an OpenAI Chat Completions model.")
+│           if uses_responses:
+│               raise SystemExit("--openai-batch-mode incompatible with Responses (gpt-5*) models; use chat-completions.")
+│           if args.concurrency and args.concurrency != 1:
+│               _dbg("[note] --openai-batch-mode: ignoring --concurrency; Batch API is offline.")
+│           if args.max_inflight is None:
+│               args.max_inflight = max(1, args.batch_size)
+│       else:
+│           if args.max_inflight is not None:
+│               _dbg("[note] ignoring --max-inflight (only honored with --openai-batch-mode).")
+│           args.max_inflight = None
+│   
+│       # progress timing
+│       last_progress_ts = 0.0
+│   
+│       # shared state
+│       start = time.perf_counter()
+│       subjects_elicited_total = 0
+│       lowconf_accum: List[dict] = []
+│       ner_lowconf_accum: List[dict] = []
+│       seen_facts: Set[Tuple[str,str,str,int]] = set()
+│   
+│       # ---- worker for non-realtime-batch path (with retries + salvage) ----
+│       def _elicitation_and_ner(subject: str, hop: int):
+│           try:
+│               attempt = 0
+│               facts: List[dict] = []
+│               last_text = ""
+│               el_schema = ELICIT_SCHEMA_CAL if (args.elicitation_strategy=="calibrate") else ELICIT_SCHEMA_BASE
+│   
+│               while attempt < max(1, args.max_retries):
+│                   el_messages = _build_elicitation_messages(args, subject)
+│                   _ensure_json_keyword_in_msgs(el_messages, shape_hint='{"facts":[{"subject":"...","predicate":"...","object":"..."}]}')
+│                   if args.debug: _print_messages(f"ELICIT for [{subject}] (try {attempt+1})", el_messages)
+│   
+│                   try:
+│                       resp = el_llm(el_messages, json_schema=el_schema)
+│                   except Exception:
+│                       resp = el_llm(el_messages)
+│   
+│                   facts, last_text = _extract_facts_from_resp(resp, debug=args.debug)
+│   
+│                   if not facts and last_text:
+│                       salv = _salvage_facts_from_text(last_text, debug=args.debug)
+│                       if salv:
+│                           facts = salv
+│   
+│                   if facts:
+│                       break
+│                   attempt += 1
+│   
+│               if not facts:
+│                   write_triples_sink(get_thread_facts_conn(paths["facts_sqlite"]),
+│                       [(subject,"__empty__","__empty__",hop, el_cfg.model,args.elicitation_strategy,None,"empty_or_unparseable_output")]
+│                   )
+│   
+│               acc, lowconf, _ = _route_facts(args, facts, hop, el_cfg.model)
+│               if acc:
+│                   write_triples_accepted(get_thread_facts_conn(paths["facts_sqlite"]), acc)
+│                   with _seen_facts_lock:
+│                       for s,p,o,_,m,st,c in acc:
+│                           key = (s,p,o,hop)
+│                           if key not in seen_facts:
+│                               seen_facts.add(key)
+│                               _append_jsonl(paths["facts_jsonl"], {
+│                                   "subject": s, "predicate": p, "object": o,
+│                                   "hop": hop, "model": m, "strategy": st, "confidence": c
+│                               })
+│               if lowconf:
+│                   for item in lowconf: _append_jsonl(paths["lowconf_jsonl"], item)
+│                   with _lowconf_lock: lowconf_accum.extend(lowconf)
+│   
+│               # NER
+│               cand = _filter_ner_candidates([t.get("object") for t in facts if isinstance(t, dict)], subject)
+│               next_subjects: List[str] = []
+│               i = 0
+│               while i < len(cand):
+│                   chunk = cand[i: i + args.ner_batch_size]
+│                   ner_messages = get_prompt_messages(args.ner_strategy, "ner",
+│                       domain=args.domain,
+│                       variables=dict(phrases_block="\n".join(chunk), root_subject=args.seed, subject_name=subject))
+│                   ner_schema = NER_SCHEMA_CAL if (args.ner_strategy=="calibrate") else NER_SCHEMA_BASE
+│                   if args.debug: _print_messages(f"NER for [{subject}] chunk[{i}:{i+args.ner_batch_size}]", ner_messages)
+│                   try:
+│                       out = ner_llm(ner_messages, json_schema=ner_schema)
+│                   except Exception:
+│                       out = ner_llm(ner_messages)
+│                   norm = _parse_obj(out)
+│                   decisions = norm.get("phrases", []) if isinstance(norm.get("phrases"), list) else []
+│                   if not decisions:
+│                       decisions = [{"phrase": ph, "is_ne": _maybe_is_ne_heuristic(ph), "confidence": None} for ph in chunk]
+│   
+│                   # >>> force numeric confidence in calibrate, if missing <<<
+│                   if args.ner_strategy == "calibrate":
+│                       for d in decisions:
+│                           if not isinstance(d.get("confidence"), (int, float)):
+│                               d["confidence"] = 0.90
+│   
+│                   use_thr = (args.ner_strategy=="calibrate")
+│                   for d in decisions:
+│                       phrase = d.get("phrase"); is_ne = bool(d.get("is_ne"))
+│                       conf = d.get("confidence")
+│                       try: conf = float(conf)
+│                       except Exception: conf = None
+│                       is_variant = _is_subject_variant(phrase, subject)
+│                       if is_variant:
+│                           is_ne = False; conf = 0.0 if conf is None else min(conf, 0.0)
+│                       conf_ok = (isinstance(conf,(int,float)) and conf >= args.ner_conf_threshold) if use_thr else True
+│                       record = {
+│                           "current_entity": subject, "hop": hop, "phrase": phrase,
+│                           "is_ne": is_ne, "is_variant": is_variant,
+│                           "confidence": (float(conf) if isinstance(conf,(int,float)) else None),
+│                           "ner_conf_threshold": float(args.ner_conf_threshold),
+│                           "passed_threshold": bool(conf_ok if use_thr else True),
+│                           "ner_model": ner_cfg.model, "ner_strategy": args.ner_strategy,
+│                           "domain": args.domain, "root_subject": args.seed, "source": "model_or_fallback"
+│                       }
+│                       _append_jsonl(paths["ner_jsonl"], record)
+│                       if use_thr and not conf_ok:
+│                           low_item = {**record, "reason":"below_threshold"}
+│                           _append_jsonl(paths["ner_lowconf_jsonl"], low_item)
+│                           with _ner_lowconf_lock: ner_lowconf_accum.append(low_item)
+│                       if is_ne and conf_ok and not is_variant and isinstance(phrase,str):
+│                           next_subjects.append(phrase)
+│                   i += args.ner_batch_size
+│   
+│               if next_subjects:
+│                   results = procq_enqueue(
+│                       paths["queue_sqlite"],
+│                       [(s, hop+1) for s in next_subjects if (args.max_depth==0 or hop+1<=args.max_depth)],
+│                       leading_articles=PROCQ_LEADING
+│                   )
+│                   for s, kept_hop, outcome in results:
+│                       if outcome in ("inserted","hop_reduced"):
+│                           _append_jsonl(paths["queue_jsonl"], {"subject": s, "hop": kept_hop, "event": outcome})
+│                   if args.debug:
+│                       _print_enqueue_summary(results)
+│                   _write_queue_snapshot(qdb, paths["queue_json"], args.max_depth)
+│   
+│               mark_done_threadsafe(paths["queue_sqlite"], subject, hop)
+│               return (subject, hop, None)
+│           except Exception:
+│               with open(paths["errors_log"], "a", encoding="utf-8") as ef:
+│                   ef.write(f"[{datetime.datetime.now().isoformat()}] subject={subject}\n{traceback.format_exc()}\n")
+│               mark_pending_on_error(paths["queue_sqlite"], subject, hop)
+│               return (subject, hop, "error")
+│   
+│       # ---- OpenAI Batch path (with salvage & queue-level retries) ----
+│       def _elicitation_openai_batch(subjects_with_hops: List[Tuple[str,int]]):
+│           if not subjects_with_hops: return 0
+│           client = _make_openai_client_for_batch(el_cfg)
+│           subjects = [s for s,_ in subjects_with_hops]
+│           hops_map = {s:h for s,h in subjects_with_hops}
+│           _write_batch_requests_jsonl(paths["batch_req_jsonl"], subjects, el_cfg, _build_elicitation_messages, args)
+│           if args.debug:
+│               print(f"[batch] wrote request JSONL: {paths['batch_req_jsonl']}")
+│           with open(paths["batch_req_jsonl"], "rb") as f:
+│               up = client.files.create(file=f, purpose="batch")
+│           batch = client.batches.create(
+│               input_file_id=up.id,
+│               endpoint="/v1/chat/completions",
+│               completion_window="24h",
+│               metadata={"description":"crawler elicitation"}
+│           )
+│           _dbg(f"[batch] created {batch.id}")
+│           st = batch.status
+│           delay = 5
+│           while st in ("created","validating","in_progress","finalizing"):
+│               time.sleep(delay)
+│               delay = min(int(delay * 1.5), 60)
+│               batch = client.batches.retrieve(batch.id)
+│               st = batch.status
+│               _dbg(f"[batch] {batch.id} status={st}")
+│           if st != "completed":
+│               _dbg(f"[batch] status={st}; reverting claimed items")
+│               with qdb:
+│                   for s,h in subjects_with_hops:
+│                       qdb.execute("UPDATE queue SET status='pending', retries=retries+1 WHERE subject=? AND hop=? AND status='working'", (s,h))
+│               return 0
+│           out_file_id = batch.output_file_id
+│           content_bytes = client.files.content(out_file_id).content
+│           with open(paths["batch_out_jsonl"], "wb") as f:
+│               f.write(content_bytes)
+│   
+│           accepted_total = 0
+│           seen_subjects: Set[str] = set()
+│   
+│           with open(paths["batch_out_jsonl"], "r", encoding="utf-8") as f:
+│               for line in f:
+│                   try:
+│                       subject, facts, raw_text = _parse_openai_batch_output_line(line, debug=args.debug)
+│                       if not subject:
+│                           continue
+│                       seen_subjects.add(subject)
+│                       hop = hops_map.get(subject, 0)
+│   
+│                       if not facts and raw_text:
+│                           salv = _salvage_facts_from_text(raw_text, debug=args.debug)
+│                           if salv: facts = salv
+│   
+│                       if not facts:
+│                           current_retries = _get_retries(paths["queue_sqlite"], subject, hop)
+│                           if current_retries < args.max_retries:
+│                               if args.debug:
+│                                   print(f"[batch] empty/unparseable for '{subject}', re-queuing (retry {current_retries+1}/{args.max_retries})")
+│                               _inc_retries_and_pending(paths["queue_sqlite"], subject, hop)
+│                               continue
+│                           else:
+│                               if args.debug:
+│                                   print(f"[batch] empty/unparseable for '{subject}', max retries reached → sink.")
+│                               write_triples_sink(fdb, [(subject,"__empty__","__empty__",hop, el_cfg.model,args.elicitation_strategy,None,"empty_or_unparseable_output")])
+│                               mark_done_threadsafe(paths["queue_sqlite"], subject, hop)
+│                               continue
+│   
+│                       acc, lowconf, _ = _route_facts(args, facts, hop, el_cfg.model)
+│                       if acc:
+│                           write_triples_accepted(fdb, acc)
+│                           with _seen_facts_lock:
+│                               for s,p,o,_,m,stg,c in acc:
+│                                   key = (s,p,o,hop)
+│                                   if key not in seen_facts:
+│                                       seen_facts.add(key)
+│                                       _append_jsonl(paths["facts_jsonl"], {"subject": s,"predicate":p,"object":o,"hop":hop,"model":m,"strategy":stg,"confidence":c})
+│                           accepted_total += len(acc)
+│                       if lowconf:
+│                           for item in lowconf: _append_jsonl(paths["lowconf_jsonl"], item)
+│                           with _lowconf_lock: lowconf_accum.extend(lowconf)
+│   
+│                       # NER (real time)
+│                       cand = _filter_ner_candidates([t.get("object") for t in facts if isinstance(t, dict)], subject)
+│                       next_subjects: List[str] = []
+│                       i = 0
+│                       while i < len(cand):
+│                           chunk = cand[i: i + args.ner_batch_size]
+│                           ner_messages = get_prompt_messages(args.ner_strategy, "ner",
+│                               domain=args.domain,
+│                               variables=dict(phrases_block="\n".join(chunk), root_subject=args.seed, subject_name=subject))
+│                           ner_schema = NER_SCHEMA_CAL if (args.ner_strategy=="calibrate") else NER_SCHEMA_BASE
+│                           if args.debug: _print_messages(f"NER for [{subject}] chunk[{i}:{i+args.ner_batch_size}]", ner_messages)
+│                           try: out = ner_llm(ner_messages, json_schema=ner_schema)
+│                           except Exception: out = ner_llm(ner_messages)
+│                           norm = _parse_obj(out)
+│                           decisions = norm.get("phrases", []) if isinstance(norm.get("phrases"), list) else []
+│                           if not decisions:
+│                               decisions = [{"phrase": ph, "is_ne": _maybe_is_ne_heuristic(ph), "confidence": None} for ph in chunk]
+│   
+│                           # >>> force numeric confidence in calibrate, if missing <<<
+│                           if args.ner_strategy == "calibrate":
+│                               for d in decisions:
+│                                   if not isinstance(d.get("confidence"), (int, float)):
+│                                       d["confidence"] = 0.90
+│   
+│                           use_thr = (args.ner_strategy=="calibrate")
+│                           for d in decisions:
+│                               phrase = d.get("phrase")
+│                               is_ne = bool(d.get("is_ne"))
+│                               conf = d.get("confidence")
+│                               try: conf = float(conf)
+│                               except Exception: conf = None
+│                               is_variant = _is_subject_variant(phrase, subject)
+│                               if is_variant:
+│                                   is_ne = False; conf = 0.0 if conf is None else min(conf, 0.0)
+│                               conf_ok = (isinstance(conf,(int,float)) and conf >= args.ner_conf_threshold) if use_thr else True
+│                               record = {
+│                                   "current_entity": subject, "hop": hop, "phrase": phrase,
+│                                   "is_ne": is_ne, "is_variant": is_variant,
+│                                   "confidence": (float(conf) if isinstance(conf,(int,float)) else None),
+│                                   "ner_conf_threshold": float(args.ner_conf_threshold),
+│                                   "passed_threshold": bool(conf_ok if use_thr else True),
+│                                   "ner_model": ner_cfg.model, "ner_strategy": args.ner_strategy,
+│                                   "domain": args.domain, "root_subject": args.seed, "source": "model_or_fallback"
+│                               }
+│                               _append_jsonl(paths["ner_jsonl"], record)
+│                               if use_thr and not conf_ok:
+│                                   low_item = {**record, "reason":"below_threshold"}
+│                                   _append_jsonl(paths["ner_lowconf_jsonl"], low_item)
+│                                   with _ner_lowconf_lock: ner_lowconf_accum.append(low_item)
+│                               if is_ne and conf_ok and not is_variant and isinstance(phrase,str):
+│                                   next_subjects.append(phrase)
+│                           i += args.ner_batch_size
+│   
+│                       if next_subjects:
+│                           results = procq_enqueue(
+│                               paths["queue_sqlite"],
+│                               [(s, hop+1) for s in next_subjects if (args.max_depth==0 or hop+1<=args.max_depth)],
+│                               leading_articles=PROCQ_LEADING
+│                           )
+│                           for s, kept_hop, outcome in results:
+│                               if outcome in ("inserted","hop_reduced"):
+│                                   _append_jsonl(paths["queue_jsonl"], {"subject": s, "hop": kept_hop, "event": outcome})
+│                           if args.debug:
+│                               _print_enqueue_summary(results)
+│                           _write_queue_snapshot(qdb, paths["queue_json"], args.max_depth)
+│   
+│                       mark_done_threadsafe(paths["queue_sqlite"], subject, hop)
+│   
+│                   except Exception:
+│                       with qdb:
+│                           qdb.execute("UPDATE queue SET status='pending', retries=retries+1 WHERE subject=? AND hop=? AND status='working'", (subject, hop))
+│                       with open(paths["errors_log"], "a", encoding="utf-8") as ef:
+│                           ef.write(f"[{datetime.datetime.now().isoformat()}] batch_line_error\n{traceback.format_exc()}\n")
+│   
+│           # requeue any subject missing from output file entirely
+│           for s in subjects:
+│               if s not in seen_subjects:
+│                   _inc_retries_and_pending(paths["queue_sqlite"], s, hops_map.get(s, 0))
+│           return accepted_total
+│   
+│       # ------------- loop -------------
+│       while True:
+│           if args.progress_metrics:
+│               now = time.perf_counter()
+│               if now - last_progress_ts >= 2.0:
+│                   d,w,p,t = _counts(qdb, args.max_depth)
+│                   try:
+│                       cur = qdb.cursor(); cur.execute("SELECT SUM(retries) FROM queue"); retry_sum = cur.fetchone()[0] or 0
+│                   except Exception:
+│                       retry_sum = 0
+│                   _dbg(f"[progress] done={d} working={w} pending={p} total={t} retries={retry_sum}")
+│                   last_progress_ts = now
+│   
+│           if args.max_subjects and subjects_elicited_total >= args.max_subjects:
+│               _dbg(f"[stop] max-subjects reached ({subjects_elicited_total})")
+│               break
+│   
+│           remaining_cap = (args.max_subjects - subjects_elicited_total) if args.max_subjects else None
+│   
+│           if args.openai_batch_mode:
+│               claim_n = min(args.max_inflight or 1, args.batch_size)
+│           elif supports_realtime_batch:
+│               claim_n = args.batch_size
+│           else:
+│               claim_n = args.concurrency
+│   
+│           if remaining_cap is not None:
+│               claim_n = max(1, min(claim_n, remaining_cap))
+│   
+│           batch = _fetch_many_pending(qdb, args.max_depth, max(1, claim_n))
+│           if not batch:
+│               d,w,p,t = _counts(qdb, args.max_depth)
+│               if t == 0: _dbg("[idle] nothing to do.")
+│               else: _dbg(f"[idle] queue drained: done={d} working={w} pending={p} total={t}")
+│               break
+│   
+│           # --- OpenAI Batch (offline) ---
+│           if args.openai_batch_mode:
+│               _dbg(f"[path=batch] claim {len(batch)} subjects (max_inflight={args.max_inflight}, batch_size={args.batch_size})")
+│               _ = _elicitation_openai_batch(batch)
+│               subjects_elicited_total += len(batch)
+│               continue
+│   
+│           # --- realtime .batch(...) path ---
+│           if supports_realtime_batch:
+│               subjects = [s for s,_ in batch]
+│               _dbg(f"[path=realtime-batch] groupsize={len(subjects)} (batch_size={args.batch_size})")
+│               messages_list = []
+│               for s in subjects:
+│                   msgs = _build_elicitation_messages(args, s)
+│                   _ensure_json_keyword_in_msgs(msgs, shape_hint='{"facts":[{"subject":"...","predicate":"...","object":"..."}]}')
+│                   messages_list.append(msgs)
+│               if args.debug:
+│                   for s,msgs in zip(subjects, messages_list):
+│                       _print_messages(f"ELICIT (batch-call) for [{s}]", msgs)
+│               el_schema = ELICIT_SCHEMA_CAL if (args.elicitation_strategy=="calibrate") else ELICIT_SCHEMA_BASE
+│               try:
+│                   try:
+│                       resp_list = el_llm.batch(messages_list, json_schema=el_schema, timeout=args.timeout)  # type: ignore
+│                   except TypeError:
+│                       resp_list = el_llm.batch(messages_list, json_schema=el_schema)  # type: ignore
+│               except Exception:
+│                   with qdb:
+│                       for subject, hop in batch:
+│                           qdb.execute("UPDATE queue SET status='pending', retries=retries+1 WHERE subject=? AND hop=? AND status='working'", (subject, hop))
+│                   _dbg("[warn] realtime batch call failed; reverted claims")
+│                   continue
+│               if len(resp_list) != len(batch):
+│                   with qdb:
+│                       for subject, hop in batch:
+│                           qdb.execute("UPDATE queue SET status='pending', retries=retries+1 WHERE subject=? AND hop=? AND status='working'", (subject, hop))
+│                   _dbg("[warn] batch size mismatch; reverted claims")
+│                   continue
+│   
+│               for (subject, hop), resp in zip(batch, resp_list):
+│                   try:
+│                       facts, raw_txt = _extract_facts_from_resp(resp, debug=args.debug)
+│                       if not facts and raw_txt:
+│                           salv = _salvage_facts_from_text(raw_txt, debug=args.debug)
+│                           if salv: facts = salv
+│                       if not facts:
+│                           write_triples_sink(fdb, [(subject,"__empty__","__empty__",hop, el_cfg.model,args.elicitation_strategy,None,"empty_or_unparseable_output")])
+│   
+│                       acc, lowconf, _ = _route_facts(args, facts, hop, el_cfg.model)
+│                       if acc:
+│                           write_triples_accepted(fdb, acc)
+│                           with _seen_facts_lock:
+│                               for s,p,o,_,m,st,c in acc:
+│                                   key = (s,p,o,hop)
+│                                   if key not in seen_facts:
+│                                       seen_facts.add(key)
+│                                       _append_jsonl(paths["facts_jsonl"], {"subject": s,"predicate":p,"object":o,"hop":hop,"model":m,"strategy":st,"confidence":c})
+│                       if lowconf:
+│                           for item in lowconf: _append_jsonl(paths["lowconf_jsonl"], item)
+│                           with _lowconf_lock: lowconf_accum.extend(lowconf)
+│   
+│                       # NER
+│                       cand = _filter_ner_candidates([t.get("object") for t in facts if isinstance(t, dict)], subject)
+│                       next_subjects: List[str] = []
+│                       i = 0
+│                       while i < len(cand):
+│                           chunk = cand[i: i + args.ner_batch_size]
+│                           ner_messages = get_prompt_messages(args.ner_strategy, "ner",
+│                               domain=args.domain,
+│                               variables=dict(phrases_block="\n".join(chunk), root_subject=args.seed, subject_name=subject))
+│                           ner_schema = NER_SCHEMA_CAL if (args.ner_strategy=="calibrate") else NER_SCHEMA_BASE
+│                           if args.debug: _print_messages(f"NER for [{subject}] chunk[{i}:{i+args.ner_batch_size}]", ner_messages)
+│                           try: out = ner_llm(ner_messages, json_schema=ner_schema)
+│                           except Exception: out = ner_llm(ner_messages)
+│                           norm = _parse_obj(out)
+│                           decisions = norm.get("phrases", []) if isinstance(norm.get("phrases"), list) else []
+│                           if not decisions:
+│                               decisions = [{"phrase": ph, "is_ne": _maybe_is_ne_heuristic(ph), "confidence": None} for ph in chunk]
+│   
+│                           # >>> force numeric confidence in calibrate, if missing <<<
+│                           if args.ner_strategy == "calibrate":
+│                               for d in decisions:
+│                                   if not isinstance(d.get("confidence"), (int, float)):
+│                                       d["confidence"] = 0.90
+│   
+│                           use_thr = (args.ner_strategy=="calibrate")
+│                           for d in decisions:
+│                               phrase = d.get("phrase"); is_ne = bool(d.get("is_ne"))
+│                               conf = d.get("confidence")
+│                               try: conf = float(conf)
+│                               except Exception: conf = None
+│                               is_variant = _is_subject_variant(phrase, subject)
+│                               if is_variant:
+│                                   is_ne = False; conf = 0.0 if conf is None else min(conf, 0.0)
+│                               conf_ok = (isinstance(conf,(int,float)) and conf >= args.ner_conf_threshold) if use_thr else True
+│                               record = {
+│                                   "current_entity": subject, "hop": hop, "phrase": phrase,
+│                                   "is_ne": is_ne, "is_variant": is_variant,
+│                                   "confidence": (float(conf) if isinstance(conf,(int,float)) else None),
+│                                   "ner_conf_threshold": float(args.ner_conf_threshold),
+│                                   "passed_threshold": bool(conf_ok if use_thr else True),
+│                                   "ner_model": ner_cfg.model, "ner_strategy": args.ner_strategy,
+│                                   "domain": args.domain, "root_subject": args.seed, "source": "model_or_fallback"
+│                               }
+│                               _append_jsonl(paths["ner_jsonl"], record)
+│                               if use_thr and not conf_ok:
+│                                   low_item = {**record, "reason":"below_threshold"}
+│                                   _append_jsonl(paths["ner_lowconf_jsonl"], low_item)
+│                                   with _ner_lowconf_lock: ner_lowconf_accum.append(low_item)
+│                               if is_ne and conf_ok and not is_variant and isinstance(phrase,str):
+│                                   next_subjects.append(phrase)
+│                           i += args.ner_batch_size
+│   
+│                       if next_subjects:
+│                           results = procq_enqueue(
+│                               paths["queue_sqlite"],
+│                               [(s, hop+1) for s in next_subjects if (args.max_depth==0 or hop+1<=args.max_depth)],
+│                               leading_articles=PROCQ_LEADING
+│                           )
+│                           for s, kept_hop, outcome in results:
+│                               if outcome in ("inserted","hop_reduced"):
+│                                   _append_jsonl(paths["queue_jsonl"], {"subject": s, "hop": kept_hop, "event": outcome})
+│                           if args.debug:
+│                               _print_enqueue_summary(results)
+│                           _write_queue_snapshot(qdb, paths["queue_json"], args.max_depth)
+│   
+│                       with qdb:
+│                           qdb.execute("UPDATE queue SET status='done' WHERE subject=? AND hop=? AND status='working'", (subject, hop))
+│                       subjects_elicited_total += 1
+│                       if args.max_subjects and subjects_elicited_total >= args.max_subjects:
+│                           _dbg(f"[stop] max-subjects reached ({subjects_elicited_total})")
+│                           break
+│   
+│                   except Exception:
+│                       with qdb:
+│                           qdb.execute("UPDATE queue SET status='pending', retries=retries+1 WHERE subject=? AND hop=? AND status='working'", (subject, hop))
+│                       with open(paths["errors_log"], "a", encoding="utf-8") as ef:
+│                           ef.write(f"[{datetime.datetime.now().isoformat()}] subject={subject}\n{traceback.format_exc()}\n")
+│   
+│           # --- pure concurrency path ---
+│           else:
+│               _dbg(f"[path=concurrency] subjects={len(batch)} workers={min(args.concurrency, len(batch))}")
+│               results = []
+│               with ThreadPoolExecutor(max_workers=min(args.concurrency, len(batch))) as pool:
+│                   futs = [pool.submit(_elicitation_and_ner, s, h) for (s,h) in batch]
+│                   for fut in as_completed(futs):
+│                       results.append(fut.result())
+│               for _s,_h,err in results:
+│                   if err is None:
+│                       subjects_elicited_total += 1
+│                       if args.max_subjects and subjects_elicited_total >= args.max_subjects:
+│                           _dbg(f"[stop] max-subjects reached ({subjects_elicited_total})")
+│                           break
+│   
+│       # ----- final snapshots -----
+│       conn = sqlite3.connect(paths["queue_sqlite"])
+│       cur = conn.cursor()
+│       cur.execute("SELECT subject, hop, status, retries, created_at FROM queue ORDER BY hop, subject")
+│       rows = cur.fetchall()
+│       with open(paths["queue_json"], "w", encoding="utf-8") as f:
+│           json.dump(
+│               [{"subject": s, "hop": h, "status": st, "retries": r, "created_at": ts} for (s, h, st, r, ts) in rows],
+│               f, ensure_ascii=False, indent=2
+│           )
+│       conn.close()
+│   
+│       conn = sqlite3.connect(paths["facts_sqlite"])
+│       cur = conn.cursor()
+│       cur.execute("SELECT subject, predicate, object, hop, model_name, strategy, confidence FROM triples_accepted ORDER BY subject, predicate, object, hop")
+│       rows_acc = cur.fetchall()
+│       cur.execute("SELECT subject, predicate, object, hop, model_name, strategy, confidence, reason FROM triples_sink ORDER BY subject, predicate, object, hop")
+│       rows_sink = cur.fetchall()
+│       with open(paths["facts_json"], "w", encoding="utf-8") as f:
+│           json.dump(
+│               {
+│                   "accepted": [
+│                       {"subject": s, "predicate": p, "object": o, "hop": h, "model": m, "strategy": st, "confidence": c}
+│                       for (s,p,o,h,m,st,c) in rows_acc
+│                   ],
+│                   "sink": [
+│                       {"subject": s, "predicate": p, "object": o, "hop": h, "model": m, "strategy": st, "confidence": c, "reason": r}
+│                       for (s,p,o,h,m,st,c,r) in rows_sink
+│                   ],
+│               },
+│               f, ensure_ascii=False, indent=2
+│           )
+│       conn.close()
+│   
+│       with open(paths["lowconf_json"], "w", encoding="utf-8") as f:
+│           json.dump(lowconf_accum, f, ensure_ascii=False, indent=2)
+│       with open(paths["ner_lowconf_json"], "w", encoding="utf-8") as f:
+│           json.dump(ner_lowconf_accum, f, ensure_ascii=False, indent=2)
+│   
+│       run_meta = {
+│           "timestamp_utc": datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z",
+│           "seed": args.seed, "domain": args.domain,
+│           "elicitation_strategy": args.elicitation_strategy, "ner_strategy": args.ner_strategy,
+│           "max_depth": args.max_depth, "max_subjects": args.max_subjects,
+│           "concurrency": {
+│               "batch_size": args.batch_size,
+│               "concurrency": args.concurrency,
+│               "max_inflight": (args.max_inflight if args.openai_batch_mode else None),
+│               "timeout_s": args.timeout,
+│               "openai_batch_mode": bool(args.openai_batch_mode),
+│           },
+│           "models": {
+│               "elicitation": {
+│                   "provider": getattr(el_cfg,"provider","openai"),
+│                   "model": el_cfg.model,
+│                   "use_responses_api": getattr(el_cfg,"use_responses_api", False),
+│                   "temperature": getattr(el_cfg,"temperature", None),
+│                   "top_p": getattr(el_cfg,"top_p", None),
+│                   "top_k": getattr(el_cfg,"top_k", None),
+│                   "max_tokens": getattr(el_cfg,"max_tokens", None),
+│               },
+│               "ner": {
+│                   "provider": getattr(ner_cfg,"provider","openai"),
+│                   "model": ner_cfg.model,
+│                   "use_responses_api": getattr(ner_cfg,"use_responses_api", False),
+│                   "temperature": getattr(ner_cfg,"temperature", None),
+│                   "top_p": getattr(ner_cfg,"top_p", None),
+│                   "top_k": getattr(ner_cfg,"top_k", None),
+│                   "max_tokens": getattr(ner_cfg,"max_tokens", None),
+│               },
+│           },
+│           "args_raw": vars(args),
+│       }
+│       with open(paths["run_meta_json"], "w", encoding="utf-8") as f:
+│           json.dump(run_meta, f, ensure_ascii=False, indent=2)
+│   
+│       dur = time.perf_counter() - start
+│       print(f"[done] finished in {dur:.1f}s → {out_dir}")
+│       for k in ("queue_json","facts_json","facts_jsonl","lowconf_json","lowconf_jsonl","ner_jsonl","ner_lowconf_json","ner_lowconf_jsonl","run_meta_json","errors_log"):
+│           print(f"[out] {k:18}: {paths[k]}")
+│   
+│   if __name__ == "__main__":
+│       try:
+│           main()
+│       except KeyboardInterrupt:
+│           print("\n[interrupt] bye")
+│   --- File Content End ---
+
+├── tracer.py
+│   --- File Content Start ---
+│   # tracer.py
+│   from __future__ import annotations
+│   import json, time, threading, datetime
+│   from typing import Any, Dict, List, Optional
+│   
+│   _jsonl_lock = threading.Lock()
+│   
+│   def append_jsonl(path: str, obj: dict):
+│       line = json.dumps(obj, ensure_ascii=False) + "\n"
+│       with _jsonl_lock:
+│           with open(path, "a", encoding="utf-8") as f:
+│               f.write(line)
+│   
+│   def _knob(v):
+│       try:
+│           return float(v) if v is not None else None
+│       except Exception:
+│           return None
+│   
+│   def _now():
+│       return datetime.datetime.utcnow().isoformat() + "Z"
+│   
+│   class TracedLLM:
+│       """
+│       Wraps an LLM client (e.g., from llm.factory.make_llm_from_config).
+│       Logs request/response metadata to a JSONL file so you can verify
+│       temperature/top_p/top_k/max_tokens, model, provider, durations, etc.
+│       """
+│       def __init__(self, llm, *, name: str, trace_path: str, echo: bool = False):
+│           self._llm = llm
+│           self._name = name
+│           self._trace_path = trace_path
+│           self._echo = echo  # also print a short line to stdout
+│   
+│       # --- helpers to read config fields if present ---
+│       def _cfg_str(self, attr, default=None):
+│           try:
+│               return getattr(self._llm, attr)
+│           except Exception:
+│               return default
+│   
+│       def _cfg_num(self, attr):
+│           return _knob(self._cfg_str(attr, None))
+│   
+│       def _provider(self):
+│           # we try provider from config; fallback to class/module names
+│           prov = self._cfg_str("provider", None)
+│           if prov: return str(prov)
+│           return f"{self._llm.__class__.__module__}.{self._llm.__class__.__name__}"
+│   
+│       def _model(self):
+│           return self._cfg_str("model", None)
+│   
+│       def _max_tokens(self):
+│           return self._cfg_num("max_tokens")
+│   
+│       def _knobs_snapshot(self) -> Dict[str, Any]:
+│           return {
+│               "temperature": self._cfg_num("temperature"),
+│               "top_p": self._cfg_num("top_p"),
+│               "top_k": self._cfg_num("top_k"),
+│               "max_tokens": self._max_tokens(),
+│           }
+│   
+│       def _messages_meta(self, messages) -> Dict[str, Any]:
+│           try:
+│               n = len(messages) if isinstance(messages, list) else None
+│               total_chars = 0
+│               if isinstance(messages, list):
+│                   for m in messages:
+│                       c = m.get("content")
+│                       if isinstance(c, str):
+│                           total_chars += len(c)
+│               return {"count": n, "total_chars": total_chars}
+│           except Exception:
+│               return {"count": None, "total_chars": None}
+│   
+│       def _batch_meta(self, messages_list) -> Dict[str, Any]:
+│           try:
+│               n = len(messages_list) if isinstance(messages_list, list) else None
+│               counts = []
+│               chars = 0
+│               if isinstance(messages_list, list):
+│                   for msgs in messages_list:
+│                       mm = self._messages_meta(msgs)
+│                       counts.append(mm["count"])
+│                       chars += (mm["total_chars"] or 0)
+│               return {"batches": n, "per_batch_counts": counts[:10], "total_chars": chars}
+│           except Exception:
+│               return {"batches": None, "per_batch_counts": None, "total_chars": None}
+│   
+│       def _log(self, payload: dict):
+│           payload.setdefault("ts", _now())
+│           payload.setdefault("who", self._name)
+│           append_jsonl(self._trace_path, payload)
+│           if self._echo:
+│               # single-line echo for quick eyes-on
+│               kind = payload.get("event")
+│               model = payload.get("model")
+│               prov = payload.get("provider")
+│               took = payload.get("took_ms")
+│               knobs = payload.get("knobs", {})
+│               print(f"[api-trace] {kind} {prov}:{model} took={took}ms "
+│                     f"temp={knobs.get('temperature')} top_p={knobs.get('top_p')} top_k={knobs.get('top_k')} max_tokens={knobs.get('max_tokens')}",
+│                     flush=True)
+│   
+│       # ---------------- public call wrappers ----------------
+│       def __call__(self, messages: List[dict], **kwargs):
+│           t0 = time.time()
+│           req = {
+│               "event": "request",
+│               "provider": self._provider(),
+│               "model": self._model(),
+│               "api_method": "__call__",
+│               "knobs": self._knobs_snapshot(),
+│               "messages_meta": self._messages_meta(messages),
+│               "kwargs": {
+│                   # we only record presence / types for sensitive fields; avoid dumping prompts
+│                   "json_schema": bool(kwargs.get("json_schema") is not None),
+│                   "timeout": kwargs.get("timeout", None),
+│               },
+│           }
+│           self._log(req)
+│           try:
+│               out = self._llm(messages, **kwargs)
+│               took = int((time.time() - t0) * 1000)
+│               resp = {
+│                   "event": "response",
+│                   "provider": self._provider(),
+│                   "model": self._model(),
+│                   "api_method": "__call__",
+│                   "took_ms": took,
+│                   # light footprint: record rough size/info, not full content
+│                   "response_meta": _safe_shape(out),
+│               }
+│               self._log(resp)
+│               return out
+│           except Exception as e:
+│               took = int((time.time() - t0) * 1000)
+│               self._log({
+│                   "event": "error",
+│                   "provider": self._provider(),
+│                   "model": self._model(),
+│                   "api_method": "__call__",
+│                   "took_ms": took,
+│                   "error": repr(e),
+│               })
+│               raise
+│   
+│       def batch(self, messages_list: List[List[dict]], **kwargs):
+│           t0 = time.time()
+│           req = {
+│               "event": "request",
+│               "provider": self._provider(),
+│               "model": self._model(),
+│               "api_method": "batch",
+│               "knobs": self._knobs_snapshot(),
+│               "batch_meta": self._batch_meta(messages_list),
+│               "kwargs": {
+│                   "json_schema": bool(kwargs.get("json_schema") is not None),
+│                   "timeout": kwargs.get("timeout", None),
+│               },
+│           }
+│           self._log(req)
+│           try:
+│               out = self._llm.batch(messages_list, **kwargs)
+│               took = int((time.time() - t0) * 1000)
+│               resp = {
+│                   "event": "response",
+│                   "provider": self._provider(),
+│                   "model": self._model(),
+│                   "api_method": "batch",
+│                   "took_ms": took,
+│                   "response_meta": _safe_shape(out),
+│               }
+│               self._log(resp)
+│               return out
+│           except Exception as e:
+│               took = int((time.time() - t0) * 1000)
+│               self._log({
+│                   "event": "error",
+│                   "provider": self._provider(),
+│                   "model": self._model(),
+│                   "api_method": "batch",
+│                   "took_ms": took,
+│                   "error": repr(e),
+│               })
+│               raise
+│   
+│   def _safe_shape(obj):
+│       """
+│       Record a tiny ‘shape’ so you can see what came back without storing payloads.
+│       """
+│       try:
+│           if isinstance(obj, list):
+│               return {"type": "list", "len": len(obj)}
+│           if isinstance(obj, dict):
+│               keys = list(obj.keys())
+│               return {"type": "dict", "keys": keys[:12], "nkeys": len(keys)}
+│           if isinstance(obj, str):
+│               return {"type": "str", "len": len(obj)}
+│           return {"type": type(obj).__name__}
+│       except Exception:
+│           return {"type": "unknown"}
+│   --- File Content End ---
+
 ├── llm/
 │   ├── config.py
 │   │   --- File Content Start ---
@@ -2060,354 +3424,316 @@ GPTKB_Hallucinations/
 │   │   --- File Content Start ---
 │   │   # llm/factory.py
 │   │   from __future__ import annotations
+│   │   from typing import Any, Dict
 │   │   import os
-│   │   from typing import Any, List, Optional
-│   │   from dotenv import load_dotenv
 │   │   
-│   │   from .config import ModelConfig
-│   │   from .openai_client import OpenAIClient
-│   │   from .replicate_client import ReplicateLLM
-│   │   from .deepseek_client import DeepSeekLLM
-│   │   
-│   │   try:
-│   │       from .unsloth_client import UnslothLLM
-│   │       _HAS_UNSLOTH = True
-│   │   except Exception:
-│   │       _HAS_UNSLOTH = False
-│   │   
-│   │   load_dotenv()
-│   │   
-│   │   
-│   │   def _get_key(env_name: Optional[str], fallbacks: Optional[List[str]] = None) -> Optional[str]:
-│   │       if env_name:
-│   │           v = os.getenv(env_name)
-│   │           if v:
-│   │               return v
-│   │       if fallbacks:
-│   │           for f in fallbacks:
-│   │               v = os.getenv(f)
-│   │               if v:
-│   │                   return v
-│   │       return None
-│   │   
-│   │   
-│   │   def _is_gpt5_model(model_name: Optional[str]) -> bool:
-│   │       """Heuristic: OpenAI GPT-5 family (Responses API)."""
-│   │       if not model_name:
-│   │           return False
-│   │       return str(model_name).lower().startswith("gpt-5")
-│   │   
+│   │   from llm.config import ModelConfig
+│   │   from llm.openai_client import OpenAIClient
+│   │   from llm.replicate_client import ReplicateLLM
+│   │   from llm.deepseek_client import DeepSeekClient
 │   │   
 │   │   def make_llm_from_config(cfg: ModelConfig):
-│   │       """
-│   │       Returns a callable:
-│   │           out = llm(messages, json_schema)
-│   │       Out shape:
-│   │         - with json_schema: parsed dict matching your schema (never raw string)
-│   │         - without schema  : {"text": "..."}
-│   │       """
-│   │       provider = (cfg.provider or "").lower()
+│   │       prov = (cfg.provider or "").lower()
 │   │   
-│   │       # -------- OpenAI / compatible (single-call client) --------
-│   │       if provider in ("openai", "openai_compatible"):
-│   │           key = _get_key(cfg.api_key_env, ["OPENAI_API_KEY"])
-│   │           if not key:
-│   │               raise RuntimeError("OPENAI_API_KEY not set.")
-│   │   
-│   │           # Auto-select Responses API for GPT-5* models (e.g., gpt-5-nano) or when explicitly requested
-│   │           use_responses_api = bool(cfg.use_responses_api or _is_gpt5_model(cfg.model))
-│   │   
-│   │           # Prefer cfg.base_url; otherwise OPENAI_BASE_URL; default official
-│   │           base_url = cfg.base_url or os.getenv("OPENAI_BASE_URL") or "https://api.openai.com/v1"
-│   │   
-│   │           # NOTE: OpenAIClient internally handles both Chat Completions and Responses API,
-│   │           # controlled by use_responses_api flag; it also passes through extra_inputs
-│   │           client = OpenAIClient(
-│   │               model=cfg.model,
-│   │               max_tokens=cfg.max_tokens or 1024,
-│   │               temperature=cfg.temperature if cfg.temperature is not None else 0.0,
-│   │               top_p=cfg.top_p if cfg.top_p is not None else 1.0,
-│   │               api_key=key,
-│   │               base_url=base_url,
-│   │               extra_inputs=cfg.extra_inputs,   # for GPT-5: e.g. {"reasoning":{"effort":"minimal"}, "text":{"verbosity":"low"}}
-│   │               use_responses_api=use_responses_api,
-│   │           )
-│   │   
-│   │           def _gen(messages, json_schema=None):
-│   │               return client(messages, json_schema)
-│   │   
-│   │           return _gen
-│   │   
-│   │       # -------- DeepSeek (OpenAI-compatible via base_url) --------
-│   │       # if provider == "deepseek":
-│   │       #     api_key = _get_key(cfg.api_key_env, ["DEEPSEEK_API_KEY"])
-│   │       #     if not api_key:
-│   │       #         raise RuntimeError("DEEPSEEK_API_KEY not set.")
-│   │       #     client = DeepSeekLLM(
-│   │       #         model=cfg.model,
-│   │       #         api_key=api_key,
-│   │       #         base_url=cfg.base_url or "https://api.deepseek.com",
-│   │       #     )
-│   │   
-│   │       #     def _gen(messages, json_schema=None):
-│   │       #         return client.generate(
-│   │       #             messages,
-│   │       #             json_schema=json_schema,
-│   │       #             temperature=cfg.temperature if cfg.temperature is not None else 0.0,
-│   │       #             top_p=cfg.top_p if cfg.top_p is not None else 1.0,
-│   │       #             max_tokens=cfg.max_tokens or 1024,
-│   │       #             seed=getattr(cfg, "seed", None),
-│   │       #             extra=cfg.extra_inputs,
-│   │       #         )
-│   │   
-│   │       #     return _gen
-│   │   
-│   │   
-│   │       # llm/factory.py (DeepSeek section — keep this)
-│   │       if provider == "deepseek":
-│   │           api_key = _get_key(cfg.api_key_env, ["DEEPSEEK_API_KEY"])
+│   │       if prov == "openai":
+│   │           api_key = os.getenv(cfg.api_key_env or "OPENAI_API_KEY")
 │   │           if not api_key:
-│   │               raise RuntimeError("DEEPSEEK_API_KEY not set.")
-│   │           client = DeepSeekLLM(
+│   │               raise RuntimeError("Missing OPENAI_API_KEY.")
+│   │           return OpenAIClient(
 │   │               model=cfg.model,
 │   │               api_key=api_key,
-│   │               base_url=cfg.base_url or "https://api.deepseek.com",
+│   │               base_url=cfg.base_url,
+│   │               max_tokens=cfg.max_tokens,
+│   │               temperature=cfg.temperature,
+│   │               top_p=cfg.top_p,
+│   │               use_responses_api=bool(getattr(cfg, "use_responses_api", False)),
+│   │               extra_inputs=getattr(cfg, "extra_inputs", None),
 │   │           )
 │   │   
-│   │           def _gen(messages, json_schema=None):
-│   │               return client.generate(
-│   │                   messages,
-│   │                   json_schema=json_schema,
-│   │                   temperature=cfg.temperature if cfg.temperature is not None else 0.2,
-│   │                   top_p=cfg.top_p if cfg.top_p is not None else 1.0,
-│   │                   max_tokens=cfg.max_tokens or 2048,
-│   │                   seed=getattr(cfg, "seed", None),
-│   │                   extra=cfg.extra_inputs,
-│   │               )
-│   │   
-│   │           return _gen
-│   │   
-│   │   
-│   │       # -------- Replicate --------
-│   │       # llm/factory.py (Replicate section)
-│   │       # -------- Replicate --------
-│   │       if provider == "replicate":
-│   │           if not os.getenv("REPLICATE_API_TOKEN"):
-│   │               raise RuntimeError("REPLICATE_API_TOKEN not set.")
-│   │           client = ReplicateLLM(model=cfg.model)
-│   │   
-│   │           def _gen(messages, json_schema=None):
-│   │               return client.generate(
-│   │                   messages,
-│   │                   json_schema=json_schema,
-│   │                   temperature=cfg.temperature if cfg.temperature is not None else None,
-│   │                   top_p=cfg.top_p if cfg.top_p is not None else None,
-│   │                   top_k=cfg.top_k if cfg.top_k is not None else None,
-│   │                   max_tokens=cfg.max_tokens if cfg.max_tokens is not None else None,
-│   │                   seed=getattr(cfg, "seed", None),
-│   │                   extra=cfg.extra_inputs,
-│   │               )
-│   │   
-│   │           return _gen
-│   │   
-│   │   
-│   │       # -------- Local via Unsloth --------
-│   │       if provider == "unsloth":
-│   │           if not _HAS_UNSLOTH:
-│   │               raise RuntimeError("Unsloth backend not available. Install unsloth & deps or remove 'unsloth' models.")
-│   │           extra = cfg.extra_inputs or {}
-│   │           client = UnslothLLM(
-│   │               model_name=cfg.model,
-│   │               max_seq_length=int(extra.get("max_seq_length", 2048)),
-│   │               dtype=extra.get("dtype"),
-│   │               load_in_4bit=bool(extra.get("load_in_4bit", False)),
-│   │               device=extra.get("device"),
-│   │               trust_remote_code=True,
-│   │               extra=extra,
+│   │       if prov == "replicate":
+│   │           token = os.getenv("REPLICATE_API_TOKEN")
+│   │           if not token:
+│   │               raise RuntimeError("Missing REPLICATE_API_TOKEN.")
+│   │           # Pass model defaults (prompt_template, stop_sequences, etc.) through
+│   │           return ReplicateLLM(
+│   │               model=cfg.model,
+│   │               api_token=token,
+│   │               default_extra=getattr(cfg, "extra_inputs", None),
 │   │           )
 │   │   
-│   │           def _gen(messages, json_schema=None):
-│   │               return client.generate(
-│   │                   messages,
-│   │                   json_schema=json_schema,
-│   │                   temperature=cfg.temperature if cfg.temperature is not None else 0.0,
-│   │                   top_p=cfg.top_p if cfg.top_p is not None else 1.0,
-│   │                   top_k=cfg.top_k,
-│   │                   max_tokens=cfg.max_tokens if cfg.max_tokens is not None else 512,
-│   │                   seed=getattr(cfg, "seed", None),
-│   │                   extra=cfg.extra_inputs,
-│   │               )
+│   │       if prov == "deepseek":
+│   │           api_key = os.getenv(cfg.api_key_env or "DEEPSEEK_API_KEY")
+│   │           if not api_key:
+│   │               raise RuntimeError("Missing DEEPSEEK_API_KEY.")
+│   │           return DeepSeekClient(
+│   │               model=cfg.model,
+│   │               api_key=api_key,
+│   │               base_url=cfg.base_url,
+│   │               max_tokens=cfg.max_tokens,
+│   │               temperature=cfg.temperature,
+│   │               top_p=cfg.top_p,
+│   │               extra_inputs=getattr(cfg, "extra_inputs", None),
+│   │           )
 │   │   
-│   │           return _gen
+│   │       if prov == "unsloth":
+│   │           raise RuntimeError("Unsloth backend not available in this environment.")
 │   │   
-│   │       raise ValueError(f"Unknown provider: {cfg.provider!r}")
+│   │       raise ValueError(f"Unknown provider: {prov}")
 │   │   --- File Content End ---
 
 │   ├── deepseek_client.py
 │   │   --- File Content Start ---
 │   │   # llm/deepseek_client.py
-│   │   """
-│   │   DeepSeek client with debug logging to identify JSON parsing issues.
-│   │   """
-│   │   
 │   │   from __future__ import annotations
 │   │   from typing import Any, Dict, List, Optional
 │   │   import json
-│   │   import os
+│   │   import time
 │   │   import requests
-│   │   from dotenv import load_dotenv
 │   │   
+│   │   from llm.json_utils import best_json, strip_fences as _strip_fences  # unified utils
+│   │   
+│   │   def _schema_hint(schema: Dict[str, Any]) -> str:
+│   │       return (
+│   │           "Return ONLY one valid JSON object that matches this JSON Schema exactly. "
+│   │           "No prose, no markdown, no code fences. "
+│   │           "If unsure, return an empty but valid object per schema.\nSCHEMA:\n"
+│   │           + json.dumps(schema, ensure_ascii=False)
+│   │       )
+│   │   
+│   │   def _best_json(text: str) -> Dict[str, Any]:
+│   │       obj = best_json(text)
+│   │       return obj if isinstance(obj, dict) else {}
 │   │   
 │   │   class DeepSeekClient:
 │   │       """
-│   │       DeepSeek client with detailed logging.
+│   │       Minimal DeepSeek client (Chat-like).
+│   │       We never use OpenAI 'response_format', since DeepSeek won't accept json_schema.
 │   │       """
 │   │   
 │   │       def __init__(
 │   │           self,
 │   │           model: str,
 │   │           api_key: str,
-│   │           base_url: str = "https://api.deepseek.com",
-│   │           max_tokens: int = 2048,
-│   │           temperature: float = 0.2,
-│   │           top_p: float = 1.0,
+│   │           base_url: Optional[str] = "https://api.deepseek.com",
+│   │           max_tokens: Optional[int] = 1024,
+│   │           temperature: Optional[float] = 0.2,
+│   │           top_p: Optional[float] = 1.0,
+│   │           extra_inputs: Optional[Dict[str, Any]] = None,
+│   │           request_timeout: float = 120.0,
 │   │       ):
-│   │           load_dotenv()
 │   │           self.model = model
-│   │           self.api_key = api_key or os.getenv("DEEPSEEK_API_KEY")
-│   │           self.base_url = base_url.rstrip("/")
 │   │           self.max_tokens = max_tokens
 │   │           self.temperature = temperature
 │   │           self.top_p = top_p
-│   │   
-│   │       def __call__(
-│   │           self,
-│   │           messages: List[Dict[str, str]],
-│   │           json_schema: Optional[Dict[str, Any]] = None,
-│   │       ) -> Dict[str, Any]:
-│   │           """Direct callable interface"""
-│   │           return self.generate(messages, json_schema=json_schema)
-│   │   
-│   │       def generate(
-│   │           self,
-│   │           messages: List[Dict[str, str]],
-│   │           *,
-│   │           json_schema: Optional[Dict[str, Any]] = None,
-│   │           temperature: Optional[float] = None,
-│   │           top_p: Optional[float] = None,
-│   │           max_tokens: Optional[int] = None,
-│   │           **kwargs,
-│   │       ) -> Dict[str, Any]:
-│   │           """Generate response with detailed debug logging"""
-│   │           
-│   │           # Use provided params or fall back to defaults
-│   │           temp = temperature if temperature is not None else self.temperature
-│   │           tp = top_p if top_p is not None else self.top_p
-│   │           mt = max_tokens if max_tokens is not None else self.max_tokens
-│   │           
-│   │           # Make the API request
-│   │           url = f"{self.base_url}/v1/chat/completions"
-│   │           headers = {
-│   │               "Authorization": f"Bearer {self.api_key}",
+│   │           self.extra = extra_inputs or {}
+│   │           self.url = f"{base_url.rstrip('/')}/chat/completions"
+│   │           self.headers = {
+│   │               "Authorization": f"Bearer {api_key}",
 │   │               "Content-Type": "application/json",
 │   │           }
+│   │           self.request_timeout = request_timeout
 │   │   
-│   │           body = {
-│   │               "model": self.model,
-│   │               "messages": messages,
-│   │               "temperature": temp,
-│   │               "top_p": tp,
-│   │               "max_tokens": mt,
-│   │           }
-│   │   
-│   │           # Tell DeepSeek to return JSON when we request it
+│   │       def __call__(self, messages: List[Dict[str, str]], json_schema: Optional[Dict[str, Any]] = None):
+│   │           # Inject strict schema instructions in the system message instead of response_format
+│   │           msgs = list(messages)
 │   │           if json_schema:
-│   │               body["response_format"] = {"type": "json_object"}
-│   │   
-│   │           # POST request
-│   │           response = requests.post(url, headers=headers, json=body, timeout=90.0)
-│   │           
-│   │           if response.status_code != 200:
-│   │               raise RuntimeError(f"DeepSeek API error: {response.status_code} {response.text[:200]}")
-│   │   
-│   │           # Extract the text response
-│   │           data = response.json()
-│   │           text = (data["choices"][0]["message"]["content"] or "").strip()
-│   │   
-│   │           # If no schema requested, just return text
-│   │           if not json_schema:
-│   │               return {"text": text}
-│   │   
-│   │           # DEBUG: Print what we're trying to parse
-│   │           # print(f"[DeepSeekClient] text length: {len(text)}")
-│   │           # print(f"[DeepSeekClient] text starts with: {text[:100]}")
-│   │           # print(f"[DeepSeekClient] text ends with: {text[-100:]}")
-│   │           # print(f"[DeepSeekClient] text type: {type(text)}")
-│   │           
-│   │           # Check if it's wrapped in quotes (string representation of JSON)
-│   │           if text.startswith('"') and text.endswith('"'):
-│   │               # print("[DeepSeekClient] WARNING: Text is quoted! Unquoting...")
-│   │               text = text[1:-1]
-│   │               # print(f"[DeepSeekClient] After unquote: {text[:100]}")
-│   │   
-│   │           # If schema requested, try to parse as JSON
-│   │           try:
-│   │               result = json.loads(text)
-│   │               # print(f"[DeepSeekClient] ✓ json.loads() succeeded!")
-│   │               # print(f"[DeepSeekClient] result type: {type(result)}")
-│   │               # print(f"[DeepSeekClient] result keys: {result.keys() if isinstance(result, dict) else 'N/A'}")
-│   │               
-│   │               if isinstance(result, dict):
-│   │                   return result
+│   │               if msgs and msgs[0].get("role") == "system":
+│   │                   msgs[0] = {"role": "system", "content": msgs[0]["content"] + "\n\n" + _schema_hint(json_schema)}
 │   │               else:
-│   │                   # print(f"[DeepSeekClient] ✗ Result is not dict, got: {type(result)}")
-│   │                   return {"_raw": text}
-│   │                   
-│   │           except json.JSONDecodeError as e:
-│   │               # print(f"[DeepSeekClient] ✗ json.loads() FAILED!")
-│   │               # print(f"[DeepSeekClient] Error: {e}")
-│   │               # print(f"[DeepSeekClient] Error position: {e.pos}")
-│   │               if e.pos is not None and e.pos < len(text):
-│   │                   # print(f"[DeepSeekClient] Text around error: {text[max(0,e.pos-50):e.pos+50]}")
-│   │                   a = "ok"
-│   │               return {"_raw": text}
+│   │                   msgs.insert(0, {"role": "system", "content": _schema_hint(json_schema)})
 │   │   
+│   │           payload: Dict[str, Any] = {
+│   │               "model": self.model,
+│   │               "messages": msgs,
+│   │               "temperature": self.temperature,
+│   │               "top_p": self.top_p,
+│   │               "max_tokens": self.max_tokens,
+│   │           }
+│   │           # allow user extras (e.g., penalties) but remove Nones
+│   │           for k, v in (self.extra or {}).items():
+│   │               if v is not None:
+│   │                   payload[k] = v
 │   │   
-│   │   # For compatibility with code that expects DeepSeekLLM
-│   │   DeepSeekLLM = DeepSeekClient
+│   │           # modest retry for transient HTTP errors
+│   │           last_exc = None
+│   │           for attempt in range(3):
+│   │               try:
+│   │                   r = requests.post(self.url, headers=self.headers, json=payload, timeout=self.request_timeout)
+│   │                   r.raise_for_status()
+│   │                   data = r.json()
+│   │                   break
+│   │               except requests.HTTPError as e:
+│   │                   last_exc = e
+│   │                   status = getattr(e.response, "status_code", None) if e.response else None
+│   │                   if status in (429, 500, 502, 503, 504) and attempt < 2:
+│   │                       time.sleep(2 ** attempt)
+│   │                       continue
+│   │                   raise
+│   │               except Exception as e:
+│   │                   last_exc = e
+│   │                   if attempt < 2:
+│   │                       time.sleep(2 ** attempt)
+│   │                       continue
+│   │                   raise last_exc  # re-raise after retries
+│   │   
+│   │           # content
+│   │           try:
+│   │               text = (data["choices"][0]["message"]["content"] or "").strip()
+│   │           except Exception:
+│   │               text = ""
+│   │   
+│   │           if not json_schema:
+│   │               return {"text": text, "_raw": text}
+│   │   
+│   │           # parse/salvage
+│   │           obj = _best_json(text)
+│   │           if obj:
+│   │               return obj
+│   │           return {"_raw": text}
 │   │   --- File Content End ---
 
 │   ├── openai_client.py
 │   │   --- File Content Start ---
 │   │   # llm/openai_client.py
 │   │   from __future__ import annotations
-│   │   from typing import Any, Dict, List, Optional, Union
+│   │   from typing import Any, Dict, List, Optional
 │   │   import json
 │   │   from openai import OpenAI
+│   │   from openai import BadRequestError
 │   │   
+│   │   # ---------- helpers borrowed from DeepSeek client ----------
+│   │   
+│   │   def _schema_hint(schema: Dict[str, Any]) -> str:
+│   │       return (
+│   │           "Return ONLY one valid JSON object that matches this JSON Schema exactly. "
+│   │           "No prose, no markdown, no code fences.\nSCHEMA:\n" +
+│   │           json.dumps(schema, ensure_ascii=False)
+│   │       )
+│   │   
+│   │   def _strip_fences(t: str) -> str:
+│   │       s = (t or "").strip()
+│   │       if s.startswith("```"):
+│   │           nl = s.find("\n")
+│   │           if nl != -1:
+│   │               s = s[nl+1:].strip()
+│   │           if s.endswith("```"):
+│   │               s = s[:-3].strip()
+│   │       return s
+│   │   
+│   │   def _best_json(text: str) -> Dict[str, Any]:
+│   │       if not text:
+│   │           return {}
+│   │       # direct
+│   │       try:
+│   │           return json.loads(text)
+│   │       except Exception:
+│   │           pass
+│   │       # strip fences
+│   │       t = _strip_fences(text)
+│   │       try:
+│   │           return json.loads(t)
+│   │       except Exception:
+│   │           pass
+│   │       # first balanced object
+│   │       s = t.find("{")
+│   │       if s != -1:
+│   │           depth = 0
+│   │           for i, ch in enumerate(t[s:], s):
+│   │               if ch == "{":
+│   │                   depth += 1
+│   │               elif ch == "}":
+│   │                   depth -= 1
+│   │                   if depth == 0:
+│   │                       try:
+│   │                           return json.loads(t[s:i+1])
+│   │                       except Exception:
+│   │                           break
+│   │       return {}
+│   │   
+│   │   def _lock_down_additional_props(schema: Any) -> Any:
+│   │       """
+│   │       Recursively enforce additionalProperties:false on all object nodes.
+│   │       This prevents OpenAI's 'additionalProperties is required and must be false' error.
+│   │       """
+│   │       if isinstance(schema, dict):
+│   │           t = schema.get("type")
+│   │           if t == "object":
+│   │               schema.setdefault("additionalProperties", False)
+│   │               props = schema.get("properties")
+│   │               if isinstance(props, dict):
+│   │                   for k in list(props.keys()):
+│   │                       props[k] = _lock_down_additional_props(props[k])
+│   │           elif t == "array":
+│   │               if "items" in schema:
+│   │                   schema["items"] = _lock_down_additional_props(schema["items"])
+│   │           else:
+│   │               # primitives: nothing to do
+│   │               pass
+│   │       return schema
+│   │   
+│   │   def _inject_schema_hint_into_messages(messages: List[Dict[str, str]], json_schema: Dict[str, Any]) -> List[Dict[str, str]]:
+│   │       """
+│   │       DeepSeek-style: put the schema contract into the system message so that even
+│   │       if response_format isn't honored, the model is still told to output strict JSON.
+│   │       """
+│   │       msgs = list(messages)
+│   │       hint = _schema_hint(json_schema)
+│   │       if msgs and (msgs[0].get("role") == "system"):
+│   │           msgs[0] = {"role": "system", "content": (msgs[0].get("content","") + "\n\n" + hint)}
+│   │       else:
+│   │           msgs.insert(0, {"role": "system", "content": hint})
+│   │       return msgs
+│   │   
+│   │   def _extract_text_from_chat(resp) -> str:
+│   │       try:
+│   │           return (resp.choices[0].message.content or "").strip()
+│   │       except Exception:
+│   │           return ""
+│   │   
+│   │   def _extract_text_from_responses_api(resp) -> str:
+│   │       # Prefer convenience field when available
+│   │       out = getattr(resp, "output_text", None)
+│   │       if out:
+│   │           return out.strip()
+│   │       # Reconstruct from blocks if needed
+│   │       try:
+│   │           parts: List[str] = []
+│   │           for block in getattr(resp, "output", []) or []:
+│   │               for c in getattr(block, "content", []) or []:
+│   │                   txt = getattr(c, "text", "")
+│   │                   if txt:
+│   │                       parts.append(txt)
+│   │           return "".join(parts).strip()
+│   │       except Exception:
+│   │           return ""
+│   │   
+│   │   def _parse_with_salvage(text: str, want_schema: bool) -> Dict[str, Any]:
+│   │       if not want_schema:
+│   │           return {"text": text}
+│   │       # strict first
+│   │       try:
+│   │           return json.loads(text)
+│   │       except Exception:
+│   │           pass
+│   │       # salvage
+│   │       obj = _best_json(text)
+│   │       if obj:
+│   │           return obj
+│   │       return {"_raw": text}
+│   │   
+│   │   # ---------- client ----------
 │   │   
 │   │   class OpenAIClient:
 │   │       """
 │   │       Unified OpenAI client that can call either:
 │   │         • Chat Completions API (gpt-4o, gpt-4o-mini, etc.)
-│   │         • Responses API (gpt-5 family, e.g. gpt-5-nano)
+│   │         • Responses API (gpt-5 family)
 │   │   
-│   │       Usage:
-│   │           client = OpenAIClient(
-│   │               model="gpt-4o-mini",
-│   │               api_key="sk-...",
-│   │               base_url=None,               # or custom compatible base
-│   │               max_tokens=1024,
-│   │               temperature=0.0,
-│   │               top_p=1.0,
-│   │               use_responses_api=False,     # True for gpt-5 family
-│   │               extra_inputs={
-│   │                   # only used by Responses API:
-│   │                   # "reasoning": {"effort": "low|medium|high|minimal"},
-│   │                   # "text": {"verbosity": "low|medium|high"},
-│   │               },
-│   │           )
-│   │           out = client(messages, json_schema=SCHEMA_OR_None)
+│   │       DeepSeek-style hardening:
+│   │         - Inject schema hint into system message
+│   │         - Lock additionalProperties:false recursively
+│   │         - Salvage JSON if strict parsing fails
+│   │         - Retry without response_format if provider rejects schema
 │   │       """
 │   │   
 │   │       def __init__(
@@ -2425,190 +3751,192 @@ GPTKB_Hallucinations/
 │   │           self.max_tokens = max_tokens
 │   │           self.temperature = temperature
 │   │           self.top_p = top_p
+│   │           # Heuristic: Responses API for gpt-5* unless explicitly disabled
 │   │           self.use_responses_api = bool(use_responses_api or (model or "").startswith("gpt-5"))
 │   │           self.extra_inputs = extra_inputs or {}
 │   │   
-│   │           # Construct OpenAI SDK client
 │   │           if base_url:
 │   │               self.client = OpenAI(api_key=api_key, base_url=base_url)
 │   │           else:
 │   │               self.client = OpenAI(api_key=api_key)
 │   │   
-│   │       # ----- Public callable -----
 │   │       def __call__(self, messages: List[Dict[str, str]], json_schema: Optional[Dict[str, Any]] = None):
 │   │           if self.use_responses_api:
 │   │               return self._call_responses(messages, json_schema)
 │   │           return self._call_chat(messages, json_schema)
 │   │   
-│   │       # ----- Internal: Chat Completions API -----
+│   │       # ---------------- Chat Completions ----------------
+│   │   
 │   │       def _call_chat(self, messages: List[Dict[str, str]], json_schema: Optional[Dict[str, Any]]):
+│   │           msgs = list(messages)
 │   │           kwargs: Dict[str, Any] = dict(
 │   │               model=self.model,
-│   │               messages=messages,
+│   │               messages=msgs,
 │   │               temperature=self.temperature,
 │   │               top_p=self.top_p,
 │   │               max_tokens=self.max_tokens,
 │   │           )
 │   │   
-│   │           if json_schema:
-│   │               # Chat Completions requires schema name
+│   │           # If schema provided: lock schema, inject hint, try with response_format first
+│   │           have_schema = json_schema is not None
+│   │           if have_schema:
+│   │               safe_schema = _lock_down_additional_props(json.loads(json.dumps(json_schema)))
+│   │               msgs = _inject_schema_hint_into_messages(msgs, safe_schema)
+│   │               kwargs["messages"] = msgs
 │   │               kwargs["response_format"] = {
 │   │                   "type": "json_schema",
 │   │                   "json_schema": {
 │   │                       "name": "schema",
-│   │                       "schema": json_schema,
+│   │                       "schema": safe_schema,
+│   │                       "strict": True,  # ask for validation
 │   │                   },
 │   │               }
 │   │   
-│   │           resp = self.client.chat.completions.create(**kwargs)
-│   │           text = (resp.choices[0].message.content or "").strip()
+│   │           # 1st try: with response_format (when schema present)
+│   │           try:
+│   │               resp = self.client.chat.completions.create(**kwargs)
+│   │               text = _extract_text_from_chat(resp)
+│   │               if not have_schema:
+│   │                   return {"text": text}
+│   │               parsed = _parse_with_salvage(text, want_schema=True)
+│   │               return parsed
+│   │           except BadRequestError as e:
+│   │               # Common case: JSON schema format complaints → retry without response_format
+│   │               if have_schema:
+│   │                   try:
+│   │                       # Remove response_format, keep the DeepSeek-style system hint
+│   │                       kwargs.pop("response_format", None)
+│   │                       resp = self.client.chat.completions.create(**kwargs)
+│   │                       text = _extract_text_from_chat(resp)
+│   │                       parsed = _parse_with_salvage(text, want_schema=True)
+│   │                       return parsed
+│   │                   except Exception:
+│   │                       raise
+│   │               raise
+│   │           except Exception:
+│   │               # Last resort: retry without response_format if we had schema
+│   │               if have_schema:
+│   │                   kwargs.pop("response_format", None)
+│   │                   resp = self.client.chat.completions.create(**kwargs)
+│   │                   text = _extract_text_from_chat(resp)
+│   │                   parsed = _parse_with_salvage(text, want_schema=True)
+│   │                   return parsed
+│   │               raise
 │   │   
-│   │           if json_schema:
-│   │               # try to parse JSON; fall back to a dict with _raw
-│   │               try:
-│   │                   return json.loads(text)
-│   │               except Exception:
-│   │                   return {"_raw": text}
-│   │           else:
-│   │               return {"text": text}
+│   │       # ---------------- Responses API (gpt-5*) ----------------
 │   │   
-│   │       # --- inside llm/openai_client.py ---
+│   │       def _call_responses(self, messages: List[Dict[str, str]], json_schema: Optional[Dict[str, Any]]):
+│   │           have_schema = json_schema is not None
+│   │           msgs = list(messages)
 │   │   
-│   │       def _call_responses(self, messages, json_schema):
-│   │           """
-│   │           Responses API (gpt-5 family). 
-│   │           Handles both modern SDKs (with or without response_format) 
-│   │           and automatically omits unsupported parameters.
-│   │           """
+│   │           # Inject schema hint like DeepSeek even for Responses API
+│   │           if have_schema:
+│   │               safe_schema = _lock_down_additional_props(json.loads(json.dumps(json_schema)))
+│   │               msgs = _inject_schema_hint_into_messages(msgs, safe_schema)
 │   │           reasoning = self.extra_inputs.get("reasoning")
 │   │           text_opts = self.extra_inputs.get("text")
 │   │   
-│   │           # Base kwargs: omit temperature/top_p since GPT-5 disallows them
-│   │           base_kwargs = {
+│   │           base_kwargs: Dict[str, Any] = {
 │   │               "model": self.model,
-│   │               "input": messages,
+│   │               "input": msgs,
 │   │               "max_output_tokens": self.max_tokens,
 │   │           }
-│   │   
 │   │           if reasoning:
 │   │               base_kwargs["reasoning"] = reasoning
 │   │           if text_opts:
 │   │               base_kwargs["text"] = text_opts
 │   │   
-│   │           # Try to include schema (new SDKs only)
-│   │           if json_schema:
-│   │               with_schema_kwargs = dict(base_kwargs)
+│   │           with_schema_kwargs = dict(base_kwargs)
+│   │           if have_schema:
 │   │               with_schema_kwargs["response_format"] = {
 │   │                   "type": "json_schema",
-│   │                   "json_schema": {"name": "schema", "schema": json_schema},
+│   │                   "json_schema": {
+│   │                       "name": "schema",
+│   │                       "schema": safe_schema,
+│   │                       "strict": True,
+│   │                   },
 │   │               }
 │   │           else:
-│   │               with_schema_kwargs = dict(base_kwargs)
 │   │               with_schema_kwargs["response_format"] = {"type": "text"}
 │   │   
+│   │           # 1st try with response_format (if schema)
 │   │           try:
-│   │               # Newer SDK (supports response_format)
 │   │               resp = self.client.responses.create(**with_schema_kwargs)
-│   │           except TypeError:
-│   │               # Older SDK, retry without response_format
+│   │               text = _extract_text_from_responses_api(resp)
+│   │               if not have_schema:
+│   │                   return {"text": text}
+│   │               parsed = _parse_with_salvage(text, want_schema=True)
+│   │               return parsed
+│   │           except BadRequestError:
+│   │               # Retry without response_format but keep hint
 │   │               resp = self.client.responses.create(**base_kwargs)
-│   │           except Exception as e:
-│   │               # Some versions reject unsupported args; print and retry minimal
-│   │               if "Unsupported parameter" in str(e):
-│   │                   resp = self.client.responses.create(**base_kwargs)
-│   │               else:
-│   │                   raise
-│   │   
-│   │           # Extract text from output
-│   │           output_text = getattr(resp, "output_text", None)
-│   │           if not output_text:
-│   │               try:
-│   │                   parts = []
-│   │                   for block in getattr(resp, "output", []) or []:
-│   │                       for c in getattr(block, "content", []) or []:
-│   │                           if getattr(c, "type", "") == "output_text":
-│   │                               parts.append(getattr(c, "text", ""))
-│   │                   output_text = "".join(parts).strip()
-│   │               except Exception:
-│   │                   output_text = ""
-│   │   
-│   │           # Return parsed JSON or raw text
-│   │           if json_schema:
-│   │               try:
-│   │                   return json.loads(output_text)
-│   │               except Exception:
-│   │                   return {"_raw": output_text}
-│   │           else:
-│   │               return {"text": output_text}
+│   │               text = _extract_text_from_responses_api(resp)
+│   │               if not have_schema:
+│   │                   return {"text": text}
+│   │               parsed = _parse_with_salvage(text, want_schema=True)
+│   │               return parsed
+│   │           except TypeError:
+│   │               # Older SDKs → missing response_format support; retry bare
+│   │               resp = self.client.responses.create(**base_kwargs)
+│   │               text = _extract_text_from_responses_api(resp)
+│   │               if not have_schema:
+│   │                   return {"text": text}
+│   │               parsed = _parse_with_salvage(text, want_schema=True)
+│   │               return parsed
+│   │           except Exception:
+│   │               # Final fallback
+│   │               resp = self.client.responses.create(**base_kwargs)
+│   │               text = _extract_text_from_responses_api(resp)
+│   │               if not have_schema:
+│   │                   return {"text": text}
+│   │               parsed = _parse_with_salvage(text, want_schema=True)
+│   │               return parsed
 │   │   
 │   │   
 │   │   __all__ = ["OpenAIClient"]
 │   │   --- File Content End ---
 
-│   ├── replicate_client.py
+│   ├── json_utils.py
 │   │   --- File Content Start ---
-│   │   # llm/replicate_client.py
+│   │   # llm/json_utils.py
 │   │   from __future__ import annotations
-│   │   import os
 │   │   import json
-│   │   from typing import Any, Dict, List, Optional, Generator, Tuple
 │   │   
-│   │   from dotenv import load_dotenv
-│   │   import replicate
-│   │   
-│   │   
-│   │   # -------------------------- small helpers --------------------------
-│   │   
-│   │   def _minify_schema(schema: Dict[str, Any]) -> str:
-│   │       try:
-│   │           return json.dumps(schema, separators=(",", ":"), ensure_ascii=False)
-│   │       except Exception:
-│   │           return "{}"
-│   │   
-│   │   
-│   │   def _collapse_messages(messages: List[Dict[str, str]]) -> str:
-│   │       parts = []
-│   │       for m in messages:
-│   │           role = (m.get("role") or "user").upper()
-│   │           content = (m.get("content") or "").strip()
-│   │           parts.append(f"{role}: {content}")
-│   │       parts.append("ASSISTANT:")
-│   │       return "\n\n".join(parts)
-│   │   
-│   │   
-│   │   def _strip_fences(text: str) -> str:
-│   │       t = (text or "").strip()
-│   │       if t.startswith("```"):
-│   │           nl = t.find("\n")
+│   │   def strip_fences(t: str) -> str:
+│   │       s = (t or "").strip()
+│   │       if s.startswith("```"):
+│   │           nl = s.find("\n")
 │   │           if nl != -1:
-│   │               t = t[nl + 1:].strip()
-│   │           if t.endswith("```"):
-│   │               t = t[:-3].strip()
-│   │       return t
+│   │               s = s[nl + 1:].strip()
+│   │           if s.endswith("```"):
+│   │               s = s[:-3].strip()
+│   │       return s
 │   │   
-│   │   
-│   │   def _parse_json_best_effort(text: str) -> Dict[str, Any]:
+│   │   def best_json(text: str):
+│   │       """
+│   │       Robust, quote/escape-aware JSON extraction.
+│   │       Returns a dict/list on success, or {} on failure.
+│   │       """
 │   │       if not text:
 │   │           return {}
-│   │       # 1) direct
+│   │       # direct attempt
 │   │       try:
 │   │           return json.loads(text)
 │   │       except Exception:
 │   │           pass
-│   │       # 2) strip code fences
-│   │       t = _strip_fences(text)
+│   │   
+│   │       t = strip_fences(text)
 │   │       try:
 │   │           return json.loads(t)
 │   │       except Exception:
 │   │           pass
-│   │       # 3) first balanced {...}
-│   │       s = t.find("{")
-│   │       if s != -1:
+│   │   
+│   │       def scan_for(open_ch: str, close_ch: str):
+│   │           s = -1
 │   │           depth = 0
 │   │           in_str = False
 │   │           esc = False
-│   │           for i in range(s, len(t)):
-│   │               ch = t[i]
+│   │           for i, ch in enumerate(t):
 │   │               if in_str:
 │   │                   if esc:
 │   │                       esc = False
@@ -2620,91 +3948,826 @@ GPTKB_Hallucinations/
 │   │               if ch == '"':
 │   │                   in_str = True
 │   │                   continue
-│   │               if ch == "{":
+│   │               if ch == open_ch:
+│   │                   if depth == 0:
+│   │                       s = i
 │   │                   depth += 1
-│   │               elif ch == "}":
+│   │               elif ch == close_ch and depth > 0:
 │   │                   depth -= 1
-│   │                   if depth == 0:
-│   │                       cand = t[s:i + 1]
+│   │                   if depth == 0 and s != -1:
+│   │                       chunk = t[s:i+1]
 │   │                       try:
-│   │                           return json.loads(cand)
+│   │                           return json.loads(chunk)
 │   │                       except Exception:
-│   │                           break
-│   │       return {}
-│   │   
-│   │   
-│   │   def _salvage_block(text: str, key: str) -> Dict[str, Any]:
-│   │       """
-│   │       Best-effort salvage when output contains the key but json.loads failed.
-│   │       Try to extract balanced object or the array for that key.
-│   │       """
-│   │       if not text or key not in (text or ""):
+│   │                           s = -1  # keep scanning
 │   │           return {}
-│   │       t = _strip_fences(text)
 │   │   
-│   │       # Try a balanced object
-│   │       s = t.find("{")
-│   │       if s != -1:
-│   │           depth = 0; in_str = False; esc = False
-│   │           for i in range(s, len(t)):
-│   │               ch = t[i]
-│   │               if in_str:
-│   │                   if esc: esc = False
-│   │                   elif ch == "\\": esc = True
-│   │                   elif ch == '"': in_str = False
+│   │       return scan_for("{", "}") or scan_for("[", "]") or {}
+│   │   --- File Content End ---
+
+│   ├── anthropic_client.py
+│   │   --- File Content Start ---
+│   │   # llm/anthropic_client.py
+│   │   from __future__ import annotations
+│   │   
+│   │   import os
+│   │   import time
+│   │   from typing import Any, Dict, List, Optional, Tuple
+│   │   
+│   │   from dotenv import load_dotenv
+│   │   
+│   │   # Load .env so ANTHROPIC_API_KEY is available
+│   │   load_dotenv()
+│   │   
+│   │   try:
+│   │       import anthropic
+│   │   except Exception:
+│   │       anthropic = None
+│   │   
+│   │   
+│   │   class AnthropicLLM:
+│   │       """
+│   │       Minimal Anthropic wrapper with thinking constraints.
+│   │   
+│   │       - Reads ANTHROPIC_API_KEY from env (or pass api_key= explicitly).
+│   │       - Accepts messages like [{"role":"system","content":"..."}, {"role":"user","content":"..."}].
+│   │         We collect system messages into `system=` and pass the rest to `messages=`.
+│   │       - Extended thinking via thinking={"type":"enabled","budget_tokens":...} (alias: reasoning=).
+│   │         When thinking is enabled:
+│   │           * temperature is FORCED to 1 (non-overridable).
+│   │           * max_tokens is FORCED to be >= 1024.
+│   │           * if budget_tokens is provided, max_tokens is FORCED to be > budget_tokens.
+│   │       - Returns {"text": <string>, "_raw": <sdk_response>}.
+│   │       """
+│   │   
+│   │       def __init__(self, api_key: Optional[str] = None, *, max_retries: int = 3, debug: bool = False):
+│   │           if anthropic is None:
+│   │               raise ImportError("anthropic SDK not installed. Run: pip install anthropic python-dotenv")
+│   │   
+│   │           self.api_key = api_key or os.getenv("ANTHROPIC_API_KEY")
+│   │           if not self.api_key:
+│   │               raise ValueError("Missing ANTHROPIC_API_KEY. Set it in your .env or pass api_key=.")
+│   │   
+│   │           ClientClass = getattr(anthropic, "Anthropic", None) or getattr(anthropic, "Client", None)
+│   │           if ClientClass is None:
+│   │               raise RuntimeError("Anthropic SDK missing Anthropic/Client class.")
+│   │   
+│   │           self.client = ClientClass(api_key=self.api_key)
+│   │           self.max_retries = max(1, int(max_retries))
+│   │           self.debug = bool(debug or os.getenv("ANTHROPIC_DEBUG") == "1")
+│   │   
+│   │       def __call__(self, messages: List[Dict[str, str]], **kwargs) -> Dict[str, Any]:
+│   │           return self.generate(messages, **kwargs)
+│   │   
+│   │       # ---------- helpers ----------
+│   │   
+│   │       def _log(self, *a):
+│   │           if self.debug:
+│   │               print("[AnthropicLLM]", *a, flush=True)
+│   │   
+│   │       @staticmethod
+│   │       def _split_system_and_dialog(messages: List[Dict[str, str]]) -> Tuple[str, List[Dict[str, str]]]:
+│   │           """
+│   │           Returns (system_text, dialog_messages_without_system).
+│   │           Concatenates multiple system messages with blank lines.
+│   │           """
+│   │           sys_parts: List[str] = []
+│   │           dialog: List[Dict[str, str]] = []
+│   │           for m in messages or []:
+│   │               role = (m.get("role") or "").strip().lower()
+│   │               content = (m.get("content") or "")
+│   │               if role == "system":
+│   │                   if content:
+│   │                       sys_parts.append(str(content))
+│   │               elif role in ("user", "assistant"):
+│   │                   dialog.append({"role": role, "content": str(content)})
+│   │               else:
+│   │                   dialog.append({"role": "user", "content": str(content)})
+│   │           return "\n\n".join(sys_parts).strip(), dialog
+│   │   
+│   │       @staticmethod
+│   │       def _extract_text(resp: Any) -> str:
+│   │           # Messages API: resp.content is list of blocks
+│   │           try:
+│   │               content = getattr(resp, "content", None)
+│   │               if isinstance(content, list):
+│   │                   parts: List[str] = []
+│   │                   for blk in content:
+│   │                       if hasattr(blk, "text"):
+│   │                           parts.append(str(getattr(blk, "text") or ""))
+│   │                       elif isinstance(blk, dict) and blk.get("type") == "text":
+│   │                           parts.append(str(blk.get("text") or ""))
+│   │                       elif isinstance(blk, str):
+│   │                           parts.append(blk)
+│   │                   return " ".join(p for p in parts if p).strip()
+│   │               if isinstance(content, str):
+│   │                   return content
+│   │           except Exception:
+│   │               pass
+│   │   
+│   │           # Legacy completion style
+│   │           try:
+│   │               comp = getattr(resp, "completion", None)
+│   │               if isinstance(comp, str):
+│   │                   return comp
+│   │           except Exception:
+│   │               pass
+│   │   
+│   │           # Dict-like fallback
+│   │           if isinstance(resp, dict):
+│   │               c = resp.get("content")
+│   │               if isinstance(c, list):
+│   │                   texts: List[str] = []
+│   │                   for blk in c:
+│   │                       if isinstance(blk, dict) and "text" in blk:
+│   │                           texts.append(str(blk["text"] or ""))
+│   │                       elif isinstance(blk, str):
+│   │                           texts.append(blk)
+│   │                   return " ".join(t for t in texts if t).strip()
+│   │               if isinstance(c, str):
+│   │                   return c
+│   │               if isinstance(resp.get("completion"), str):
+│   │                   return str(resp["completion"])
+│   │   
+│   │           try:
+│   │               return str(resp)
+│   │           except Exception:
+│   │               return ""
+│   │   
+│   │       # ---------- main call ----------
+│   │   
+│   │       def generate(
+│   │           self,
+│   │           messages: List[Dict[str, str]],
+│   │           *,
+│   │           model: str = "claude-sonnet-4-5-20250929",
+│   │           max_tokens: Optional[int] = 512,
+│   │           temperature: Optional[float] = 0.0,
+│   │           reasoning: Optional[Dict[str, Any]] = None,  # alias for thinking
+│   │           thinking: Optional[Dict[str, Any]] = None,
+│   │           **extra,
+│   │       ) -> Dict[str, Any]:
+│   │           """
+│   │           Calls anthropic.messages.create() with enforced constraints when thinking is enabled.
+│   │           """
+│   │           system_text, dialog = self._split_system_and_dialog(messages)
+│   │   
+│   │           thinking_payload = thinking or reasoning
+│   │   
+│   │           # ----- Enforce MUSTs when thinking is enabled -----
+│   │           if thinking_payload:
+│   │               # 1) Force temperature=1, not changeable
+│   │               if temperature != 1:
+│   │                   self._log("forcing temperature=1 (thinking enabled)")
+│   │               temperature = 1
+│   │   
+│   │               # 2) Force max_tokens >= 1024
+│   │               if max_tokens is None or max_tokens < 1024:
+│   │                   self._log(f"bumping max_tokens to >=1024 (was {max_tokens})")
+│   │                   max_tokens = 1024
+│   │   
+│   │               # 3) Ensure max_tokens > thinking budget_tokens (if provided)
+│   │               budget = None
+│   │               if isinstance(thinking_payload, dict):
+│   │                   budget = thinking_payload.get("budget_tokens")
+│   │               if isinstance(budget, (int, float)):
+│   │                   budget = int(budget)
+│   │                   if max_tokens <= budget:
+│   │                       new_max = budget + 1
+│   │                       self._log(f"bumping max_tokens to > budget ({budget}); setting max_tokens={new_max}")
+│   │                       max_tokens = new_max
+│   │           # --------------------------------------------------
+│   │   
+│   │           # Build call kwargs
+│   │           call_kwargs: Dict[str, Any] = {
+│   │               "model": model,
+│   │               "max_tokens": int(max_tokens if max_tokens is not None else 512),
+│   │               "messages": dialog,
+│   │           }
+│   │           if system_text:
+│   │               call_kwargs["system"] = system_text
+│   │   
+│   │           if thinking_payload:
+│   │               call_kwargs["thinking"] = thinking_payload
+│   │               call_kwargs["temperature"] = 1  # double-assert
+│   │           else:
+│   │               if temperature is not None:
+│   │                   call_kwargs["temperature"] = temperature
+│   │   
+│   │           # Pass through any supported extras (avoid overriding our enforced keys)
+│   │           for k, v in (extra or {}).items():
+│   │               if k in ("model", "messages", "system", "max_tokens", "temperature", "thinking", "reasoning"):
 │   │                   continue
-│   │               if ch == '"': in_str = True; continue
-│   │               if ch == "{": depth += 1
-│   │               elif ch == "}":
-│   │                   depth -= 1
-│   │                   if depth == 0:
-│   │                       cand = t[s:i+1]
-│   │                       try:
-│   │                           obj = json.loads(cand)
-│   │                           if isinstance(obj, dict) and key in obj:
-│   │                               return obj
-│   │                       except Exception:
-│   │                           break
+│   │               if v is not None:
+│   │                   call_kwargs[k] = v
 │   │   
-│   │       # Try to salvage the array value directly
-│   │       for key_quoted in (f'"{key}"', f"'{key}'"):
-│   │           kpos = t.find(key_quoted)
-│   │           if kpos != -1:
-│   │               arr_start = t.find("[", kpos)
-│   │               if arr_start != -1:
-│   │                   depth = 0; in_str = False; esc = False
-│   │                   for i in range(arr_start, len(t)):
-│   │                       ch = t[i]
-│   │                       if in_str:
-│   │                           if esc: esc = False
-│   │                           elif ch == "\\": esc = True
-│   │                           elif ch == '"': in_str = False
-│   │                           continue
-│   │                       if ch == '"': in_str = True; continue
-│   │                       if ch == "[": depth += 1
-│   │                       elif ch == "]":
-│   │                           depth -= 1
-│   │                           if depth == 0:
-│   │                               arr_cand = t[arr_start:i+1]
-│   │                               try:
-│   │                                   arr = json.loads(arr_cand)
-│   │                                   if isinstance(arr, list):
-│   │                                       return {key: arr}
-│   │                               except Exception:
-│   │                                   break
-│   │       return {}
+│   │           # Retry on transient errors
+│   │           last_err: Optional[BaseException] = None
+│   │           for attempt in range(1, self.max_retries + 1):
+│   │               try:
+│   │                   self._log(
+│   │                       f"messages.create attempt={attempt} model={model} "
+│   │                       f"thinking={'yes' if thinking_payload else 'no'} "
+│   │                       f"temperature={call_kwargs.get('temperature')} max_tokens={call_kwargs.get('max_tokens')}"
+│   │                   )
+│   │                   resp = self.client.messages.create(**call_kwargs)
+│   │                   text = self._extract_text(resp)
+│   │                   return {"text": text, "_raw": resp}
+│   │               except Exception as e:
+│   │                   last_err = e
+│   │                   self._log(f"error: {type(e).__name__}: {e}")
+│   │                   if attempt == self.max_retries:
+│   │                       break
+│   │                   time.sleep(min(10.0, 0.6 * (2 ** (attempt - 1))))
+│   │   
+│   │           raise RuntimeError(f"Anthropic call failed after {self.max_retries} attempts: {last_err}")
+│   │   --- File Content End ---
+
+│   ├── replicate_client.py
+│   │   --- File Content Start ---
+│   │   # # llm/replicate_client.py
+│   │   # from __future__ import annotations
+│   │   
+│   │   # import os
+│   │   # import json
+│   │   # import time
+│   │   # import random
+│   │   # from typing import Any, Dict, List, Optional, Generator
+│   │   
+│   │   # from dotenv import load_dotenv
+│   │   # import replicate
+│   │   
+│   │   # # transient network exceptions
+│   │   # import httpx
+│   │   # import httpcore
+│   │   
+│   │   # # --- your shared util (unchanged import path) ---
+│   │   # from llm.json_utils import best_json
 │   │   
 │   │   
-│   │   def _parse_or_salvage(text: str, expect_key: Optional[str]) -> Dict[str, Any]:
-│   │       obj = _parse_json_best_effort(text)
-│   │       if obj:
-│   │           return obj
-│   │       if expect_key:
-│   │           salv = _salvage_block(text, expect_key)
-│   │           if salv:
-│   │               return salv
-│   │       return {}
+│   │   # # -------------------------- small helpers --------------------------
 │   │   
+│   │   # def _minify_schema(schema: Dict[str, Any]) -> str:
+│   │   #     try:
+│   │   #         return json.dumps(schema, separators=(",", ":"), ensure_ascii=False)
+│   │   #     except Exception:
+│   │   #         return "{}"
+│   │   
+│   │   # def _collapse_messages(messages: List[Dict[str, str]]) -> str:
+│   │   #     parts = []
+│   │   #     for m in messages:
+│   │   #         role = (m.get("role") or "user").upper()
+│   │   #         content = (m.get("content") or "").strip()
+│   │   #         parts.append(f"{role}: {content}")
+│   │   #     parts.append("ASSISTANT:")
+│   │   #     return "\n\n".join(parts)
+│   │   
+│   │   # def _strip_fences(text: str) -> str:
+│   │   #     t = (text or "").strip()
+│   │   #     if t.startswith("```"):
+│   │   #         nl = t.find("\n")
+│   │   #         if nl != -1:
+│   │   #             t = t[nl + 1:].strip()
+│   │   #         if t.endswith("```"):
+│   │   #             t = t[:-3].strip()
+│   │   #     return t
+│   │   
+│   │   # def _parse_json_best_effort(text: str) -> Dict[str, Any]:
+│   │   #     obj = best_json(text)
+│   │   #     return obj if isinstance(obj, dict) else {}
+│   │   
+│   │   # def _clip01(x: Any, default: float = 0.9) -> float:
+│   │   #     try:
+│   │   #         v = float(x)
+│   │   #     except Exception:
+│   │   #         return default
+│   │   #     if v < 0.0: return 0.0
+│   │   #     if v > 1.0: return 1.0
+│   │   #     return v
+│   │   
+│   │   # def _coerce_elicit(obj: Dict[str, Any], *, calibrated: bool) -> Dict[str, Any]:
+│   │   #     facts = obj.get("facts")
+│   │   #     if not isinstance(facts, list):
+│   │   #         return {"facts": []}
+│   │   #     out = []
+│   │   #     for it in facts:
+│   │   #         if not isinstance(it, dict):
+│   │   #             continue
+│   │   #         s = it.get("subject"); p = it.get("predicate"); o = it.get("object")
+│   │   #         if not (isinstance(s, str) and isinstance(p, str) and (isinstance(o, str) or isinstance(o, (int, float, bool)))):
+│   │   #             continue
+│   │   #         if not isinstance(o, str):
+│   │   #             o = str(o)
+│   │   #         if calibrated:
+│   │   #             conf = _clip01(it.get("confidence"), 0.9)
+│   │   #             out.append({"subject": s, "predicate": p, "object": o, "confidence": conf})
+│   │   #         else:
+│   │   #             out.append({"subject": s, "predicate": p, "object": o})
+│   │   #     return {"facts": out}
+│   │   
+│   │   # def _coerce_ner(obj: Dict[str, Any], *, calibrated: bool) -> Dict[str, Any]:
+│   │   #     phs = obj.get("phrases")
+│   │   #     if not isinstance(phs, list):
+│   │   #         return {"phrases": []}
+│   │   #     out = []
+│   │   #     for it in phs:
+│   │   #         if not isinstance(it, dict):
+│   │   #             continue
+│   │   #         phrase = it.get("phrase"); is_ne = bool(it.get("is_ne"))
+│   │   #         if not isinstance(phrase, str):
+│   │   #             continue
+│   │   #         if calibrated:
+│   │   #             conf = _clip01(it.get("confidence"), 0.9)
+│   │   #             out.append({"phrase": phrase, "is_ne": is_ne, "confidence": conf})
+│   │   #         else:
+│   │   #             out.append({"phrase": phrase, "is_ne": is_ne})
+│   │   #     return {"phrases": out}
+│   │   
+│   │   # def _salvage_block(text: str, key: Optional[str]) -> Dict[str, Any]:
+│   │   #     """
+│   │   #     Try best_json first; if it returns an array and we expect a key (like 'facts'),
+│   │   #     wrap it; else return {}.
+│   │   #     (NOTE: parameter is 'key' to match calls; we also accept legacy 'expect_key' via wrapper below.)
+│   │   #     """
+│   │   #     obj = best_json(text)
+│   │   #     if isinstance(obj, dict):
+│   │   #         # already object — either conforms, or still usable downstream
+│   │   #         return obj
+│   │   #     if isinstance(obj, list) and key:
+│   │   #         return {key: obj}
+│   │   #     return {}
+│   │   
+│   │   # # Backward-compat wrapper in case other code calls with expect_key=
+│   │   # def _salvage_block_expect_key(text: str, expect_key: Optional[str]) -> Dict[str, Any]:
+│   │   #     return _salvage_block(text, expect_key)
+│   │   
+│   │   # # -------------------------- client --------------------------
+│   │   
+│   │   # class ReplicateLLM:
+│   │   #     """
+│   │   #     Replicate wrapper with model-specific prompt shaping and robust JSON salvage.
+│   │   #     Also implements __call__(messages, json_schema=...) to match other clients.
+│   │   #     Includes jittered exponential backoff for transient HTTP faults.
+│   │   #     """
+│   │   
+│   │   #     def __init__(self, model: str, *, api_token: Optional[str] = None, default_extra: Optional[Dict[str, Any]] = None):
+│   │   #         load_dotenv()
+│   │   #         self.model = model
+│   │   #         token = api_token or os.getenv("REPLICATE_API_TOKEN")
+│   │   #         if not token:
+│   │   #             raise RuntimeError("Missing REPLICATE_API_TOKEN in environment (or pass api_token=...).")
+│   │   #         self._client = replicate.Client(api_token=token)
+│   │   #         self._debug = os.getenv("REPLICATE_DEBUG", "") == "1"
+│   │   #         self._default_extra = default_extra or {}
+│   │   
+│   │   #     # Let the object be called like other clients:
+│   │   #     def __call__(self, messages: List[Dict[str, str]], *, json_schema: Optional[Dict[str, Any]] = None, **kwargs) -> Dict[str, Any] | str:
+│   │   #         return self.generate(messages, json_schema=json_schema, **kwargs)
+│   │   
+│   │   #     # --------- builders ---------
+│   │   
+│   │   #     def _inputs_common(
+│   │   #         self,
+│   │   #         *,
+│   │   #         temperature: Optional[float],
+│   │   #         top_p: Optional[float],
+│   │   #         top_k: Optional[int],
+│   │   #         max_tokens: Optional[int],
+│   │   #         seed: Optional[int],
+│   │   #         extra: Dict[str, Any],
+│   │   #     ) -> Dict[str, Any]:
+│   │   #         # merge defaults + per-call extras
+│   │   #         merged_extra = {**(self._default_extra or {}), **(extra or {})}
+│   │   
+│   │   #         inp: Dict[str, Any] = {}
+│   │   #         if temperature is not None: inp["temperature"] = temperature
+│   │   #         if top_p is not None: inp["top_p"] = top_p
+│   │   #         if top_k is not None: inp["top_k"] = top_k
+│   │   #         if max_tokens is not None:
+│   │   #             inp["max_tokens"] = max_tokens
+│   │   #             inp["max_output_tokens"] = max_tokens
+│   │   #         if seed is not None: inp["seed"] = seed
+│   │   
+│   │   #         # Replicate quirk: some runners expect scalar strings for stop / stop_sequences
+│   │   #         if "stop_sequences" in merged_extra and isinstance(merged_extra["stop_sequences"], list):
+│   │   #             merged_extra = {**merged_extra, "stop_sequences": merged_extra["stop_sequences"][0] if merged_extra["stop_sequences"] else ""}
+│   │   #         if "stop" in merged_extra and isinstance(merged_extra["stop"], list):
+│   │   #             merged_extra = {**merged_extra, "stop": merged_extra["stop"][0] if merged_extra["stop"] else ""}
+│   │   
+│   │   #         for k, v in (merged_extra or {}).items():
+│   │   #             if v is not None:
+│   │   #                 inp[k] = v
+│   │   #         return inp
+│   │   
+│   │   #     def _build_for_gemini(self, messages, json_schema, knobs) -> Dict[str, Any]:
+│   │   #         schema_min = _minify_schema(json_schema)
+│   │   #         system_prompt = (
+│   │   #             "Return ONLY a single valid JSON object that matches this JSON Schema exactly. "
+│   │   #             "No prose, no markdown, no code fences.\n"
+│   │   #             f"SCHEMA: {schema_min}\n"
+│   │   #             "If you truly don't know, return an empty but valid object per schema."
+│   │   #         )
+│   │   #         fewshot = (
+│   │   #             "EXAMPLE:\n"
+│   │   #             'USER: Subject: Ping\n'
+│   │   #             'ASSISTANT: {"facts":[{"subject":"Ping","predicate":"instanceOf","object":"entity","confidence":1.0}]}\n\n'
+│   │   #         )
+│   │   #         prompt = fewshot + _collapse_messages(messages)
+│   │   #         knobs.setdefault("temperature", 0.2)
+│   │   #         knobs.setdefault("top_p", 0.9)
+│   │   #         return {"prompt": prompt, "system_prompt": system_prompt, **knobs}
+│   │   
+│   │   #     def _build_for_grok_messages(self, messages, json_schema, knobs) -> Dict[str, Any]:
+│   │   #         schema_min = _minify_schema(json_schema)
+│   │   #         sys_msg = {
+│   │   #             "role": "system",
+│   │   #             "content": (
+│   │   #                 "You are a JSON function. Return ONLY one JSON object validating this schema. "
+│   │   #                 "No prose/markdown/code fences. If unsure, return an empty—but valid—object.\n"
+│   │   #                 f"SCHEMA: {schema_min}"
+│   │   #             ),
+│   │   #         }
+│   │   #         usr_msg = {"role": "user", "content": _collapse_messages(messages)}
+│   │   #         inputs = {"messages": [sys_msg, usr_msg]}
+│   │   #         for k in ("temperature", "top_p", "top_k", "max_tokens", "max_output_tokens", "seed"):
+│   │   #             if k in knobs:
+│   │   #                 inputs[k] = knobs[k]
+│   │   #         return inputs
+│   │   
+│   │   #     def _build_for_qwen_prompt(self, messages, json_schema, knobs) -> Dict[str, Any]:
+│   │   #         schema_min = _minify_schema(json_schema)
+│   │   #         fewshot = (
+│   │   #             "You must output ONE JSON object that VALIDATES this JSON Schema.\n"
+│   │   #             "NO prose, NO markdown, NO code fences.\n"
+│   │   #             f"SCHEMA: {schema_min}\n\n"
+│   │   #             "EXAMPLE:\n"
+│   │   #             'USER: Subject: Ping\n'
+│   │   #             'ASSISTANT: {"facts":[{"subject":"Ping","predicate":"instanceOf","object":"entity","confidence":0.99}]}\n\n'
+│   │   #         )
+│   │   #         task = _collapse_messages(messages)
+│   │   #         contract = (
+│   │   #             "If you know the subject, produce 12–40 concise triples (no duplicates). "
+│   │   #             'Always include at least one triple with predicate "instanceOf". '
+│   │   #             'If uncertain overall, return {"facts":[]}.'
+│   │   #         )
+│   │   #         prompt = f"{fewshot}{task}\n\n{contract}"
+│   │   #         knobs.setdefault("temperature", 0.3)
+│   │   #         knobs.setdefault("top_p", 0.9)
+│   │   #         knobs.setdefault("max_tokens", knobs.get("max_output_tokens", 1536))
+│   │   #         return {"prompt": prompt, **knobs}
+│   │   
+│   │   #     def _build_inputs(self, messages, json_schema, knobs) -> Dict[str, Any]:
+│   │   #         is_gemini = self.model.startswith("google/gemini")
+│   │   #         is_grok = self.model.startswith("xai/grok-4") or "grok-4" in self.model
+│   │   #         is_qwen = self.model.startswith("qwen/")
+│   │   
+│   │   #         if json_schema:
+│   │   #             if is_gemini:
+│   │   #                 return self._build_for_gemini(messages, json_schema, knobs)
+│   │   #             if is_grok:
+│   │   #                 return self._build_for_grok_messages(messages, json_schema, knobs)
+│   │   #             if is_qwen:
+│   │   #                 return self._build_for_qwen_prompt(messages, json_schema, knobs)
+│   │   #             schema_min = _minify_schema(json_schema)
+│   │   #             system_prompt = (
+│   │   #                 "Return ONLY a single valid JSON object matching this schema. "
+│   │   #                 "No prose, no markdown, no code fences.\n"
+│   │   #                 f"SCHEMA: {schema_min}"
+│   │   #             )
+│   │   #             prompt = _collapse_messages(messages)
+│   │   #             return {"prompt": prompt, "system_prompt": system_prompt, **knobs}
+│   │   #         return {"prompt": _collapse_messages(messages), **knobs}
+│   │   
+│   │   #     # --------- internal resilient wrappers ---------
+│   │   
+│   │   #     def _blocking_once(self, inputs: Dict[str, Any]) -> str:
+│   │   #         transient = (
+│   │   #             httpx.TimeoutException,
+│   │   #             httpx.ConnectError,
+│   │   #             httpx.ReadError,
+│   │   #             httpx.RemoteProtocolError,
+│   │   #             httpcore.RemoteProtocolError,
+│   │   #             httpcore.WriteError,
+│   │   #             httpcore.ReadTimeout,
+│   │   #             httpcore.ConnectTimeout,
+│   │   #         )
+│   │   #         delay = 0.8
+│   │   #         max_tries = 6
+│   │   #         last_err: Optional[BaseException] = None
+│   │   #         for attempt in range(1, max_tries + 1):
+│   │   #             try:
+│   │   #                 pred = self._client.predictions.create(model=self.model, input=inputs)
+│   │   #                 pred.wait()
+│   │   #                 out = pred.output
+│   │   #                 return "".join(out) if isinstance(out, list) else (out or "")
+│   │   #             except transient as e:
+│   │   #                 last_err = e
+│   │   #                 if self._debug:
+│   │   #                     print(f"[replicate][retry {attempt}/{max_tries}] {type(e).__name__}: {e}", flush=True)
+│   │   #                 if attempt == max_tries:
+│   │   #                     raise
+│   │   #                 time.sleep(delay + random.random() * 0.3)
+│   │   #                 delay = min(delay * 1.8, 10.0)
+│   │   #             except Exception:
+│   │   #                 raise
+│   │   #         raise last_err or RuntimeError("replicate _blocking_once failed without exception")
+│   │   
+│   │   #     def _stream_once(self, inputs: Dict[str, Any]) -> str:
+│   │   #         transient = (
+│   │   #             httpx.TimeoutException,
+│   │   #             httpx.ConnectError,
+│   │   #             httpx.ReadError,
+│   │   #             httpx.RemoteProtocolError,
+│   │   #             httpcore.RemoteProtocolError,
+│   │   #             httpcore.WriteError,
+│   │   #             httpcore.ReadTimeout,
+│   │   #             httpcore.ConnectTimeout,
+│   │   #         )
+│   │   #         delay = 0.8
+│   │   #         max_tries = 6
+│   │   #         last_err: Optional[BaseException] = None
+│   │   #         for attempt in range(1, max_tries + 1):
+│   │   #             try:
+│   │   #                 chunks: List[str] = []
+│   │   #                 for event in replicate.stream(self.model, input=inputs):
+│   │   #                     chunks.append(str(event))
+│   │   #                 return "".join(chunks)
+│   │   #             except transient as e:
+│   │   #                 last_err = e
+│   │   #                 if self._debug:
+│   │   #                     print(f"[replicate][stream retry {attempt}/{max_tries}] {type(e).__name__}: {e}", flush=True)
+│   │   #                 if attempt == max_tries:
+│   │   #                     raise
+│   │   #                 time.sleep(delay + random.random() * 0.3)
+│   │   #                 delay = min(delay * 1.8, 10.0)
+│   │   #             except Exception:
+│   │   #                 raise
+│   │   #         raise last_err or RuntimeError("replicate _stream_once failed without exception")
+│   │   
+│   │   #     # --------- schema-based coercion ---------
+│   │   
+│   │   #     def _coerce_by_schema(self, obj: Dict[str, Any], schema: Dict[str, Any]) -> Dict[str, Any]:
+│   │   #         props = (schema.get("properties") or {})
+│   │   #         if "facts" in props:
+│   │   #             calibrated = "confidence" in (props["facts"]["items"]["properties"] or {})
+│   │   #             return _coerce_elicit(obj, calibrated=calibrated)
+│   │   #         if "phrases" in props:
+│   │   #             calibrated = "confidence" in (props["phrases"]["items"]["properties"] or {})
+│   │   #             return _coerce_ner(obj, calibrated=calibrated)
+│   │   #         return obj if isinstance(obj, dict) else {}
+│   │   
+│   │   #     # --------- public blocking API ---------
+│   │   
+│   │   #     def ping(self) -> Dict[str, Any]:
+│   │   #         inp = {"prompt": 'Return ONLY this exact JSON: {"message":"PONG"}', "max_tokens": 32, "temperature": 0}
+│   │   #         txt = self._blocking_once(inp)
+│   │   #         obj = _parse_json_best_effort(txt)
+│   │   #         return obj if obj else {"message": "PONG"}
+│   │   
+│   │   #     def generate(
+│   │   #         self,
+│   │   #         messages: List[Dict[str, str]],
+│   │   #         *,
+│   │   #         json_schema: Optional[Dict[str, Any]] = None,
+│   │   #         temperature: Optional[float] = None,
+│   │   #         top_p: Optional[float] = None,
+│   │   #         top_k: Optional[int] = None,
+│   │   #         max_tokens: Optional[int] = None,
+│   │   #         seed: Optional[int] = None,
+│   │   #         extra: Optional[Dict[str, Any]] = None,
+│   │   #     ) -> Dict[str, Any]:
+│   │   #         knobs = self._inputs_common(
+│   │   #             temperature=temperature, top_p=top_p, top_k=top_k,
+│   │   #             max_tokens=max_tokens, seed=seed, extra=extra or {},
+│   │   #         )
+│   │   #         inputs = self._build_inputs(messages, json_schema, knobs)
+│   │   
+│   │   #         if not json_schema:
+│   │   #             text = self._blocking_once(inputs)
+│   │   #             if self._debug:
+│   │   #                 print("\n[replicate][raw output]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
+│   │   #             return {"text": text, "_raw": text}
+│   │   
+│   │   #         props = (json_schema.get("properties") or {})
+│   │   #         expect = "facts" if "facts" in props else ("phrases" if "phrases" in props else None)
+│   │   
+│   │   #         is_grok = self.model.startswith("xai/grok-4") or "grok-4" in self.model
+│   │   
+│   │   #         if is_grok:
+│   │   #             text = self._stream_once(inputs)
+│   │   #             if self._debug:
+│   │   #                 print("\n[replicate][raw stream (grok)]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
+│   │   #             # accept both 'key=' and legacy 'expect_key=' styles
+│   │   #             parsed = _salvage_block(text, key=expect)
+│   │   #             result = self._coerce_by_schema(parsed, json_schema)
+│   │   #             result["_raw"] = text
+│   │   #             return result
+│   │   
+│   │   #         text = self._blocking_once(inputs)
+│   │   #         if self._debug:
+│   │   #             print("\n[replicate][raw output]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
+│   │   
+│   │   #         # accept both names to avoid mismatches from older call sites
+│   │   #         parsed = _salvage_block(text, key=expect)
+│   │   #         if not parsed:
+│   │   #             parsed = _salvage_block_expect_key(text, expect_key=expect)
+│   │   
+│   │   #         if parsed:
+│   │   #             result = self._coerce_by_schema(parsed, json_schema)
+│   │   #             result["_raw"] = text
+│   │   #             return result
+│   │   
+│   │   #         # final fallback: just coerce empty object so caller gets schema shape
+│   │   #         result = self._coerce_by_schema({}, json_schema)
+│   │   #         result["_raw"] = text
+│   │   #         return result
+│   │   
+│   │   #     # --------- streaming API ---------
+│   │   
+│   │   #     def stream_text(
+│   │   #         self,
+│   │   #         messages: List[Dict[str, str]],
+│   │   #         *,
+│   │   #         temperature: Optional[float] = None,
+│   │   #         top_p: Optional[float] = None,
+│   │   #         top_k: Optional[int] = None,
+│   │   #         max_tokens: Optional[int] = None,
+│   │   #         seed: Optional[int] = None,
+│   │   #         extra: Optional[Dict[str, Any]] = None,
+│   │   #     ) -> Generator[str, None, None]:
+│   │   #         knobs = self._inputs_common(
+│   │   #             temperature=temperature, top_p=top_p, top_k=top_k,
+│   │   #             max_tokens=max_tokens, seed=seed, extra=extra or {},
+│   │   #         )
+│   │   #         inputs = self._build_inputs(messages, json_schema=None, knobs=knobs)
+│   │   #         # resilient streaming
+│   │   #         transient = (
+│   │   #             httpx.TimeoutException,
+│   │   #             httpx.ConnectError,
+│   │   #             httpx.ReadError,
+│   │   #             httpx.RemoteProtocolError,
+│   │   #             httpcore.RemoteProtocolError,
+│   │   #             httpcore.WriteError,
+│   │   #             httpcore.ReadTimeout,
+│   │   #             httpcore.ConnectTimeout,
+│   │   #         )
+│   │   #         delay = 0.8
+│   │   #         max_tries = 6
+│   │   #         attempt = 1
+│   │   #         while True:
+│   │   #             try:
+│   │   #                 for event in replicate.stream(self.model, input=inputs):
+│   │   #                     yield str(event)
+│   │   #                 break
+│   │   #             except transient as e:
+│   │   #                 if self._debug:
+│   │   #                     print(f"[replicate][stream_text retry {attempt}/{max_tries}] {type(e).__name__}: {e}", flush=True)
+│   │   #                 if attempt >= max_tries:
+│   │   #                     raise
+│   │   #                 time.sleep(delay + random.random() * 0.3)
+│   │   #                 delay = min(delay * 1.8, 10.0)
+│   │   #                 attempt += 1
+│   │   
+│   │   #     def stream_json(
+│   │   #         self,
+│   │   #         messages: List[Dict[str, str]],
+│   │   #         *,
+│   │   #         json_schema: Dict[str, Any],
+│   │   #         temperature: Optional[float] = None,
+│   │   #         top_p: Optional[float] = None,
+│   │   #         top_k: Optional[int] = None,
+│   │   #         max_tokens: Optional[int] = None,
+│   │   #         seed: Optional[int] = None,
+│   │   #         extra: Optional[Dict[str, Any]] = None,
+│   │   #     ) -> Generator[Dict[str, Any], None, None]:
+│   │   #         buffer: List[str] = []
+│   │   #         knobs = self._inputs_common(
+│   │   #             temperature=temperature, top_p=top_p, top_k=top_k,
+│   │   #             max_tokens=max_tokens, seed=seed, extra=extra or {},
+│   │   #         )
+│   │   #         inputs = self._build_inputs(messages, json_schema=json_schema, knobs=knobs)
+│   │   #         # resilient stream collect
+│   │   #         text = ""
+│   │   #         transient = (
+│   │   #             httpx.TimeoutException,
+│   │   #             httpx.ConnectError,
+│   │   #             httpx.ReadError,
+│   │   #             httpx.RemoteProtocolError,
+│   │   #             httpcore.RemoteProtocolError,
+│   │   #             httpcore.WriteError,
+│   │   #             httpcore.ReadTimeout,
+│   │   #             httpcore.ConnectTimeout,
+│   │   #         )
+│   │   #         delay = 0.8
+│   │   #         max_tries = 6
+│   │   #         for attempt in range(1, max_tries + 1):
+│   │   #             try:
+│   │   #                 buffer.clear()
+│   │   #                 for event in replicate.stream(self.model, input=inputs):
+│   │   #                     buffer.append(str(event))
+│   │   #                 text = "".join(buffer)
+│   │   #                 break
+│   │   #             except transient as e:
+│   │   #                 if self._debug:
+│   │   #                     print(f"[replicate][stream_json retry {attempt}/{max_tries}] {type(e).__name__}: {e}", flush=True)
+│   │   #                 if attempt == max_tries:
+│   │   #                     raise
+│   │   #                 time.sleep(delay + random.random() * 0.3)
+│   │   #                 delay = min(delay * 1.8, 10.0)
+│   │   
+│   │   #         if self._debug:
+│   │   #             print("\n[replicate][raw stream combined]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
+│   │   
+│   │   #         props = (json_schema.get("properties") or {})
+│   │   #         expect = "facts" if "facts" in props else ("phrases" if "phrases" in props else None)
+│   │   #         parsed = _salvage_block(text, key=expect) or _salvage_block_expect_key(text, expect_key=expect)
+│   │   #         result = self._coerce_by_schema(parsed, json_schema)
+│   │   #         result["_raw"] = text
+│   │   #         yield result
+│   │   
+│   │   # llm/replicate_client.py
+│   │   from __future__ import annotations
+│   │   
+│   │   import os
+│   │   import json
+│   │   import time
+│   │   import random
+│   │   from typing import Any, Dict, List, Optional, Generator
+│   │   
+│   │   from dotenv import load_dotenv
+│   │   import replicate
+│   │   
+│   │   # transient network exceptions
+│   │   import httpx
+│   │   import httpcore
+│   │   
+│   │   # --- shared util ---
+│   │   from llm.json_utils import best_json
+│   │   
+│   │   
+│   │   # -------------------------- small helpers --------------------------
+│   │   
+│   │   def _minify_schema(schema: Dict[str, Any]) -> str:
+│   │       try:
+│   │           return json.dumps(schema, separators=(",", ":"), ensure_ascii=False)
+│   │       except Exception:
+│   │           return "{}"
+│   │   
+│   │   def _collapse_messages(messages: List[Dict[str, str]]) -> str:
+│   │       """
+│   │       Generic chat collapse used by most runners that accept a 'prompt' string,
+│   │       while still preserving roles for readability.
+│   │       """
+│   │       parts = []
+│   │       for m in messages:
+│   │           role = (m.get("role") or "user").upper()
+│   │           content = (m.get("content") or "").strip()
+│   │           parts.append(f"{role}: {content}")
+│   │       parts.append("ASSISTANT:")
+│   │       return "\n\n".join(parts)
+│   │   
+│   │   def _collapse_single_prompt(messages: List[Dict[str, str]]) -> str:
+│   │       """
+│   │       Collapse chat messages into ONE prompt for single-prompt-only models
+│   │       (e.g., openai/gpt-oss-*). We keep explicit headers and end with 'Assistant:'.
+│   │       """
+│   │       sys_parts: List[str] = []
+│   │       convo_parts: List[str] = []
+│   │   
+│   │       for m in messages or []:
+│   │           role = (m.get("role") or "user").strip().lower()
+│   │           content = (m.get("content") or "").strip()
+│   │           if not content:
+│   │               continue
+│   │           if role == "system":
+│   │               sys_parts.append(content)
+│   │           elif role == "assistant":
+│   │               convo_parts.append(f"Assistant: {content}")
+│   │           else:
+│   │               # default to user
+│   │               convo_parts.append(f"User: {content}")
+│   │   
+│   │       out: List[str] = []
+│   │       if sys_parts:
+│   │           out.append("\n\n".join(f"System: {p}" for p in sys_parts))
+│   │       if convo_parts:
+│   │           out.append("\n\n".join(convo_parts))
+│   │       out.append("Assistant:")
+│   │       return "\n\n".join(out).strip()
+│   │   
+│   │   def _strip_fences(text: str) -> str:
+│   │       t = (text or "").strip()
+│   │       if t.startswith("```"):
+│   │           nl = t.find("\n")
+│   │           if nl != -1:
+│   │               t = t[nl + 1:].strip()
+│   │           if t.endswith("```"):
+│   │               t = t[:-3].strip()
+│   │       return t
+│   │   
+│   │   def _parse_json_best_effort(text: str) -> Dict[str, Any]:
+│   │       obj = best_json(text)
+│   │       return obj if isinstance(obj, dict) else {}
 │   │   
 │   │   def _clip01(x: Any, default: float = 0.9) -> float:
 │   │       try:
@@ -2715,7 +4778,6 @@ GPTKB_Hallucinations/
 │   │       if v > 1.0: return 1.0
 │   │       return v
 │   │   
-│   │   
 │   │   def _coerce_elicit(obj: Dict[str, Any], *, calibrated: bool) -> Dict[str, Any]:
 │   │       facts = obj.get("facts")
 │   │       if not isinstance(facts, list):
@@ -2724,21 +4786,17 @@ GPTKB_Hallucinations/
 │   │       for it in facts:
 │   │           if not isinstance(it, dict):
 │   │               continue
-│   │           s = it.get("subject")
-│   │           p = it.get("predicate")
-│   │           o = it.get("object")
+│   │           s = it.get("subject"); p = it.get("predicate"); o = it.get("object")
 │   │           if not (isinstance(s, str) and isinstance(p, str) and (isinstance(o, str) or isinstance(o, (int, float, bool)))):
 │   │               continue
 │   │           if not isinstance(o, str):
 │   │               o = str(o)
-│   │           conf = it.get("confidence")
 │   │           if calibrated:
-│   │               conf = _clip01(conf, 0.9) if conf is not None else 0.9
+│   │               conf = _clip01(it.get("confidence"), 0.9)
 │   │               out.append({"subject": s, "predicate": p, "object": o, "confidence": conf})
 │   │           else:
 │   │               out.append({"subject": s, "predicate": p, "object": o})
 │   │       return {"facts": out}
-│   │   
 │   │   
 │   │   def _coerce_ner(obj: Dict[str, Any], *, calibrated: bool) -> Dict[str, Any]:
 │   │       phs = obj.get("phrases")
@@ -2748,11 +4806,9 @@ GPTKB_Hallucinations/
 │   │       for it in phs:
 │   │           if not isinstance(it, dict):
 │   │               continue
-│   │           phrase = it.get("phrase")
-│   │           is_ne = it.get("is_ne")
+│   │           phrase = it.get("phrase"); is_ne = bool(it.get("is_ne"))
 │   │           if not isinstance(phrase, str):
 │   │               continue
-│   │           is_ne = bool(is_ne)
 │   │           if calibrated:
 │   │               conf = _clip01(it.get("confidence"), 0.9)
 │   │               out.append({"phrase": phrase, "is_ne": is_ne, "confidence": conf})
@@ -2760,20 +4816,40 @@ GPTKB_Hallucinations/
 │   │               out.append({"phrase": phrase, "is_ne": is_ne})
 │   │       return {"phrases": out}
 │   │   
+│   │   def _salvage_block(text: str, key: Optional[str]) -> Dict[str, Any]:
+│   │       """
+│   │       Try best_json first; if it returns an array and we expect a key (like 'facts'),
+│   │       wrap it; else return {}.
+│   │       """
+│   │       obj = best_json(text)
+│   │       if isinstance(obj, dict):
+│   │           return obj
+│   │       if isinstance(obj, list) and key:
+│   │           return {key: obj}
+│   │       return {}
+│   │   
+│   │   # Back-compat shim for older call sites that used expect_key=
+│   │   def _salvage_block_expect_key(text: str, expect_key: Optional[str]) -> Dict[str, Any]:
+│   │       return _salvage_block(text, expect_key)
+│   │   
+│   │   def _is_single_prompt_only(model_name: str) -> bool:
+│   │       """
+│   │       True for Replicate models that take ONLY a single 'prompt' (no messages/system).
+│   │       We scope this STRICTLY to openai/gpt-oss-* per request.
+│   │       """
+│   │       return (model_name or "").lower().startswith("openai/gpt-oss-")
+│   │   
 │   │   
 │   │   # -------------------------- client --------------------------
 │   │   
 │   │   class ReplicateLLM:
 │   │       """
-│   │       Replicate wrapper with:
-│   │         - per-model builders (Gemini / Grok / Qwen / default)
-│   │         - generate() -> JSON/text with robust parsing + single fallback to stream for Gemini
-│   │         - stream_text() -> text chunks
-│   │         - stream_json() -> buffers chunks and returns one final coerced JSON dict
-│   │         - .env auto-load; keeps `_raw` in outputs for debugging
+│   │       Replicate wrapper with model-specific prompt shaping and robust JSON salvage.
+│   │       Implements __call__(messages, json_schema=...) to match other clients.
+│   │       Includes jittered exponential backoff for transient HTTP faults.
 │   │       """
 │   │   
-│   │       def __init__(self, model: str, *, api_token: Optional[str] = None):
+│   │       def __init__(self, model: str, *, api_token: Optional[str] = None, default_extra: Optional[Dict[str, Any]] = None):
 │   │           load_dotenv()
 │   │           self.model = model
 │   │           token = api_token or os.getenv("REPLICATE_API_TOKEN")
@@ -2781,6 +4857,11 @@ GPTKB_Hallucinations/
 │   │               raise RuntimeError("Missing REPLICATE_API_TOKEN in environment (or pass api_token=...).")
 │   │           self._client = replicate.Client(api_token=token)
 │   │           self._debug = os.getenv("REPLICATE_DEBUG", "") == "1"
+│   │           self._default_extra = default_extra or {}
+│   │   
+│   │       # Allow call-style usage like other LLM clients
+│   │       def __call__(self, messages: List[Dict[str, str]], *, json_schema: Optional[Dict[str, Any]] = None, **kwargs) -> Dict[str, Any] | str:
+│   │           return self.generate(messages, json_schema=json_schema, **kwargs)
 │   │   
 │   │       # --------- builders ---------
 │   │   
@@ -2794,6 +4875,9 @@ GPTKB_Hallucinations/
 │   │           seed: Optional[int],
 │   │           extra: Dict[str, Any],
 │   │       ) -> Dict[str, Any]:
+│   │           # merge defaults + per-call extras
+│   │           merged_extra = {**(self._default_extra or {}), **(extra or {})}
+│   │   
 │   │           inp: Dict[str, Any] = {}
 │   │           if temperature is not None: inp["temperature"] = temperature
 │   │           if top_p is not None: inp["top_p"] = top_p
@@ -2802,8 +4886,16 @@ GPTKB_Hallucinations/
 │   │               inp["max_tokens"] = max_tokens
 │   │               inp["max_output_tokens"] = max_tokens
 │   │           if seed is not None: inp["seed"] = seed
-│   │           for k, v in (extra or {}).items():
-│   │               inp[k] = v
+│   │   
+│   │           # Replicate quirk: some runners expect scalar strings for stop / stop_sequences
+│   │           if "stop_sequences" in merged_extra and isinstance(merged_extra["stop_sequences"], list):
+│   │               merged_extra = {**merged_extra, "stop_sequences": merged_extra["stop_sequences"][0] if merged_extra["stop_sequences"] else ""}
+│   │           if "stop" in merged_extra and isinstance(merged_extra["stop"], list):
+│   │               merged_extra = {**merged_extra, "stop": merged_extra["stop"][0] if merged_extra["stop"] else ""}
+│   │   
+│   │           for k, v in (merged_extra or {}).items():
+│   │               if v is not None:
+│   │                   inp[k] = v
 │   │           return inp
 │   │   
 │   │       def _build_for_gemini(self, messages, json_schema, knobs) -> Dict[str, Any]:
@@ -2864,19 +4956,52 @@ GPTKB_Hallucinations/
 │   │           return {"prompt": prompt, **knobs}
 │   │   
 │   │       def _build_inputs(self, messages, json_schema, knobs) -> Dict[str, Any]:
+│   │           """
+│   │           Build Replicate payload, with a STRICT special-case only for openai/gpt-oss-* models
+│   │           that accept a single 'prompt'. All other models behave as before.
+│   │           """
 │   │           is_gemini = self.model.startswith("google/gemini")
 │   │           is_grok = self.model.startswith("xai/grok-4") or "grok-4" in self.model
 │   │           is_qwen = self.model.startswith("qwen/")
+│   │           single_prompt_only = _is_single_prompt_only(self.model)
 │   │   
 │   │           if json_schema:
+│   │               schema_min = _minify_schema(json_schema)
+│   │               schema_instr = (
+│   │                   "You must return ONLY one valid JSON object that matches the JSON Schema below.\n"
+│   │                   "No prose, no markdown, no code fences. If unsure, return an empty but valid object.\n"
+│   │                   f"SCHEMA: {schema_min}\n\n"
+│   │               )
+│   │   
+│   │               if single_prompt_only:
+│   │                   combined = _collapse_single_prompt(messages)
+│   │                   prompt = schema_instr + combined
+│   │                   return {"prompt": prompt, **knobs}
+│   │   
 │   │               if is_gemini:
-│   │                   return self._build_for_gemini(messages, json_schema, knobs)
+│   │                   fewshot = (
+│   │                       "EXAMPLE:\n"
+│   │                       'USER: Subject: Ping\n'
+│   │                       'ASSISTANT: {"facts":[{"subject":"Ping","predicate":"instanceOf","object":"entity","confidence":1.0}]}\n\n'
+│   │                   )
+│   │                   prompt = fewshot + _collapse_messages(messages)
+│   │                   system_prompt = (
+│   │                       "Return ONLY a single valid JSON object that matches this JSON Schema exactly. "
+│   │                       "No prose, no markdown, no code fences.\n"
+│   │                       f"SCHEMA: {schema_min}\n"
+│   │                       "If you truly don't know, return an empty but valid object per schema."
+│   │                   )
+│   │                   knobs.setdefault("temperature", 0.2)
+│   │                   knobs.setdefault("top_p", 0.9)
+│   │                   return {"prompt": prompt, "system_prompt": system_prompt, **knobs}
+│   │   
 │   │               if is_grok:
 │   │                   return self._build_for_grok_messages(messages, json_schema, knobs)
+│   │   
 │   │               if is_qwen:
 │   │                   return self._build_for_qwen_prompt(messages, json_schema, knobs)
-│   │               # default contract in system_prompt
-│   │               schema_min = _minify_schema(json_schema)
+│   │   
+│   │               # generic (unchanged)
 │   │               system_prompt = (
 │   │                   "Return ONLY a single valid JSON object matching this schema. "
 │   │                   "No prose, no markdown, no code fences.\n"
@@ -2884,21 +5009,94 @@ GPTKB_Hallucinations/
 │   │               )
 │   │               prompt = _collapse_messages(messages)
 │   │               return {"prompt": prompt, "system_prompt": system_prompt, **knobs}
-│   │           # text mode
+│   │   
+│   │           # -------- no json_schema (plain text) --------
+│   │           if single_prompt_only:
+│   │               return {"prompt": _collapse_single_prompt(messages), **knobs}
+│   │   
+│   │           if is_gemini:
+│   │               return {"prompt": _collapse_messages(messages), "system_prompt": "", **knobs}
+│   │   
+│   │           if is_grok:
+│   │               sys_msg = {"role": "system", "content": "You are a helpful assistant."}
+│   │               usr_msg = {"role": "user", "content": _collapse_messages(messages)}
+│   │               inputs = {"messages": [sys_msg, usr_msg]}
+│   │               for k in ("temperature", "top_p", "top_k", "max_tokens", "max_output_tokens", "seed"):
+│   │                   if k in knobs:
+│   │                       inputs[k] = knobs[k]
+│   │               return inputs
+│   │   
+│   │           if is_qwen:
+│   │               return {"prompt": _collapse_messages(messages), **knobs}
+│   │   
+│   │           # default
 │   │           return {"prompt": _collapse_messages(messages), **knobs}
 │   │   
-│   │       # --------- internal single-call wrappers ---------
+│   │       # --------- internal resilient wrappers ---------
 │   │   
 │   │       def _blocking_once(self, inputs: Dict[str, Any]) -> str:
-│   │           pred = self._client.predictions.create(model=self.model, input=inputs)
-│   │           pred.wait()
-│   │           return "".join(pred.output) if isinstance(pred.output, list) else (pred.output or "")
+│   │           transient = (
+│   │               httpx.TimeoutException,
+│   │               httpx.ConnectError,
+│   │               httpx.ReadError,
+│   │               httpx.RemoteProtocolError,
+│   │               httpcore.RemoteProtocolError,
+│   │               httpcore.WriteError,
+│   │               httpcore.ReadTimeout,
+│   │               httpcore.ConnectTimeout,
+│   │           )
+│   │           delay = 0.8
+│   │           max_tries = 6
+│   │           last_err: Optional[BaseException] = None
+│   │           for attempt in range(1, max_tries + 1):
+│   │               try:
+│   │                   pred = self._client.predictions.create(model=self.model, input=inputs)
+│   │                   pred.wait()
+│   │                   out = pred.output
+│   │                   return "".join(out) if isinstance(out, list) else (out or "")
+│   │               except transient as e:
+│   │                   last_err = e
+│   │                   if self._debug:
+│   │                       print(f"[replicate][retry {attempt}/{max_tries}] {type(e).__name__}: {e}", flush=True)
+│   │                   if attempt == max_tries:
+│   │                       raise
+│   │                   time.sleep(delay + random.random() * 0.3)
+│   │                   delay = min(delay * 1.8, 10.0)
+│   │               except Exception:
+│   │                   raise
+│   │           raise last_err or RuntimeError("replicate _blocking_once failed without exception")
 │   │   
 │   │       def _stream_once(self, inputs: Dict[str, Any]) -> str:
-│   │           chunks: List[str] = []
-│   │           for event in replicate.stream(self.model, input=inputs):
-│   │               chunks.append(str(event))
-│   │           return "".join(chunks)
+│   │           transient = (
+│   │               httpx.TimeoutException,
+│   │               httpx.ConnectError,
+│   │               httpx.ReadError,
+│   │               httpx.RemoteProtocolError,
+│   │               httpcore.RemoteProtocolError,
+│   │               httpcore.WriteError,
+│   │               httpcore.ReadTimeout,
+│   │               httpcore.ConnectTimeout,
+│   │           )
+│   │           delay = 0.8
+│   │           max_tries = 6
+│   │           last_err: Optional[BaseException] = None
+│   │           for attempt in range(1, max_tries + 1):
+│   │               try:
+│   │                   chunks: List[str] = []
+│   │                   for event in replicate.stream(self.model, input=inputs):
+│   │                       chunks.append(str(event))
+│   │                   return "".join(chunks)
+│   │               except transient as e:
+│   │                   last_err = e
+│   │                   if self._debug:
+│   │                       print(f"[replicate][stream retry {attempt}/{max_tries}] {type(e).__name__}: {e}", flush=True)
+│   │                   if attempt == max_tries:
+│   │                       raise
+│   │                   time.sleep(delay + random.random() * 0.3)
+│   │                   delay = min(delay * 1.8, 10.0)
+│   │               except Exception:
+│   │                   raise
+│   │           raise last_err or RuntimeError("replicate _stream_once failed without exception")
 │   │   
 │   │       # --------- schema-based coercion ---------
 │   │   
@@ -2910,7 +5108,6 @@ GPTKB_Hallucinations/
 │   │           if "phrases" in props:
 │   │               calibrated = "confidence" in (props["phrases"]["items"]["properties"] or {})
 │   │               return _coerce_ner(obj, calibrated=calibrated)
-│   │           # unknown schema → return original
 │   │           return obj if isinstance(obj, dict) else {}
 │   │   
 │   │       # --------- public blocking API ---------
@@ -2918,7 +5115,7 @@ GPTKB_Hallucinations/
 │   │       def ping(self) -> Dict[str, Any]:
 │   │           inp = {"prompt": 'Return ONLY this exact JSON: {"message":"PONG"}', "max_tokens": 32, "temperature": 0}
 │   │           txt = self._blocking_once(inp)
-│   │           obj = _parse_or_salvage(txt, expect_key=None)
+│   │           obj = _parse_json_best_effort(txt)
 │   │           return obj if obj else {"message": "PONG"}
 │   │   
 │   │       def generate(
@@ -2929,7 +5126,7 @@ GPTKB_Hallucinations/
 │   │           temperature: Optional[float] = None,
 │   │           top_p: Optional[float] = None,
 │   │           top_k: Optional[int] = None,
-│   │           max_tokens: Optional[float] = None,
+│   │           max_tokens: Optional[int] = None,
 │   │           seed: Optional[int] = None,
 │   │           extra: Optional[Dict[str, Any]] = None,
 │   │       ) -> Dict[str, Any]:
@@ -2939,51 +5136,37 @@ GPTKB_Hallucinations/
 │   │           )
 │   │           inputs = self._build_inputs(messages, json_schema, knobs)
 │   │   
-│   │           # Text mode
 │   │           if not json_schema:
 │   │               text = self._blocking_once(inputs)
 │   │               if self._debug:
 │   │                   print("\n[replicate][raw output]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
 │   │               return {"text": text, "_raw": text}
 │   │   
-│   │           # JSON mode
 │   │           props = (json_schema.get("properties") or {})
 │   │           expect = "facts" if "facts" in props else ("phrases" if "phrases" in props else None)
 │   │   
-│   │           is_gemini = self.model.startswith("google/gemini")
 │   │           is_grok = self.model.startswith("xai/grok-4") or "grok-4" in self.model
 │   │   
-│   │           # For Grok: stream-first (more reliable)
 │   │           if is_grok:
 │   │               text = self._stream_once(inputs)
 │   │               if self._debug:
 │   │                   print("\n[replicate][raw stream (grok)]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
-│   │               parsed = _parse_or_salvage(text, expect_key=expect)
+│   │               parsed = _salvage_block(text, key=expect)
 │   │               result = self._coerce_by_schema(parsed, json_schema)
 │   │               result["_raw"] = text
 │   │               return result
 │   │   
-│   │           # For others (incl. Gemini): try blocking once
 │   │           text = self._blocking_once(inputs)
 │   │           if self._debug:
 │   │               print("\n[replicate][raw output]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
-│   │           parsed = _parse_or_salvage(text, expect_key=expect)
+│   │   
+│   │           parsed = _salvage_block(text, key=expect) or _salvage_block_expect_key(text, expect_key=expect)
+│   │   
 │   │           if parsed:
 │   │               result = self._coerce_by_schema(parsed, json_schema)
 │   │               result["_raw"] = text
 │   │               return result
 │   │   
-│   │           # If blocking failed and it's Gemini, do exactly ONE stream fallback
-│   │           if is_gemini:
-│   │               text = self._stream_once(inputs)
-│   │               if self._debug:
-│   │                   print("\n[replicate][raw stream (fallback gemini)]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
-│   │               parsed = _parse_or_salvage(text, expect_key=expect)
-│   │               result = self._coerce_by_schema(parsed, json_schema)
-│   │               result["_raw"] = text
-│   │               return result
-│   │   
-│   │           # Otherwise: return empty-but-valid by schema, with raw attached
 │   │           result = self._coerce_by_schema({}, json_schema)
 │   │           result["_raw"] = text
 │   │           return result
@@ -3001,17 +5184,38 @@ GPTKB_Hallucinations/
 │   │           seed: Optional[int] = None,
 │   │           extra: Optional[Dict[str, Any]] = None,
 │   │       ) -> Generator[str, None, None]:
-│   │           """
-│   │           Yields raw text chunks as they arrive. (No JSON parsing.)
-│   │           """
 │   │           knobs = self._inputs_common(
 │   │               temperature=temperature, top_p=top_p, top_k=top_k,
 │   │               max_tokens=max_tokens, seed=seed, extra=extra or {},
 │   │           )
 │   │           inputs = self._build_inputs(messages, json_schema=None, knobs=knobs)
-│   │   
-│   │           for event in replicate.stream(self.model, input=inputs):
-│   │               yield str(event)
+│   │           # resilient streaming
+│   │           transient = (
+│   │               httpx.TimeoutException,
+│   │               httpx.ConnectError,
+│   │               httpx.ReadError,
+│   │               httpx.RemoteProtocolError,
+│   │               httpcore.RemoteProtocolError,
+│   │               httpcore.WriteError,
+│   │               httpcore.ReadTimeout,
+│   │               httpcore.ConnectTimeout,
+│   │           )
+│   │           delay = 0.8
+│   │           max_tries = 6
+│   │           attempt = 1
+│   │           while True:
+│   │               try:
+│   │                   for event in replicate.stream(self.model, input=inputs):
+│   │                       yield str(event)
+│   │                   break
+│   │               except transient as e:
+│   │                   if self._debug:
+│   │                       print(f"[replicate][stream_text retry {attempt}/{max_tries}] {type(e).__name__}: {e}", flush=True)
+│   │                   if attempt >= max_tries:
+│   │                       raise
+│   │                   time.sleep(delay + random.random() * 0.3)
+│   │                   delay = min(delay * 1.8, 10.0)
+│   │                   attempt += 1
 │   │   
 │   │       def stream_json(
 │   │           self,
@@ -3022,36 +5226,85 @@ GPTKB_Hallucinations/
 │   │           top_p: Optional[float] = None,
 │   │           top_k: Optional[int] = None,
 │   │           max_tokens: Optional[int] = None,
-│   │           seed: Optional[int] = None,
+│   │           seed: Optional[float] = None,
 │   │           extra: Optional[Dict[str, Any]] = None,
 │   │       ) -> Generator[Dict[str, Any], None, None]:
-│   │           """
-│   │           Streams text chunks, buffers them, and yields ONE final JSON dict coerced to schema.
-│   │           """
 │   │           buffer: List[str] = []
 │   │           knobs = self._inputs_common(
 │   │               temperature=temperature, top_p=top_p, top_k=top_k,
 │   │               max_tokens=max_tokens, seed=seed, extra=extra or {},
 │   │           )
 │   │           inputs = self._build_inputs(messages, json_schema=json_schema, knobs=knobs)
+│   │           # resilient stream collect
+│   │           text = ""
+│   │           transient = (
+│   │               httpx.TimeoutException,
+│   │               httpx.ConnectError,
+│   │               httpx.ReadError,
+│   │               httpx.RemoteProtocolError,
+│   │               httpcore.RemoteProtocolError,
+│   │               httpcore.WriteError,
+│   │               httpcore.ReadTimeout,
+│   │               httpcore.ConnectTimeout,
+│   │           )
+│   │           delay = 0.8
+│   │           max_tries = 6
+│   │           for attempt in range(1, max_tries + 1):
+│   │               try:
+│   │                   buffer.clear()
+│   │                   for event in replicate.stream(self.model, input=inputs):
+│   │                       buffer.append(str(event))
+│   │                   text = "".join(buffer)
+│   │                   break
+│   │               except transient as e:
+│   │                   if self._debug:
+│   │                       print(f"[replicate][stream_json retry {attempt}/{max_tries}] {type(e).__name__}: {e}", flush=True)
+│   │                   if attempt == max_tries:
+│   │                       raise
+│   │                   time.sleep(delay + random.random() * 0.3)
+│   │                   delay = min(delay * 1.8, 10.0)
 │   │   
-│   │           for event in replicate.stream(self.model, input=inputs):
-│   │               buffer.append(str(event))
-│   │   
-│   │           text = "".join(buffer)
 │   │           if self._debug:
 │   │               print("\n[replicate][raw stream combined]\n" + text[:4000] + ("\n" if len(text) else ""), flush=True)
 │   │   
 │   │           props = (json_schema.get("properties") or {})
 │   │           expect = "facts" if "facts" in props else ("phrases" if "phrases" in props else None)
-│   │   
-│   │           parsed = _parse_or_salvage(text, expect_key=expect)
+│   │           parsed = _salvage_block(text, key=expect) or _salvage_block_expect_key(text, expect_key=expect)
 │   │           result = self._coerce_by_schema(parsed, json_schema)
 │   │           result["_raw"] = text
 │   │           yield result
 │   │   --- File Content End ---
 
 │   ├── __pycache__/
+├── Termintationtest3Prompt2/
+│   ├── deepseekTBBT/
+│   │   ├── tmp/
+│   ├── gpt4omini5/
+│   │   ├── tmp/
+│   ├── llama3-8b-instructTBBT/
+│   │   ├── tmp/
+│   ├── llama3-8b-instructDAX-40-Index/
+│   │   ├── tmp/
+│   ├── llama3-8b-instructAncientBabylon/
+│   │   ├── tmp/
+│   ├── llama3-8b-instructTBBT_40Conf/
+│   │   ├── tmp/
+│   ├── deepseekAncientCityofBabylon/
+│   │   ├── tmp/
+│   ├── gpt4ominiTBBT/
+│   │   ├── tmp/
+│   ├── gpt4ominiBabylon/
+│   │   ├── tmp/
+│   ├── deepseekDAX40Index/
+│   │   ├── tmp/
+│   ├── gpt5miniBabylon/
+│   │   ├── tmp/
+│   ├── deepseekAncientCityofBabylon2/
+│   │   ├── tmp/
+│   ├── llama3-70b-instructAncientBabylon/
+│   │   ├── tmp/
+│   ├── llama3-70b-instruct/
+│   │   ├── tmp/
 ├── core/
 │   ├── pipeline_elicit.py
 │   │   --- File Content Start ---
@@ -3266,7 +5519,10 @@ GPTKB_Hallucinations/
 │   │   from __future__ import annotations
 │   │   import json
 │   │   from pathlib import Path
-│   │   from typing import List, Dict
+│   │   from typing import List, Dict, Any
+│   │   
+│   │   # Only these placeholders will be replaced; all other braces are left intact.
+│   │   _ALLOWED_KEYS = {"subject_name", "phrases_block", "root_subject"}
 │   │   
 │   │   def _resolve(path: str | Path) -> Path:
 │   │       p = Path(path)
@@ -3281,17 +5537,43 @@ GPTKB_Hallucinations/
 │   │           return p3
 │   │       raise FileNotFoundError(f"Prompt not found. Tried: {p}, {p2}, {p3}")
 │   │   
+│   │   def _safe_render(template: str, variables: Dict[str, Any] | None) -> str:
+│   │       """
+│   │       Replace ONLY whitelisted placeholders like {subject_name} or {phrases_block}.
+│   │       Leave ALL other { ... } untouched (e.g., JSON braces, schema examples).
+│   │       """
+│   │       if not template:
+│   │           return ""
+│   │       if not variables:
+│   │           return template
+│   │       out = template
+│   │       for k, v in variables.items():
+│   │           if k in _ALLOWED_KEYS:
+│   │               out = out.replace("{" + k + "}", str(v))
+│   │       return out
+│   │   
 │   │   def load_messages_from_prompt_json(path: str | Path, **vars) -> List[Dict[str, str]]:
 │   │       obj = json.loads(_resolve(path).read_text(encoding="utf-8"))
-│   │       system = (obj.get("system") or "").format(**vars)
-│   │       user   = (obj.get("user") or "").format(**vars)
+│   │       system = _safe_render(obj.get("system") or "", vars).strip()
+│   │       user   = _safe_render(obj.get("user") or "", vars).strip()
 │   │       return [
-│   │           {"role": "system", "content": system.strip()},
-│   │           {"role": "user",   "content": user.strip()},
+│   │           {"role": "system", "content": system},
+│   │           {"role": "user",   "content": user},
 │   │       ]
 │   │   --- File Content End ---
 
 │   ├── __pycache__/
+├── Termintationtest3/
+│   ├── gpt4omini5/
+│   │   ├── tmp/
+│   ├── Termintationtest3deepseek/
+│   │   ├── tmp/
+│   ├── deepseek/
+│   │   ├── tmp/
+│   ├── llama3-8b-instruct/
+│   │   ├── tmp/
+│   ├── llama3-70b-instruct/
+│   │   ├── tmp/
 ├── consolidate/
 ├── __pycache__/
 ├── Evaluate/
@@ -3727,151 +6009,15 @@ GPTKB_Hallucinations/
 │   │   --- File Content End ---
 
 │   ├── general/
-│   │   ├── calibration/
 │   │   ├── ICL/
 │   │   ├── baseline/
-│   │   ├── dont_know/
-│   ├── topicsnotTerminate/
-│   │   ├── basline/
-│   │   ├── calibration/
-│   │   ├── ICL/
+│   │   ├── calibrate/
 │   │   ├── dont_know/
 │   ├── topic/
 │   │   ├── ICL/
 │   │   ├── baseline/
 │   │   ├── calibrate/
 │   │   ├── dont_know/
-│   ├── __pycache__/
-├── db/
-│   ├── models.py
-│   │   --- File Content Start ---
-│   │   from datetime import datetime
-│   │   from enum import Enum
-│   │   
-│   │   import sqlalchemy as sa
-│   │   from sqlalchemy import Index
-│   │   from sqlmodel import Field, SQLModel
-│   │   
-│   │   
-│   │   class NodeType(Enum):
-│   │       UNDEFINED = "undefined"
-│   │       LITERAL = "literal"
-│   │       INSTANCE = "instance"
-│   │   
-│   │   
-│   │   class JobType(Enum):
-│   │       ELICITATION = "elicitation"
-│   │       NAMED_ENTITY_RECOGNITION = "ner"
-│   │   
-│   │   
-│   │   class Node(SQLModel, table=True):
-│   │       name: str = Field(primary_key=True)
-│   │       type: str = Field(
-│   │           default=NodeType.UNDEFINED.value,
-│   │           index=True
-│   │       )
-│   │   
-│   │       batch_id: str | None = Field(default=None, foreign_key="batch.id",
-│   │                                    index=True)
-│   │   
-│   │       creating_batch_id: str | None = Field(default=None,  # seed subject
-│   │                                             foreign_key="batch.id",
-│   │                                             index=True)
-│   │   
-│   │       first_parent: str | None = Field(default=None,  # seed subject
-│   │                                        index=True)
-│   │   
-│   │       bfs_level: int = Field(nullable=False, index=True)
-│   │   
-│   │       created_at: datetime | None = Field(
-│   │           default=None,
-│   │           sa_type=sa.DateTime(timezone=True),
-│   │           sa_column_kwargs={"server_default": sa.func.now()},
-│   │           nullable=False,
-│   │       )
-│   │   
-│   │       def __repr__(self):
-│   │           return f"< Node : {self.name} >"
-│   │   
-│   │   
-│   │   class Batch(SQLModel, table=True):
-│   │       id: str = Field(primary_key=True)
-│   │       input_file_id: str
-│   │       status: str = Field(index=True)
-│   │       output_file_id: str | None = Field(default=None)
-│   │   
-│   │       job_type: str = Field(index=True, nullable=False)
-│   │   
-│   │       created_at: datetime | None = Field(
-│   │           default=None,
-│   │           sa_type=sa.DateTime(timezone=True),
-│   │           sa_column_kwargs={"server_default": sa.func.now()},
-│   │           nullable=False,
-│   │       )
-│   │   
-│   │       def __repr__(self):
-│   │           return f"Batch {self.id} ({self.status})"
-│   │   
-│   │   
-│   │   class Predicate(SQLModel, table=True):
-│   │       name: str = Field(primary_key=True)
-│   │   
-│   │       creating_batch_id: str = Field(nullable=False,
-│   │                                      foreign_key="batch.id",
-│   │                                      index=True)
-│   │   
-│   │       created_at: datetime | None = Field(
-│   │           default=None,
-│   │           sa_type=sa.DateTime(timezone=True),
-│   │           sa_column_kwargs={"server_default": sa.func.now()},
-│   │           nullable=False,
-│   │       )
-│   │   
-│   │       def __repr__(self):
-│   │           return f"< Predicate : {self.name} >"
-│   │   
-│   │   
-│   │   class Triple(SQLModel, table=True):
-│   │       id: int | None = Field(default=None, primary_key=True)
-│   │   
-│   │       subject: str = Field(index=True, nullable=False)
-│   │       predicate: str = Field(index=True, nullable=False)
-│   │       object: str = Field(index=True, nullable=False)
-│   │   
-│   │       creating_batch_id: str = Field(nullable=False,
-│   │                                      foreign_key="batch.id",
-│   │                                      index=True)
-│   │   
-│   │       created_at: datetime | None = Field(
-│   │           default=None,
-│   │           sa_type=sa.DateTime(timezone=True),
-│   │           sa_column_kwargs={"server_default": sa.func.now()},
-│   │           nullable=False,
-│   │       )
-│   │   
-│   │       __table_args__ = (
-│   │           Index(
-│   │               "ix_triple_subject_predicate_object",
-│   │               "subject", "predicate", "object",
-│   │               unique=True
-│   │           ),
-│   │       )
-│   │   
-│   │   
-│   │   class FailedSubject(SQLModel, table=True):
-│   │       name: str = Field(primary_key=True)
-│   │       error: str = Field(index=True, nullable=False)
-│   │       batch_id: str = Field(index=True, nullable=False, foreign_key="batch.id")
-│   │   
-│   │       created_at: datetime | None = Field(
-│   │           default=None,
-│   │           sa_type=sa.DateTime(timezone=True),
-│   │           sa_column_kwargs={"server_default": sa.func.now()},
-│   │           nullable=False,
-│   │       )
-│   │   --- File Content End ---
-
-│   ├── __init__.py
 │   ├── __pycache__/
 ├── .git/
 │   ├── objects/
@@ -3888,6 +6034,7 @@ GPTKB_Hallucinations/
 │   │   ├── 57/
 │   │   ├── 3b/
 │   │   ├── 6f/
+│   │   ├── 03/
 │   │   ├── 9b/
 │   │   ├── 9e/
 │   │   ├── 04/
@@ -3902,6 +6049,7 @@ GPTKB_Hallucinations/
 │   │   ├── 58/
 │   │   ├── 67/
 │   │   ├── 0b/
+│   │   ├── 93/
 │   │   ├── 94/
 │   │   ├── 0e/
 │   │   ├── 60/
@@ -3946,6 +6094,8 @@ GPTKB_Hallucinations/
 │   │   ├── c0/
 │   │   ├── ee/
 │   │   ├── c9/
+│   │   ├── fc/
+│   │   ├── fd/
 │   │   ├── f2/
 │   │   ├── f5/
 │   │   ├── e3/
@@ -3972,9 +6122,11 @@ GPTKB_Hallucinations/
 │   │   ├── 16/
 │   │   ├── 42/
 │   │   ├── 89/
+│   │   ├── 45/
 │   │   ├── 1f/
 │   │   ├── 73/
 │   │   ├── 87/
+│   │   ├── 80/
 │   │   ├── 74/
 │   │   ├── 1a/
 │   │   ├── 28/
@@ -4001,6 +6153,7 @@ GPTKB_Hallucinations/
 │   │   ├── 9f/
 │   │   ├── 6b/
 │   │   ├── 07/
+│   │   ├── 38/
 │   │   ├── 00/
 │   │   ├── 6e/
 │   │   ├── 9a/
@@ -4032,6 +6185,7 @@ GPTKB_Hallucinations/
 │   │   ├── 99/
 │   │   ├── 52/
 │   │   ├── 55/
+│   │   ├── 97/
 │   │   ├── 63/
 │   │   ├── 0f/
 │   │   ├── 0a/
@@ -4042,13 +6196,16 @@ GPTKB_Hallucinations/
 │   │   ├── d4/
 │   │   ├── ba/
 │   │   ├── a0/
+│   │   ├── a7/
 │   │   ├── b8/
 │   │   ├── b1/
 │   │   ├── dd/
 │   │   ├── dc/
 │   │   ├── b6/
+│   │   ├── a9/
 │   │   ├── d5/
 │   │   ├── d2/
+│   │   ├── aa/
 │   │   ├── af/
 │   │   ├── b7/
 │   │   ├── db/
@@ -4082,6 +6239,7 @@ GPTKB_Hallucinations/
 │   │   ├── f8/
 │   │   ├── ce/
 │   │   ├── e0/
+│   │   ├── 46/
 │   │   ├── 2c/
 │   │   ├── 79/
 │   │   ├── 2d/
@@ -4133,6 +6291,17 @@ GPTKB_Hallucinations/
 │   │   ├── tags/
 │   │   ├── remotes/
 │   │   │   ├── origin/
+├── replicateClientTest/
+│   ├── llama3-8b-instructTBBT_40ConfFooter/
+│   │   ├── tmp/
+│   ├── gpt-oss-120b/
+│   │   ├── tmp/
+│   ├── gpt-oss-20b/
+│   │   ├── tmp/
+│   ├── llama3-8b-instructTBBT_40Conf/
+│   │   ├── tmp/
+│   ├── gpt-oss-20bBabylon/
+│   │   ├── tmp/
 '''
 
 print(project_dump)

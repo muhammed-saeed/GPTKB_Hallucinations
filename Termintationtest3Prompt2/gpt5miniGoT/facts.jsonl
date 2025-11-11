@@ -1,0 +1,24 @@
+{"subject": "Game of Thrones", "predicate": "instanceOf", "object": "television series", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "basedOn", "object": "A Song of Ice and Fire (novel series)", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "createdBy", "object": "David Benioff", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "createdBy", "object": "D. B. Weiss", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "originalAuthor", "object": "George R. R. Martin", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "originalNetwork", "object": "HBO", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "countryOfOrigin", "object": "United States", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "originalLanguage", "object": "English", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "premiereDate", "object": "2011-04-17", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "endDate", "object": "2019-05-19", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "numberOfSeasons", "object": "8", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "numberOfEpisodes", "object": "73", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "themeMusicComposer", "object": "Ramin Djawadi", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "Game of Thrones", "predicate": "genre", "object": "fantasy drama", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "producedBy", "object": "HBO", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "showrunner", "object": "David Benioff", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "showrunner", "object": "D. B. Weiss", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Northern Ireland", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Croatia", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Spain", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "Game of Thrones", "predicate": "filmingLocation", "object": "Iceland", "hop": 0, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.9}
+{"subject": "English", "predicate": "instanceOf", "object": "language", "hop": 1, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.98}
+{"subject": "English", "predicate": "originalLanguageOf", "object": "A Song of Ice and Fire", "hop": 1, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.95}
+{"subject": "English", "predicate": "originalLanguageOf", "object": "Game of Thrones (TV series)", "hop": 1, "model": "gpt-5-mini", "strategy": "calibrate", "confidence": 0.95}

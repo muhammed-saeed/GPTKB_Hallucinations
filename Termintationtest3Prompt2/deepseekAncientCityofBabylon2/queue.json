@@ -1,0 +1,2753 @@
+[
+  {
+    "subject": "ancient city of Babylon",
+    "hop": 0,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:14:47"
+  },
+  {
+    "subject": "Alexander the Great",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Babylonian Empire",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Book of Daniel",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Code of Hammurabi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Cyrus the Great",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Esagila",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Etemenanki",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Euphrates River",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Hammurabi",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Hanging Gardens",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Ishtar Gate",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Marduk",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Mesopotamia",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Nebuchadnezzar II",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Neo-Babylonian Empire",
+    "hop": 1,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:17"
+  },
+  {
+    "subject": "Achaemenid Empire",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:17"
+  },
+  {
+    "subject": "Akitu",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:40"
+  },
+  {
+    "subject": "Akkad",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:26"
+  },
+  {
+    "subject": "Amel-Marduk",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:53"
+  },
+  {
+    "subject": "Amytis of Media",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:18:06"
+  },
+  {
+    "subject": "Assyria",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:26"
+  },
+  {
+    "subject": "Assyrian Empire",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:48"
+  },
+  {
+    "subject": "Babylon",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:18:01"
+  },
+  {
+    "subject": "Babylonia",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:26"
+  },
+  {
+    "subject": "Babylonian",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:42"
+  },
+  {
+    "subject": "Babylonian Captivity",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:53"
+  },
+  {
+    "subject": "Babylonian Chronicles",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:48"
+  },
+  {
+    "subject": "Babylonian Exile",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:18:03"
+  },
+  {
+    "subject": "Battle of Carchemish",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:53"
+  },
+  {
+    "subject": "Battle of Gaugamela",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:17"
+  },
+  {
+    "subject": "Battle of Opis",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:31"
+  },
+  {
+    "subject": "Chaldean dynasty",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:53"
+  },
+  {
+    "subject": "Croesus",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:31"
+  },
+  {
+    "subject": "Cyrus Cylinder",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:31"
+  },
+  {
+    "subject": "Darius III",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:17"
+  },
+  {
+    "subject": "Diadochi",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:17"
+  },
+  {
+    "subject": "Ea",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:40"
+  },
+  {
+    "subject": "Enuma Elish",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:40"
+  },
+  {
+    "subject": "Etemenanki ziggurat",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:48"
+  },
+  {
+    "subject": "Fall of Babylon",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:48"
+  },
+  {
+    "subject": "First Babylonian Dynasty",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:26"
+  },
+  {
+    "subject": "Hanging Gardens of Babylon",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:48"
+  },
+  {
+    "subject": "Hellenistic Period",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:17"
+  },
+  {
+    "subject": "Iraq",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:58"
+  },
+  {
+    "subject": "Ishtar",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:18:02"
+  },
+  {
+    "subject": "Kingdom of Judah",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:53"
+  },
+  {
+    "subject": "Larsa",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:26"
+  },
+  {
+    "subject": "Nabonidus",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:31"
+  },
+  {
+    "subject": "Nabonidus Chronicle",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:53"
+  },
+  {
+    "subject": "Nabopolassar",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:18:05"
+  },
+  {
+    "subject": "Nabu",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:40"
+  },
+  {
+    "subject": "Neo-Assyrian Empire",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:53"
+  },
+  {
+    "subject": "Old Babylonian Period",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:26"
+  },
+  {
+    "subject": "Pergamon Museum",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:18:02"
+  },
+  {
+    "subject": "Persia",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:17"
+  },
+  {
+    "subject": "Seleucus I Nicator",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:17"
+  },
+  {
+    "subject": "Shamash",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:26"
+  },
+  {
+    "subject": "Siege of Jerusalem",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:53"
+  },
+  {
+    "subject": "Sumer",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:26"
+  },
+  {
+    "subject": "Susa",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:18:01"
+  },
+  {
+    "subject": "Tiamat",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:19:40"
+  },
+  {
+    "subject": "Tigris River",
+    "hop": 2,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:17:58"
+  },
+  {
+    "subject": "Akkadian",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:43"
+  },
+  {
+    "subject": "Akkadian Empire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:24:43"
+  },
+  {
+    "subject": "Alexander IV of Macedon",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Anshar",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:07"
+  },
+  {
+    "subject": "Antigonus I Monophthalmus",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Antioch",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Antiochus I Soter",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Anu",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:03"
+  },
+  {
+    "subject": "Apsu",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:07"
+  },
+  {
+    "subject": "Ashur",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:24:36"
+  },
+  {
+    "subject": "Ashurbanipal",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:13"
+  },
+  {
+    "subject": "Assur",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:24:36"
+  },
+  {
+    "subject": "Babylonian King List",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:19"
+  },
+  {
+    "subject": "Babylonian War",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Babylonians",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:13"
+  },
+  {
+    "subject": "Belshazzar",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:11"
+  },
+  {
+    "subject": "Berossus",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:20:28"
+  },
+  {
+    "subject": "British Museum",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:07"
+  },
+  {
+    "subject": "Cuneiform",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:43"
+  },
+  {
+    "subject": "Darius I",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:03"
+  },
+  {
+    "subject": "Diodorus Siculus",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:13"
+  },
+  {
+    "subject": "Egypt",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:06"
+  },
+  {
+    "subject": "Enki",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:03"
+  },
+  {
+    "subject": "Epic of Gilgamesh",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:11"
+  },
+  {
+    "subject": "Eridu",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:03"
+  },
+  {
+    "subject": "Esarhaddon",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:09"
+  },
+  {
+    "subject": "Euphrates",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:55"
+  },
+  {
+    "subject": "Fall of Nineveh",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:05"
+  },
+  {
+    "subject": "Hammurabi's Law Code",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:19"
+  },
+  {
+    "subject": "HammurabiCode",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:43"
+  },
+  {
+    "subject": "Hittite Empire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:19"
+  },
+  {
+    "subject": "Hittite sack of Babylon",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:24:49"
+  },
+  {
+    "subject": "Jeremiah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:06"
+  },
+  {
+    "subject": "Jerusalem",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:56"
+  },
+  {
+    "subject": "Kassite Dynasty",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:19"
+  },
+  {
+    "subject": "Kingdom of Israel",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:06"
+  },
+  {
+    "subject": "Kishar",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:07"
+  },
+  {
+    "subject": "Lahamu",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:07"
+  },
+  {
+    "subject": "Lahmu",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:07"
+  },
+  {
+    "subject": "Library of Ashurbanipal",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:13"
+  },
+  {
+    "subject": "Lydia",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:09"
+  },
+  {
+    "subject": "Lysimachus",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Market Gate of Miletus",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:43"
+  },
+  {
+    "subject": "Medes",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:13"
+  },
+  {
+    "subject": "Media",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:20:28"
+  },
+  {
+    "subject": "Mshatta Facade",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:43"
+  },
+  {
+    "subject": "Museum Island",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:43"
+  },
+  {
+    "subject": "Necho II",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:24"
+  },
+  {
+    "subject": "Neriglissar",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:00"
+  },
+  {
+    "subject": "Nimrud",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:24:36"
+  },
+  {
+    "subject": "Nineveh",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:13"
+  },
+  {
+    "subject": "Pergamon Altar",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:43"
+  },
+  {
+    "subject": "Persian Empire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:09"
+  },
+  {
+    "subject": "Ptolemy I Soter",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Sargon II",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:24:36"
+  },
+  {
+    "subject": "Seleucia",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Seleucid Empire",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:12"
+  },
+  {
+    "subject": "Seleucid dynasty",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Sennacherib",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:13"
+  },
+  {
+    "subject": "Siege of Lachish",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:56"
+  },
+  {
+    "subject": "Strabo",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:13"
+  },
+  {
+    "subject": "Syria",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Tell as-Senkereh",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:23:12"
+  },
+  {
+    "subject": "Tiglath-Pileser III",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:13"
+  },
+  {
+    "subject": "Tigris",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:55"
+  },
+  {
+    "subject": "Tower of Babel",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:50"
+  },
+  {
+    "subject": "Ur",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:24:43"
+  },
+  {
+    "subject": "Uruk",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:24:43"
+  },
+  {
+    "subject": "Vorderasiatisches Museum",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:21:43"
+  },
+  {
+    "subject": "Wars of the Diadochi",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:22:17"
+  },
+  {
+    "subject": "Zedekiah",
+    "hop": 3,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:56"
+  },
+  {
+    "subject": "Achaemenid",
+    "hop": 4,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:03"
+  },
+  {
+    "subject": "Adad-nirari III",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:34"
+  },
+  {
+    "subject": "Akkadian Language",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:28:08"
+  },
+  {
+    "subject": "Anatolia",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:54"
+  },
+  {
+    "subject": "Ancient Mesopotamia",
+    "hop": 4,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:04"
+  },
+  {
+    "subject": "Antiochus II Theos",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:30"
+  },
+  {
+    "subject": "Antiochus III the Great",
+    "hop": 4,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:13"
+  },
+  {
+    "subject": "Antiochus IV Epiphanes",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:13"
+  },
+  {
+    "subject": "Aqueduct of Jerwan",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:16"
+  },
+  {
+    "subject": "Ashur-nirari V",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:34"
+  },
+  {
+    "subject": "Assyrian",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:30"
+  },
+  {
+    "subject": "Athena",
+    "hop": 4,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:12"
+  },
+  {
+    "subject": "Babyloniaca",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:29"
+  },
+  {
+    "subject": "Battle of Ipsus",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:38"
+  },
+  {
+    "subject": "Battle of Issus",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:30"
+  },
+  {
+    "subject": "Battle of Qarqar",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:34:24"
+  },
+  {
+    "subject": "Behistun Inscription",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:03"
+  },
+  {
+    "subject": "Bibliotheca historica",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:25"
+  },
+  {
+    "subject": "Black Obelisk of Shalmaneser III",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:34:24"
+  },
+  {
+    "subject": "Book of Genesis",
+    "hop": 4,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:36"
+  },
+  {
+    "subject": "Book of Jeremiah",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:34:11"
+  },
+  {
+    "subject": "Burnaburiash II",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:08"
+  },
+  {
+    "subject": "Code of Hammurabi stele",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:19"
+  },
+  {
+    "subject": "Cyaxares",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:41"
+  },
+  {
+    "subject": "Death of Alexander the Great",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:28:32"
+  },
+  {
+    "subject": "Demetrius I Poliorcetes",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:38"
+  },
+  {
+    "subject": "Diorite Stele",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:28:02"
+  },
+  {
+    "subject": "Dur-Kurigalzu",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:08"
+  },
+  {
+    "subject": "Eanna",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:34:17"
+  },
+  {
+    "subject": "Ebabbar Temple",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:31"
+  },
+  {
+    "subject": "Egyptian Empire",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:54"
+  },
+  {
+    "subject": "Elam",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:36"
+  },
+  {
+    "subject": "Elamites",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:08"
+  },
+  {
+    "subject": "End of First Babylonian Dynasty",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:43"
+  },
+  {
+    "subject": "End of Hammurabi's dynasty",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:43"
+  },
+  {
+    "subject": "Enkidu",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:04"
+  },
+  {
+    "subject": "Enlil",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:20"
+  },
+  {
+    "subject": "Enlil-nadin-ahi",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:08"
+  },
+  {
+    "subject": "Eumenes II",
+    "hop": 4,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:12"
+  },
+  {
+    "subject": "Ezida Temple",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:30"
+  },
+  {
+    "subject": "Gandash",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:08"
+  },
+  {
+    "subject": "Geographica",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:58"
+  },
+  {
+    "subject": "Gilgamesh",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:34:17"
+  },
+  {
+    "subject": "Gilgamesh epic tablets",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:19"
+  },
+  {
+    "subject": "Hattusa",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:54"
+  },
+  {
+    "subject": "Herodotus",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:30"
+  },
+  {
+    "subject": "Inanna",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:34:17"
+  },
+  {
+    "subject": "Jehoiachin",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:38"
+  },
+  {
+    "subject": "Jehoiakim",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:38"
+  },
+  {
+    "subject": "Judah",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:38"
+  },
+  {
+    "subject": "Kadashman-Enlil I",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:08"
+  },
+  {
+    "subject": "Kalhu",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:37"
+  },
+  {
+    "subject": "Kassite period in Babylon",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:43"
+  },
+  {
+    "subject": "Kurigalzu I",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:08"
+  },
+  {
+    "subject": "Kurigalzu II",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:08"
+  },
+  {
+    "subject": "Labashi-Marduk",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:25"
+  },
+  {
+    "subject": "Lachish",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:36"
+  },
+  {
+    "subject": "Lachish reliefs",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:36"
+  },
+  {
+    "subject": "Lion of Babylon",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:19"
+  },
+  {
+    "subject": "Louvre Museum",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:28:02"
+  },
+  {
+    "subject": "Manishtushu",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:33:59"
+  },
+  {
+    "subject": "Mattaniah",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:38"
+  },
+  {
+    "subject": "Mesha Stele",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:34:24"
+  },
+  {
+    "subject": "Mitanni",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:31:54"
+  },
+  {
+    "subject": "Mursili I",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:43"
+  },
+  {
+    "subject": "Nabopolassar Chronicle",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:41"
+  },
+  {
+    "subject": "Naram-Sin",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:33:59"
+  },
+  {
+    "subject": "Nimrod",
+    "hop": 4,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:36"
+  },
+  {
+    "subject": "Ninhursag",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:20"
+  },
+  {
+    "subject": "Parthian Empire",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:13"
+  },
+  {
+    "subject": "Pergamon",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:12"
+  },
+  {
+    "subject": "Persians",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:57"
+  },
+  {
+    "subject": "Processional Way of Babylon",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:19"
+  },
+  {
+    "subject": "Ptolemaic Kingdom",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:30"
+  },
+  {
+    "subject": "Ptolemy II Philadelphus",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:30"
+  },
+  {
+    "subject": "Qasr Mshatta",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:32"
+  },
+  {
+    "subject": "Rim-Sin I",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:31"
+  },
+  {
+    "subject": "Rimush",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:33:59"
+  },
+  {
+    "subject": "Rise of Neo-Babylonian Empire",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:41"
+  },
+  {
+    "subject": "Royal Palace of Sennacherib",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:41"
+  },
+  {
+    "subject": "Sardis",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:30"
+  },
+  {
+    "subject": "Sargon of Akkad",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:33:59"
+  },
+  {
+    "subject": "Sargonid dynasty",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:16"
+  },
+  {
+    "subject": "Seleucia on the Tigris",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:30"
+  },
+  {
+    "subject": "Shalmaneser V",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:34"
+  },
+  {
+    "subject": "Shamash-shum-ukin",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:36"
+  },
+  {
+    "subject": "Shar-Kali-Sharri",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:33:59"
+  },
+  {
+    "subject": "Sin-shar-ishkun",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:41"
+  },
+  {
+    "subject": "Sumerian",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:04"
+  },
+  {
+    "subject": "Sumerian King List",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:30:19"
+  },
+  {
+    "subject": "Sumerians",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:56"
+  },
+  {
+    "subject": "Tel Dan Stele",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:34:24"
+  },
+  {
+    "subject": "Temple of Nabu",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:29:30"
+  },
+  {
+    "subject": "Twenty-sixth Dynasty of Egypt",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:32:36"
+  },
+  {
+    "subject": "Xerxes I",
+    "hop": 4,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:03"
+  },
+  {
+    "subject": "Zeus",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:27:12"
+  },
+  {
+    "subject": "Ziggurat",
+    "hop": 4,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:25:36"
+  },
+  {
+    "subject": "2 Kings",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:12"
+  },
+  {
+    "subject": "Adad-shuma-usur",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:02"
+  },
+  {
+    "subject": "Agum I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:47"
+  },
+  {
+    "subject": "Alulim",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Amarna letters",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:57"
+  },
+  {
+    "subject": "Antiochus Hierax",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:38:43"
+  },
+  {
+    "subject": "Antiochus V Eupator",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:36:32"
+  },
+  {
+    "subject": "Aqar Quf",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:02"
+  },
+  {
+    "subject": "Ashur-dan III",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:37:24"
+  },
+  {
+    "subject": "Ashur-uballit I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:57"
+  },
+  {
+    "subject": "Ashur-uballit II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:37:32"
+  },
+  {
+    "subject": "Ashurnasirpal II",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:42:38"
+  },
+  {
+    "subject": "Assyrians",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:52"
+  },
+  {
+    "subject": "Austen Henry Layard",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:47:24"
+  },
+  {
+    "subject": "BM 25127",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:55"
+  },
+  {
+    "subject": "Babylon Archaeological Site",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:35:11"
+  },
+  {
+    "subject": "Babylonian religion",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:06"
+  },
+  {
+    "subject": "Bad-tibira",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Berenice Phernophorus",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:38:43"
+  },
+  {
+    "subject": "Book of Kings",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:42:30"
+  },
+  {
+    "subject": "Borsippa",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:37:21"
+  },
+  {
+    "subject": "Bull of Heaven",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:47:20"
+  },
+  {
+    "subject": "Cassander",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:12"
+  },
+  {
+    "subject": "Cleopatra VII",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:37:37"
+  },
+  {
+    "subject": "Ctesiphon",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:35:12"
+  },
+  {
+    "subject": "Dumuzid",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:48:32"
+  },
+  {
+    "subject": "En-men-lu-ana",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Ereshkigal",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:48:32"
+  },
+  {
+    "subject": "Fall of Assyrian Empire",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:55"
+  },
+  {
+    "subject": "Greco-Persian Wars",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:08"
+  },
+  {
+    "subject": "Hammurabi's Code",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:55"
+  },
+  {
+    "subject": "Humbaba",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:47:20"
+  },
+  {
+    "subject": "Isin",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:58"
+  },
+  {
+    "subject": "Judas Maccabeus",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:36:32"
+  },
+  {
+    "subject": "Kadashman-Harbe I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:42:36"
+  },
+  {
+    "subject": "Kassite period",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:42:27"
+  },
+  {
+    "subject": "Kish",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Lamassu",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:06"
+  },
+  {
+    "subject": "Laodice I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:38:43"
+  },
+  {
+    "subject": "Larak",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Marduk-apla-iddina I",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:02"
+  },
+  {
+    "subject": "Nanna",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:26"
+  },
+  {
+    "subject": "Neo-Babylonian Empire Foundation",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:55"
+  },
+  {
+    "subject": "Nergal",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:26"
+  },
+  {
+    "subject": "New Year Festival Procession",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:35:12"
+  },
+  {
+    "subject": "Ninlil",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:26"
+  },
+  {
+    "subject": "Ninurta",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:26"
+  },
+  {
+    "subject": "Nippur",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Ptolemaic dynasty",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:38:50"
+  },
+  {
+    "subject": "Ptolemy III Euergetes",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:38:50"
+  },
+  {
+    "subject": "Robert Koldewey",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:35:12"
+  },
+  {
+    "subject": "Royal Road",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:46:31"
+  },
+  {
+    "subject": "Sack of Babylon",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:42:27"
+  },
+  {
+    "subject": "Sammu-ramat",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:12"
+  },
+  {
+    "subject": "Samsu-Ditana",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:42:27"
+  },
+  {
+    "subject": "Sasanian Empire",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:35:12"
+  },
+  {
+    "subject": "Seleucus II Callinicus",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:38:43"
+  },
+  {
+    "subject": "Seleucus IV Philopator",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:36:32"
+  },
+  {
+    "subject": "Shalmaneser III",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:47:21"
+  },
+  {
+    "subject": "Shalmaneser IV",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:12"
+  },
+  {
+    "subject": "Shamshi-Adad V",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:12"
+  },
+  {
+    "subject": "Shuruppak",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Sippar",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Southwest Palace",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:39:58"
+  },
+  {
+    "subject": "Sumerian Language",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:37:28"
+  },
+  {
+    "subject": "Sumerian religion",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:40:06"
+  },
+  {
+    "subject": "Temple of Marduk",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:35:12"
+  },
+  {
+    "subject": "The Histories",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:08"
+  },
+  {
+    "subject": "Utnapishtim",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:47:20"
+  },
+  {
+    "subject": "Yehud Medinata",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:42:38"
+  },
+  {
+    "subject": "Ziusudra",
+    "hop": 5,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:41:40"
+  },
+  {
+    "subject": "Akitu Festival",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:47:18"
+  },
+  {
+    "subject": "Akkadians",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:21"
+  },
+  {
+    "subject": "Alalngar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:54:52"
+  },
+  {
+    "subject": "Allatu",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:57:04"
+  },
+  {
+    "subject": "Ammi-Saduqa",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:55:00"
+  },
+  {
+    "subject": "Anunnaki",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:54:11"
+  },
+  {
+    "subject": "Battle of Nineveh",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:54:14"
+  },
+  {
+    "subject": "Burnaburiash I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:55:00"
+  },
+  {
+    "subject": "Demetrius I Soter",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:51"
+  },
+  {
+    "subject": "Descent of Inanna",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:57:11"
+  },
+  {
+    "subject": "Ekur",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:55:02"
+  },
+  {
+    "subject": "En-men-gal-ana",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:54:53"
+  },
+  {
+    "subject": "Esagila Temple",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:47:18"
+  },
+  {
+    "subject": "Etana",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:55:01"
+  },
+  {
+    "subject": "First Dynasty of Babylon",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:55:00"
+  },
+  {
+    "subject": "German Archaeological Institute",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:01"
+  },
+  {
+    "subject": "Hanukkah",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:58"
+  },
+  {
+    "subject": "Hasmonean dynasty",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:58"
+  },
+  {
+    "subject": "Ishbi-Erra",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:22"
+  },
+  {
+    "subject": "Kashtiliash I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:07"
+  },
+  {
+    "subject": "Kashtiliash IV",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:34"
+  },
+  {
+    "subject": "Lipit-Ishtar",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:22"
+  },
+  {
+    "subject": "Marduk-zakir-shumi I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:33"
+  },
+  {
+    "subject": "Medo-Babylonian alliance",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:56"
+  },
+  {
+    "subject": "Meli-Shipak II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:28"
+  },
+  {
+    "subject": "Middle Assyrian Empire",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:28"
+  },
+  {
+    "subject": "Middle Babylonian period",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:34"
+  },
+  {
+    "subject": "Muslim conquest of Persia",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:02"
+  },
+  {
+    "subject": "Neo-Babylonian",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:23"
+  },
+  {
+    "subject": "NeoBabylonianPeriod",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:50:01"
+  },
+  {
+    "subject": "Ningal",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:57:04"
+  },
+  {
+    "subject": "Palace of Nebuchadnezzar II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:54:07"
+  },
+  {
+    "subject": "Persian Conquest",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:28"
+  },
+  {
+    "subject": "Processional Way",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:54:07"
+  },
+  {
+    "subject": "Ptolemy IV Philopator",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:46"
+  },
+  {
+    "subject": "Sack of Babylon by Hittites",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:55:00"
+  },
+  {
+    "subject": "Second Temple",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:58"
+  },
+  {
+    "subject": "Seleucus III Ceraunus",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:51:41"
+  },
+  {
+    "subject": "Shammuramat",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:33"
+  },
+  {
+    "subject": "Sin",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:21"
+  },
+  {
+    "subject": "Tammuz",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:57:11"
+  },
+  {
+    "subject": "Tell Abu Habbah",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:54:59"
+  },
+  {
+    "subject": "Tellal-Uhaymir",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:55:01"
+  },
+  {
+    "subject": "Tukulti-Ninurta I",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:34"
+  },
+  {
+    "subject": "Tukulti-Ninurta II",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:55:02"
+  },
+  {
+    "subject": "Ur-Ninurta",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:22"
+  },
+  {
+    "subject": "Utu",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:52:21"
+  },
+  {
+    "subject": "Walter Andrae",
+    "hop": 6,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:49:01"
+  },
+  {
+    "subject": "Abi-eshuh",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:18"
+  },
+  {
+    "subject": "Adad-nirari II",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:18"
+  },
+  {
+    "subject": "Agum II",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:57:09"
+  },
+  {
+    "subject": "Agum III",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:07"
+  },
+  {
+    "subject": "Ammi-Ditana",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:16"
+  },
+  {
+    "subject": "Babylonian King List A",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:57:09"
+  },
+  {
+    "subject": "Baghdad Department",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:58:08"
+  },
+  {
+    "subject": "Battle of Babylon",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:58:55"
+  },
+  {
+    "subject": "Early Dynastic Period",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:08"
+  },
+  {
+    "subject": "First Dynasty of Isin",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:59:41"
+  },
+  {
+    "subject": "First Dynasty of Kish",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:01"
+  },
+  {
+    "subject": "Ibbi-Sin",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:59:33"
+  },
+  {
+    "subject": "Kashtiliash III",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:07"
+  },
+  {
+    "subject": "Marduk-balassu-iqbi",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:59:46"
+  },
+  {
+    "subject": "Nabu-apla-iddina",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 01:59:46"
+  },
+  {
+    "subject": "Samsu-iluna",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:18"
+  },
+  {
+    "subject": "Sumu-abum",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:03:28"
+  },
+  {
+    "subject": "Temple of Shamash",
+    "hop": 7,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:09"
+  },
+  {
+    "subject": "Ashur-dan II",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:13"
+  },
+  {
+    "subject": "Cylinder of Nabonidus",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:01"
+  },
+  {
+    "subject": "Damiq-ilishu",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:10"
+  },
+  {
+    "subject": "Enmebaragesi",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:07"
+  },
+  {
+    "subject": "First Dynasty of Uruk",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:07"
+  },
+  {
+    "subject": "Ishme-Dagan",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:10"
+  },
+  {
+    "subject": "Sumu-la-El",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:03:59"
+  },
+  {
+    "subject": "Third Dynasty of Ur",
+    "hop": 8,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:02:10"
+  },
+  {
+    "subject": "BM 91124",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:56"
+  },
+  {
+    "subject": "Enmerkar",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:52"
+  },
+  {
+    "subject": "First Dynasty of Ur",
+    "hop": 9,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:52"
+  },
+  {
+    "subject": "Iddin-Dagan",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:12"
+  },
+  {
+    "subject": "Lugalbanda",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:52"
+  },
+  {
+    "subject": "Sin-magir",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:04"
+  },
+  {
+    "subject": "Ur-Nammu",
+    "hop": 9,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:07"
+  },
+  {
+    "subject": "Akalamdug",
+    "hop": 10,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-11-07 02:07:06"
+  },
+  {
+    "subject": "Apil-Sin",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:44"
+  },
+  {
+    "subject": "Eanna temple",
+    "hop": 10,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-11-07 02:06:55"
+  },
+  {
+    "subject": "Mesannepada",
+    "hop": 10,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-11-07 02:07:06"
+  },
+  {
+    "subject": "Meskalamdug",
+    "hop": 10,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-11-07 02:07:06"
+  },
+  {
+    "subject": "Royal Cemetery of Ur",
+    "hop": 10,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-11-07 02:07:06"
+  },
+  {
+    "subject": "Sabium",
+    "hop": 10,
+    "status": "done",
+    "retries": 0,
+    "created_at": "2025-11-07 02:04:44"
+  },
+  {
+    "subject": "Second Dynasty of Ur",
+    "hop": 10,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-11-07 02:07:06"
+  },
+  {
+    "subject": "Shulgi",
+    "hop": 10,
+    "status": "working",
+    "retries": 0,
+    "created_at": "2025-11-07 02:06:18"
+  },
+  {
+    "subject": "Sin-Muballit",
+    "hop": 11,
+    "status": "pending",
+    "retries": 0,
+    "created_at": "2025-11-07 02:06:59"
+  }
+]
